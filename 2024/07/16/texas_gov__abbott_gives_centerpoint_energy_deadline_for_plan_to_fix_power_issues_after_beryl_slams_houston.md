@@ -1,6 +1,6 @@
 # Texas Gov. Abbott gives CenterPoint Energy deadline for plan to fix power issues after Beryl slams Houston
 
-Published :`2024-07-16 20:59:23`
+Published :`2024-07-16 21:08:57`
 
 ---
 

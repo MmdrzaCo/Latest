@@ -1,6 +1,6 @@
 # Terrell Davis, football Hall of Famer, says he was removed from plane after tapping a flight attendant
 
-Published :`2024-07-16 20:59:20`
+Published :`2024-07-16 21:08:56`
 
 ---
 

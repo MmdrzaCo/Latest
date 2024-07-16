@@ -1,6 +1,6 @@
 # What happens to JD Vance’s Senate seat now that he’s Trump’s running mate?
 
-Published :`2024-07-16 20:59:25`
+Published :`2024-07-16 21:08:57`
 
 ---
 

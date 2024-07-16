@@ -1,6 +1,6 @@
 # Dow and S&P 500 close at record highs as investors bet on September rate cut
 
-Published :`2024-07-16 20:59:16`
+Published :`2024-07-16 21:08:55`
 
 ---
 

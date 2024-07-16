@@ -1,6 +1,6 @@
 # Demolition Ranch YouTuber: ‘Shocked and confused’ to see Trump shooter wearing my shirt
 
-Published :`2024-07-16 20:59:23`
+Published :`2024-07-16 21:08:57`
 
 ---
 
