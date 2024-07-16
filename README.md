@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-16 21:36:58`
+#### Latest Update : `2024-07-16 22:15:07`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges](https://new-news.github.io/Latest/2024/07/16/trump_can_now_discuss_classified_documents_case_with_potential_witnesses_and_co_defendants_after_judge_tosses_charges 'Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges')
+
+- [Exclusive: Secret Service ramped up security after receiving intel of Iranian plot to assassinate Trump; no known connection to shooting](https://new-news.github.io/Latest/2024/07/16/exclusive__secret_service_ramped_up_security_after_receiving_intel_of_iranian_plot_to_assassinate_trump__no_known_connection_to_shooting 'Exclusive: Secret Service ramped up security after receiving intel of Iranian plot to assassinate Trump; no known connection to shooting')
+
+- [FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt](https://new-news.github.io/Latest/2024/07/16/fbi_and_dhs_warn_of_potential_follow_on_or_retaliatory_attacks_following_trump_assassination_attempt 'FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt')
 
 - [NASA transmits a Missy Elliott song to Venus](https://new-news.github.io/Latest/2024/07/16/nasa_transmits_a_missy_elliott_song_to_venus 'NASA transmits a Missy Elliott song to Venus')
 
@@ -37,8 +43,6 @@
 - [Dow and S&P 500 close at record highs as investors bet on September rate cut](https://new-news.github.io/Latest/2024/07/16/dow_and_s_p_500_close_at_record_highs_as_investors_bet_on_september_rate_cut 'Dow and S&P 500 close at record highs as investors bet on September rate cut')
 
 - [Iranian spies tasked Israeli citizen with delivering severed animal head, Shin Bet says](https://new-news.github.io/Latest/2024/07/16/iranian_spies_tasked_israeli_citizen_with_delivering_severed_animal_head__shin_bet_says 'Iranian spies tasked Israeli citizen with delivering severed animal head, Shin Bet says')
-
-- [Exclusive: Secret Service ramped up security after receiving intel of Iranian plot to assassinate Trump; no known connection to shooting](https://new-news.github.io/Latest/2024/07/16/exclusive__secret_service_ramped_up_security_after_receiving_intel_of_iranian_plot_to_assassinate_trump__no_known_connection_to_shooting 'Exclusive: Secret Service ramped up security after receiving intel of Iranian plot to assassinate Trump; no known connection to shooting')
 
 - [Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says](https://new-news.github.io/Latest/2024/07/16/minnesota_ban_on_18__to_20_year_olds_obtaining_handgun_permits_is_unconstitutional__federal_appeals_court_says 'Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says')
 
@@ -202,12 +206,8 @@
 
 - [School shootings in the US: Fast facts](https://new-news.github.io/Latest/2024/07/16/school_shootings_in_the_us__fast_facts 'School shootings in the US: Fast facts')
 
-- [Aileen Cannon’s nuking of the Trump documents case continues her trend of embracing long-shot legal theories](https://new-news.github.io/Latest/2024/07/16/aileen_cannons_nuking_of_the_trump_documents_case_continues_her_trend_of_embracing_long_shot_legal_theories 'Aileen Cannon’s nuking of the Trump documents case continues her trend of embracing long-shot legal theories')
-
-- [Takeaways from the dismissal of the mishandling classified documents case against Donald Trump](https://new-news.github.io/Latest/2024/07/16/takeaways_from_the_dismissal_of_the_mishandling_classified_documents_case_against_donald_trump 'Takeaways from the dismissal of the mishandling classified documents case against Donald Trump')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abbott](/ 'abbott')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accessed](/ 'accessed')  [accused](/ 'accused')  [acquisition](/ 'acquisition')  [adds](/ 'adds')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [again](/ 'again')  [against](/ 'against')  [age](/ 'age')  [ahead](/ 'ahead')  [ai](/ 'ai')  [aileen](/ 'aileen')  [air](/ 'air')  [airport](/ 'airport') 
+##### Tags: [a](/ 'a')  [abbott](/ 'abbott')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accessed](/ 'accessed')  [accused](/ 'accused')  [acquisition](/ 'acquisition')  [adds](/ 'adds')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [again](/ 'again')  [against](/ 'against')  [age](/ 'age')  [ahead](/ 'ahead')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [allies](/ 'allies') 

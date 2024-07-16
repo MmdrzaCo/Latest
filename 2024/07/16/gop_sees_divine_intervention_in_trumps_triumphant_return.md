@@ -1,6 +1,6 @@
 # GOP sees divine intervention in Trump’s triumphant return
 
-Published :`2024-07-16 21:36:57`
+Published :`2024-07-16 22:15:03`
 
 ---
 

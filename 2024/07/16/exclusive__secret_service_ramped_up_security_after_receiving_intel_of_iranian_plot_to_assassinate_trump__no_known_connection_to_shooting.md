@@ -1,10 +1,10 @@
 # Exclusive: Secret Service ramped up security after receiving intel of Iranian plot to assassinate Trump; no known connection to shooting
 
-Published :`2024-07-16 21:36:56`
+Published :`2024-07-16 22:14:56`
 
 ---
 
-US authorities obtained intelligence from a human source in recent weeks on a plot by Iran to try to assassinate Donald Trump, a development that led to the Secret Service increasing security around the former president in recent weeks, multiple people briefed on the matter told CNN.
+US authorities obtained intelligence from a human source in recent weeks on a plot by Iran to try to assassinate Donald Trump, a development that led to the Secret Service increasing security around the former president, multiple people briefed on the matter told CNN.
 
 There’s no indication that Thomas Matthew Crooks, the would-be assassin who attempted to kill the former president on Saturday, was connected to the plot, the sources said.
 
@@ -31,6 +31,8 @@ NSC spokesperson Adrienne Watson said there’s no known link between shooter 
 The Permanent Mission of the Islamic Republic of Iran to the United Nations denied there is an Iranian plot to assassinate Trump.
 
 “These accusations are unsubstantiated and malicious. From the perspective of the Islamic Republic of Iran, Trump is a criminal who must be prosecuted and punished in a court of law for ordering the assassination of General Soleimani. Iran has chosen the legal path to bring him to justice,” a spokesperson for the mission told CNN.
+
+Trump and the Republican vice presidential nominee, Sen. JD Vance of Ohio, will hold their first official campaign rally together on Saturday at an indoor arena in Grand Rapids, Michigan, the campaign announced Tuesday.
 
 ### Surge of threats from Iranian state-backed media
 

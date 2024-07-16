@@ -1,6 +1,6 @@
 # Tracking destructive and deadly tornadoes in the US, in maps and charts
 
-Published :`2024-07-16 21:36:56`
+Published :`2024-07-16 22:14:59`
 
 ---
 

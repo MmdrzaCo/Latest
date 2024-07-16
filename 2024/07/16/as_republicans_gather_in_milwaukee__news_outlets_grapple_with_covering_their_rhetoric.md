@@ -1,6 +1,6 @@
 # As Republicans gather in Milwaukee, news outlets grapple with covering their rhetoric
 
-Published :`2024-07-16 21:36:57`
+Published :`2024-07-16 22:15:01`
 
 ---
 

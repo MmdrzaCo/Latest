@@ -1,6 +1,6 @@
 # School shootings in the US: Fast facts
 
-Published :`2024-07-16 21:36:58`
+Published :`2024-07-16 22:15:06`
 
 ---
 
