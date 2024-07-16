@@ -1,6 +1,6 @@
 # Hospitality group slams lawsuit from a Black man who says he got an interview only after applying with a ‘Caucasian name’
 
-Published :`2024-07-16 22:37:02`
+Published :`2024-07-16 23:16:58`
 
 ---
 

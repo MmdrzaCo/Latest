@@ -1,6 +1,6 @@
 # Here’s why people have fond memories of the Trump economy
 
-Published :`2024-07-16 22:37:01`
+Published :`2024-07-16 23:16:57`
 
 ---
 

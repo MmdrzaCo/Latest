@@ -1,6 +1,6 @@
 # Two days after surviving an assassination attempt, Trump picks his MAGA heir
 
-Published :`2024-07-16 22:37:03`
+Published :`2024-07-16 23:17:00`
 
 ---
 

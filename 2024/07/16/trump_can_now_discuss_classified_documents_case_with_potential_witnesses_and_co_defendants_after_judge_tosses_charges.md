@@ -1,6 +1,6 @@
 # Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges
 
-Published :`2024-07-16 22:36:59`
+Published :`2024-07-16 23:16:53`
 
 ---
 

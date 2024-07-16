@@ -1,10 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-16 22:37:03`
+#### Latest Update : `2024-07-16 23:17:00`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Nikki Haley will make the case for electing Trump in her convention speech](https://new-news.github.io/Latest/2024/07/16/nikki_haley_will_make_the_case_for_electing_trump_in_her_convention_speech 'Nikki Haley will make the case for electing Trump in her convention speech')
+
+- [Republican Senate candidates take the spotlight at Milwaukee convention](https://new-news.github.io/Latest/2024/07/16/republican_senate_candidates_take_the_spotlight_at_milwaukee_convention 'Republican Senate candidates take the spotlight at Milwaukee convention')
+
+- [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/16/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
+
+- [Giuliani has ‘no regrets’ about defaming 2020 election workers](https://new-news.github.io/Latest/2024/07/16/giuliani_has_no_regrets_about_defaming_2020_election_workers 'Giuliani has ‘no regrets’ about defaming 2020 election workers')
+
+- [Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut](https://new-news.github.io/Latest/2024/07/16/behind_the_numbers__988_crisis_lifeline_answers_over_10_million_contacts_since_its_debut 'Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut')
+
+- [FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC](https://new-news.github.io/Latest/2024/07/16/fda__ftc_issue_warnings_to_companies_selling_copycat_snacks_with_delta_8_thc 'FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC')
+
+- [Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say](https://new-news.github.io/Latest/2024/07/16/risk_of_illinois_dam_breach_is_under_control_after_once_in_a_century_rainfall__officials_say 'Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say')
 
 - [Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69](https://new-news.github.io/Latest/2024/07/16/joe_jellybean_bryant__father_of_kobe_bryant__has_died_at_69 'Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69')
 
@@ -12,11 +26,7 @@
 
 - [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/16/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
 
-- [Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut](https://new-news.github.io/Latest/2024/07/16/behind_the_numbers__988_crisis_lifeline_answers_over_10_million_contacts_since_its_debut 'Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut')
-
 - [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/16/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
-
-- [Giuliani has ‘no regrets’ about defaming 2020 election workers](https://new-news.github.io/Latest/2024/07/16/giuliani_has_no_regrets_about_defaming_2020_election_workers 'Giuliani has ‘no regrets’ about defaming 2020 election workers')
 
 - [Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say](https://new-news.github.io/Latest/2024/07/16/biden_to_push_for_supreme_court_ethics_reform__term_limits_and_amendment_to_overturn_immunity_ruling__sources_say 'Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say')
 
@@ -79,8 +89,6 @@
 - [Federal prosecutor accused of mishandling evidence in Trump inauguration protest cases](https://new-news.github.io/Latest/2024/07/16/federal_prosecutor_accused_of_mishandling_evidence_in_trump_inauguration_protest_cases 'Federal prosecutor accused of mishandling evidence in Trump inauguration protest cases')
 
 - [Rally security failure has Secret Service at odds with its local law enforcement allies](https://new-news.github.io/Latest/2024/07/16/rally_security_failure_has_secret_service_at_odds_with_its_local_law_enforcement_allies 'Rally security failure has Secret Service at odds with its local law enforcement allies')
-
-- [Residents of a small Illinois city ordered to evacuate amid warnings that dam could burst during once-in-a-century rainfall](https://new-news.github.io/Latest/2024/07/16/residents_of_a_small_illinois_city_ordered_to_evacuate_amid_warnings_that_dam_could_burst_during_once_in_a_century_rainfall 'Residents of a small Illinois city ordered to evacuate amid warnings that dam could burst during once-in-a-century rainfall')
 
 - [Tracking destructive and deadly tornadoes in the US, in maps and charts](https://new-news.github.io/Latest/2024/07/16/tracking_destructive_and_deadly_tornadoes_in_the_us__in_maps_and_charts 'Tracking destructive and deadly tornadoes in the US, in maps and charts')
 
@@ -197,14 +205,6 @@
 - [Private efforts to nudge Biden to step aside continue](https://new-news.github.io/Latest/2024/07/16/private_efforts_to_nudge_biden_to_step_aside_continue 'Private efforts to nudge Biden to step aside continue')
 
 - [Two days after surviving an assassination attempt, Trump picks his MAGA heir](https://new-news.github.io/Latest/2024/07/16/two_days_after_surviving_an_assassination_attempt__trump_picks_his_maga_heir 'Two days after surviving an assassination attempt, Trump picks his MAGA heir')
-
-- [California is 1st state to ban school rules requiring parents get notified of child’s pronoun change](https://new-news.github.io/Latest/2024/07/16/california_is_1st_state_to_ban_school_rules_requiring_parents_get_notified_of_childs_pronoun_change 'California is 1st state to ban school rules requiring parents get notified of child’s pronoun change')
-
-- [Demolition Ranch YouTuber: ‘Shocked and confused’ to see Trump shooter wearing my shirt](https://new-news.github.io/Latest/2024/07/16/demolition_ranch_youtuber__shocked_and_confused_to_see_trump_shooter_wearing_my_shirt 'Demolition Ranch YouTuber: ‘Shocked and confused’ to see Trump shooter wearing my shirt')
-
-- [Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’](https://new-news.github.io/Latest/2024/07/16/man_killed_at_trump_rally_identified_as_firefighter_corey_comperatore__who_died_a_hero 'Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’')
-
-- [US-made munitions used in Israeli strike on Gaza school that killed 22, experts say](https://new-news.github.io/Latest/2024/07/16/us_made_munitions_used_in_israeli_strike_on_gaza_school_that_killed_22__experts_say 'US-made munitions used in Israeli strike on Gaza school that killed 22, experts say')
 
 
 

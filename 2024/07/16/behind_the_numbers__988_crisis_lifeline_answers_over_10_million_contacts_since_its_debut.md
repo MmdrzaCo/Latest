@@ -1,6 +1,6 @@
 # Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut
 
-Published :`2024-07-16 22:36:59`
+Published :`2024-07-16 23:16:52`
 
 ---
 
@@ -14,7 +14,7 @@ Those in crisis can reach the lifeline through a phone call, text, web chat and 
 
 Last year, text messages through the lifeline increased 1,135%, chats answered increased 141% and calls answered increased 46%, a report from the department showed.
 
-The lifeline has made 110,000 contacts in Spanish with 475,000 with LGBTQI+ youth and young adults this year, the new report says. About 20,000 videophone contacts in American Sign Language were made, and 1.2 million calls were answered by the Veterans Crisis Line through 988’s Press 1 option.
+The lifeline has made 110,000 contacts in Spanish and 475,000 with LGBTQI+ youth and young adults this year, the new report says. About 20,000 videophone contacts in American Sign Language were made, and 1.2 million calls were answered by the Veterans Crisis Line through 988’s Press 1 option.
 
 “988 is available to everyone,” emphasized Andrea Palm, deputy secretary of the US Department of Health and Human Services. “Having someone on the other end of the line to listen and provide support makes a difference. It really does save lives, and that’s what this is all about.”
 

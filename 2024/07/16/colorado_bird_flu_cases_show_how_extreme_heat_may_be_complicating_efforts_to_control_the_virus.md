@@ -1,6 +1,6 @@
 # Colorado bird flu cases show how extreme heat may be complicating efforts to control the virus
 
-Published :`2024-07-16 22:36:59`
+Published :`2024-07-16 23:16:53`
 
 ---
 

@@ -1,6 +1,6 @@
 # Giuliani has ‘no regrets’ about defaming 2020 election workers
 
-Published :`2024-07-16 22:36:59`
+Published :`2024-07-16 23:16:52`
 
 ---
 
@@ -11,6 +11,8 @@ Former Trump lawyer Rudy Giuliani says he has “no regrets” about falsely ac
 The former New York City mayor and onetime attorney to former President Donald Trump, who isn’t an expected speaker at the convention this week, compared his legal plight to “the Japanese internment during the second war,” referring to World War II.
 
 In December, Giuliani was ordered to pay $148 million to the election workers, Ruby Freeman and Shaye Moss. His bankruptcy case was dismissed last week, so Freeman and Moss – as well as other creditors – can start trying to seize his assets.
+
+Moss and Freeman plan to immediately pursue those assets, their attorney Rachel Strickland told CNN’s “The Source” on Friday.
 
 Giuliani attacked the federal judges who oversaw the defamation case filed by the two election workers, as well as his bankruptcy case, calling the judges “bloodthirsty” and “ridiculous.”
 
