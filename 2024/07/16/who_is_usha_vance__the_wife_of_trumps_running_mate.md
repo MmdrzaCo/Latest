@@ -1,6 +1,6 @@
 # Who is Usha Vance, the wife of Trump’s running mate?
 
-Published :`2024-07-16 21:08:57`
+Published :`2024-07-16 21:15:00`
 
 ---
 

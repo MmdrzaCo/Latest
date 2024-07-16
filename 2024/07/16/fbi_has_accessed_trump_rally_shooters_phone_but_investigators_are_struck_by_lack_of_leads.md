@@ -1,6 +1,6 @@
 # FBI has accessed Trump rally shooter’s phone but investigators are struck by lack of leads
 
-Published :`2024-07-16 21:08:57`
+Published :`2024-07-16 21:15:00`
 
 ---
 

@@ -1,6 +1,6 @@
 # California is 1st state to ban school rules requiring parents get notified of child’s pronoun change
 
-Published :`2024-07-16 21:08:57`
+Published :`2024-07-16 21:15:00`
 
 ---
 

@@ -1,6 +1,6 @@
 # After assassination attempt on Trump, Biden’s political challenge changes in an instant
 
-Published :`2024-07-16 21:08:57`
+Published :`2024-07-16 21:15:00`
 
 ---
 

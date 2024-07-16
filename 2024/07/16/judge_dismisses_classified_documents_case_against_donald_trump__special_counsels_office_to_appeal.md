@@ -1,6 +1,6 @@
 # Judge dismisses classified documents case against Donald Trump; Special counsel’s office to appeal
 
-Published :`2024-07-16 21:08:57`
+Published :`2024-07-16 21:15:00`
 
 ---
 

@@ -1,6 +1,6 @@
 # Aileen Cannon’s nuking of the Trump documents case continues her trend of embracing long-shot legal theories
 
-Published :`2024-07-16 21:08:57`
+Published :`2024-07-16 21:15:00`
 
 ---
 
