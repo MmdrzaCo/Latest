@@ -1,6 +1,6 @@
 # Exclusive: Secret Service ramped up security after receiving intel of Iranian plot to assassinate Trump; no known connection to shooting
 
-Published :`2024-07-16 23:16:53`
+Published :`2024-07-16 23:37:16`
 
 ---
 

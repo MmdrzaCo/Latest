@@ -1,6 +1,6 @@
 # Teoscar Hernández becomes first Dodgers player to win the Home Run Derby
 
-Published :`2024-07-16 23:16:57`
+Published :`2024-07-16 23:37:18`
 
 ---
 

@@ -1,6 +1,6 @@
 # Has ‘world’s rarest whale’ washed up on a beach? Scientists are scrambling to find out
 
-Published :`2024-07-16 23:16:58`
+Published :`2024-07-16 23:37:18`
 
 ---
 
@@ -16,7 +16,7 @@ If so, it’ll be the first opportunity for scientists to dissect one of the cre
 
 New Zealand’s conservation department announced Monday that it had received a report on July 4 of a whale carcass near Taiari Mouth, a small village on the South Island’s eastern coast.
 
-After inspection and consultation with marine-mammal experts, scientists believed the carcass was that of a male spade-toothed whale, though more tests were needed.
+After inspection and consultation with marine mammal experts, scientists believed the carcass was that of a male spade-toothed whale, though more tests were needed.
 
 “From a scientific and conservation point of view, this is huge,” said Gabe Davies, DOC Coastal Otago Operations Manager.
 

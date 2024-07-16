@@ -1,6 +1,6 @@
 # What to know about Sen. JD Vance, Trump’s running mate
 
-Published :`2024-07-16 23:16:59`
+Published :`2024-07-16 23:37:19`
 
 ---
 

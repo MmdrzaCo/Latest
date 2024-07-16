@@ -1,6 +1,6 @@
 # CIA director says Hamas leader is facing growing pressure from his own commanders to end Gaza war
 
-Published :`2024-07-16 23:16:58`
+Published :`2024-07-16 23:37:19`
 
 ---
 

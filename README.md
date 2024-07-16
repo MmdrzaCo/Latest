@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-16 23:17:00`
+#### Latest Update : `2024-07-16 23:37:19`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Exiled Chinese billionaire Guo Wengui found guilty on federal fraud charges](https://new-news.github.io/Latest/2024/07/16/exiled_chinese_billionaire_guo_wengui_found_guilty_on_federal_fraud_charges 'Exiled Chinese billionaire Guo Wengui found guilty on federal fraud charges')
+
+- [Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say](https://new-news.github.io/Latest/2024/07/16/biden_to_push_for_supreme_court_ethics_reform__term_limits_and_amendment_to_overturn_immunity_ruling__sources_say 'Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say')
 
 - [Nikki Haley will make the case for electing Trump in her convention speech](https://new-news.github.io/Latest/2024/07/16/nikki_haley_will_make_the_case_for_electing_trump_in_her_convention_speech 'Nikki Haley will make the case for electing Trump in her convention speech')
 
@@ -27,8 +31,6 @@
 - [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/16/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
 
 - [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/16/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
-
-- [Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say](https://new-news.github.io/Latest/2024/07/16/biden_to_push_for_supreme_court_ethics_reform__term_limits_and_amendment_to_overturn_immunity_ruling__sources_say 'Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say')
 
 - [Growing faction of Democrats revolt against Biden’s upcoming virtual nomination](https://new-news.github.io/Latest/2024/07/16/growing_faction_of_democrats_revolt_against_bidens_upcoming_virtual_nomination 'Growing faction of Democrats revolt against Biden’s upcoming virtual nomination')
 
@@ -203,8 +205,6 @@
 - [Ex-FBI informant accused of lying about Biden family seeks to dismiss charges, citing decision in Trump documents case](https://new-news.github.io/Latest/2024/07/16/ex_fbi informant accused_of lying_about_biden_family seeks_to_dismiss_charges__citing_decision in_trump_documents_case 'Ex-FBI informant accused of lying about Biden family seeks to dismiss charges, citing decision in Trump documents case')
 
 - [Private efforts to nudge Biden to step aside continue](https://new-news.github.io/Latest/2024/07/16/private_efforts_to_nudge_biden_to_step_aside_continue 'Private efforts to nudge Biden to step aside continue')
-
-- [Two days after surviving an assassination attempt, Trump picks his MAGA heir](https://new-news.github.io/Latest/2024/07/16/two_days_after_surviving_an_assassination_attempt__trump_picks_his_maga_heir 'Two days after surviving an assassination attempt, Trump picks his MAGA heir')
 
 
 

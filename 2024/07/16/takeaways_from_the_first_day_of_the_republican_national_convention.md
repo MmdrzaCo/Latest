@@ -1,6 +1,6 @@
 # Takeaways from the first day of the Republican National Convention
 
-Published :`2024-07-16 23:16:56`
+Published :`2024-07-16 23:37:18`
 
 ---
 

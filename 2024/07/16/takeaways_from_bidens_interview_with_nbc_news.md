@@ -1,6 +1,6 @@
 # Takeaways from Biden’s interview with NBC News
 
-Published :`2024-07-16 23:16:59`
+Published :`2024-07-16 23:37:19`
 
 ---
 
