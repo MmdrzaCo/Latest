@@ -1,6 +1,6 @@
 # Rally security failure has Secret Service at odds with its local law enforcement allies
 
-Published :`2024-07-16 21:14:59`
+Published :`2024-07-16 21:36:56`
 
 ---
 

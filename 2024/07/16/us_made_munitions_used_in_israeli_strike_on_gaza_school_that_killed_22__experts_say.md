@@ -1,6 +1,6 @@
 # US-made munitions used in Israeli strike on Gaza school that killed 22, experts say
 
-Published :`2024-07-16 21:15:00`
+Published :`2024-07-16 21:36:57`
 
 ---
 

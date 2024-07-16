@@ -1,6 +1,6 @@
 # Ex-FBI informant accused of lying about Biden family seeks to dismiss charges, citing decision in Trump documents case
 
-Published :`2024-07-16 21:15:00`
+Published :`2024-07-16 21:36:57`
 
 ---
 

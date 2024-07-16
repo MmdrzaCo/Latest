@@ -1,6 +1,6 @@
 # JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment
 
-Published :`2024-07-16 21:14:58`
+Published :`2024-07-16 21:36:56`
 
 ---
 
@@ -17,6 +17,10 @@ Viewership of “Hillbilly Elegy” increased by 1,179% on Netflix compared to t
 When the “Hillbilly Elegy” film first debuted, it launched to mostly negative reviews and was largely panned by critics, though Close and Adams received praise for their performances portraying Vance’s grandmother and mother, respectively, as well as the actor Gabriel Basso, who played a younger version of Vance. Close notably was nominated for “Hillbilly Elegy” at both the Oscars and the Razzie Awards, which is the ceremony that infamously honors the worst in cinema every year.
 
 “Hillbilly Elegy” chronicles Vance’s childhood in Appalachia, which he wrote was plagued with poverty, abuse and his mother’s addiction. At the time of “Hillbilly Elegy’s” release, the book was widely discussed as an explanation for Trump’s rise among the White working class.
+
+As the book’s popularity went into overdrive after Vance was announced as Trump’s veep pick, Goodreads, a social cataloging website for book recommendations, temporarily restricted actions on “Hillbilly Elegy” including submitting ratings and reviews. A pop-up alert on Goodreads said, “This may be because we’ve detected unusual behavior that doesn’t follow our review guidelines.” A representative for Goodreads declined to comment to CNN inquiry regarding the specific type of activity on Vance’s book that was detected by the site, but per the company’s community guidelines, Goodreads launched the ability to limit reviews and ratings on a book earlier this year.
+
+Sydney Bishop contributed to this report.
 
 ---
 

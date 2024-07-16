@@ -1,6 +1,6 @@
 # Provisional results in Rwanda’s presidential election show incumbent Paul Kagame winning in landslide
 
-Published :`2024-07-16 21:15:00`
+Published :`2024-07-16 21:36:57`
 
 ---
 

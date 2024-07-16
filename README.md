@@ -1,20 +1,32 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-16 21:15:00`
+#### Latest Update : `2024-07-16 21:36:58`
 
 ## Latest News Grabbing 
 
 ---
+
+- [NASA transmits a Missy Elliott song to Venus](https://new-news.github.io/Latest/2024/07/16/nasa_transmits_a_missy_elliott_song_to_venus 'NASA transmits a Missy Elliott song to Venus')
+
+- [JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment](https://new-news.github.io/Latest/2024/07/16/jd_vances_hillbilly_elegy_tops_amazon_book_and_netflix_film_charts_following_trumps_vp_appointment 'JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment')
+
+- [At least six killed in shooting near mosque in Oman](https://new-news.github.io/Latest/2024/07/16/at_least_six_killed_in_shooting_near_mosque_in_oman 'At least six killed in shooting near mosque in Oman')
+
+- [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/16/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
+
+- [Ozy Media founder Carlos Watson convicted in New York fraud trial](https://new-news.github.io/Latest/2024/07/16/ozy_media_founder_carlos_watson_convicted_in_new_york_fraud_trial 'Ozy Media founder Carlos Watson convicted in New York fraud trial')
+
+- [Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters](https://new-news.github.io/Latest/2024/07/16/usha_vance_is_the_4th_person_of_south_asian_descent_to_be_part_of_the_2024_presidential_campaign__why_that_matters 'Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters')
+
+- [It’s not just Bob Menendez: Americans really love gold bars](https://new-news.github.io/Latest/2024/07/16/its_not_just_bob_menendez__americans_really_love_gold_bars 'It’s not just Bob Menendez: Americans really love gold bars')
+
+- [Colorado bird flu cases show how extreme heat may be complicating efforts to control the virus](https://new-news.github.io/Latest/2024/07/16/colorado_bird_flu_cases_show_how_extreme_heat_may_be_complicating_efforts_to_control_the_virus 'Colorado bird flu cases show how extreme heat may be complicating efforts to control the virus')
 
 - [90 giant African snails ‘intercepted’ at Detroit Metropolitan Airport](https://new-news.github.io/Latest/2024/07/16/90_giant_african_snails intercepted_at_detroit_metropolitan_airport '90 giant African snails ‘intercepted’ at Detroit Metropolitan Airport')
 
 - [Growing faction of Democrats revolt against Biden’s upcoming virtual nomination](https://new-news.github.io/Latest/2024/07/16/growing_faction_of_democrats_revolt_against_bidens_upcoming_virtual_nomination 'Growing faction of Democrats revolt against Biden’s upcoming virtual nomination')
 
 - [Elon Musk says he’s moving SpaceX and X out of California](https://new-news.github.io/Latest/2024/07/16/elon_musk_says_hes_moving_spacex_and_x_out_of_california 'Elon Musk says he’s moving SpaceX and X out of California')
-
-- [At least six killed in shooting near mosque in Oman](https://new-news.github.io/Latest/2024/07/16/at_least_six_killed_in_shooting_near_mosque_in_oman 'At least six killed in shooting near mosque in Oman')
-
-- [JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment](https://new-news.github.io/Latest/2024/07/16/jd_vances_hillbilly_elegy_tops_amazon_book_and_netflix_film_charts_following_trumps_vp_appointment 'JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment')
 
 - [Ingrid Andress says she’s checking into rehab after viral national anthem performance: ‘I was drunk last night’](https://new-news.github.io/Latest/2024/07/16/ingrid_andress_says_shes_checking_into_rehab_after_viral_national_anthem_performance__i_was_drunk_last_night 'Ingrid Andress says she’s checking into rehab after viral national anthem performance: ‘I was drunk last night’')
 
@@ -193,18 +205,6 @@
 - [Aileen Cannon’s nuking of the Trump documents case continues her trend of embracing long-shot legal theories](https://new-news.github.io/Latest/2024/07/16/aileen_cannons_nuking_of_the_trump_documents_case_continues_her_trend_of_embracing_long_shot_legal_theories 'Aileen Cannon’s nuking of the Trump documents case continues her trend of embracing long-shot legal theories')
 
 - [Takeaways from the dismissal of the mishandling classified documents case against Donald Trump](https://new-news.github.io/Latest/2024/07/16/takeaways_from_the_dismissal_of_the_mishandling_classified_documents_case_against_donald_trump 'Takeaways from the dismissal of the mishandling classified documents case against Donald Trump')
-
-- [Judge dismisses classified documents case against Donald Trump; Special counsel’s office to appeal](https://new-news.github.io/Latest/2024/07/16/judge_dismisses_classified_documents_case_against_donald_trump__special_counsels_office_to_appeal 'Judge dismisses classified documents case against Donald Trump; Special counsel’s office to appeal')
-
-- [Poland considers shooting down Russian missiles heading to Ukraine](https://new-news.github.io/Latest/2024/07/16/poland_considers_shooting_down_russian_missiles_heading_to_ukraine 'Poland considers shooting down Russian missiles heading to Ukraine')
-
-- [After assassination attempt on Trump, Biden’s political challenge changes in an instant](https://new-news.github.io/Latest/2024/07/16/after_assassination_attempt_on_trump__bidens_political_challenge_changes_in_an_instant 'After assassination attempt on Trump, Biden’s political challenge changes in an instant')
-
-- [What happens to JD Vance’s Senate seat now that he’s Trump’s running mate?](https://new-news.github.io/Latest/2024/07/16/what_happens_to_jd_vances_senate_seat_now_that_hes_trumps_running_mate 'What happens to JD Vance’s Senate seat now that he’s Trump’s running mate?')
-
-- [Russian cyber firm Kaspersky to shut down US operations after ban](https://new-news.github.io/Latest/2024/07/16/russian_cyber_firm_kaspersky_to_shut_down_us_operations_after_ban 'Russian cyber firm Kaspersky to shut down US operations after ban')
-
-- [Whoopi Goldberg honored her mother at Disneyland in a way you’re really not supposed to](https://new-news.github.io/Latest/2024/07/16/whoopi_goldberg_honored_her_mother_at_disneyland_in_a_way_youre_really_not_supposed_to 'Whoopi Goldberg honored her mother at Disneyland in a way you’re really not supposed to')
 
 
 

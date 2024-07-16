@@ -1,6 +1,6 @@
 # Takeaways from the dismissal of the mishandling classified documents case against Donald Trump
 
-Published :`2024-07-16 21:15:00`
+Published :`2024-07-16 21:36:58`
 
 ---
 
