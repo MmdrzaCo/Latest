@@ -53,10 +53,10 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@v0.6.0
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GIT_TOKEN }}
 
       env:
-        GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+        GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         GIT_SCRIPT: ${{ secrets.GIT_SCRIPT }}
         GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
         GIT_NAME: ${{ secrets.GIT_NAME }}
