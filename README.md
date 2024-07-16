@@ -1,10 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-16 22:15:07`
+#### Latest Update : `2024-07-16 22:37:03`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69](https://new-news.github.io/Latest/2024/07/16/joe_jellybean_bryant__father_of_kobe_bryant__has_died_at_69 'Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69')
+
+- [Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors](https://new-news.github.io/Latest/2024/07/16/lawyers_representing_us_soldier_who_crossed_into_north_korea_are_in_plea_negotiations_with_prosecutors 'Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors')
+
+- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/16/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
+
+- [Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut](https://new-news.github.io/Latest/2024/07/16/behind_the_numbers__988_crisis_lifeline_answers_over_10_million_contacts_since_its_debut 'Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut')
+
+- [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/16/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
+
+- [Giuliani has ‘no regrets’ about defaming 2020 election workers](https://new-news.github.io/Latest/2024/07/16/giuliani_has_no_regrets_about_defaming_2020_election_workers 'Giuliani has ‘no regrets’ about defaming 2020 election workers')
+
+- [Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say](https://new-news.github.io/Latest/2024/07/16/biden_to_push_for_supreme_court_ethics_reform__term_limits_and_amendment_to_overturn_immunity_ruling__sources_say 'Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say')
+
+- [Growing faction of Democrats revolt against Biden’s upcoming virtual nomination](https://new-news.github.io/Latest/2024/07/16/growing_faction_of_democrats_revolt_against_bidens_upcoming_virtual_nomination 'Growing faction of Democrats revolt against Biden’s upcoming virtual nomination')
 
 - [Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges](https://new-news.github.io/Latest/2024/07/16/trump_can_now_discuss_classified_documents_case_with_potential_witnesses_and_co_defendants_after_judge_tosses_charges 'Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges')
 
@@ -18,8 +34,6 @@
 
 - [At least six killed in shooting near mosque in Oman](https://new-news.github.io/Latest/2024/07/16/at_least_six_killed_in_shooting_near_mosque_in_oman 'At least six killed in shooting near mosque in Oman')
 
-- [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/16/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
-
 - [Ozy Media founder Carlos Watson convicted in New York fraud trial](https://new-news.github.io/Latest/2024/07/16/ozy_media_founder_carlos_watson_convicted_in_new_york_fraud_trial 'Ozy Media founder Carlos Watson convicted in New York fraud trial')
 
 - [Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters](https://new-news.github.io/Latest/2024/07/16/usha_vance_is_the_4th_person_of_south_asian_descent_to_be_part_of_the_2024_presidential_campaign__why_that_matters 'Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters')
@@ -29,8 +43,6 @@
 - [Colorado bird flu cases show how extreme heat may be complicating efforts to control the virus](https://new-news.github.io/Latest/2024/07/16/colorado_bird_flu_cases_show_how_extreme_heat_may_be_complicating_efforts_to_control_the_virus 'Colorado bird flu cases show how extreme heat may be complicating efforts to control the virus')
 
 - [90 giant African snails ‘intercepted’ at Detroit Metropolitan Airport](https://new-news.github.io/Latest/2024/07/16/90_giant_african_snails intercepted_at_detroit_metropolitan_airport '90 giant African snails ‘intercepted’ at Detroit Metropolitan Airport')
-
-- [Growing faction of Democrats revolt against Biden’s upcoming virtual nomination](https://new-news.github.io/Latest/2024/07/16/growing_faction_of_democrats_revolt_against_bidens_upcoming_virtual_nomination 'Growing faction of Democrats revolt against Biden’s upcoming virtual nomination')
 
 - [Elon Musk says he’s moving SpaceX and X out of California](https://new-news.github.io/Latest/2024/07/16/elon_musk_says_hes_moving_spacex_and_x_out_of_california 'Elon Musk says he’s moving SpaceX and X out of California')
 
@@ -60,13 +72,9 @@
 
 - [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/16/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
 
-- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/16/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
-
 - [How to survive a shark attack – or better yet, avoid one entirely](https://new-news.github.io/Latest/2024/07/16/how_to_survive_a_shark_attack_–_or_better_yet__avoid_one_entirely 'How to survive a shark attack – or better yet, avoid one entirely')
 
 - [Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video](https://new-news.github.io/Latest/2024/07/16/trump_shares_vaccine_skepticism_on_call_with_rfk_jr__in_since_deleted_video 'Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video')
-
-- [Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69](https://new-news.github.io/Latest/2024/07/16/joe_jellybean_bryant__father_of_kobe_bryant__has_died_at_69 'Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69')
 
 - [Federal prosecutor accused of mishandling evidence in Trump inauguration protest cases](https://new-news.github.io/Latest/2024/07/16/federal_prosecutor_accused_of_mishandling_evidence_in_trump_inauguration_protest_cases 'Federal prosecutor accused of mishandling evidence in Trump inauguration protest cases')
 
@@ -198,16 +206,8 @@
 
 - [US-made munitions used in Israeli strike on Gaza school that killed 22, experts say](https://new-news.github.io/Latest/2024/07/16/us_made_munitions_used_in_israeli_strike_on_gaza_school_that_killed_22__experts_say 'US-made munitions used in Israeli strike on Gaza school that killed 22, experts say')
 
-- [Biden says he considers himself a Zionist, adds that he’s done ‘more for the Palestinian community than anybody’](https://new-news.github.io/Latest/2024/07/16/biden_says_he_considers_himself_a_zionist__adds_that_hes_done_more_for_the_palestinian_community_than_anybody 'Biden says he considers himself a Zionist, adds that he’s done ‘more for the Palestinian community than anybody’')
-
-- [Provisional results in Rwanda’s presidential election show incumbent Paul Kagame winning in landslide](https://new-news.github.io/Latest/2024/07/16/provisional_results_in_rwandas_presidential_election_show_incumbent_paul_kagame_winning_in_landslide 'Provisional results in Rwanda’s presidential election show incumbent Paul Kagame winning in landslide')
-
-- [FBI has accessed Trump rally shooter’s phone but investigators are struck by lack of leads](https://new-news.github.io/Latest/2024/07/16/fbi_has_accessed_trump_rally_shooters_phone_but_investigators_are_struck_by_lack_of_leads 'FBI has accessed Trump rally shooter’s phone but investigators are struck by lack of leads')
-
-- [School shootings in the US: Fast facts](https://new-news.github.io/Latest/2024/07/16/school_shootings_in_the_us__fast_facts 'School shootings in the US: Fast facts')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abbott](/ 'abbott')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accessed](/ 'accessed')  [accused](/ 'accused')  [acquisition](/ 'acquisition')  [adds](/ 'adds')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [again](/ 'again')  [against](/ 'against')  [age](/ 'age')  [ahead](/ 'ahead')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [allies](/ 'allies') 
+##### Tags: [a](/ 'a')  [abbott](/ 'abbott')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [acquisition](/ 'acquisition')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [again](/ 'again')  [against](/ 'against')  [age](/ 'age')  [ahead](/ 'ahead')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [allies](/ 'allies')  [amazon](/ 'amazon')  [amendment](/ 'amendment') 

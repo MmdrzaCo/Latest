@@ -1,12 +1,12 @@
 # Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69
 
-Published :`2024-07-16 22:14:58`
+Published :`2024-07-16 22:36:59`
 
 ---
 
 Joe Bryant, the father of the late NBA great Kobe Bryant and a former pro basketball player himself, has died, according to La Salle University’s athletics department. He was 69.
 
-According to the Philadelphia Inquirer, citing La Salle men’s head basketball coach Fran Dunphy, Bryant recently suffered a stroke. La Salle told CNN that Bryant died Tuesday morning but could not confirm the cause of death.
+According to The Philadelphia Inquirer, citing La Salle men’s head basketball coach Fran Dunphy, Bryant recently suffered a stroke. La Salle told CNN that Bryant died Monday morning but could not confirm the cause of death.
 
 Bryant, who had the nickname “Jellybean,” was from Philadelphia and played for La Salle from 1973-1975.
 

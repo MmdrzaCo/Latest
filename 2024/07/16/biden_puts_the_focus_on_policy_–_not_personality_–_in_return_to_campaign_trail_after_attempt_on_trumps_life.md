@@ -1,6 +1,6 @@
 # Biden puts the focus on policy – not personality – in return to campaign trail after attempt on Trump’s life
 
-Published :`2024-07-16 22:15:02`
+Published :`2024-07-16 22:37:01`
 
 ---
 

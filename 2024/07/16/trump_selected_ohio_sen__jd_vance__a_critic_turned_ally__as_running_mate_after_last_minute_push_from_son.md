@@ -1,6 +1,6 @@
 # Trump selected Ohio Sen. JD Vance, a critic turned ally, as running mate after last-minute push from son
 
-Published :`2024-07-16 22:15:04`
+Published :`2024-07-16 22:37:03`
 
 ---
 

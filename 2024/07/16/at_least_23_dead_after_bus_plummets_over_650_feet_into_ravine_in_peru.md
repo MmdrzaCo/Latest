@@ -1,6 +1,6 @@
 # At least 23 dead after bus plummets over 650 feet into ravine in Peru
 
-Published :`2024-07-16 22:14:57`
+Published :`2024-07-16 22:36:59`
 
 ---
 
