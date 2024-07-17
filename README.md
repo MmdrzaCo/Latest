@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 04:37:32`
+#### Latest Update : `2024-07-17 05:14:57`
 
 ## Latest News Grabbing 
 
 ---
+
+- [We asked how you use emojis. Here’s how different generations responded](https://new-news.github.io/Latest/2024/07/17/we_asked_how_you_use_emojis__heres_how_different_generations_responded 'We asked how you use emojis. Here’s how different generations responded')
 
 - [Takeaways from the second night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/17/takeaways_from_the_second_night_of_the_republican_national_convention 'Takeaways from the second night of the Republican National Convention')
 
@@ -203,8 +205,6 @@
 - [Children receive first doses of new malaria vaccine, hailed as major milestone](https://new-news.github.io/Latest/2024/07/17/children_receive_first_doses_of_new_malaria_vaccine__hailed_as_major_milestone 'Children receive first doses of new malaria vaccine, hailed as major milestone')
 
 - [Hacker group claims it leaked internal Disney Slack messages over AI concerns](https://new-news.github.io/Latest/2024/07/17/hacker_group_claims_it_leaked_internal_disney_slack_messages_over_ai_concerns 'Hacker group claims it leaked internal Disney Slack messages over AI concerns')
-
-- [Prime minister Modi’s blessing and a Kardashian cameo — here’s what happened at India’s wedding of the year](https://new-news.github.io/Latest/2024/07/17/prime_minister_modis_blessing_and_a_kardashian_cameo_—_heres_what_happened_at_indias_wedding_of_the_year 'Prime minister Modi’s blessing and a Kardashian cameo — here’s what happened at India’s wedding of the year')
 
 
 

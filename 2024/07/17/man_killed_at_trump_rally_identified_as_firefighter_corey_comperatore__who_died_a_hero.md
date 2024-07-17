@@ -1,6 +1,6 @@
 # Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’
 
-Published :`2024-07-17 04:37:25`
+Published :`2024-07-17 05:14:50`
 
 ---
 
@@ -58,7 +58,15 @@ His obituary said his life was guided by his faith, and he inspired others to li
 
 “Corey’s legacy is not just in the major milestones he achieved but in the small acts of kindness that marked his everyday life,” the obituary says. “He was quick to help those in need, never expecting anything in return, and his impact on the lives he touched was profound.”
 
-His widow also told the New York Post that President Joe Biden did try to call, but she doesn’t want to speak to him. “My husband was a devout Republican, and he would not have wanted me to talk to him.”
+Trump has spoken with Helen Comperatore, she said on her private Facebook page Tuesday, according to the New York Post. CNN has reached out to the Comperatore family to verify the post.
+
+“President Trump called me to share his condolences,” the post reportedly said. “He was very kind and said he would continue to call me in the days and weeks ahead.”
+
+“I told him the same thing I told everyone else. He left this world a hero and God welcome him in. He did not die in vain that day,” she added, according to the New York Post.
+
+When Trump was asked by the New York Post this weekend whether he was considering attending Comperatore’s funeral, he said yes. The funeral home obituary said details of that event are private.
+
+Trump’s call comes after the widow told the New York Post on Monday that President Joe Biden did try to call her after the shooting, but she doesn’t want to speak to him. “My husband was a devout Republican, and he would not have wanted me to talk to him.”
 
 However, Helen Comperatore added she does not hold the current president responsible for what happened to her family.
 
@@ -69,10 +77,6 @@ However, Helen Comperatore added she does not hold the current president respons
 Speaking Sunday afternoon, Biden expressed his condolences to Comperatore’s family.
 
 “We also extend our deepest condolences to the family of the victim who was killed,” the president said. “He was a father; he was protecting his family from the bullets being fired when he lost his life. God love him. We are also praying for the full recovery of those who were injured.”
-
-Trump has spoken with the Comperatore family, two sources familiar with the matter told CNN on Tuesday.
-
-When asked by the New York Post this weekend whether he was considering attending Comperatore’s funeral, he said yes. The funeral home obituary said details of that event are private.
 
 ### A community in mourning
 
