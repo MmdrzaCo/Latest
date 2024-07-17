@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 03:37:24`
+#### Latest Update : `2024-07-17 04:17:38`
 
 ## Latest News Grabbing 
 
 ---
+
+- [USWNT puts a frustrating night behind them as they look forward to next week’s Olympics](https://new-news.github.io/Latest/2024/07/17/uswnt_puts_a_frustrating_night_behind_them_as_they_look_forward_to_next_weeks_olympics 'USWNT puts a frustrating night behind them as they look forward to next week’s Olympics')
+
+- [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/17/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
 
 - [JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment](https://new-news.github.io/Latest/2024/07/17/jd_vances_hillbilly_elegy_tops_amazon_book_and_netflix_film_charts_following_trumps_vp_appointment 'JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment')
 
@@ -21,8 +25,6 @@
 - [Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot](https://new-news.github.io/Latest/2024/07/17/asias_50_best_bars_for_2024_have_been_announced__a_newcomer_has_earned_the_top_spot 'Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot')
 
 - [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/17/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
-
-- [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/17/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
 
 - [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
 
@@ -203,8 +205,6 @@
 - [Prime minister Modi’s blessing and a Kardashian cameo — here’s what happened at India’s wedding of the year](https://new-news.github.io/Latest/2024/07/17/prime_minister_modis_blessing_and_a_kardashian_cameo_—_heres_what_happened_at_indias_wedding_of_the_year 'Prime minister Modi’s blessing and a Kardashian cameo — here’s what happened at India’s wedding of the year')
 
 - [Soldier in France’s anti-terrorism force stabbed in Paris ahead of Olympics opening ceremony next week](https://new-news.github.io/Latest/2024/07/17/soldier_in_frances_anti_terrorism_force_stabbed_in_paris_ahead_of_olympics_opening_ceremony_next_week 'Soldier in France’s anti-terrorism force stabbed in Paris ahead of Olympics opening ceremony next week')
-
-- [Hospitality group slams lawsuit from a Black man who says he got an interview only after applying with a ‘Caucasian name’](https://new-news.github.io/Latest/2024/07/17/hospitality_group_slams_lawsuit_from_a_black_man_who_says_he_got_an_interview_only_after_applying_with_a_caucasian_name 'Hospitality group slams lawsuit from a Black man who says he got an interview only after applying with a ‘Caucasian name’')
 
 
 

@@ -1,6 +1,6 @@
 # Gareth Southgate leaves England men’s national team after defeat in Euro 2024 final
 
-Published :`2024-07-17 03:37:24`
+Published :`2024-07-17 04:17:38`
 
 ---
 
