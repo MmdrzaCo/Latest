@@ -1,6 +1,6 @@
 # How Donald Trump landed on JD Vance as his vice presidential pick
 
-Published :`2024-07-17 05:14:57`
+Published :`2024-07-17 05:36:46`
 
 ---
 

@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 05:14:57`
+#### Latest Update : `2024-07-17 05:36:46`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader](https://new-news.github.io/Latest/2024/07/17/trumps_former_rivals_bury_their_criticism_to_celebrate_all_powerful_gop_leader 'Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader')
+
+- [Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’](https://new-news.github.io/Latest/2024/07/17/man_killed_at_trump_rally_identified_as_firefighter_corey_comperatore__who_died_a_hero 'Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’')
 
 - [We asked how you use emojis. Here’s how different generations responded](https://new-news.github.io/Latest/2024/07/17/we_asked_how_you_use_emojis__heres_how_different_generations_responded 'We asked how you use emojis. Here’s how different generations responded')
 
@@ -55,8 +59,6 @@
 - [Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say](https://new-news.github.io/Latest/2024/07/17/trump_shooter_requested_saturday_off_from_work_and_told_colleagues_hed_be_back_at_work_sunday__officials_say 'Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say')
 
 - [Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out](https://new-news.github.io/Latest/2024/07/17/has_one_of_the_worlds_rarest_whales_washed_up_on_a_beach_scientists_are_scrambling_to_find_out 'Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out')
-
-- [Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’](https://new-news.github.io/Latest/2024/07/17/man_killed_at_trump_rally_identified_as_firefighter_corey_comperatore__who_died_a_hero 'Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’')
 
 - [FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/fbi_and_dhs_warn_of_potential_follow_on_or_retaliatory_attacks_following_trump_assassination_attempt 'FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt')
 
@@ -204,10 +206,8 @@
 
 - [Children receive first doses of new malaria vaccine, hailed as major milestone](https://new-news.github.io/Latest/2024/07/17/children_receive_first_doses_of_new_malaria_vaccine__hailed_as_major_milestone 'Children receive first doses of new malaria vaccine, hailed as major milestone')
 
-- [Hacker group claims it leaked internal Disney Slack messages over AI concerns](https://new-news.github.io/Latest/2024/07/17/hacker_group_claims_it_leaked_internal_disney_slack_messages_over_ai_concerns 'Hacker group claims it leaked internal Disney Slack messages over AI concerns')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [affleck](/ 'affleck')  [afghanistan](/ 'afghanistan')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [allies](/ 'allies')  [amazon](/ 'amazon')  [amendment](/ 'amendment') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [affleck](/ 'affleck')  [afghanistan](/ 'afghanistan')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [allies](/ 'allies')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american') 
