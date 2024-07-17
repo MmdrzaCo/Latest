@@ -1,6 +1,6 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 18:19:55`
+#### Latest Update : `2024-07-17 18:40:11`
 
 ## Latest News Grabbing 
 
@@ -8,15 +8,17 @@
 
 - [Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe](https://new-news.github.io/Latest/2024/07/17/paraguay_carries_out_largest_cocaine_bust_in_its_history_as_4_tons_are_found_in_sugar_shipment_headed_to_europe 'Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe')
 
+- [US imposes visa restrictions on former IDF sergeant for human rights violation](https://new-news.github.io/Latest/2024/07/17/us_imposes_visa_restrictions_on_former_idf_sergeant_for_human_rights_violation 'US imposes visa restrictions on former IDF sergeant for human rights violation')
+
+- [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
+
+- [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
+
 - [Flood emergency hits Arkansas after months of rain falls in a few hours](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours 'Flood emergency hits Arkansas after months of rain falls in a few hours')
 
 - [More student loan borrowers are getting relief through bankruptcy after Biden policy change](https://new-news.github.io/Latest/2024/07/17/more_student_loan_borrowers_are_getting_relief_through_bankruptcy_after_biden_policy_change 'More student loan borrowers are getting relief through bankruptcy after Biden policy change')
 
 - [‘Shōgun’ makes Emmys history](https://new-news.github.io/Latest/2024/07/17/shōgun_makes_emmys_history '‘Shōgun’ makes Emmys history')
-
-- [US imposes visa restrictions on former IDF sergeant for human rights violation](https://new-news.github.io/Latest/2024/07/17/us_imposes_visa_restrictions_on_former_idf_sergeant_for_human_rights_violation 'US imposes visa restrictions on former IDF sergeant for human rights violation')
-
-- [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
 
 - [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
 
@@ -203,8 +205,6 @@
 - [Colorado bird flu cases show how extreme heat may be complicating efforts to control the virus](https://new-news.github.io/Latest/2024/07/17/colorado_bird_flu_cases_show_how_extreme_heat_may_be_complicating_efforts_to_control_the_virus 'Colorado bird flu cases show how extreme heat may be complicating efforts to control the virus')
 
 - [90 giant African snails ‘intercepted’ at Detroit Metropolitan Airport](https://new-news.github.io/Latest/2024/07/17/90_giant_african_snails intercepted_at_detroit_metropolitan_airport '90 giant African snails ‘intercepted’ at Detroit Metropolitan Airport')
-
-- [Elon Musk says he’s moving SpaceX and X out of California](https://new-news.github.io/Latest/2024/07/17/elon_musk_says_hes_moving_spacex_and_x_out_of_california 'Elon Musk says he’s moving SpaceX and X out of California')
 
 
 

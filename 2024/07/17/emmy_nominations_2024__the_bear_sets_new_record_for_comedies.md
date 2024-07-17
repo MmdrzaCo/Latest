@@ -1,6 +1,6 @@
 # Emmy nominations 2024: ‘The Bear’ sets new record for comedies
 
-Published :`2024-07-17 18:19:52`
+Published :`2024-07-17 18:40:08`
 
 ---
 
