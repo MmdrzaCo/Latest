@@ -1,6 +1,6 @@
 # Andrew Tate banned from leaving Romania after court overturns ruling
 
-Published :`2024-07-17 04:17:37`
+Published :`2024-07-17 04:37:28`
 
 ---
 

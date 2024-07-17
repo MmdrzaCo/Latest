@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 04:17:38`
+#### Latest Update : `2024-07-17 04:37:32`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Takeaways from the second night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/17/takeaways_from_the_second_night_of_the_republican_national_convention 'Takeaways from the second night of the Republican National Convention')
+
+- [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/17/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
+
+- [At least six killed in shooting near mosque in Oman](https://new-news.github.io/Latest/2024/07/17/at_least_six_killed_in_shooting_near_mosque_in_oman 'At least six killed in shooting near mosque in Oman')
 
 - [USWNT puts a frustrating night behind them as they look forward to next week’s Olympics](https://new-news.github.io/Latest/2024/07/17/uswnt_puts_a_frustrating_night_behind_them_as_they_look_forward_to_next_weeks_olympics 'USWNT puts a frustrating night behind them as they look forward to next week’s Olympics')
 
@@ -48,8 +54,6 @@
 
 - [Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out](https://new-news.github.io/Latest/2024/07/17/has_one_of_the_worlds_rarest_whales_washed_up_on_a_beach_scientists_are_scrambling_to_find_out 'Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out')
 
-- [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/17/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
-
 - [Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’](https://new-news.github.io/Latest/2024/07/17/man_killed_at_trump_rally_identified_as_firefighter_corey_comperatore__who_died_a_hero 'Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’')
 
 - [FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/fbi_and_dhs_warn_of_potential_follow_on_or_retaliatory_attacks_following_trump_assassination_attempt 'FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt')
@@ -77,8 +81,6 @@
 - [Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges](https://new-news.github.io/Latest/2024/07/17/trump_can_now_discuss_classified_documents_case_with_potential_witnesses_and_co_defendants_after_judge_tosses_charges 'Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges')
 
 - [NASA transmits a Missy Elliott song to Venus](https://new-news.github.io/Latest/2024/07/17/nasa_transmits_a_missy_elliott_song_to_venus 'NASA transmits a Missy Elliott song to Venus')
-
-- [At least six killed in shooting near mosque in Oman](https://new-news.github.io/Latest/2024/07/17/at_least_six_killed_in_shooting_near_mosque_in_oman 'At least six killed in shooting near mosque in Oman')
 
 - [Ozy Media founder Carlos Watson convicted in New York fraud trial](https://new-news.github.io/Latest/2024/07/17/ozy_media_founder_carlos_watson_convicted_in_new_york_fraud_trial 'Ozy Media founder Carlos Watson convicted in New York fraud trial')
 
@@ -204,10 +206,8 @@
 
 - [Prime minister Modi’s blessing and a Kardashian cameo — here’s what happened at India’s wedding of the year](https://new-news.github.io/Latest/2024/07/17/prime_minister_modis_blessing_and_a_kardashian_cameo_—_heres_what_happened_at_indias_wedding_of_the_year 'Prime minister Modi’s blessing and a Kardashian cameo — here’s what happened at India’s wedding of the year')
 
-- [Soldier in France’s anti-terrorism force stabbed in Paris ahead of Olympics opening ceremony next week](https://new-news.github.io/Latest/2024/07/17/soldier_in_frances_anti_terrorism_force_stabbed_in_paris_ahead_of_olympics_opening_ceremony_next_week 'Soldier in France’s anti-terrorism force stabbed in Paris ahead of Olympics opening ceremony next week')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [affleck](/ 'affleck')  [afghanistan](/ 'afghanistan')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ahead](/ 'ahead')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [allies](/ 'allies')  [amazon](/ 'amazon') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [affleck](/ 'affleck')  [afghanistan](/ 'afghanistan')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [allies](/ 'allies')  [amazon](/ 'amazon')  [amendment](/ 'amendment') 
