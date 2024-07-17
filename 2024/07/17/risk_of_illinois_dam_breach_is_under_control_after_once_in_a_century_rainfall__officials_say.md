@@ -1,6 +1,6 @@
 # Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say
 
-Published :`2024-07-17 01:08:17`
+Published :`2024-07-17 02:21:47`
 
 ---
 
@@ -12,9 +12,13 @@ Extensive rain on Monday and Tuesday ran over the top of the dam and flooded dow
 
 “While the immediate danger to those downstream from the dam has been managed, there are still multiple road closures in the area,” the release stated, including on Interstate 64 between the Nashville and Ashley exits. Residents are encouraged to stay off the roads, if possible.
 
+“Residents are allowed to return to the evacuated areas at this time, if they are comfortable doing so,” the Washington County Emergency Management Agency said in a Tuesday night Facebook post.
+
+The agency said the US Army Corps of Engineers had assessed the reservoir for safety, noting, “The secondary dam reacted as designed, helping prevent a full dam failure. However, they did note that repairs to the Nashville IL Reservoir will be required, sooner rather than later, to maintain the integrity of the dam.”
+
 Local officials had warned the rupture could happen at any moment.
 
-“Attention the failure of the Nashville dam is imminent. Please evacuate your home at this time … you need evacuate now!” the Washington County Emergency Management Agency said in a hasty Facebook post Tuesday morning.
+“Attention the failure of the Nashville dam is imminent. Please evacuate your home at this time … you need evacuate now!” the emergency management agency said in a hasty Facebook post Tuesday morning.
 
 Washington County was under a flash flood warning until 4:30 p.m. CT after the region received over 5 inches of rain in six hours, according to radar estimates from the National Weather Service office in St. Louis.
 
@@ -24,7 +28,7 @@ Extreme rainfall events like these are becoming more common, and they illustrate
 
 After the heavy rain Tuesday morning, another round of heavy precipitation is possible for the region overnight, with a potential break in the heaviest rain later Tuesday afternoon and evening.
 
-There have been no injuries or deaths due to this emergency. It was not known if the evacuation order is still in effect as of Tuesday early evening.
+There have been no injuries or deaths due to this emergency.
 
 Nashville – home to 3,105 people, according to the US Census Bureau – is in southeast Illinois, about 50 miles east of St. Louis.
 

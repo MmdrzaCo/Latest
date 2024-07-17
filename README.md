@@ -1,14 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 01:08:20`
+#### Latest Update : `2024-07-17 02:21:50`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting](https://new-news.github.io/Latest/2024/07/17/exclusive__secret_service_ramped_up_security_after_intel_of_iran_plot_to_assassinate_trump__no_known_connection_to_shooting 'Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting')
+- [Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say](https://new-news.github.io/Latest/2024/07/17/risk_of_illinois_dam_breach_is_under_control_after_once_in_a_century_rainfall__officials_say 'Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say')
 
-- [Nikki Haley will make the case for electing Trump in her convention speech](https://new-news.github.io/Latest/2024/07/17/nikki_haley_will_make_the_case_for_electing_trump_in_her_convention_speech 'Nikki Haley will make the case for electing Trump in her convention speech')
+- [Nikki Haley makes the case for electing Trump in her convention speech](https://new-news.github.io/Latest/2024/07/17/nikki_haley_makes_the_case_for_electing_trump_in_her_convention_speech 'Nikki Haley makes the case for electing Trump in her convention speech')
+
+- [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/17/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
+
+- [LaMonica McIver will win special election Democratic primary for deep-blue House seat in New Jersey, CNN projects](https://new-news.github.io/Latest/2024/07/17/lamonica_mciver_will_win_special_election_democratic_primary_for_deep_blue_house_seat_in_new_jersey__cnn_projects 'LaMonica McIver will win special election Democratic primary for deep-blue House seat in New Jersey, CNN projects')
+
+- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
+
+- [2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces](https://new-news.github.io/Latest/2024/07/17/2_death_row_inmates_to_be_resentenced_amid_review_into_decades_of_prosecutorial_misconduct_in_alameda_county__da_announces '2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces')
+
+- [Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting](https://new-news.github.io/Latest/2024/07/17/exclusive__secret_service_ramped_up_security_after_intel_of_iran_plot_to_assassinate_trump__no_known_connection_to_shooting 'Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting')
 
 - [Attorney for ‘Rust’ armorer files for dismissal of her case or new trial after collapse of Alec Baldwin case](https://new-news.github.io/Latest/2024/07/17/attorney_for_rust_armorer_files_for_dismissal_of_her_case_or_new_trial_after_collapse_of_alec_baldwin_case 'Attorney for ‘Rust’ armorer files for dismissal of her case or new trial after collapse of Alec Baldwin case')
 
@@ -37,8 +47,6 @@
 - [Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut](https://new-news.github.io/Latest/2024/07/17/behind_the_numbers__988_crisis_lifeline_answers_over_10_million_contacts_since_its_debut 'Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut')
 
 - [FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC](https://new-news.github.io/Latest/2024/07/17/fda__ftc_issue_warnings_to_companies_selling_copycat_snacks_with_delta_8_thc 'FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC')
-
-- [Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say](https://new-news.github.io/Latest/2024/07/17/risk_of_illinois_dam_breach_is_under_control_after_once_in_a_century_rainfall__officials_say 'Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say')
 
 - [Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69](https://new-news.github.io/Latest/2024/07/17/joe_jellybean_bryant__father_of_kobe_bryant__has_died_at_69 'Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69')
 
@@ -93,8 +101,6 @@
 - [Tuskegee syphilis study whistleblower Peter Buxtun has died at age 86](https://new-news.github.io/Latest/2024/07/17/tuskegee_syphilis_study_whistleblower_peter_buxtun_has_died_at_age_86 'Tuskegee syphilis study whistleblower Peter Buxtun has died at age 86')
 
 - [Families release photos of five female Israeli soldiers from their first days of captivity in Gaza](https://new-news.github.io/Latest/2024/07/17/families_release_photos_of_five_female_israeli_soldiers_from_their_first_days_of_captivity_in_gaza 'Families release photos of five female Israeli soldiers from their first days of captivity in Gaza')
-
-- [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/17/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
 
 - [How to survive a shark attack – or better yet, avoid one entirely](https://new-news.github.io/Latest/2024/07/17/how_to_survive_a_shark_attack_–_or_better_yet__avoid_one_entirely 'How to survive a shark attack – or better yet, avoid one entirely')
 
@@ -200,14 +206,8 @@
 
 - [Secret Service director says ‘the buck stops with me’](https://new-news.github.io/Latest/2024/07/17/secret_service_director_says_the_buck_stops_with_me 'Secret Service director says ‘the buck stops with me’')
 
-- [What to know about Sen. JD Vance, Trump’s running mate](https://new-news.github.io/Latest/2024/07/17/what_to_know_about_sen__jd_vance__trumps_running_mate 'What to know about Sen. JD Vance, Trump’s running mate')
-
-- [Trump selected Ohio Sen. JD Vance, a critic turned ally, as running mate after last-minute push from son](https://new-news.github.io/Latest/2024/07/17/trump_selected_ohio_sen__jd_vance__a_critic_turned_ally__as_running_mate_after_last_minute_push_from_son 'Trump selected Ohio Sen. JD Vance, a critic turned ally, as running mate after last-minute push from son')
-
-- [NY AG, NYCLU sue county for again banning transgender girls and women from teams that match their gender identity](https://new-news.github.io/Latest/2024/07/17/ny_ag__nyclu_sue_county_for_again_banning_transgender_girls_and_women_from_teams_that_match their_gender_identity 'NY AG, NYCLU sue county for again banning transgender girls and women from teams that match their gender identity')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [acquisition](/ 'acquisition')  [act](/ 'act')  [affleck](/ 'affleck')  [afghanistan](/ 'afghanistan')  [african](/ 'african')  [after](/ 'after')  [again](/ 'again')  [against](/ 'against')  [age](/ 'age')  [ahead](/ 'ahead')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [alec](/ 'alec')  [allies](/ 'allies') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [acquisition](/ 'acquisition')  [act](/ 'act')  [affleck](/ 'affleck')  [afghanistan](/ 'afghanistan')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ahead](/ 'ahead')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [allies](/ 'allies') 

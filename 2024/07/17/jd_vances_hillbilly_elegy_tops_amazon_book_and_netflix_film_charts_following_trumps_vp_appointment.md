@@ -1,6 +1,6 @@
 # JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment
 
-Published :`2024-07-17 01:08:17`
+Published :`2024-07-17 02:21:47`
 
 ---
 

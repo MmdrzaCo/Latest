@@ -1,6 +1,6 @@
 # Prime minister Modi’s blessing and a Kardashian cameo — here’s what happened at India’s wedding of the year
 
-Published :`2024-07-17 01:08:20`
+Published :`2024-07-17 02:21:50`
 
 ---
 

@@ -1,6 +1,6 @@
 # Gambian parliament rejects bid to overturn historic ban on female genital mutilation
 
-Published :`2024-07-17 01:08:19`
+Published :`2024-07-17 02:21:49`
 
 ---
 

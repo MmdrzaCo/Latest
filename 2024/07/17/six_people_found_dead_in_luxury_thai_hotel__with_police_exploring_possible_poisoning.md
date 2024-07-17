@@ -1,6 +1,6 @@
 # Six people found dead in luxury Thai hotel, with police exploring possible poisoning
 
-Published :`2024-07-17 01:08:18`
+Published :`2024-07-17 02:21:47`
 
 ---
 
@@ -10,11 +10,11 @@ The bodies were discovered by staff in a fifth floor room at the Grand Hyatt hot
 
 Police said the incident doesn’t appear to be a robbery, and none of the bodies showed any signs of suffering physical violence. Police also believe “they didn’t harm themselves.”
 
-But Saengsawang said cups with traces of a white powder were located in the room, along with untouched food that had been ordered earlier. Poisoning has not been ruled out, Saengsawang said.
+But Thiti said cups with traces of a white powder were located in the room, along with untouched food that had been ordered earlier. Poisoning has not been ruled out, Thiti said.
 
 Authorities are currently searching for the seventh person who was part of the hotel booking, and is now a possible suspect.
 
-The other four deceased are Vietnamese nationals. Saengsawang said police believe one member of the party tried to reach the door but fell before they were able to do so.
+The other four deceased are Vietnamese nationals. Thiti said police believe one member of the party tried to reach the door but fell before they were able to do so.
 
 Police were pictured guarding the entrance of the five-star hotel on Tuesday, after the bodies were discovered.
 
