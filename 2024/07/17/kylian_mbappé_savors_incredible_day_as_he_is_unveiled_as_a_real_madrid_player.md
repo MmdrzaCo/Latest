@@ -1,6 +1,6 @@
 # Kylian Mbappé savors ‘incredible day’ as he is unveiled as a Real Madrid player
 
-Published :`2024-07-17 06:40:46`
+Published :`2024-07-17 07:15:11`
 
 ---
 

@@ -1,6 +1,6 @@
 # Ingrid Andress says she’s checking into rehab after viral national anthem performance: ‘I was drunk last night’
 
-Published :`2024-07-17 06:40:43`
+Published :`2024-07-17 07:15:10`
 
 ---
 
