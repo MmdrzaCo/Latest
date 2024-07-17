@@ -1,6 +1,6 @@
 # Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters
 
-Published :`2024-07-17 14:15:08`
+Published :`2024-07-17 14:37:32`
 
 ---
 
@@ -14,9 +14,11 @@ It was Vance’s wife, Usha, a 38-year-old Yale graduate and the daughter of Ind
 
 The 2024 presidential campaign has seen three politicians of South Asian descent vying for the White House: Former South Carolina Gov. Nikki Haley and entrepreneur Vivek Ramaswamy both competed during the Republican primaries, while Vice President Kamala Harris is running for a second term with President Joe Biden.
 
-On Tuesday night, both Haley and Ramaswamy are expected to throw their support behind the Trump-Vance ticket during prime-time speeches at the Republican National Convention.
+On the second night of the convention, both Haley and Ramaswamy unequivocally backed the Trump-Vance ticket during prime-time speeches at the Republican National Convention.
 
-And as Usha Vance joins the Trump campaign, Asian American political activists from both parties say they hope the increase in representation will correspond with a push to connect with a voting bloc that has long been overlooked.
+And Wednesday night, Usha Vance will introduce her husband as Trump’s running mate in a speech that marks her first official move as a member of the Trump-Vance campaign.
+
+As Asian Americans take a more central role in the 2024 presidential campaign, political activists from both parties say they hope the increase in representation will correspond with a push to connect with a voting bloc that has long been overlooked.
 
 ### The fastest-growing voting bloc
 

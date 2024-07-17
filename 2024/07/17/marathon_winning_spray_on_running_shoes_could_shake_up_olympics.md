@@ -1,6 +1,6 @@
 # Marathon-winning ‘spray-on’ running shoes could shake up Olympics
 
-Published :`2024-07-17 14:15:07`
+Published :`2024-07-17 14:37:33`
 
 ---
 
@@ -18,7 +18,7 @@ With no heel-cap, laces or tongue, the translucent, sock-like sneaker looks like
 
 Voelchert brought his idea to the Milan Design Fair, where he caught the Swiss sportswear brand’s attention. According to On, the shoe’s uppers (the material above the sole) are made from a type of thermoplastic and colored and branded in three minutes using just a robotic arm. The upper is sprayed in one go and can be attached to the carbon-fiber and foam rubber sole using heat, not glue.
 
-The company claims its technology reduces the carbon emissions of producing a shoe by 75%, compared to its other sneaker models. The material, which it dubs LightSpray, has “the potential… to move us towards a more sustainable, circular future,” said Marc Maurer, On’s co-CEO, in a press release.
+The company claims its technology reduces the carbon emissions of producing a shoe’s upper by 75%, compared to its other sneaker models. The material, which it dubs LightSpray, has “the potential… to move us towards a more sustainable, circular future,” said Marc Maurer, On’s co-CEO, in a press release.
 
 ### Sprayed-to-measure
 

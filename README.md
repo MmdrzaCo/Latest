@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 14:15:09`
+#### Latest Update : `2024-07-17 14:37:42`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
+
+- [Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters](https://new-news.github.io/Latest/2024/07/17/usha_vance_is_the_4th_person_of_south_asian_descent_to_be_part_of_the_2024_presidential_campaign__why_that_matters 'Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters')
+
+- [DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1](https://new-news.github.io/Latest/2024/07/17/dnc_moving_forward_with_biden_virtual_nomination__voting_to_begin_no_sooner_than_august_1 'DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1')
 
 - [‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids](https://new-news.github.io/Latest/2024/07/17/my_dignity_was_stripped__football_legend_terrell_davis_tells_gma_about_getting_handcuffed_on_a_plane_in_front_of_his_kids '‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids')
 
@@ -12,11 +18,7 @@
 
 - [Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say](https://new-news.github.io/Latest/2024/07/17/trump_shooter_requested_saturday_off_from_work_and_told_colleagues_hed_be_back_at_work_sunday__officials_say 'Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say')
 
-- [DNC moving forward with Friday meeting to begin Biden virtual roll call process despite furious backlash](https://new-news.github.io/Latest/2024/07/17/dnc_moving_forward_with_friday_meeting_to_begin_biden_virtual_roll_call_process_despite_furious_backlash 'DNC moving forward with Friday meeting to begin Biden virtual roll call process despite furious backlash')
-
 - [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
-
-- [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
 
 - [Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music](https://new-news.github.io/Latest/2024/07/17/adeles_tank_is_quite_empty_at_the_minute__shes_planning_a_big_break_from_music 'Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music')
 
@@ -163,8 +165,6 @@
 - [NASA transmits a Missy Elliott song to Venus](https://new-news.github.io/Latest/2024/07/17/nasa_transmits_a_missy_elliott_song_to_venus 'NASA transmits a Missy Elliott song to Venus')
 
 - [Ozy Media founder Carlos Watson convicted in New York fraud trial](https://new-news.github.io/Latest/2024/07/17/ozy_media_founder_carlos_watson_convicted_in_new_york_fraud_trial 'Ozy Media founder Carlos Watson convicted in New York fraud trial')
-
-- [Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters](https://new-news.github.io/Latest/2024/07/17/usha_vance_is_the_4th_person_of_south_asian_descent_to_be_part_of_the_2024_presidential_campaign__why_that_matters 'Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters')
 
 - [It’s not just Bob Menendez: Americans really love gold bars](https://new-news.github.io/Latest/2024/07/17/its_not_just_bob_menendez__americans_really_love_gold_bars 'It’s not just Bob Menendez: Americans really love gold bars')
 

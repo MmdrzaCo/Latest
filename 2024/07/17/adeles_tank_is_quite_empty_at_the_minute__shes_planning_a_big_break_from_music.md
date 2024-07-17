@@ -1,6 +1,6 @@
 # Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music
 
-Published :`2024-07-17 14:15:07`
+Published :`2024-07-17 14:37:33`
 
 ---
 
