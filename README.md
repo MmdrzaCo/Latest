@@ -1,10 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 08:38:49`
+#### Latest Update : `2024-07-17 09:18:10`
 
 ## Latest News Grabbing 
 
 ---
+
+- [ISIS claims responsibility for rare attack on mosque in Oman](https://new-news.github.io/Latest/2024/07/17/isis_claims_responsibility_for_rare_attack_on_mosque_in_oman 'ISIS claims responsibility for rare attack on mosque in Oman')
+
+- [It’s not just you. Here’s where this summer really   has been the worst](https://new-news.github.io/Latest/2024/07/17/its_not_just_you__heres_where_this_summer_really___has_been_the_worst 'It’s not just you. Here’s where this summer really   has been the worst')
+
+- [Chaos on social media platforms after Trump shooting is a mess of their own making](https://new-news.github.io/Latest/2024/07/17/chaos_on_social_media_platforms_after_trump_shooting_is_a_mess_of_their_own_making 'Chaos on social media platforms after Trump shooting is a mess of their own making')
+
+- [How the ATF identified the Trump rally shooter in 30 minutes](https://new-news.github.io/Latest/2024/07/17/how_the_atf_identified_the_trump_rally_shooter_in_30_minutes 'How the ATF identified the Trump rally shooter in 30 minutes')
+
+- [‘Twisters’ spins out from the original but has all the weight of a stiff breeze](https://new-news.github.io/Latest/2024/07/17/twisters_spins_out_from_the_original_but_has_all_the_weight_of_a_stiff_breeze '‘Twisters’ spins out from the original but has all the weight of a stiff breeze')
+
+- [MH17 passengers’ relatives mark 10 years since plane was shot down over Ukraine, killing 298](https://new-news.github.io/Latest/2024/07/17/mh17_passengers_relatives_mark_10_years_since_plane_was_shot_down_over_ukraine__killing_298 'MH17 passengers’ relatives mark 10 years since plane was shot down over Ukraine, killing 298')
+
+- [Uncontacted tribe sighted in Peruvian Amazon where loggers are active](https://new-news.github.io/Latest/2024/07/17/uncontacted tribe_sighted_in_peruvian_amazon_where_loggers_are_active 'Uncontacted tribe sighted in Peruvian Amazon where loggers are active')
 
 - [Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say](https://new-news.github.io/Latest/2024/07/17/cyanide_poisoning_likely_killed_six_found_dead_in_luxury_hotel__including_two_us_citizens__thai_police_say 'Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say')
 
@@ -35,8 +49,6 @@
 - [Takeaways from the second night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/17/takeaways_from_the_second_night_of_the_republican_national_convention 'Takeaways from the second night of the Republican National Convention')
 
 - [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/17/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
-
-- [At least six killed in shooting near mosque in Oman](https://new-news.github.io/Latest/2024/07/17/at_least_six_killed_in_shooting_near_mosque_in_oman 'At least six killed in shooting near mosque in Oman')
 
 - [USWNT puts a frustrating night behind them as they look forward to next week’s Olympics](https://new-news.github.io/Latest/2024/07/17/uswnt_puts_a_frustrating_night_behind_them_as_they_look_forward_to_next_weeks_olympics 'USWNT puts a frustrating night behind them as they look forward to next week’s Olympics')
 
@@ -194,20 +206,8 @@
 
 - [‘They just won the Olympics’: Internet goes wild for Mongolia’s Paris 2024 outfits](https://new-news.github.io/Latest/2024/07/17/they_just_won_the_olympics__internet_goes_wild_for_mongolias_paris_2024_outfits '‘They just won the Olympics’: Internet goes wild for Mongolia’s Paris 2024 outfits')
 
-- [Do Olympians get paid? Everything you need to know about prize money – for some – at Paris Games](https://new-news.github.io/Latest/2024/07/17/do_olympians_get_paid_everything_you_need_to_know_about_prize_money_–_for_some_–_at_paris_games 'Do Olympians get paid? Everything you need to know about prize money – for some – at Paris Games')
-
-- [Tiger testicles and mythical banquets: What China’s emperors inside Beijing’s secretive Forbidden City really ate](https://new-news.github.io/Latest/2024/07/17/tiger_testicles_and_mythical_banquets__what_chinas_emperors_inside_beijings_secretive_forbidden_city_really_ate 'Tiger testicles and mythical banquets: What China’s emperors inside Beijing’s secretive Forbidden City really ate')
-
-- [Biden unveils plan to cap rent hikes](https://new-news.github.io/Latest/2024/07/17/biden_unveils_plan_to_cap_rent_hikes 'Biden unveils plan to cap rent hikes')
-
-- [Biden puts the focus on policy – not personality – in return to campaign trail after attempt on Trump’s life](https://new-news.github.io/Latest/2024/07/17/biden_puts_the_focus_on_policy_–_not_personality_–_in_return_to_campaign_trail_after_attempt_on_trumps_life 'Biden puts the focus on policy – not personality – in return to campaign trail after attempt on Trump’s life')
-
-- [Teoscar Hernández becomes first Dodgers player to win the Home Run Derby](https://new-news.github.io/Latest/2024/07/17/teoscar_hernández_becomes_first_dodgers_player_to_win_the_home_run_derby 'Teoscar Hernández becomes first Dodgers player to win the Home Run Derby')
-
-- [This grocery store item is beloved in the US. But it’s banned in South Korea](https://new-news.github.io/Latest/2024/07/17/this_grocery_store_item_is_beloved_in_the_us__but_its_banned_in_south_korea 'This grocery store item is beloved in the US. But it’s banned in South Korea')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [allegedly](/ 'allegedly')  [allies](/ 'allies')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies')  [amazon](/ 'amazon') 

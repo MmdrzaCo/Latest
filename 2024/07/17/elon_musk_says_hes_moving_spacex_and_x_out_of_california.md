@@ -1,6 +1,6 @@
 # Elon Musk says he’s moving SpaceX and X out of California
 
-Published :`2024-07-17 08:38:47`
+Published :`2024-07-17 09:18:08`
 
 ---
 
