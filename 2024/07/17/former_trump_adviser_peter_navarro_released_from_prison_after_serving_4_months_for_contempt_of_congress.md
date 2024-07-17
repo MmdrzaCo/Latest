@@ -1,6 +1,6 @@
 # Former Trump adviser Peter Navarro released from prison after serving 4 months for contempt of Congress
 
-Published :`2024-07-17 23:16:08`
+Published :`2024-07-17 23:37:19`
 
 ---
 

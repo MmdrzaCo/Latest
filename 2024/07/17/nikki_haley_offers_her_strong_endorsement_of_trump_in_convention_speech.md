@@ -1,6 +1,6 @@
 # Nikki Haley offers her ‘strong endorsement’ of Trump in convention speech
 
-Published :`2024-07-17 23:16:09`
+Published :`2024-07-17 23:37:24`
 
 ---
 
