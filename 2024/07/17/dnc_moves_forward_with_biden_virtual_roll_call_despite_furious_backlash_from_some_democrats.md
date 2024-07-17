@@ -1,6 +1,6 @@
 # DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats
 
-Published :`2024-07-17 18:40:08`
+Published :`2024-07-17 19:11:01`
 
 ---
 
@@ -19,6 +19,10 @@ A growing faction of House Democrats, convinced that Biden is too politically da
 In Wednesday’s letter, the co-chairs of the rules committee alluded to reports of Biden allies hoping to accelerate the virtual roll call, writing: “No matter what may be reported, our goal is not to fast-track.”
 
 “None of this will be rushed,” they said.
+
+House Minority Leader Hakeem Jeffries was involved in the lobbying push by Democrats to delay the DNC’s virtual roll call vote past August 1, according to multiple sources. Jeffries was relaying concerns he was hearing from his members, many of whom were furious that the DNC was considering holding the vote next week.
+
+Jeffries has publicly maintained he supports Biden atop the ticket, even as panic is growing in Democratic ranks over Biden’s chances.
 
 Appearing on “CNN News Central” Wednesday, Minnesota Gov. Tim Walz, a co-chair of the DNC’s rules committee and one of the letter’s authors, also rejected suggestions that the DNC is trying to fast-track Biden’s nomination.
 
@@ -40,9 +44,9 @@ Rep. Jared Huffman, a progressive Democrat from California, told CNN on Tuesday
 
 “If the election were held today, he would get crushed,” Huffman said of Biden. “We have got to do something about it.”
 
-A spokesperson for Huffman told CNN that in light of the DNC letter to hold a virtual roll call in August, they will not be sending the formal letter calling on the party to delay nominating Biden that was circulated earlier this week. Huffman had drafted a letter to House Democrats to delay Biden’s nomination until delegates gathered at the convention.
+A spokesperson for Huffman told CNN that in light of the DNC letter to hold a virtual roll call in August, they will not be sending their formal letter calling on the party to delay nominating Biden that was circulated earlier this week. Huffman had drafted a letter to House Democrats to delay Biden’s nomination until delegates gathered at the convention.
 
-The source said that the California congressman is pleased to see the pressure members were putting on the DNC not to hold a virtual roll call by the end of July was successful.
+The spokesperson said that the California congressman is pleased to see the pressure members were putting on the DNC not to hold a virtual roll call by the end of July was successful.
 
 ---
 

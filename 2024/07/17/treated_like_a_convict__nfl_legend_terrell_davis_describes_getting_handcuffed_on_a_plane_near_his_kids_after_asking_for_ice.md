@@ -1,6 +1,6 @@
 # ‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice
 
-Published :`2024-07-17 18:40:08`
+Published :`2024-07-17 19:11:01`
 
 ---
 
@@ -10,21 +10,29 @@ Terrell Davis and his family were looking forward to vacationing in California w
 
 The incident happened Saturday at the end of a flight from Denver to Orange County, California. Davis, 51, was flying with his wife, two sons and daughter when one of the sons asked for a cup of ice during beverage service, Davis wrote on Instagram. A flight attendant “either didn’t hear or ignored his request and continued past our row,” the post read.
 
-“I calmly reached behind me and lightly tapped (the attendant’s) arm to get his attention to again ask for a cup of ice for my son,” Davis wrote. “His response and the events that followed should stun all of us.
+“I calmly reached behind me and lightly tapped (the attendant’s) arm to get his attention to again ask for a cup of ice for my son,” Davis wrote.
 
 “He shouted, ‘Don’t hit me,’ and left the cart to hurriedly approach the front of the plane. I was confused, as were the passengers in front of me who witnessed the exchange. I thought nothing of it other than this particular employee was incredibly rude and blatantly wrong in his accusations of me hitting him.”
 
 Davis did not see or interact with the attendant for the rest of the flight, he wrote. After the plane landed in Orange County, the pilot asked passengers to remain seated, and FBI and law enforcement agents went to Davis’s seat, put him in handcuffs and took him off the plane – with the scene “recorded by multiple passengers,” he wrote.
 
-Davis’ wife, Tamiko Davis, told ABC’s “Good Morning America” earlier Wednesday that she “thought it was a joke, because what else could it be?”
+Davis said an FBI agent who handcuffed him told him, “Don’t fight it.”
 
-She asked her husband: “‘Terrell, are you joking? … Is this a prank?’ And he just said, quietly, ‘No, it’s not.’ And I’m looking at my sons, who are sitting right next to him, watching their dad being handcuffed.”
+“My boys were there. And my daughter was there. And my wife is there,” he told CNN. “I’m wondering what’s going on. They didn’t ask me any questions. I had no chance to even explain.”
 
-After Davis was taken off the plane, “We were just left to fend for ourselves on a flight with everyone staring at us,” his wife said on “GMA” Wednesday.
+Davis’ wife, Tamiko Davis, said she knew her husband couldn’t even question why he was being handcuffed and taken away.
 
-Davis told CNN he felt he was “treated like a convict.” He said while he was being handcuffed, a law enforcement officer told him: “Don’t fight it.”
+“Terrell knows better. Unfortunately, historically, in these situations, interaction with law enforcement as a Black man … you can’t ask,” she told CNN. “So thank God my husband has the wherewithal, the class, the understanding to know, in that moment, all he could do was sit there and comply and be humiliated in front of his sons and the 200 … however many people were on that plane. They didn’t give him any other options.”
+
+After Davis was taken off the plane, “We were just left to fend for ourselves on a flight with everyone staring at us,” his wife said told ABC’s “Good Morning America” earlier Wednesday.
 
 Later, “During questioning, it was rightfully determined by the agents that this flight attendant was inaccurate in his accusations and the agents profusely apologized,” Davis wrote.
+
+“I certainly felt like that wouldn’t have happened if I were a White person,” he told CNN. “That’s what I felt. Whether that’s true or not, that’s a different conversation.”
+
+Davis said he always tries to be a positive role model for his kids and teach them to do the right thing – which makes the sight of him getting taken away in handcuffs even more heartbreaking.
+
+“We did the right thing. We didn’t do anything. Yet I found myself with handcuffs, being paraded off a plane and being treated like a convict,” Davis said.
 
 Davis is still waiting for a direct apology from United Airlines, he told “GMA” Wednesday morning. CNN has reached out to United Airlines for comment.
 

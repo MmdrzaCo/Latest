@@ -1,6 +1,6 @@
 # Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence
 
-Published :`2024-07-17 18:40:08`
+Published :`2024-07-17 19:11:01`
 
 ---
 
@@ -13,8 +13,6 @@ Florence City Hall said the tourist had not been identified yet and suggested th
 They said that if identified, she would be fined and could be banned from the city for life, in line with an ordinance that prohibits any sort of abuse of cultural heritage in the country.
 
 The statue is a replica of the original created in the 16th century by sculptor Giambologna. The original is kept in the Bargello Museum in the centre of Florence.
-
-This is a developing story and will be updated.
 
 ---
 

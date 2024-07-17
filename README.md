@@ -1,32 +1,40 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 18:40:11`
+#### Latest Update : `2024-07-17 19:11:04`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
+
+- [Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’](https://new-news.github.io/Latest/2024/07/17/actor_treat_williams_earns_posthumous_emmy_nomination_for_final_role_in_feud 'Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’')
+
+- [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
+
+- [Joe Biden made a false statement about his current polling](https://new-news.github.io/Latest/2024/07/17/joe_biden_made_a_false_statement_about_his_current_polling 'Joe Biden made a false statement about his current polling')
+
+- [Police from Ohio fatally shoot 43-year-old Samuel Sharpe Jr. near Republican National Convention in Milwaukee](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_fatally_shoot_43_year_old_samuel_sharpe_jr__near_republican_national_convention_in_milwaukee 'Police from Ohio fatally shoot 43-year-old Samuel Sharpe Jr. near Republican National Convention in Milwaukee')
+
+- [Giant armadillo fossil reveals humans were in South America a surprisingly long time ago](https://new-news.github.io/Latest/2024/07/17/giant_armadillo_fossil_reveals_humans_were_in_south_america_a_surprisingly_long_time_ago 'Giant armadillo fossil reveals humans were in South America a surprisingly long time ago')
+
+- [More student loan borrowers are getting relief through bankruptcy after Biden policy change](https://new-news.github.io/Latest/2024/07/17/more_student_loan_borrowers_are_getting_relief_through_bankruptcy_after_biden_policy_change 'More student loan borrowers are getting relief through bankruptcy after Biden policy change')
+
+- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
+
 - [Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe](https://new-news.github.io/Latest/2024/07/17/paraguay_carries_out_largest_cocaine_bust_in_its_history_as_4_tons_are_found_in_sugar_shipment_headed_to_europe 'Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe')
 
 - [US imposes visa restrictions on former IDF sergeant for human rights violation](https://new-news.github.io/Latest/2024/07/17/us_imposes_visa_restrictions_on_former_idf_sergeant_for_human_rights_violation 'US imposes visa restrictions on former IDF sergeant for human rights violation')
-
-- [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
 
 - [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
 
 - [Flood emergency hits Arkansas after months of rain falls in a few hours](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours 'Flood emergency hits Arkansas after months of rain falls in a few hours')
 
-- [More student loan borrowers are getting relief through bankruptcy after Biden policy change](https://new-news.github.io/Latest/2024/07/17/more_student_loan_borrowers_are_getting_relief_through_bankruptcy_after_biden_policy_change 'More student loan borrowers are getting relief through bankruptcy after Biden policy change')
-
 - [‘Shōgun’ makes Emmys history](https://new-news.github.io/Latest/2024/07/17/shōgun_makes_emmys_history '‘Shōgun’ makes Emmys history')
-
-- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
 
 - [‘Strictly Come Dancing’ contestants to be chaperoned after abuse allegations](https://new-news.github.io/Latest/2024/07/17/strictly_come_dancing_contestants_to_be_chaperoned_after_abuse_allegations '‘Strictly Come Dancing’ contestants to be chaperoned after abuse allegations')
 
 - [The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture](https://new-news.github.io/Latest/2024/07/17/the_same_judge_who_greenlit_the_controversial_willow_project_just_axed_a_different_alaska_oil_venture 'The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture')
-
-- [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
 
 - [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/17/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
 
@@ -41,8 +49,6 @@
 - [Chicago gas prices could soar after tornado narrowly misses refinery](https://new-news.github.io/Latest/2024/07/17/chicago_gas_prices_could_soar_after_tornado_narrowly_misses_refinery 'Chicago gas prices could soar after tornado narrowly misses refinery')
 
 - [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/17/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
-
-- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
 
 - [How this soccer player saved a Jewish teenager from persecution in Nazi Germany](https://new-news.github.io/Latest/2024/07/17/how_this_soccer_player_saved_a_jewish_teenager_from_persecution_in_nazi_germany 'How this soccer player saved a Jewish teenager from persecution in Nazi Germany')
 
@@ -200,14 +206,8 @@
 
 - [Ozy Media founder Carlos Watson convicted in New York fraud trial](https://new-news.github.io/Latest/2024/07/17/ozy_media_founder_carlos_watson_convicted_in_new_york_fraud_trial 'Ozy Media founder Carlos Watson convicted in New York fraud trial')
 
-- [It’s not just Bob Menendez: Americans really love gold bars](https://new-news.github.io/Latest/2024/07/17/its_not_just_bob_menendez__americans_really_love_gold_bars 'It’s not just Bob Menendez: Americans really love gold bars')
-
-- [Colorado bird flu cases show how extreme heat may be complicating efforts to control the virus](https://new-news.github.io/Latest/2024/07/17/colorado_bird_flu_cases_show_how_extreme_heat_may_be_complicating_efforts_to_control_the_virus 'Colorado bird flu cases show how extreme heat may be complicating efforts to control the virus')
-
-- [90 giant African snails ‘intercepted’ at Detroit Metropolitan Airport](https://new-news.github.io/Latest/2024/07/17/90_giant_african_snails intercepted_at_detroit_metropolitan_airport '90 giant African snails ‘intercepted’ at Detroit Metropolitan Airport')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [act](/ 'act')  [active](/ 'active')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [act](/ 'act')  [active](/ 'active')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alameda](/ 'alameda')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon') 

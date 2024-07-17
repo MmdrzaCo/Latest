@@ -1,10 +1,10 @@
 # More student loan borrowers are getting relief through bankruptcy after Biden policy change
 
-Published :`2024-07-17 18:40:08`
+Published :`2024-07-17 19:11:01`
 
 ---
 
-More student loan borrows have successfully received debt relief through bankruptcy after the Biden administration implemented a new policy to make the process easier nearly two years ago, according to data released by the Department of Justice Wednesday.
+More student loan borrowers have successfully received debt relief through bankruptcy after the Biden administration implemented a new policy to make the process easier nearly two years ago, according to data released by the Department of Justice Wednesday.
 
 A total of 588 people filed cases seeking student debt discharges through bankruptcy between October 2023 and March — a 36% increase from the prior six-month period.
 
