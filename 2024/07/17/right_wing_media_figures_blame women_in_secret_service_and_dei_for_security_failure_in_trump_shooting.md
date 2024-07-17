@@ -1,6 +1,6 @@
 # Right-wing media figures blame women in Secret Service and ‘DEI’ for security failure in Trump shooting
 
-Published :`2024-07-17 22:37:48`
+Published :`2024-07-17 23:16:07`
 
 ---
 

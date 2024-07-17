@@ -1,6 +1,6 @@
 # New York Liberty cements position as WNBA’s best team with win over Connecticut Sun as Sabrina Ionescu shines
 
-Published :`2024-07-17 22:37:50`
+Published :`2024-07-17 23:16:08`
 
 ---
 

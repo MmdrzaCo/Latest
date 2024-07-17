@@ -1,16 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 22:37:52`
+#### Latest Update : `2024-07-17 23:16:10`
 
 ## Latest News Grabbing 
 
 ---
 
+- [President Joe Biden has tested positive for Covid-19](https://new-news.github.io/Latest/2024/07/17/president_joe_biden_has_tested_positive_for_covid_19 'President Joe Biden has tested positive for Covid-19')
+
+- [Navy exonerates 256 Black sailors who were unjustly punished after deadly 1944 California port explosion](https://new-news.github.io/Latest/2024/07/17/navy_exonerates_256_black_sailors_who_were_unjustly_punished_after_deadly_1944_california_port_explosion 'Navy exonerates 256 Black sailors who were unjustly punished after deadly 1944 California port explosion')
+
+- [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
+
 - [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
 
 - [Right-wing media figures blame women in Secret Service and ‘DEI’ for security failure in Trump shooting](https://new-news.github.io/Latest/2024/07/17/right_wing_media_figures_blame women_in_secret_service_and_dei_for_security_failure_in_trump_shooting 'Right-wing media figures blame women in Secret Service and ‘DEI’ for security failure in Trump shooting')
-
-- [President Joe Biden has tested positive for Covid-19](https://new-news.github.io/Latest/2024/07/17/president_joe_biden_has_tested_positive_for_covid_19 'President Joe Biden has tested positive for Covid-19')
 
 - [Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say](https://new-news.github.io/Latest/2024/07/17/cyanide_poisoning_likely_killed_six_found_dead_in_luxury_hotel__including_two_us_citizens__thai_police_say 'Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say')
 
@@ -41,8 +45,6 @@
 - [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/17/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
 
 - [Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case](https://new-news.github.io/Latest/2024/07/17/brad_pitt_pushes_back_on_angelina_jolies oppressive_and_harassing request_to_disclose_messages_in_miraval_case 'Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case')
-
-- [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
 
 - [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
 
@@ -203,8 +205,6 @@
 - [LaMonica McIver will win special election Democratic primary for deep-blue House seat in New Jersey, CNN projects](https://new-news.github.io/Latest/2024/07/17/lamonica_mciver_will_win_special_election_democratic_primary_for_deep_blue_house_seat_in_new_jersey__cnn_projects 'LaMonica McIver will win special election Democratic primary for deep-blue House seat in New Jersey, CNN projects')
 
 - [2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces](https://new-news.github.io/Latest/2024/07/17/2_death_row_inmates_to_be_resentenced_amid_review_into_decades_of_prosecutorial_misconduct_in_alameda_county__da_announces '2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces')
-
-- [Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting](https://new-news.github.io/Latest/2024/07/17/exclusive__secret_service_ramped_up_security_after_intel_of_iran_plot_to_assassinate_trump__no_known_connection_to_shooting 'Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting')
 
 
 
