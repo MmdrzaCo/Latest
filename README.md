@@ -1,10 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 02:47:30`
+#### Latest Update : `2024-07-17 03:17:56`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Nikki Haley offers her ‘strong endorsement’ of Trump in convention speech](https://new-news.github.io/Latest/2024/07/17/nikki_haley_offers_her_strong_endorsement_of_trump_in_convention_speech 'Nikki Haley offers her ‘strong endorsement’ of Trump in convention speech')
+
+- [Why Europe looks at Trump’s VP pick with anxiety](https://new-news.github.io/Latest/2024/07/17/why_europe_looks_at_trumps_vp_pick_with_anxiety 'Why Europe looks at Trump’s VP pick with anxiety')
+
+- [Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot](https://new-news.github.io/Latest/2024/07/17/asias_50_best_bars_for_2024_have_been_announced__a_newcomer_has_earned_the_top_spot 'Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot')
+
+- [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/17/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
+
+- [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/17/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
 
 - [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
 
@@ -13,10 +23,6 @@
 - [Republican Senate candidates take the spotlight at Milwaukee convention as GOP eyes expanded map](https://new-news.github.io/Latest/2024/07/17/republican_senate_candidates_take_the_spotlight_at_milwaukee_convention_as_gop_eyes_expanded_map 'Republican Senate candidates take the spotlight at Milwaukee convention as GOP eyes expanded map')
 
 - [Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say](https://new-news.github.io/Latest/2024/07/17/risk_of_illinois_dam_breach_is_under_control_after_once_in_a_century_rainfall__officials_say 'Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say')
-
-- [Nikki Haley makes the case for electing Trump in her convention speech](https://new-news.github.io/Latest/2024/07/17/nikki_haley_makes_the_case_for_electing_trump_in_her_convention_speech 'Nikki Haley makes the case for electing Trump in her convention speech')
-
-- [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/17/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
 
 - [LaMonica McIver will win special election Democratic primary for deep-blue House seat in New Jersey, CNN projects](https://new-news.github.io/Latest/2024/07/17/lamonica_mciver_will_win_special_election_democratic_primary_for_deep_blue_house_seat_in_new_jersey__cnn_projects 'LaMonica McIver will win special election Democratic primary for deep-blue House seat in New Jersey, CNN projects')
 
@@ -116,8 +122,6 @@
 
 - [Macron accepts French PM’s resignation, with no clear successor in sight](https://new-news.github.io/Latest/2024/07/17/macron_accepts_french_pms_resignation__with_no_clear_successor_in_sight 'Macron accepts French PM’s resignation, with no clear successor in sight')
 
-- [Why Europe looks at Trump’s VP pick with anxiety](https://new-news.github.io/Latest/2024/07/17/why_europe_looks_at_trumps_vp_pick_with_anxiety 'Why Europe looks at Trump’s VP pick with anxiety')
-
 - [‘Stranger Things’ Season 5 shares a behind-the-scenes look with its now grown-up cast](https://new-news.github.io/Latest/2024/07/17/stranger_things_season_5_shares_a_behind_the_scenes_look_with_its_now_grown_up_cast '‘Stranger Things’ Season 5 shares a behind-the-scenes look with its now grown-up cast')
 
 - [Gazans endure deadly weekend of Israeli strikes as UN chief laments ‘incomprehensible and inexcusable’ destruction](https://new-news.github.io/Latest/2024/07/17/gazans_endure_deadly_weekend_of_israeli_strikes_as_un_chief_laments_incomprehensible_and_inexcusable_destruction 'Gazans endure deadly weekend of Israeli strikes as UN chief laments ‘incomprehensible and inexcusable’ destruction')
@@ -202,12 +206,8 @@
 
 - [Hospitality group slams lawsuit from a Black man who says he got an interview only after applying with a ‘Caucasian name’](https://new-news.github.io/Latest/2024/07/17/hospitality_group_slams_lawsuit_from_a_black_man_who_says_he_got_an_interview_only_after_applying_with_a_caucasian_name 'Hospitality group slams lawsuit from a Black man who says he got an interview only after applying with a ‘Caucasian name’')
 
-- [North Korean fashion, drums, and jubilation: Here’s how South Koreans celebrated the first-ever Defectors’ Day](https://new-news.github.io/Latest/2024/07/17/north_korean_fashion__drums__and_jubilation__heres_how_south_koreans_celebrated_the_first_ever_defectors_day 'North Korean fashion, drums, and jubilation: Here’s how South Koreans celebrated the first-ever Defectors’ Day')
-
-- [Google is close to making its biggest acquisition ever](https://new-news.github.io/Latest/2024/07/17/google_is_close_to_making_its_biggest_acquisition_ever 'Google is close to making its biggest acquisition ever')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [acquisition](/ 'acquisition')  [act](/ 'act')  [affleck](/ 'affleck')  [afghanistan](/ 'afghanistan')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ahead](/ 'ahead')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [allies](/ 'allies') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [affleck](/ 'affleck')  [afghanistan](/ 'afghanistan')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ahead](/ 'ahead')  [ai](/ 'ai')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [allies](/ 'allies')  [amazon](/ 'amazon') 

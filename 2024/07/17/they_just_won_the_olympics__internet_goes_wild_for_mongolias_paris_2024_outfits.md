@@ -1,6 +1,6 @@
 # ‘They just won the Olympics’: Internet goes wild for Mongolia’s Paris 2024 outfits
 
-Published :`2024-07-17 02:47:30`
+Published :`2024-07-17 03:17:54`
 
 ---
 
@@ -24,9 +24,9 @@ On the brand’s Instagram page, users heaped further praise on the outfits. �
 
 Founded by sisters Michel Choigaalaa and Amazonka Choigaalaa, Michel&Amazonka previously designed the Mongolian team’s outfits for the Beijing 2022 Winter Olympics and Tokyo 2020 Summer Olympics, where the country netted one silver and three bronze medals.
 
-Mongolia has participated in all but one summer Olympics since 1964. The landlocked nation won its first — and, to date, only – gold medals (in judo and boxing) at the Beijing 2008 games.
+Mongolia has participated in all but one summer Olympics since 1964. The landlocked nation won its first — and, to date, only — gold medals (in judo and boxing) at the Beijing 2008 games.
 
-This year, the country is sending more than 30 athletes to the Paris Olympics, which kick off on July 26. Mongolian athletes will compete in 9 different sports, including cycling, shooting and wrestling.
+This year, the country is sending more than 30 athletes to the Paris Olympics, which kick off on July 26. Mongolian athletes will compete in nine different sports, including cycling, shooting and wrestling.
 
 Elsewhere at the Games, Berluti have designed France’s opening and closing ceremony unforms and Ralph Lauren will again dress Team USA, having done so at every Olympics since 2008. Great Britain, meanwhile, has turned to menswear label Ben Sherman.
 

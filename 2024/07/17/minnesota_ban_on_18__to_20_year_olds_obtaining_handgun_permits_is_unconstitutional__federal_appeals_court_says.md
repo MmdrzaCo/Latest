@@ -1,6 +1,6 @@
 # Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says
 
-Published :`2024-07-17 02:47:29`
+Published :`2024-07-17 03:17:53`
 
 ---
 

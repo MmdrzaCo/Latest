@@ -1,6 +1,6 @@
 # Why Europe looks at Trump’s VP pick with anxiety
 
-Published :`2024-07-17 02:47:30`
+Published :`2024-07-17 03:17:51`
 
 ---
 
@@ -32,19 +32,25 @@ Asked by CNN’s Kaitlin Collins about Vance’s assertion that the outcome of t
 
 ### Pivot to China
 
-Vance has argued that the US should turn its focus away from Russia and toward East Asia, because “that is going to be the future of American foreign policy for the next 40 years.”
+Vance has argued that the US should turn its focus away from Russia and toward East Asia. Earlier this week, he said the war in Ukraine must be brought to a “rapid close” so that America could focus on “the real issue, which is China.”
+
+That’s the “biggest threat to our country and we’re completely distracted from it,” Vance said in an interview with Fox News Monday.
+
+In an op-ed published in the New York Times in April, Vance also argued that US efforts to supply Ukraine with air defense systems could be detrimental to Taiwan’s defense in the event of a Chinese invasion of the self-ruled island claimed by Beijing.
+
+“These weapons are not only needed by Ukraine. If China were to set its sights on Taiwan, the Patriot missile system would be critical to its defense,” he wrote.
 
 The idea that East Asia, and China specifically, poses as big, if not a bigger, threat to the US than Russia is not unique to Vance. Trevor McCrisken, an US foreign policy expert and associate professor at the University of Warwick, said there is bipartisan agreement between Democrats and Republicans that China is the biggest threat internationally to US interests.
 
 “Both parties say you’ve got to be strong, and you’ve got to prevent China from fulfilling whatever ambitions it might have, economically, militarily, and so on. It’s just that most Democrats and the more moderate Republicans believe that Russia is also a threat,” he told CNN in an interview.
 
-In the eyes of most Western leaders, the threats coming from China and Russia go hand in hand. Just last week, NATO leaders called China a “decisive enabler” of Russia’s war on Ukraine in what was the alliance’s most forceful statement on Beijing’s involvement in the conflict.
+In the eyes of most Western leaders, the threats from China and Russia go hand in hand. Just last week, NATO leaders called China a “decisive enabler” of Russia’s war on Ukraine in the alliance’s most forceful statement on Beijing’s involvement in the conflict.
 
 “To have a rather simplistic view that if you back away from Ukraine that’s going to help you with China, it might not be the case,” McCrisken said, adding that Vance is likely trying to use his more anti-European stance for political reasons too.
 
 “It is a way of painting Europe as not standing up for itself when it should. Historically, the US has had to go in and bail out Europe so many times.”
 
-Sam Greene, the director of the Democratic Resilience Program at the Center for European Policy Analysis (CEPA) and a professor of Russian politics at King’s College London, said that Vance’s nomination should make it clear to America’s allies that the shift toward the Trumpian kind of Republican foreign policy is likely more long-term.
+Sam Greene, the director of the Democratic Resilience Program at the Center for European Policy Analysis (CEPA) and a professor of Russian politics at King’s College London, said Vance’s nomination should make it clear to America’s allies that the shift toward the Trumpian kind of Republican foreign policy is likely more long-term.
 
 “The last time we had a Trump presidency, I think Europeans looked at this as potentially a four-year blip, and then breathed a sigh of relief when Biden was elected and thought that we’d return to normal … and I think that there was some wishful thinking in that, and people have now begun to recognize that,” he said.
 
