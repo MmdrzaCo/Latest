@@ -1,6 +1,6 @@
 # How the ATF identified the Trump rally shooter in 30 minutes
 
-Published :`2024-07-17 12:29:20`
+Published :`2024-07-17 12:55:27`
 
 ---
 
@@ -8,7 +8,7 @@ Within 30 minutes of the shooting at Donald Trump’s Pennsylvania rally on Satu
 
 Law enforcement agents initially ran into roadblocks as they attempted to name the shooter, later identified as Thomas Matthew Crooks. Crooks was not carrying any ID when he was shot by Secret Service agents. But what he did have was an AR-style rifle used to carry out the deadly shooting.
 
-ATF analysts at a facility in West Virginia search through millions of documents by hand every day to try to identify the provenance of guns used in crimes. Typically, the bureau takes around eight days to track a weapon, though for urgent traces that average falls to 24 hours.
+Bureau of Alcohol, Tobacco, Firearms and Explosives analysts at a facility in West Virginia search through millions of documents by hand every day to try to identify the provenance of guns used in crimes. Typically, the bureau takes around eight days to track a weapon, though for urgent traces that average falls to 24 hours.
 
 It’s a process that has been used for several other high-profile and time sensitive investigations. After the Highland Park, Illinois, mass shooter fled in July 2022, police used the ATF tracing system on a firearm he left at the scene to learn his identity. And police used a firearm that bystanders wrestled away from the man who shot and killed 11 people in Monterey Park, California, to identify him.
 

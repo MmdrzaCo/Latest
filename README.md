@@ -1,10 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 12:29:28`
+#### Latest Update : `2024-07-17 12:55:30`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
+
+- [Marathon-winning ‘spray-on’ running shoes could shake up Olympics](https://new-news.github.io/Latest/2024/07/17/marathon_winning_spray_on_running_shoes_could_shake_up_olympics 'Marathon-winning ‘spray-on’ running shoes could shake up Olympics')
+
+- [Former Trump adviser Peter Navarro released from prison after serving 4 months for contempt of Congress](https://new-news.github.io/Latest/2024/07/17/former_trump_adviser_peter_navarro_released_from_prison_after_serving_4_months_for_contempt_of_congress 'Former Trump adviser Peter Navarro released from prison after serving 4 months for contempt of Congress')
+
+- [How the ATF identified the Trump rally shooter in 30 minutes](https://new-news.github.io/Latest/2024/07/17/how_the_atf_identified_the_trump_rally_shooter_in_30_minutes 'How the ATF identified the Trump rally shooter in 30 minutes')
+
+- [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/17/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
 
 - [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
 
@@ -43,8 +53,6 @@
 - [It’s not just you. Here’s where this summer really has been the worst](https://new-news.github.io/Latest/2024/07/17/its_not_just_you__heres_where_this_summer_really_has_been_the_worst 'It’s not just you. Here’s where this summer really has been the worst')
 
 - [Chaos on social media platforms after Trump shooting is a mess of their own making](https://new-news.github.io/Latest/2024/07/17/chaos_on_social_media_platforms_after_trump_shooting_is_a_mess_of_their_own_making 'Chaos on social media platforms after Trump shooting is a mess of their own making')
-
-- [How the ATF identified the Trump rally shooter in 30 minutes](https://new-news.github.io/Latest/2024/07/17/how_the_atf_identified_the_trump_rally_shooter_in_30_minutes 'How the ATF identified the Trump rally shooter in 30 minutes')
 
 - [‘Twisters’ spins out from the original but has all the weight of a stiff breeze](https://new-news.github.io/Latest/2024/07/17/twisters_spins_out_from_the_original_but_has_all_the_weight_of_a_stiff_breeze '‘Twisters’ spins out from the original but has all the weight of a stiff breeze')
 
@@ -99,8 +107,6 @@
 - [Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot](https://new-news.github.io/Latest/2024/07/17/asias_50_best_bars_for_2024_have_been_announced__a_newcomer_has_earned_the_top_spot 'Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot')
 
 - [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/17/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
-
-- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
 
 - [Republican Senate candidates take the spotlight at Milwaukee convention as GOP eyes expanded map](https://new-news.github.io/Latest/2024/07/17/republican_senate_candidates_take_the_spotlight_at_milwaukee_convention_as_gop_eyes_expanded_map 'Republican Senate candidates take the spotlight at Milwaukee convention as GOP eyes expanded map')
 
@@ -200,14 +206,8 @@
 
 - [Man bitten by shark while spearfishing in the Florida Keys](https://new-news.github.io/Latest/2024/07/17/man_bitten_by_shark_while_spearfishing_in_the_florida_keys 'Man bitten by shark while spearfishing in the Florida Keys')
 
-- [Stocks surge after retail sales data shows Americans are still shopping](https://new-news.github.io/Latest/2024/07/17/stocks_surge_after_retail_sales_data_shows_americans_are_still_shopping 'Stocks surge after retail sales data shows Americans are still shopping')
-
-- [Kylian Mbappé savors ‘incredible day’ as he is unveiled as a Real Madrid player](https://new-news.github.io/Latest/2024/07/17/kylian_mbappé_savors_incredible_day_as_he_is_unveiled_as_a_real_madrid_player 'Kylian Mbappé savors ‘incredible day’ as he is unveiled as a Real Madrid player')
-
-- [Takeaways from the first day of the Republican National Convention](https://new-news.github.io/Latest/2024/07/17/takeaways_from_the_first_day_of_the_republican_national_convention 'Takeaways from the first day of the Republican National Convention')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly') 
