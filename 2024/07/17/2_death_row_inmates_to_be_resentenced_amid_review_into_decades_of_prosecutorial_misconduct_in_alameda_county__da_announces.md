@@ -1,6 +1,6 @@
 # 2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces
 
-Published :`2024-07-17 17:35:42`
+Published :`2024-07-17 18:19:55`
 
 ---
 

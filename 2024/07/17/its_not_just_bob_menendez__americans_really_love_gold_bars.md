@@ -1,6 +1,6 @@
 # It’s not just Bob Menendez: Americans really love gold bars
 
-Published :`2024-07-17 17:35:43`
+Published :`2024-07-17 18:19:55`
 
 ---
 

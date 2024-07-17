@@ -1,12 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 17:35:44`
+#### Latest Update : `2024-07-17 18:19:55`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe](https://new-news.github.io/Latest/2024/07/17/paraguay_carries_out_largest_cocaine_bust_in_its_history_as_4_tons_are_found_in_sugar_shipment_headed_to_europe 'Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe')
+
+- [Flood emergency hits Arkansas after months of rain falls in a few hours](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours 'Flood emergency hits Arkansas after months of rain falls in a few hours')
+
+- [More student loan borrowers are getting relief through bankruptcy after Biden policy change](https://new-news.github.io/Latest/2024/07/17/more_student_loan_borrowers_are_getting_relief_through_bankruptcy_after_biden_policy_change 'More student loan borrowers are getting relief through bankruptcy after Biden policy change')
+
+- [‘Shōgun’ makes Emmys history](https://new-news.github.io/Latest/2024/07/17/shōgun_makes_emmys_history '‘Shōgun’ makes Emmys history')
+
+- [US imposes visa restrictions on former IDF sergeant for human rights violation](https://new-news.github.io/Latest/2024/07/17/us_imposes_visa_restrictions_on_former_idf_sergeant_for_human_rights_violation 'US imposes visa restrictions on former IDF sergeant for human rights violation')
+
 - [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
+
+- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
+
+- [‘Strictly Come Dancing’ contestants to be chaperoned after abuse allegations](https://new-news.github.io/Latest/2024/07/17/strictly_come_dancing_contestants_to_be_chaperoned_after_abuse_allegations '‘Strictly Come Dancing’ contestants to be chaperoned after abuse allegations')
 
 - [The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture](https://new-news.github.io/Latest/2024/07/17/the_same_judge_who_greenlit_the_controversial_willow_project_just_axed_a_different_alaska_oil_venture 'The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture')
 
@@ -30,8 +44,6 @@
 
 - [How this soccer player saved a Jewish teenager from persecution in Nazi Germany](https://new-news.github.io/Latest/2024/07/17/how_this_soccer_player_saved_a_jewish_teenager_from_persecution_in_nazi_germany 'How this soccer player saved a Jewish teenager from persecution in Nazi Germany')
 
-- [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
-
 - [Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer](https://new-news.github.io/Latest/2024/07/17/now_you_can_watch_hundreds_of_rattlesnakes_in_a_mega_den_–_from_the_safety_of_your_computer 'Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer')
 
 - [Streetwear brand Supreme is getting a surprising new owner](https://new-news.github.io/Latest/2024/07/17/streetwear_brand_supreme_is_getting_a_surprising_new_owner 'Streetwear brand Supreme is getting a surprising new owner')
@@ -45,8 +57,6 @@
 - [Biden’s 41-year evolution on Supreme Court reform](https://new-news.github.io/Latest/2024/07/17/bidens_41_year_evolution_on_supreme_court_reform 'Biden’s 41-year evolution on Supreme Court reform')
 
 - [Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters](https://new-news.github.io/Latest/2024/07/17/usha_vance_is_the_4th_person_of_south_asian_descent_to_be_part_of_the_2024_presidential_campaign__why_that_matters 'Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters')
-
-- [‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids](https://new-news.github.io/Latest/2024/07/17/my_dignity_was_stripped__football_legend_terrell_davis_tells_gma_about_getting_handcuffed_on_a_plane_in_front_of_his_kids '‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids')
 
 - [Prosecutors say neo-Nazi ‘murder cult’ leader plotted to give poison candy to Jewish kids in NYC](https://new-news.github.io/Latest/2024/07/17/prosecutors_say_neo_nazi_murder_cult_leader_plotted_to_give_poison_candy_to_jewish_kids_in_nyc 'Prosecutors say neo-Nazi ‘murder cult’ leader plotted to give poison candy to Jewish kids in NYC')
 
@@ -196,18 +206,8 @@
 
 - [Elon Musk says he’s moving SpaceX and X out of California](https://new-news.github.io/Latest/2024/07/17/elon_musk_says_hes_moving_spacex_and_x_out_of_california 'Elon Musk says he’s moving SpaceX and X out of California')
 
-- [Ingrid Andress says she’s checking into rehab after viral national anthem performance: ‘I was drunk last night’](https://new-news.github.io/Latest/2024/07/17/ingrid_andress_says_shes_checking_into_rehab_after_viral_national_anthem_performance__i_was_drunk_last_night 'Ingrid Andress says she’s checking into rehab after viral national anthem performance: ‘I was drunk last night’')
-
-- [Trump ready to be ‘peace broker’ on Ukraine, Orban tells skeptical European leaders](https://new-news.github.io/Latest/2024/07/17/trump_ready_to_be_peace_broker_on_ukraine__orban_tells_skeptical_european_leaders 'Trump ready to be ‘peace broker’ on Ukraine, Orban tells skeptical European leaders')
-
-- [Dow and S&P 500 close at record highs as investors bet on September rate cut](https://new-news.github.io/Latest/2024/07/17/dow_and_s_p_500_close_at_record_highs_as_investors_bet_on_september_rate_cut 'Dow and S&P 500 close at record highs as investors bet on September rate cut')
-
-- [Iranian spies tasked Israeli citizen with delivering severed animal head, Shin Bet says](https://new-news.github.io/Latest/2024/07/17/iranian_spies_tasked_israeli_citizen_with_delivering_severed_animal_head__shin_bet_says 'Iranian spies tasked Israeli citizen with delivering severed animal head, Shin Bet says')
-
-- [Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says](https://new-news.github.io/Latest/2024/07/17/minnesota_ban_on_18__to_20_year_olds_obtaining_handgun_permits_is_unconstitutional__federal_appeals_court_says 'Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [act](/ 'act')  [active](/ 'active')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [act](/ 'act')  [active](/ 'active')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon') 
