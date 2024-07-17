@@ -1,14 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 21:37:05`
+#### Latest Update : `2024-07-17 22:14:58`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
+- [President Joe Biden has tested positive for Covid-19](https://new-news.github.io/Latest/2024/07/17/president_joe_biden_has_tested_positive_for_covid_19 'President Joe Biden has tested positive for Covid-19')
 
 - [Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case](https://new-news.github.io/Latest/2024/07/17/attorneys_for_rust_armorer_file_for_dismissal_of_her_case_or_new_trial_after_collapse_of_alec_baldwin_case 'Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case')
+
+- [Special counsel appeals dismissal of Trump classified documents case](https://new-news.github.io/Latest/2024/07/17/special_counsel_appeals_dismissal_of_trump_classified_documents_case 'Special counsel appeals dismissal of Trump classified documents case')
+
+- [Ultra-Orthodox party in Israel urges young Haredi men to resist draft](https://new-news.github.io/Latest/2024/07/17/ultra_orthodox_party_in_israel_urges_young_haredi_men_to_resist_draft 'Ultra-Orthodox party in Israel urges young Haredi men to resist draft')
+
+- [Long Covid risk has dropped over time but remains substantial, study shows](https://new-news.github.io/Latest/2024/07/17/long_covid_risk_has_dropped_over_time_but_remains_substantial__study_shows 'Long Covid risk has dropped over time but remains substantial, study shows')
+
+- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
 
 - [Trump says he wouldn’t fire Fed Chair Jerome Powell. Don’t hold your breath](https://new-news.github.io/Latest/2024/07/17/trump_says_he_wouldnt_fire_fed_chair_jerome_powell__dont_hold_your_breath 'Trump says he wouldn’t fire Fed Chair Jerome Powell. Don’t hold your breath')
 
@@ -22,11 +30,7 @@
 
 - [Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident](https://new-news.github.io/Latest/2024/07/17/naomi_pomeroy__renowned_chef_and_top_chef_masters_star__dead_at_49_in_tubing_accident 'Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident')
 
-- [Long Covid risk has dropped over time but remains substantial, study shows](https://new-news.github.io/Latest/2024/07/17/long_covid_risk_has_dropped_over_time_but_remains_substantial__study_shows 'Long Covid risk has dropped over time but remains substantial, study shows')
-
 - [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
-
-- [Ultra-Orthodox party in Israel urges young Haredi men to resist draft](https://new-news.github.io/Latest/2024/07/17/ultra_orthodox_party_in_israel_urges_young_haredi_men_to_resist_draft 'Ultra-Orthodox party in Israel urges young Haredi men to resist draft')
 
 - [Biden administration urges Supreme Court to let it continue implementing student loan repayment program](https://new-news.github.io/Latest/2024/07/17/biden_administration_urges_supreme_court_to_let_it_continue_implementing_student_loan_repayment_program 'Biden administration urges Supreme Court to let it continue implementing student loan repayment program')
 
@@ -43,8 +47,6 @@
 - [Strange planet with a backward, cucumber-shape orbit is turning into another kind of world](https://new-news.github.io/Latest/2024/07/17/strange_planet_with_a_backward__cucumber_shape_orbit_is_turning_into_another_kind_of_world 'Strange planet with a backward, cucumber-shape orbit is turning into another kind of world')
 
 - [Flood emergency hits Arkansas after months of rain falls in a few hours](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours 'Flood emergency hits Arkansas after months of rain falls in a few hours')
-
-- [Special counsel appeals dismissal of Trump classified documents case](https://new-news.github.io/Latest/2024/07/17/special_counsel_appeals_dismissal_of_trump_classified_documents_case 'Special counsel appeals dismissal of Trump classified documents case')
 
 - [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/17/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
 
@@ -203,8 +205,6 @@
 - [Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting](https://new-news.github.io/Latest/2024/07/17/exclusive__secret_service_ramped_up_security_after_intel_of_iran_plot_to_assassinate_trump__no_known_connection_to_shooting 'Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting')
 
 - [Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out](https://new-news.github.io/Latest/2024/07/17/has_one_of_the_worlds_rarest_whales_washed_up_on_a_beach_scientists_are_scrambling_to_find_out 'Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out')
-
-- [FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/fbi_and_dhs_warn_of_potential_follow_on_or_retaliatory_attacks_following_trump_assassination_attempt 'FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt')
 
 
 

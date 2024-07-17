@@ -1,6 +1,6 @@
 # Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say
 
-Published :`2024-07-17 21:37:04`
+Published :`2024-07-17 22:14:57`
 
 ---
 

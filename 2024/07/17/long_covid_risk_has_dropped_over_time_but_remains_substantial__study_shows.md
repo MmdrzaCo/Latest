@@ -1,6 +1,6 @@
 # Long Covid risk has dropped over time but remains substantial, study shows
 
-Published :`2024-07-17 21:37:03`
+Published :`2024-07-17 22:14:56`
 
 ---
 
@@ -28,9 +28,11 @@ During Omicron, which started after Thanksgiving in 2021, 3.5% of people who wer
 
 The study has some limitations. People treated at the VA are mostly White men, so the study population isn’t as diverse as the general population, and its findings may not apply to everyone.
 
-It doesn’t account for possible differences in people who stopped after their primary series of Covid-19 vaccines and those who went on to get recommended boosters to keep their immunity up to date as the virus mutated over time.
+For example, a recent study found that nearly 1 in 10 people who get Covid-19 for the first time while pregnant will go on to develop long Covid, an incidence that may be higher than in the general population.
 
-It also doesn’t consider the immunity people might develop after infection and reinfection, although that’s a question senior study author Dr. Ziyad Al-Aly, who is chief of research and development at the Veterans Affairs St. Louis Health Care System, said he is looking into as a follow-up.
+The new study doesn’t account for possible differences in people who stopped after their primary series of Covid-19 vaccines and those who went on to get recommended boosters to keep their immunity up to date as the virus mutated over time.
+
+It also doesn’t consider the immunity that people might develop after infection and reinfection, although that’s a question senior study author Dr. Ziyad Al-Aly, who is chief of research and development at the Veterans Affairs St. Louis Health Care System, said he is looking into as a follow-up.
 
 Al-Aly estimates that nearly three-quarters of the drop in long Covid risk since the early days of the pandemic can be attributed to vaccines.
 
@@ -38,7 +40,17 @@ Although the cause or causes of long Covid symptoms aren’t completely understo
 
 “Vaccines actually help your immune system to get rid of the virus,” Al-Aly said. “They help the immune system suppress the viral load and clear the virus faster.”
 
-The other 30% of the drop in risk is probably to due to changes in the virus itself.
+The importance of vaccination is a key takeaway from the study, said Dr. Hector Bonilla, who is co-director of Stanford’s Post-Acute Covid-19 Syndrome Clinic.
+
+Bonilla said that when Covid vaccines first became available, most people were eager to get vaccinated, and doctors saw a large drop in the number of new patients coming to them with lingering symptoms.
+
+Now, instead of a flood, they have more of a steady influx of new patients at his clinic, some of whom develop long Covid after a second or third infection.
+
+“Long Covid is a bad illness,” Bonilla said. And many people are caught off-guard when they experience it. But at this point, most have made their minds up about whether to stay up-to-date with their shots. He says more people need to understand that vaccination is a critical way to lower long Covid risk.
+
+“Vaccination is still a very important piece to prevent long Covid symptoms,” Bonilla said.
+
+After the impact of vaccination, the study says, the other 30% of the drop in risk over time is probably to due to changes in the virus itself.
 
 “The virus is changing, is evolving, and it has, even among unvaccinated people, led to less risk of long Covid-19 over time than the original or the very early era of the pandemic,” Al-Aly said.
 

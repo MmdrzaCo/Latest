@@ -1,18 +1,18 @@
 # Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case
 
-Published :`2024-07-17 21:37:03`
+Published :`2024-07-17 22:14:56`
 
 ---
 
 Attorneys for “Rust” movie armorer Hannah Gutierrez Reed – convicted of involuntary manslaughter in the 2021 on-set fatal shooting of a cinematographer – have filed a motion for a new trial or to have her case thrown out after the related case against actor Alec Baldwin was dismissed in dramatic fashion last week.
 
-The attorneys filed the motion Tuesday in Santa Fe First Judicial District Court, citing “egregious prosecutorial misconduct” and multiple allegations of “severe and ongoing discovery violations by the state.”
+The attorneys filed the motion Tuesday in New Mexico’s Santa Fe First Judicial District Court, citing “egregious prosecutorial misconduct” and multiple allegations of “severe and ongoing discovery violations by the state.”
 
 Gutierrez Reed’s attorneys ask the court to order her prison release and to remove Kari Morrissey as the case’s special prosecutor “for the misconduct that has been found, and the violations committed in Ms. Gutierrez Reed’s case.”
 
 On Friday, the involuntary manslaughter case against Baldwin – who authorities said held the prop gun that fired the shot that killed cinematographer Halyna Hutchins in October 2021 – was dismissed after the judge overseeing the case ruled prosecutors did not properly turn over evidence to the defense. Legal experts had said the collapse of the actor’s case could result in Gutierrez Reed being freed from the New Mexico state prison, where she’s serving an 18-month sentence following her March conviction.
 
-In Tuesday’s filing, Gutierrez Reed’s attorneys argue that her case should be thrown out or retried in part because of judge’s determination of withheld evidence in Baldwin’s case; what they assert was Morrissey lying in court about the evidence on Friday; and what they say were other instances of suppressed evidence in the armorer’s case.
+In Tuesday’s filing, Gutierrez Reed’s attorneys argue that her case should be thrown out or retried in part because of the judge’s determination of withheld evidence in Baldwin’s case; what they assert was Morrissey lying in court about the evidence on Friday; and what they say were other instances of suppressed evidence in the armorer’s case.
 
 In a statement Wednesday to CNN, Morrissey said she would respond “in writing” to the defense motions.
 
