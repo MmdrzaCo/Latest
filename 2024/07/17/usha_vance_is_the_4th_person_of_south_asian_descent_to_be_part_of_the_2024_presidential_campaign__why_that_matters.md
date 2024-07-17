@@ -1,6 +1,6 @@
 # Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters
 
-Published :`2024-07-17 09:37:07`
+Published :`2024-07-17 10:16:19`
 
 ---
 
