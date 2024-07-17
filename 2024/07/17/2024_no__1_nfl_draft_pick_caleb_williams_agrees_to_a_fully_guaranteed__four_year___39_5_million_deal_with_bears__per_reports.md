@@ -1,6 +1,6 @@
 # 2024 No. 1 NFL Draft pick Caleb Williams agrees to a fully guaranteed, four-year, $39.5 million deal with Bears, per reports
 
-Published :`2024-07-17 20:15:59`
+Published :`2024-07-17 20:36:04`
 
 ---
 

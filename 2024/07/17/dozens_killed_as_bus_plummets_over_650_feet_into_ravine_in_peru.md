@@ -1,6 +1,6 @@
 # Dozens killed as bus plummets over 650 feet into ravine in Peru
 
-Published :`2024-07-17 20:16:03`
+Published :`2024-07-17 20:36:05`
 
 ---
 

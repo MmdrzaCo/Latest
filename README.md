@@ -1,10 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 20:16:05`
+#### Latest Update : `2024-07-17 20:36:06`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
+
+- [Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case](https://new-news.github.io/Latest/2024/07/17/brad_pitt_pushes_back_on_angelina_jolies oppressive_and_harassing request_to_disclose_messages_in_miraval_case 'Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case')
+
+- [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
+
+- [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
 
 - [Nasdaq has worst day since 2022 as tech stocks get slammed](https://new-news.github.io/Latest/2024/07/17/nasdaq_has_worst_day_since_2022_as_tech_stocks_get_slammed 'Nasdaq has worst day since 2022 as tech stocks get slammed')
 
@@ -18,13 +26,9 @@
 
 - [Special counsel appeals dismissal of Trump classified documents case](https://new-news.github.io/Latest/2024/07/17/special_counsel_appeals_dismissal_of_trump_classified_documents_case 'Special counsel appeals dismissal of Trump classified documents case')
 
-- [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
-
 - [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/17/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
 
 - [Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’](https://new-news.github.io/Latest/2024/07/17/actor_treat_williams_earns_posthumous_emmy_nomination_for_final_role_in_feud 'Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’')
-
-- [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
 
 - [Joe Biden made a false statement about his current polling](https://new-news.github.io/Latest/2024/07/17/joe_biden_made_a_false_statement_about_his_current_polling 'Joe Biden made a false statement about his current polling')
 
@@ -37,8 +41,6 @@
 - [Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe](https://new-news.github.io/Latest/2024/07/17/paraguay_carries_out_largest_cocaine_bust_in_its_history_as_4_tons_are_found_in_sugar_shipment_headed_to_europe 'Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe')
 
 - [US imposes visa restrictions on former IDF sergeant for human rights violation](https://new-news.github.io/Latest/2024/07/17/us_imposes_visa_restrictions_on_former_idf_sergeant_for_human_rights_violation 'US imposes visa restrictions on former IDF sergeant for human rights violation')
-
-- [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
 
 - [‘Shōgun’ makes Emmys history](https://new-news.github.io/Latest/2024/07/17/shōgun_makes_emmys_history '‘Shōgun’ makes Emmys history')
 
@@ -204,10 +206,8 @@
 
 - [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/17/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
 
-- [Growing faction of Democrats revolt against Biden’s upcoming virtual nomination](https://new-news.github.io/Latest/2024/07/17/growing_faction_of_democrats_revolt_against_bidens_upcoming_virtual_nomination 'Growing faction of Democrats revolt against Biden’s upcoming virtual nomination')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [act](/ 'act')  [active](/ 'active')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alameda](/ 'alameda')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [act](/ 'act')  [active](/ 'active')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alameda](/ 'alameda')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment') 

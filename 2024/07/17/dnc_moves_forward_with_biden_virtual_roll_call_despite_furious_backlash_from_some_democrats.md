@@ -1,6 +1,6 @@
 # DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats
 
-Published :`2024-07-17 20:15:56`
+Published :`2024-07-17 20:36:02`
 
 ---
 
@@ -20,7 +20,7 @@ In Wednesday’s letter, the co-chairs of the rules committee alluded to reports
 
 “None of this will be rushed,” they said.
 
-House Minority Leader Hakeem Jeffries was involved in the lobbying push by Democrats to delay the DNC’s virtual roll call vote past August 1, according to multiple sources. Jeffries was relaying concerns he was hearing from his members, many of whom were furious that the DNC was considering holding the vote next week.
+House Minority Leader Hakeem Jeffries was involved in the lobbying push by Democrats to delay the DNC’s virtual roll call vote past August 1, according to multiple sources. Jeffries was relaying concerns he was hearing from his members, many of whom were furious that the DNC was considering holding the vote next week. Senate Majority Leader Chuck Schumer also pushed for the delay, according to a source familiar with the matter.
 
 Jeffries has publicly maintained he supports Biden atop the ticket, even as panic is growing in Democratic ranks over Biden’s chances.
 

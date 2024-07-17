@@ -1,6 +1,6 @@
 # Nasdaq has worst day since 2022 as tech stocks get slammed
 
-Published :`2024-07-17 20:15:56`
+Published :`2024-07-17 20:36:02`
 
 ---
 
@@ -14,7 +14,7 @@ Shares of tech heavyweight Nvidia (NVDA) slumped 6.6% and rival chipmaker Advanc
 
 The selloff comes after a Tuesday report from Bloomberg that the Biden administration is mulling plans to impose more sanctions on Chinese tech firms and to heighten semiconductor trade restrictions between the US and China.
 
-The US Commerce Department did not immediately respond to CNN’s request for comment.
+The US Commerce Department declined to comment.
 
 Investors are also selling tech stocks after a cool inflation report last week and stronger-than-expected retail sales data on Tuesday pushed up bets for a rate cut in September. Wall Street is looking to beaten-down stocks that tend to perform better when borrowing costs are low.
 
