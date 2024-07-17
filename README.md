@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 02:21:50`
+#### Latest Update : `2024-07-17 02:47:30`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
+
+- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
+
+- [Republican Senate candidates take the spotlight at Milwaukee convention as GOP eyes expanded map](https://new-news.github.io/Latest/2024/07/17/republican_senate_candidates_take_the_spotlight_at_milwaukee_convention_as_gop_eyes_expanded_map 'Republican Senate candidates take the spotlight at Milwaukee convention as GOP eyes expanded map')
 
 - [Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say](https://new-news.github.io/Latest/2024/07/17/risk_of_illinois_dam_breach_is_under_control_after_once_in_a_century_rainfall__officials_say 'Risk of Illinois dam breach is under control after once-in-a-century rainfall, officials say')
 
@@ -13,8 +19,6 @@
 - [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/17/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
 
 - [LaMonica McIver will win special election Democratic primary for deep-blue House seat in New Jersey, CNN projects](https://new-news.github.io/Latest/2024/07/17/lamonica_mciver_will_win_special_election_democratic_primary_for_deep_blue_house_seat_in_new_jersey__cnn_projects 'LaMonica McIver will win special election Democratic primary for deep-blue House seat in New Jersey, CNN projects')
-
-- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
 
 - [2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces](https://new-news.github.io/Latest/2024/07/17/2_death_row_inmates_to_be_resentenced_amid_review_into_decades_of_prosecutorial_misconduct_in_alameda_county__da_announces '2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces')
 
@@ -39,8 +43,6 @@
 - [Exiled Chinese billionaire Guo Wengui found guilty on federal fraud charges](https://new-news.github.io/Latest/2024/07/17/exiled_chinese_billionaire_guo_wengui_found_guilty_on_federal_fraud_charges 'Exiled Chinese billionaire Guo Wengui found guilty on federal fraud charges')
 
 - [Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say](https://new-news.github.io/Latest/2024/07/17/biden_to_push_for_supreme_court_ethics_reform__term_limits_and_amendment_to_overturn_immunity_ruling__sources_say 'Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say')
-
-- [Republican Senate candidates take the spotlight at Milwaukee convention](https://new-news.github.io/Latest/2024/07/17/republican_senate_candidates_take_the_spotlight_at_milwaukee_convention 'Republican Senate candidates take the spotlight at Milwaukee convention')
 
 - [Giuliani has ‘no regrets’ about defaming 2020 election workers](https://new-news.github.io/Latest/2024/07/17/giuliani_has_no_regrets_about_defaming_2020_election_workers 'Giuliani has ‘no regrets’ about defaming 2020 election workers')
 
@@ -203,8 +205,6 @@
 - [North Korean fashion, drums, and jubilation: Here’s how South Koreans celebrated the first-ever Defectors’ Day](https://new-news.github.io/Latest/2024/07/17/north_korean_fashion__drums__and_jubilation__heres_how_south_koreans_celebrated_the_first_ever_defectors_day 'North Korean fashion, drums, and jubilation: Here’s how South Koreans celebrated the first-ever Defectors’ Day')
 
 - [Google is close to making its biggest acquisition ever](https://new-news.github.io/Latest/2024/07/17/google_is_close_to_making_its_biggest_acquisition_ever 'Google is close to making its biggest acquisition ever')
-
-- [Secret Service director says ‘the buck stops with me’](https://new-news.github.io/Latest/2024/07/17/secret_service_director_says_the_buck_stops_with_me 'Secret Service director says ‘the buck stops with me’')
 
 
 

@@ -1,6 +1,6 @@
 # Exiled Chinese billionaire Guo Wengui found guilty on federal fraud charges
 
-Published :`2024-07-17 02:21:47`
+Published :`2024-07-17 02:47:29`
 
 ---
 
@@ -26,7 +26,7 @@ Prosecutors said Guo used money raised from victims as his “personal piggy ban
 
 “Guo’s schemes were sprawling,” Finkel said. “They were vast. But they collapsed to a simple, inescapable, and obvious truth: Miles Guo lied to take other people’s money.”
 
-Guo’s lawyer, Sidhardha Kamaraju, described Guo as a political dissident who had to conceal his locations and use cryptocurrency to move money freely from an oppressive regime. Kamaraju’s final witness detailed that Jho Low, aMalaysian fugitive wanted by the US government, spent around $100 million trying to lobby the Trump administration to get Guo extradited to China.
+Guo’s lawyer, Sidhardha Kamaraju, described Guo as a political dissident who had to conceal his locations and use cryptocurrency to move money freely from an oppressive regime. Kamaraju’s final witness detailed that Jho Low, a Malaysian fugitive wanted by the US government, spent around $100 million trying to lobby the Trump administration to get Guo extradited to China.
 
 “The goal of making investors rich was also a way to spit in the eyes of the CCP,” Kamaraju said, referring to the Chinese Communist Party. “Mr. Guo is simply trying to show people that they could live the same life afforded to China’s elites … elites like him.”
 

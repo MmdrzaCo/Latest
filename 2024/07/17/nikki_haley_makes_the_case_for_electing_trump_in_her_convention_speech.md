@@ -1,6 +1,6 @@
 # Nikki Haley makes the case for electing Trump in her convention speech
 
-Published :`2024-07-17 02:21:47`
+Published :`2024-07-17 02:47:29`
 
 ---
 

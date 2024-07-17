@@ -1,6 +1,6 @@
 # North Korean fashion, drums, and jubilation: Here’s how South Koreans celebrated the first-ever Defectors’ Day
 
-Published :`2024-07-17 02:21:50`
+Published :`2024-07-17 02:47:30`
 
 ---
 
