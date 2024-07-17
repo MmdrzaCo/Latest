@@ -1,6 +1,6 @@
 # Takeaways from the second night of the Republican National Convention
 
-Published :`2024-07-17 11:12:55`
+Published :`2024-07-17 11:36:17`
 
 ---
 

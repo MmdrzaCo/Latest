@@ -1,6 +1,6 @@
 # Gazans endure deadly weekend of Israeli strikes as UN chief laments ‘incomprehensible and inexcusable’ destruction
 
-Published :`2024-07-17 11:12:57`
+Published :`2024-07-17 11:36:19`
 
 ---
 
