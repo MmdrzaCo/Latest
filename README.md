@@ -1,10 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 13:18:01`
+#### Latest Update : `2024-07-17 13:35:58`
 
 ## Latest News Grabbing 
 
 ---
+
+- [‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids](https://new-news.github.io/Latest/2024/07/17/my_dignity_was_stripped__football_legend_terrell_davis_tells_gma_about_getting_handcuffed_on_a_plane_in_front_of_his_kids '‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids')
+
+- [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/17/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
+
+- [Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army](https://new-news.github.io/Latest/2024/07/17/archaeologists_identify_roman_wall_built_to_hold_back_rebel_slave_spartacus_and_his_army 'Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army')
+
+- [Opinion: My teenage son had an influencer in his class. This is what it was like](https://new-news.github.io/Latest/2024/07/17/opinion__my_teenage_son_had_an_influencer_in_his_class__this_is_what_it_was_like 'Opinion: My teenage son had an influencer in his class. This is what it was like')
 
 - [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
 
@@ -37,8 +45,6 @@
 - [American League tops National League for 10th time in last 11 MLB All-Star Games](https://new-news.github.io/Latest/2024/07/17/american_league_tops_national_league_for_10th_time_in_last_11_mlb_all_star_games 'American League tops National League for 10th time in last 11 MLB All-Star Games')
 
 - [Enzo Fernández apologizes for singing racist chant with Argentina teammates about France](https://new-news.github.io/Latest/2024/07/17/enzo_fernández_apologizes_for_singing_racist_chant_with_argentina_teammates_about_france 'Enzo Fernández apologizes for singing racist chant with Argentina teammates about France')
-
-- [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/17/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
 
 - [Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video](https://new-news.github.io/Latest/2024/07/17/trump_shares_vaccine_skepticism_on_call_with_rfk_jr__in_since_deleted_video 'Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video')
 
@@ -199,12 +205,6 @@
 - [‘Morning Joe’ hosts take on-air swipe at NBC leadership after program was pulled from air](https://new-news.github.io/Latest/2024/07/17/morning_joe_hosts_take_on_air_swipe_at_nbc_leadership_after_program_was_pulled_from_air '‘Morning Joe’ hosts take on-air swipe at NBC leadership after program was pulled from air')
 
 - [Elon Musk is going all-in on Donald Trump](https://new-news.github.io/Latest/2024/07/17/elon_musk_is_going_all_in_on_donald_trump 'Elon Musk is going all-in on Donald Trump')
-
-- [Covid-19’s back. Should you be worried?](https://new-news.github.io/Latest/2024/07/17/covid_19s_back__should_you_be_worried 'Covid-19’s back. Should you be worried?')
-
-- [New inflation warning: Get used to high interest rates, IMF says](https://new-news.github.io/Latest/2024/07/17/new_inflation_warning__get_used_to_high_interest_rates__imf_says 'New inflation warning: Get used to high interest rates, IMF says')
-
-- [Man bitten by shark while spearfishing in the Florida Keys](https://new-news.github.io/Latest/2024/07/17/man_bitten_by_shark_while_spearfishing_in_the_florida_keys 'Man bitten by shark while spearfishing in the Florida Keys')
 
 
 

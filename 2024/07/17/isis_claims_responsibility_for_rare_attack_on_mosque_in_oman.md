@@ -1,6 +1,6 @@
 # ISIS claims responsibility for rare attack on mosque in Oman
 
-Published :`2024-07-17 13:17:59`
+Published :`2024-07-17 13:35:55`
 
 ---
 
