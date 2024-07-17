@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 07:37:21`
+#### Latest Update : `2024-07-17 08:19:27`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Work from home could lead to more homes in vacant offices](https://new-news.github.io/Latest/2024/07/17/work_from_home_could_lead_to_more_homes_in_vacant_offices 'Work from home could lead to more homes in vacant offices')
+
+- [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/17/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
+
+- [Drake shows video of flooded mansion as torrential rain batters Toronto](https://new-news.github.io/Latest/2024/07/17/drake_shows_video_of_flooded_mansion_as_torrential_rain_batters_toronto 'Drake shows video of flooded mansion as torrential rain batters Toronto')
 
 - [Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea](https://new-news.github.io/Latest/2024/07/17/former_cia_analyst_sue_mi_terry_indicted_on_charges_of_secretly_working_for_south_korea 'Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea')
 
@@ -15,8 +21,6 @@
 - [Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case](https://new-news.github.io/Latest/2024/07/17/attorneys_for_rust_armorer_file_for_dismissal_of_her_case_or_new_trial_after_collapse_of_alec_baldwin_case 'Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case')
 
 - [Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader](https://new-news.github.io/Latest/2024/07/17/trumps_former_rivals_bury_their_criticism_to_celebrate_all_powerful_gop_leader 'Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader')
-
-- [Drake shows video of flooded mansion as torrential rain batters Toronto](https://new-news.github.io/Latest/2024/07/17/drake_shows_video_of_flooded_mansion_as_torrential_rain_batters_toronto 'Drake shows video of flooded mansion as torrential rain batters Toronto')
 
 - [A spate of stabbings has sparked online debate about China’s economic woes](https://new-news.github.io/Latest/2024/07/17/a_spate_of_stabbings_has_sparked_online_debate_about_chinas_economic_woes 'A spate of stabbings has sparked online debate about China’s economic woes')
 
@@ -201,10 +205,6 @@
 - [This grocery store item is beloved in the US. But it’s banned in South Korea](https://new-news.github.io/Latest/2024/07/17/this_grocery_store_item_is_beloved_in_the_us__but_its_banned_in_south_korea 'This grocery store item is beloved in the US. But it’s banned in South Korea')
 
 - [Colombian Football Federation president among dozens arrested at Copa América final](https://new-news.github.io/Latest/2024/07/17/colombian_football_federation_president_among_dozens_arrested_at_copa_américa_final 'Colombian Football Federation president among dozens arrested at Copa América final')
-
-- [2 accused of kidnapping Louisiana girls and killing one of them are indicted in Mississippi](https://new-news.github.io/Latest/2024/07/17/2_accused_of_kidnapping_louisiana_girls_and_killing_one_of_them_are_indicted_in_mississippi '2 accused of kidnapping Louisiana girls and killing one of them are indicted in Mississippi')
-
-- [Vulnerable Democrats outraise GOP opponents again, Trump sees Silicon Valley cash surge and other second-quarter takeaways](https://new-news.github.io/Latest/2024/07/17/vulnerable_democrats_outraise_gop_opponents_again__trump_sees_silicon_valley_cash_surge_and_other_second_quarter_takeaways 'Vulnerable Democrats outraise GOP opponents again, Trump sees Silicon Valley cash surge and other second-quarter takeaways')
 
 
 

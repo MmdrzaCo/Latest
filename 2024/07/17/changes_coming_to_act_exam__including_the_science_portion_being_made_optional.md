@@ -1,6 +1,6 @@
 # Changes coming to ACT exam, including the science portion being made optional
 
-Published :`2024-07-17 07:37:18`
+Published :`2024-07-17 08:19:24`
 
 ---
 

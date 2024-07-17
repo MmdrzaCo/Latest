@@ -1,6 +1,6 @@
 # Families release photos of five female Israeli soldiers from their first days of captivity in Gaza
 
-Published :`2024-07-17 07:37:19`
+Published :`2024-07-17 08:19:25`
 
 ---
 

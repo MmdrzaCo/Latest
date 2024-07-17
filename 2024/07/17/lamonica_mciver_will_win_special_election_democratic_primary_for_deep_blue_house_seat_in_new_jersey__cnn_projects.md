@@ -1,6 +1,6 @@
 # LaMonica McIver will win special election Democratic primary for deep-blue House seat in New Jersey, CNN projects
 
-Published :`2024-07-17 07:37:18`
+Published :`2024-07-17 08:19:24`
 
 ---
 
