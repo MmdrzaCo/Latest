@@ -1,6 +1,6 @@
 # King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament
 
-Published :`2024-07-17 16:19:01`
+Published :`2024-07-17 16:41:32`
 
 ---
 
@@ -40,7 +40,7 @@ In particular, Starmer promised a clampdown on illegal migration and small boat 
 
 The speech pledged extra powers for law enforcement to investigate people smuggling, including stopping and searching at the border, and the creation of a new Border Security Command. It also promised to clear Britain’s vast asylum backlog, which has ballooned to near 100,000 people in recent years and forced the government to accommodate asylum seekers in hotels and detention centers for months while they await news on their claim.
 
-At home, a number of institutions were targeted for modernization – most awkwardly, the very room in which Charles gave his speech. Under government plans, hereditary peers will no longer be able to sit and vote in the House of Lords, in a “first step in wider reform” to the chamber. e
+At home, a number of institutions were targeted for modernization – most awkwardly, the very room in which Charles gave his speech. Under government plans, hereditary peers will no longer be able to sit and vote in the House of Lords, in a “first step in wider reform” to the chamber.
 
 A new draft Race Equality Bill will meanwhile make it mandatory for large employers to report ethnicity and disability pay in the same way they currently report gender pay.
 

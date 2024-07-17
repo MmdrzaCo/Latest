@@ -1,6 +1,6 @@
 # Iranian spies tasked Israeli citizen with delivering severed animal head, Shin Bet says
 
-Published :`2024-07-17 16:19:09`
+Published :`2024-07-17 16:41:40`
 
 ---
 

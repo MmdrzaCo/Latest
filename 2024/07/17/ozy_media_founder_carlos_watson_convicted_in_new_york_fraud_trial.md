@@ -1,6 +1,6 @@
 # Ozy Media founder Carlos Watson convicted in New York fraud trial
 
-Published :`2024-07-17 16:19:08`
+Published :`2024-07-17 16:41:39`
 
 ---
 

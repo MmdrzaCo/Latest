@@ -1,12 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 16:19:09`
+#### Latest Update : `2024-07-17 16:41:41`
 
 ## Latest News Grabbing 
 
 ---
 
 - [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/17/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
+
+- [8 dead and others trapped after fire breaks out in China shopping mall](https://new-news.github.io/Latest/2024/07/17/8_dead_and_others_trapped_after_fire_breaks_out_in_china_shopping_mall '8 dead and others trapped after fire breaks out in China shopping mall')
+
+- [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/17/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
+
+- [Tech stocks fall after report that Biden administration plans to crack down on China chipmakers](https://new-news.github.io/Latest/2024/07/17/tech_stocks_fall_after_report_that_biden_administration_plans_to_crack_down_on_china_chipmakers 'Tech stocks fall after report that Biden administration plans to crack down on China chipmakers')
+
+- [Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea](https://new-news.github.io/Latest/2024/07/17/former_cia_analyst_sue_mi_terry_indicted_on_charges_of_secretly_working_for_south_korea 'Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea')
 
 - [Chicago gas prices could soar after tornado narrowly misses refinery](https://new-news.github.io/Latest/2024/07/17/chicago_gas_prices_could_soar_after_tornado_narrowly_misses_refinery 'Chicago gas prices could soar after tornado narrowly misses refinery')
 
@@ -17,10 +25,6 @@
 - [How this soccer player saved a Jewish teenager from persecution in Nazi Germany](https://new-news.github.io/Latest/2024/07/17/how_this_soccer_player_saved_a_jewish_teenager_from_persecution_in_nazi_germany 'How this soccer player saved a Jewish teenager from persecution in Nazi Germany')
 
 - [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
-
-- [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/17/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
-
-- [6 dead and others trapped after fire breaks out in China shopping mall](https://new-news.github.io/Latest/2024/07/17/6_dead_and_others_trapped_after_fire_breaks_out_in_china_shopping_mall '6 dead and others trapped after fire breaks out in China shopping mall')
 
 - [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
 
@@ -107,8 +111,6 @@
 - [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/17/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
 
 - [Drake shows video of flooded mansion as torrential rain batters Toronto](https://new-news.github.io/Latest/2024/07/17/drake_shows_video_of_flooded_mansion_as_torrential_rain_batters_toronto 'Drake shows video of flooded mansion as torrential rain batters Toronto')
-
-- [Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea](https://new-news.github.io/Latest/2024/07/17/former_cia_analyst_sue_mi_terry_indicted_on_charges_of_secretly_working_for_south_korea 'Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea')
 
 - [Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region](https://new-news.github.io/Latest/2024/07/17/deadly_floods_engulf_parts_of_south_asia_as_extreme_weather_devastates_vulnerable_region 'Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region')
 
@@ -204,10 +206,8 @@
 
 - [Jennifer Lopez and Ben Affleck mark their second wedding anniversary](https://new-news.github.io/Latest/2024/07/17/jennifer_lopez_and_ben_affleck_mark_their_second_wedding_anniversary 'Jennifer Lopez and Ben Affleck mark their second wedding anniversary')
 
-- [Tuskegee syphilis study whistleblower Peter Buxtun has died at age 86](https://new-news.github.io/Latest/2024/07/17/tuskegee_syphilis_study_whistleblower_peter_buxtun_has_died_at_age_86 'Tuskegee syphilis study whistleblower Peter Buxtun has died at age 86')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american')  [americans](/ 'americans') 

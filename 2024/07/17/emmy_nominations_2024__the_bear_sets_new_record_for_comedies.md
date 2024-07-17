@@ -1,6 +1,6 @@
 # Emmy nominations 2024: ‘The Bear’ sets new record for comedies
 
-Published :`2024-07-17 16:19:01`
+Published :`2024-07-17 16:41:32`
 
 ---
 
@@ -34,7 +34,7 @@ See below for a list of nominees in several top categories.
 
 “Mr. and Mrs. Smith”
 
-“Shogun”
+“Shōgun”
 
 “Slow Horses”
 
