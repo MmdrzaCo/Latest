@@ -1,6 +1,6 @@
 # Republican Senate candidates take the spotlight at Milwaukee convention as GOP eyes expanded map
 
-Published :`2024-07-17 12:55:28`
+Published :`2024-07-17 13:18:00`
 
 ---
 
