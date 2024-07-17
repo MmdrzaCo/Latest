@@ -1,10 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 11:36:20`
+#### Latest Update : `2024-07-17 12:29:28`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
+
+- [Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime](https://new-news.github.io/Latest/2024/07/17/biden_administration_points_to_29__drop_in_border_arrests_as_rnc_turns_focus_to_immigration_and_crime 'Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime')
+
+- [Supreme is getting a surprising new owner](https://new-news.github.io/Latest/2024/07/17/supreme_is_getting_a_surprising_new_owner 'Supreme is getting a surprising new owner')
+
+- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
+
+- [HSBC names third CEO in less than eight years](https://new-news.github.io/Latest/2024/07/17/hsbc names_third_ceo_in_less_than_eight_years 'HSBC names third CEO in less than eight years')
+
+- [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/17/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
 
 - [‘Morning Joe’ backlash is latest mess for NBC and Comcast executives](https://new-news.github.io/Latest/2024/07/17/morning_joe_backlash_is_latest_mess_for_nbc_and_comcast_executives '‘Morning Joe’ backlash is latest mess for NBC and Comcast executives')
 
@@ -17,8 +29,6 @@
 - [Enzo Fernández apologizes for singing racist chant with Argentina teammates about France](https://new-news.github.io/Latest/2024/07/17/enzo_fernández_apologizes_for_singing_racist_chant_with_argentina_teammates_about_france 'Enzo Fernández apologizes for singing racist chant with Argentina teammates about France')
 
 - [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/17/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
-
-- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
 
 - [Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video](https://new-news.github.io/Latest/2024/07/17/trump_shares_vaccine_skepticism_on_call_with_rfk_jr__in_since_deleted_video 'Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video')
 
@@ -122,8 +132,6 @@
 
 - [Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors](https://new-news.github.io/Latest/2024/07/17/lawyers_representing_us_soldier_who_crossed_into_north_korea_are_in_plea_negotiations_with_prosecutors 'Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors')
 
-- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
-
 - [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/17/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
 
 - [Growing faction of Democrats revolt against Biden’s upcoming virtual nomination](https://new-news.github.io/Latest/2024/07/17/growing_faction_of_democrats_revolt_against_bidens_upcoming_virtual_nomination 'Growing faction of Democrats revolt against Biden’s upcoming virtual nomination')
@@ -155,8 +163,6 @@
 - [Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says](https://new-news.github.io/Latest/2024/07/17/minnesota_ban_on_18__to_20_year_olds_obtaining_handgun_permits_is_unconstitutional__federal_appeals_court_says 'Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says')
 
 - [Democratic Sen. Bob Menendez found guilty in federal corruption trial; Chuck Schumer calls on him to resign](https://new-news.github.io/Latest/2024/07/17/democratic_sen__bob_menendez_found_guilty_in_federal_corruption_trial__chuck_schumer_calls_on_him_to_resign 'Democratic Sen. Bob Menendez found guilty in federal corruption trial; Chuck Schumer calls on him to resign')
-
-- [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/17/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
 
 - [Jennifer Lopez and Ben Affleck mark their second wedding anniversary](https://new-news.github.io/Latest/2024/07/17/jennifer_lopez_and_ben_affleck_mark_their_second_wedding_anniversary 'Jennifer Lopez and Ben Affleck mark their second wedding anniversary')
 
@@ -200,14 +206,8 @@
 
 - [Takeaways from the first day of the Republican National Convention](https://new-news.github.io/Latest/2024/07/17/takeaways_from_the_first_day_of_the_republican_national_convention 'Takeaways from the first day of the Republican National Convention')
 
-- [Father and daughter found dead at Canyonlands National Park after getting lost, running out of water in triple-digit heat](https://new-news.github.io/Latest/2024/07/17/father_and_daughter_found_dead_at_canyonlands_national_park_after_getting_lost__running_out_of_water_in_triple_digit_heat 'Father and daughter found dead at Canyonlands National Park after getting lost, running out of water in triple-digit heat')
-
-- [Natalie Portman explains how Rihanna gave her the post-divorce boost she needed](https://new-news.github.io/Latest/2024/07/17/natalie_portman_explains_how_rihanna_gave_her_the_post_divorce_boost_she_needed 'Natalie Portman explains how Rihanna gave her the post-divorce boost she needed')
-
-- [Conspiracy theories spread wildly after the first assassination attempt on a US president in the social media age](https://new-news.github.io/Latest/2024/07/17/conspiracy_theories_spread_wildly_after_the_first_assassination_attempt_on_a_us_president_in_the_social_media_age 'Conspiracy theories spread wildly after the first assassination attempt on a US president in the social media age')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies')  [amazon](/ 'amazon') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies') 

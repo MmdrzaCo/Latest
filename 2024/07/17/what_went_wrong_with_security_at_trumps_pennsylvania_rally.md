@@ -1,6 +1,6 @@
 # What went wrong with security at Trump’s Pennsylvania rally
 
-Published :`2024-07-17 11:36:18`
+Published :`2024-07-17 12:29:19`
 
 ---
 
@@ -20,9 +20,13 @@ No one stopped the shooter from reaching the roof of the American Glass Research
 
 Snipers from the Butler County Emergency Services Unit were in the same complex, a source familiar with the ongoing investigation told CNN, but were not aware of the gunman on the roof. They were positioned on the second floor, watching the rally crowd, the source said.
 
-### Agencies initially blamed each other, unclear who was in charge of that area
+### Agencies initially blamed each other
 
-US Secret Service Director Kimberly Cheatle told ABC News her agents only “shared support” for the building used for the shooting.
+The Secret Service was “solely responsible” for implementation of security at the rally, Secret Service Director Kimberly Cheatle told CNN’s Whitney Wild.
+
+“At that particular site, we divided up areas of responsibility, but the Secret Service is totally responsible for the design and implementation and the execution of the site,” she told CNN Tuesday evening.
+
+But Cheatle earlier told ABC News her agents only “shared support” for the building used for the shooting.
 
 “We sought assistance from our local counterparts for the outer perimeter,” she said. “There was local police in that building – there was local police in the area that were responsible for the outer perimeter of the building.”
 
