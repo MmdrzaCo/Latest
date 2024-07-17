@@ -1,14 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 19:36:41`
+#### Latest Update : `2024-07-17 20:16:05`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
+- [Nasdaq has worst day since 2022 as tech stocks get slammed](https://new-news.github.io/Latest/2024/07/17/nasdaq_has_worst_day_since_2022_as_tech_stocks_get_slammed 'Nasdaq has worst day since 2022 as tech stocks get slammed')
+
+- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
+
+- [Strange planet with a backward, cucumber-shape orbit is turning into another kind of world](https://new-news.github.io/Latest/2024/07/17/strange_planet_with_a_backward__cucumber_shape_orbit_is_turning_into_another_kind_of_world 'Strange planet with a backward, cucumber-shape orbit is turning into another kind of world')
+
+- [Flood emergency hits Arkansas after months of rain falls in a few hours](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours 'Flood emergency hits Arkansas after months of rain falls in a few hours')
+
+- [US military ends troubled temporary pier mission off Gaza coast](https://new-news.github.io/Latest/2024/07/17/us_military_ends_troubled_temporary_pier_mission_off_gaza_coast 'US military ends troubled temporary pier mission off Gaza coast')
 
 - [Special counsel appeals dismissal of Trump classified documents case](https://new-news.github.io/Latest/2024/07/17/special_counsel_appeals_dismissal_of_trump_classified_documents_case 'Special counsel appeals dismissal of Trump classified documents case')
+
+- [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
 
 - [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/17/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
 
@@ -24,15 +34,11 @@
 
 - [More student loan borrowers are getting relief through bankruptcy after Biden policy change](https://new-news.github.io/Latest/2024/07/17/more_student_loan_borrowers_are_getting_relief_through_bankruptcy_after_biden_policy_change 'More student loan borrowers are getting relief through bankruptcy after Biden policy change')
 
-- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
-
 - [Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe](https://new-news.github.io/Latest/2024/07/17/paraguay_carries_out_largest_cocaine_bust_in_its_history_as_4_tons_are_found_in_sugar_shipment_headed_to_europe 'Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe')
 
 - [US imposes visa restrictions on former IDF sergeant for human rights violation](https://new-news.github.io/Latest/2024/07/17/us_imposes_visa_restrictions_on_former_idf_sergeant_for_human_rights_violation 'US imposes visa restrictions on former IDF sergeant for human rights violation')
 
 - [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
-
-- [Flood emergency hits Arkansas after months of rain falls in a few hours](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours 'Flood emergency hits Arkansas after months of rain falls in a few hours')
 
 - [‘Shōgun’ makes Emmys history](https://new-news.github.io/Latest/2024/07/17/shōgun_makes_emmys_history '‘Shōgun’ makes Emmys history')
 
@@ -45,8 +51,6 @@
 - [8 dead and others trapped after fire breaks out in China shopping mall](https://new-news.github.io/Latest/2024/07/17/8_dead_and_others_trapped_after_fire_breaks_out_in_china_shopping_mall '8 dead and others trapped after fire breaks out in China shopping mall')
 
 - [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/17/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
-
-- [Tech stocks dive after report that Biden administration plans to crack down on China chipmakers](https://new-news.github.io/Latest/2024/07/17/tech_stocks_dive_after_report_that_biden_administration_plans_to_crack_down_on_china_chipmakers 'Tech stocks dive after report that Biden administration plans to crack down on China chipmakers')
 
 - [Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea](https://new-news.github.io/Latest/2024/07/17/former_cia_analyst_sue_mi_terry_indicted_on_charges_of_secretly_working_for_south_korea 'Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea')
 
@@ -201,10 +205,6 @@
 - [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/17/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
 
 - [Growing faction of Democrats revolt against Biden’s upcoming virtual nomination](https://new-news.github.io/Latest/2024/07/17/growing_faction_of_democrats_revolt_against_bidens_upcoming_virtual_nomination 'Growing faction of Democrats revolt against Biden’s upcoming virtual nomination')
-
-- [Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges](https://new-news.github.io/Latest/2024/07/17/trump_can_now_discuss_classified_documents_case_with_potential_witnesses_and_co_defendants_after_judge_tosses_charges 'Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges')
-
-- [NASA transmits a Missy Elliott song to Venus](https://new-news.github.io/Latest/2024/07/17/nasa_transmits_a_missy_elliott_song_to_venus 'NASA transmits a Missy Elliott song to Venus')
 
 
 

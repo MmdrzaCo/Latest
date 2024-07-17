@@ -1,6 +1,6 @@
 # The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture
 
-Published :`2024-07-17 19:36:38`
+Published :`2024-07-17 20:15:57`
 
 ---
 

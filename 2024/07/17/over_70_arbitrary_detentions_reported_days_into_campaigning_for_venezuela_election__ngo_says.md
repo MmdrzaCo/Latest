@@ -1,6 +1,6 @@
 # Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says
 
-Published :`2024-07-17 19:36:37`
+Published :`2024-07-17 20:15:56`
 
 ---
 
