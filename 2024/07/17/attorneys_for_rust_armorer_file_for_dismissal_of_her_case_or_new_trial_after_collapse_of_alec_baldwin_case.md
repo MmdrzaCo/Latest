@@ -1,6 +1,6 @@
 # Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case
 
-Published :`2024-07-17 21:14:34`
+Published :`2024-07-17 21:37:03`
 
 ---
 
@@ -14,7 +14,9 @@ On Friday, the involuntary manslaughter case against Baldwin – who authoritie
 
 In Tuesday’s filing, Gutierrez Reed’s attorneys argue that her case should be thrown out or retried in part because of judge’s determination of withheld evidence in Baldwin’s case; what they assert was Morrissey lying in court about the evidence on Friday; and what they say were other instances of suppressed evidence in the armorer’s case.
 
-CNN has sought comment from Morrissey.
+In a statement Wednesday to CNN, Morrissey said she would respond “in writing” to the defense motions.
+
+“I have always been the subject of personal attacks from Mr. Bowles (Gutierrez Reed’s attorney) and Mr. Baldwin’s legal team, so nothing new there,” Morrissey said.
 
 ### The shooting, and defense attorneys’ allegations
 

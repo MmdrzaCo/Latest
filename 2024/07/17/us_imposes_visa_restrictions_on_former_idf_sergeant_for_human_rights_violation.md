@@ -1,6 +1,6 @@
 # US imposes visa restrictions on former IDF sergeant for human rights violation
 
-Published :`2024-07-17 21:14:31`
+Published :`2024-07-17 21:37:04`
 
 ---
 

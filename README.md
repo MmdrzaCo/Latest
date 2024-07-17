@@ -1,12 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 21:14:36`
+#### Latest Update : `2024-07-17 21:37:05`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Trump says he won’t fire Fed Chair Jerome Powell. Don’t hold your breath](https://new-news.github.io/Latest/2024/07/17/trump_says_he_wont_fire_fed_chair_jerome_powell__dont_hold_your_breath 'Trump says he won’t fire Fed Chair Jerome Powell. Don’t hold your breath')
+- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
+
+- [Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case](https://new-news.github.io/Latest/2024/07/17/attorneys_for_rust_armorer_file_for_dismissal_of_her_case_or_new_trial_after_collapse_of_alec_baldwin_case 'Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case')
+
+- [Trump says he wouldn’t fire Fed Chair Jerome Powell. Don’t hold your breath](https://new-news.github.io/Latest/2024/07/17/trump_says_he_wouldnt_fire_fed_chair_jerome_powell__dont_hold_your_breath 'Trump says he wouldn’t fire Fed Chair Jerome Powell. Don’t hold your breath')
 
 - [At least 3 young children died in the span of a week after being left in hot cars in the US](https://new-news.github.io/Latest/2024/07/17/at_least_3_young_children_died_in_the_span_of_a_week_after_being_left_in_hot_cars_in_the_us 'At least 3 young children died in the span of a week after being left in hot cars in the US')
 
@@ -114,8 +118,6 @@
 
 - [Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime](https://new-news.github.io/Latest/2024/07/17/biden_administration_points_to_29__drop_in_border_arrests_as_rnc_turns_focus_to_immigration_and_crime 'Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime')
 
-- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
-
 - [HSBC names third CEO in less than eight years](https://new-news.github.io/Latest/2024/07/17/hsbc names_third_ceo_in_less_than_eight_years 'HSBC names third CEO in less than eight years')
 
 - [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/17/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
@@ -161,8 +163,6 @@
 - [Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region](https://new-news.github.io/Latest/2024/07/17/deadly_floods_engulf_parts_of_south_asia_as_extreme_weather_devastates_vulnerable_region 'Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region')
 
 - [China probes companies for allegedly giving pregnancy tests to job seekers](https://new-news.github.io/Latest/2024/07/17/china_probes_companies_for_allegedly_giving_pregnancy_tests_to_job_seekers 'China probes companies for allegedly giving pregnancy tests to job seekers')
-
-- [Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case](https://new-news.github.io/Latest/2024/07/17/attorneys_for_rust_armorer_file_for_dismissal_of_her_case_or_new_trial_after_collapse_of_alec_baldwin_case 'Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case')
 
 - [Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader](https://new-news.github.io/Latest/2024/07/17/trumps_former_rivals_bury_their_criticism_to_celebrate_all_powerful_gop_leader 'Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader')
 

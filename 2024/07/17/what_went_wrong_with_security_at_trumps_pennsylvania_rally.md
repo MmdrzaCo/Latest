@@ -1,6 +1,6 @@
 # What went wrong with security at Trump’s Pennsylvania rally
 
-Published :`2024-07-17 21:14:33`
+Published :`2024-07-17 21:37:04`
 
 ---
 
