@@ -1,6 +1,6 @@
 # Vulnerable Democrats outraise GOP opponents again, Trump sees Silicon Valley cash surge and other second-quarter takeaways
 
-Published :`2024-07-17 05:36:46`
+Published :`2024-07-17 06:21:24`
 
 ---
 

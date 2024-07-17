@@ -1,6 +1,6 @@
 # One in 10 young people in Japan say they have been groped in public, survey finds
 
-Published :`2024-07-17 05:36:42`
+Published :`2024-07-17 06:21:20`
 
 ---
 
@@ -35,6 +35,16 @@ But many offenses go unreported: 80% of survey respondents who said they were gr
 “We need to continue to educate people that molestation is a serious crime,” a Japanese government spokesperson told CNN, adding that public groping should always be reported.
 
 “Please do not worry alone, but consult with us,” the spokesperson said.
+
+Jeffrey Hall, a Japanese studies lecturer at Kanda University of International Studies in Chiba, said the survey results appear “surprisingly low.”
+
+“You talk to any Japanese women and they will tell you it’s very common,” he said.
+
+Many chikan survivors fear reporting the crime could create trouble for co-workers or school staff, he added. They may also be discouraged by the perception of a lengthy police process for a crime that is hard to prove and for which perpetrators often get away with light punishment, Hall said.
+
+“Overall there is a sense of resignation and disappointment that authorities haven’t been able to stop that from happening,” he said.
+
+This story has been updated with additional information.
 
 ---
 

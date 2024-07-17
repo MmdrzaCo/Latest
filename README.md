@@ -1,10 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 05:36:46`
+#### Latest Update : `2024-07-17 06:21:24`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Drake shows video of flooded mansion as torrential rain batters Toronto](https://new-news.github.io/Latest/2024/07/17/drake_shows_video_of_flooded_mansion_as_torrential_rain_batters_toronto 'Drake shows video of flooded mansion as torrential rain batters Toronto')
+
+- [A spate of stabbings has sparked online debate about China’s economic woes](https://new-news.github.io/Latest/2024/07/17/a_spate_of_stabbings_has_sparked_online_debate_about_chinas_economic_woes 'A spate of stabbings has sparked online debate about China’s economic woes')
+
+- [Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case](https://new-news.github.io/Latest/2024/07/17/attorneys_for_rust_armorer_file_for_dismissal_of_her_case_or_new_trial_after_collapse_of_alec_baldwin_case 'Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case')
+
+- [Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea](https://new-news.github.io/Latest/2024/07/17/former_cia_analyst_sue_mi_terry_indicted_on_charges_of_secretly_working_for_south_korea 'Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea')
+
+- [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/17/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
 
 - [Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader](https://new-news.github.io/Latest/2024/07/17/trumps_former_rivals_bury_their_criticism_to_celebrate_all_powerful_gop_leader 'Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader')
 
@@ -19,8 +29,6 @@
 - [At least six killed in shooting near mosque in Oman](https://new-news.github.io/Latest/2024/07/17/at_least_six_killed_in_shooting_near_mosque_in_oman 'At least six killed in shooting near mosque in Oman')
 
 - [USWNT puts a frustrating night behind them as they look forward to next week’s Olympics](https://new-news.github.io/Latest/2024/07/17/uswnt_puts_a_frustrating_night_behind_them_as_they_look_forward_to_next_weeks_olympics 'USWNT puts a frustrating night behind them as they look forward to next week’s Olympics')
-
-- [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/17/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
 
 - [JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment](https://new-news.github.io/Latest/2024/07/17/jd_vances_hillbilly_elegy_tops_amazon_book_and_netflix_film_charts_following_trumps_vp_appointment 'JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment')
 
@@ -51,8 +59,6 @@
 - [2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces](https://new-news.github.io/Latest/2024/07/17/2_death_row_inmates_to_be_resentenced_amid_review_into_decades_of_prosecutorial_misconduct_in_alameda_county__da_announces '2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces')
 
 - [Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting](https://new-news.github.io/Latest/2024/07/17/exclusive__secret_service_ramped_up_security_after_intel_of_iran_plot_to_assassinate_trump__no_known_connection_to_shooting 'Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting')
-
-- [Attorney for ‘Rust’ armorer files for dismissal of her case or new trial after collapse of Alec Baldwin case](https://new-news.github.io/Latest/2024/07/17/attorney_for_rust_armorer_files_for_dismissal_of_her_case_or_new_trial_after_collapse_of_alec_baldwin_case 'Attorney for ‘Rust’ armorer files for dismissal of her case or new trial after collapse of Alec Baldwin case')
 
 - [Flooding in Afghanistan leaves about 40 people dead](https://new-news.github.io/Latest/2024/07/17/flooding_in_afghanistan_leaves_about_40_people_dead 'Flooding in Afghanistan leaves about 40 people dead')
 
@@ -199,12 +205,6 @@
 - [Vulnerable Democrats outraise GOP opponents again, Trump sees Silicon Valley cash surge and other second-quarter takeaways](https://new-news.github.io/Latest/2024/07/17/vulnerable_democrats_outraise_gop_opponents_again__trump_sees_silicon_valley_cash_surge_and_other_second_quarter_takeaways 'Vulnerable Democrats outraise GOP opponents again, Trump sees Silicon Valley cash surge and other second-quarter takeaways')
 
 - [CIA director says Hamas leader is facing growing pressure from his own commanders to end Gaza war](https://new-news.github.io/Latest/2024/07/17/cia_director_says_hamas_leader_is_facing_growing_pressure_from his_own commanders_to_end_gaza_war 'CIA director says Hamas leader is facing growing pressure from his own commanders to end Gaza war')
-
-- [How Donald Trump landed on JD Vance as his vice presidential pick](https://new-news.github.io/Latest/2024/07/17/how_donald_trump_landed_on_jd_vance_as_his_vice_presidential_pick 'How Donald Trump landed on JD Vance as his vice presidential pick')
-
-- [GOP sees divine intervention in Trump’s triumphant return](https://new-news.github.io/Latest/2024/07/17/gop_sees_divine_intervention_in_trumps_triumphant_return 'GOP sees divine intervention in Trump’s triumphant return')
-
-- [Children receive first doses of new malaria vaccine, hailed as major milestone](https://new-news.github.io/Latest/2024/07/17/children_receive_first_doses_of_new_malaria_vaccine__hailed_as_major_milestone 'Children receive first doses of new malaria vaccine, hailed as major milestone')
 
 
 

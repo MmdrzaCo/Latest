@@ -1,6 +1,6 @@
 # Democratic Sen. Bob Menendez found guilty in federal corruption trial; Chuck Schumer calls on him to resign
 
-Published :`2024-07-17 05:36:44`
+Published :`2024-07-17 06:21:22`
 
 ---
 
