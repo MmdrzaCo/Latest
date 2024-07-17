@@ -1,6 +1,6 @@
 # Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case
 
-Published :`2024-07-17 06:21:20`
+Published :`2024-07-17 06:40:41`
 
 ---
 
@@ -22,17 +22,19 @@ The shooting happened October 21, 2021. Baldwin was on the set at a ranch outsid
 
 As the armorer, Gutierrez Reed was responsible for firearm safety and storage. At her trial, prosecutors argued she repeatedly violated safety protocol and acted without caution in performing her duties, ultimately leading to Hutchins’ death. Gutierrez Reed’s defense attorney argued she has been scapegoated for the safety failures of film set management and other crew members.
 
-The evidence that imploded Baldwin’s trial came to light last week, when a crime scene technician testified that a man had delivered a box of ammunition to the Santa Fe County Sheriff’s Office in March right after Gutierrez Reed’s conviction. The man, Troy Teske, a retired police officer and friend of the armorer’s father, told investigators he obtained the ammunition from a prop supplier and believed the ammunition could be associated with the “Rust” incident, the technician testified.
+The evidence that imploded Baldwin’s trial came to light last week, when a crime scene technician testified that a man had delivered a box of ammunition to the Santa Fe County Sheriff’s Office in March right after Gutierrez Reed’s conviction. The man, Troy Teske, a retired police officer and friend of the armorer’s father, told investigators he obtained the ammunition from prop supplier Seth Kenney, and believed the ammunition could be associated with the “Rust” incident, the technician testified.
 
 However, the technician testified the items were catalogued separately from Baldwin’s case and were not included in the “Rust” case inventory or tested to see if they matched the lethal round.
 
-Baldwin’s attorneys claimed this was potentially favorable evidence to them, but that prosecutors didn’t properly disclose it  – so they asked for the case to be dismissed.
+Baldwin’s attorneys, in a filing last week asking for the case to be dismissed, claimed that this could point to “an external source of the live ammunition (prop supplier Seth Kenney)” on set. The Baldwin team’s filing alleged prosecutors didn’t disclose the evidence because it “would be favorable to Baldwin,” last week’s filing shows.
+
+Baldwin was unaware of the risk live ammunition had been brought to the “Rust” set, and for prosecutors to establish a link between Baldwin and the live ammunition source, they would have to show Gutierrez Reed, the armorer, had brought the rounds to set, according to the motion filed last week. “Evidence that the live rounds came from Kenney is therefore favorable to Baldwin, which is why the state buried it,” last week’s document states.
 
 During a chaotic, hourslong hearing Friday, investigators testified they and Morrissey determined the ammo was not relevant to the “Rust” case and so did not turn it over to the defense. Morrissey also testified, saying investigators had determined the ammunition was not a match to those found on the “Rust” set and had no evidentiary value. The lead investigator, however, testified the rounds looked “similar” to the dummy rounds on the film’s set.
 
 Judge Mary Marlowe Sommer ruled prosecutors did not properly turn over evidence to the defense. She dismissed Baldwin’s case with prejudice, meaning it cannot be brought again.
 
-In Tuesday’s filing, Gutierrez Reed’s attorneys said prosecutors – and even Gutierrez Reed’s defense team itself – was aware of Teske’s ammunition before he gave it to the sheriff’s office in March. Her attorneys wrote an email to Morrissey in January saying it was “important to compare the powder of the Teske rounds to the powder in the powder in the live rounds found on the Rust set,” Tuesday’s filing reads.
+In Tuesday’s filing, Gutierrez Reed’s attorneys said prosecutors – and even Gutierrez Reed’s defense team itself – was aware of the ammunition Teske had before he gave it to the sheriff’s office in March. Her attorneys wrote an email to Morrissey in January saying it was “important to compare the powder of the Teske rounds to the powder in the powder in the live rounds found on the Rust set,” Tuesday’s filing reads.
 
 Morrissey wrote back that she didn’t plan to retrieve or test the rounds, because she found them visually dissimilar and not relevant, Gutierrez Reed’s attorneys said in Tuesday’s filing.
 
@@ -44,7 +46,7 @@ Teske had turned the rounds over to the sheriff’s office in March, hoping that
 
 “Instead, the state placed them in a separate case file and attempted to hide them,” Gutierrez Reed’s attorneys wrote in Tuesday’s filing.
 
-In Tuesday’s court filing, the attorneys claimed an interview with prop supplier Seth Kenney was suppressed – and that the attorneys would have used his statements in cross examination in Gutierrez Reed’s trial had they known about them. In that interview, Kenney spoke about her experience and had not heard allegations that she was unsafe, among other things, the attorneys wrote.
+In Tuesday’s court filing, the attorneys claimed an interview with Kenney, the prop supplier, was suppressed – and that the attorneys would have used his statements in cross examination in Gutierrez Reed’s trial had they known about them. In that interview, Kenney spoke about her experience and had not heard allegations that she was unsafe, among other things, the attorneys wrote.
 
 A report conducted by state firearms experts was likewise not made available to Gutierrez Reed’s attorneys, and the state revealed it to Baldwin’s defense team only after Gutierrez Reed was convicted, Tuesday’s filing says. The report said the gun used on the “Rust” set had “unexplained toolmarks on critical surfaces of the trigger and sear,” Tuesday’s filing says.
 
