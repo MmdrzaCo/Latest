@@ -1,14 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 07:15:12`
+#### Latest Update : `2024-07-17 07:37:21`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region](https://new-news.github.io/Latest/2024/07/17/deadly_floods_engulf_parts_of_south_asia_as_extreme_weather_devastates_vulnerable_region 'Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region')
-
 - [Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea](https://new-news.github.io/Latest/2024/07/17/former_cia_analyst_sue_mi_terry_indicted_on_charges_of_secretly_working_for_south_korea 'Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea')
+
+- [Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region](https://new-news.github.io/Latest/2024/07/17/deadly_floods_engulf_parts_of_south_asia_as_extreme_weather_devastates_vulnerable_region 'Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region')
 
 - [China probes companies for allegedly giving pregnancy tests to job seekers](https://new-news.github.io/Latest/2024/07/17/china_probes_companies_for_allegedly_giving_pregnancy_tests_to_job_seekers 'China probes companies for allegedly giving pregnancy tests to job seekers')
 

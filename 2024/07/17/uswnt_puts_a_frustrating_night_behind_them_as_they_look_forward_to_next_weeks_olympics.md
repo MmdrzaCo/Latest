@@ -1,6 +1,6 @@
 # USWNT puts a frustrating night behind them as they look forward to next week’s Olympics
 
-Published :`2024-07-17 07:15:09`
+Published :`2024-07-17 07:37:18`
 
 ---
 

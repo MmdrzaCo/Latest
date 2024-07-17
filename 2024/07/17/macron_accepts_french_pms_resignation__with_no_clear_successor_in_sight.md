@@ -1,6 +1,6 @@
 # Macron accepts French PM’s resignation, with no clear successor in sight
 
-Published :`2024-07-17 07:15:10`
+Published :`2024-07-17 07:37:20`
 
 ---
 

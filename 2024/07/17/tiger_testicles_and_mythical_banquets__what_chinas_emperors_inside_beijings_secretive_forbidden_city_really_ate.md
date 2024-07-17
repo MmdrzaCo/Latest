@@ -1,6 +1,6 @@
 # Tiger testicles and mythical banquets: What China’s emperors inside Beijing’s secretive Forbidden City really ate
 
-Published :`2024-07-17 07:15:11`
+Published :`2024-07-17 07:37:21`
 
 ---
 

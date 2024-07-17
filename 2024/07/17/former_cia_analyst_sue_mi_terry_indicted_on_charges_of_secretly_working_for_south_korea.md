@@ -1,6 +1,6 @@
 # Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea
 
-Published :`2024-07-17 07:15:08`
+Published :`2024-07-17 07:37:17`
 
 ---
 
@@ -22,7 +22,9 @@ The indictment alleges Terry acted as a “valuable source” of information for
 
 In one instance, Terry had participated in an off-the-record North Korea policy briefing with US Secretary of State Antony Blinken in June 2022. As soon as the meeting ended, she passed her handler “detailed handwritten notes” that described the contents of the closed-door briefing, the indictment alleges.
 
-South Korea’s Ministry of Foreign Affairs and National Intelligence Service did not immediately reply to CNN’s requests for comment.
+South Korea’s National Intelligence Service said: “The intelligence authorities of South Korea and the United States are in close communication regarding the indictment related to the Foreign Agents Registration Act.”
+
+Seoul’s Ministry of Foreign Affairs did not immediately reply to CNN’s request for comment.
 
 US law obligates American citizens to register as foreign agents if they engage in certain behaviors for or on behalf of a foreign government. The indictment alleges that Terry was acting as a foreign agent but did not register as required, which is a crime.
 

@@ -1,6 +1,6 @@
 # Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt
 
-Published :`2024-07-17 07:15:11`
+Published :`2024-07-17 07:37:20`
 
 ---
 
