@@ -1,6 +1,6 @@
 # Police from Ohio assisting with security at Republican National Convention fatally shoot man
 
-Published :`2024-07-17 03:17:52`
+Published :`2024-07-17 03:37:21`
 
 ---
 

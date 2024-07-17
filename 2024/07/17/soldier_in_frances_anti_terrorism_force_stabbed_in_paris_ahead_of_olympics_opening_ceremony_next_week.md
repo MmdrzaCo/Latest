@@ -1,6 +1,6 @@
 # Soldier in France’s anti-terrorism force stabbed in Paris ahead of Olympics opening ceremony next week
 
-Published :`2024-07-17 03:17:56`
+Published :`2024-07-17 03:37:24`
 
 ---
 

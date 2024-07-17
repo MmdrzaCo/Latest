@@ -1,6 +1,6 @@
 # At least six killed in shooting near mosque in Oman
 
-Published :`2024-07-17 03:17:52`
+Published :`2024-07-17 03:37:22`
 
 ---
 

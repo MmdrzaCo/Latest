@@ -1,6 +1,6 @@
 # Flooding in Afghanistan leaves about 40 people dead
 
-Published :`2024-07-17 03:17:52`
+Published :`2024-07-17 03:37:22`
 
 ---
 

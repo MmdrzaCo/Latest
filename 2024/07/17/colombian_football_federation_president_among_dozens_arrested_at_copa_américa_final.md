@@ -1,6 +1,6 @@
 # Colombian Football Federation president among dozens arrested at Copa América final
 
-Published :`2024-07-17 03:17:55`
+Published :`2024-07-17 03:37:24`
 
 ---
 

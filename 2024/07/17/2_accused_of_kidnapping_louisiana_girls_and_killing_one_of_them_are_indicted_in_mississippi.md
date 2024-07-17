@@ -1,6 +1,6 @@
 # 2 accused of kidnapping Louisiana girls and killing one of them are indicted in Mississippi
 
-Published :`2024-07-17 03:17:55`
+Published :`2024-07-17 03:37:24`
 
 ---
 

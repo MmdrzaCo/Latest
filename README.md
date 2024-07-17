@@ -1,10 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 03:17:56`
+#### Latest Update : `2024-07-17 03:37:24`
 
 ## Latest News Grabbing 
 
 ---
+
+- [JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment](https://new-news.github.io/Latest/2024/07/17/jd_vances_hillbilly_elegy_tops_amazon_book_and_netflix_film_charts_following_trumps_vp_appointment 'JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment')
+
+- [Five killed in violent protests over public sector jobs quota in Bangladesh](https://new-news.github.io/Latest/2024/07/17/five_killed_in_violent_protests_over_public_sector_jobs_quota_in bangladesh 'Five killed in violent protests over public sector jobs quota in Bangladesh')
+
+- [FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC](https://new-news.github.io/Latest/2024/07/17/fda__ftc_issue_warnings_to_companies_selling_copycat_snacks_with_delta_8_thc 'FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC')
+
+- [Dozens killed as bus plummets over 650 feet into ravine in Peru](https://new-news.github.io/Latest/2024/07/17/dozens_killed_as_bus_plummets_over_650_feet_into_ravine_in_peru 'Dozens killed as bus plummets over 650 feet into ravine in Peru')
 
 - [Nikki Haley offers her ‘strong endorsement’ of Trump in convention speech](https://new-news.github.io/Latest/2024/07/17/nikki_haley_offers_her_strong_endorsement_of_trump_in_convention_speech 'Nikki Haley offers her ‘strong endorsement’ of Trump in convention speech')
 
@@ -54,8 +62,6 @@
 
 - [Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut](https://new-news.github.io/Latest/2024/07/17/behind_the_numbers__988_crisis_lifeline_answers_over_10_million_contacts_since_its_debut 'Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut')
 
-- [FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC](https://new-news.github.io/Latest/2024/07/17/fda__ftc_issue_warnings_to_companies_selling_copycat_snacks_with_delta_8_thc 'FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC')
-
 - [Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69](https://new-news.github.io/Latest/2024/07/17/joe_jellybean_bryant__father_of_kobe_bryant__has_died_at_69 'Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69')
 
 - [Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors](https://new-news.github.io/Latest/2024/07/17/lawyers_representing_us_soldier_who_crossed_into_north_korea_are_in_plea_negotiations_with_prosecutors 'Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors')
@@ -69,8 +75,6 @@
 - [Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges](https://new-news.github.io/Latest/2024/07/17/trump_can_now_discuss_classified_documents_case_with_potential_witnesses_and_co_defendants_after_judge_tosses_charges 'Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges')
 
 - [NASA transmits a Missy Elliott song to Venus](https://new-news.github.io/Latest/2024/07/17/nasa_transmits_a_missy_elliott_song_to_venus 'NASA transmits a Missy Elliott song to Venus')
-
-- [JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment](https://new-news.github.io/Latest/2024/07/17/jd_vances_hillbilly_elegy_tops_amazon_book_and_netflix_film_charts_following_trumps_vp_appointment 'JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment')
 
 - [At least six killed in shooting near mosque in Oman](https://new-news.github.io/Latest/2024/07/17/at_least_six_killed_in_shooting_near_mosque_in_oman 'At least six killed in shooting near mosque in Oman')
 
@@ -90,8 +94,6 @@
 
 - [Trump ready to be ‘peace broker’ on Ukraine, Orban tells skeptical European leaders](https://new-news.github.io/Latest/2024/07/17/trump_ready_to_be_peace_broker_on_ukraine__orban_tells_skeptical_european_leaders 'Trump ready to be ‘peace broker’ on Ukraine, Orban tells skeptical European leaders')
 
-- [At least 23 dead after bus plummets over 650 feet into ravine in Peru](https://new-news.github.io/Latest/2024/07/17/at_least_23_dead_after_bus_plummets_over_650_feet_into_ravine_in_peru 'At least 23 dead after bus plummets over 650 feet into ravine in Peru')
-
 - [Dow and S&P 500 close at record highs as investors bet on September rate cut](https://new-news.github.io/Latest/2024/07/17/dow_and_s_p_500_close_at_record_highs_as_investors_bet_on_september_rate_cut 'Dow and S&P 500 close at record highs as investors bet on September rate cut')
 
 - [Iranian spies tasked Israeli citizen with delivering severed animal head, Shin Bet says](https://new-news.github.io/Latest/2024/07/17/iranian_spies_tasked_israeli_citizen_with_delivering_severed_animal_head__shin_bet_says 'Iranian spies tasked Israeli citizen with delivering severed animal head, Shin Bet says')
@@ -99,8 +101,6 @@
 - [Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says](https://new-news.github.io/Latest/2024/07/17/minnesota_ban_on_18__to_20_year_olds_obtaining_handgun_permits_is_unconstitutional__federal_appeals_court_says 'Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says')
 
 - [Democratic Sen. Bob Menendez found guilty in federal corruption trial; Chuck Schumer calls on him to resign](https://new-news.github.io/Latest/2024/07/17/democratic_sen__bob_menendez_found_guilty_in_federal_corruption_trial__chuck_schumer_calls_on_him_to_resign 'Democratic Sen. Bob Menendez found guilty in federal corruption trial; Chuck Schumer calls on him to resign')
-
-- [Five killed in violent protests over public sector jobs quota in Bangladesh](https://new-news.github.io/Latest/2024/07/17/five_killed_in_violent_protests_over_public_sector_jobs_quota_in bangladesh 'Five killed in violent protests over public sector jobs quota in Bangladesh')
 
 - [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/17/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
 
