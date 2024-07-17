@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 08:19:27`
+#### Latest Update : `2024-07-17 08:38:49`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say](https://new-news.github.io/Latest/2024/07/17/cyanide_poisoning_likely_killed_six_found_dead_in_luxury_hotel__including_two_us_citizens__thai_police_say 'Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say')
+
+- [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/17/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
 
 - [Work from home could lead to more homes in vacant offices](https://new-news.github.io/Latest/2024/07/17/work_from_home_could_lead_to_more_homes_in_vacant_offices 'Work from home could lead to more homes in vacant offices')
 
@@ -23,8 +27,6 @@
 - [Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader](https://new-news.github.io/Latest/2024/07/17/trumps_former_rivals_bury_their_criticism_to_celebrate_all_powerful_gop_leader 'Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader')
 
 - [A spate of stabbings has sparked online debate about China’s economic woes](https://new-news.github.io/Latest/2024/07/17/a_spate_of_stabbings_has_sparked_online_debate_about_chinas_economic_woes 'A spate of stabbings has sparked online debate about China’s economic woes')
-
-- [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/17/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
 
 - [Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’](https://new-news.github.io/Latest/2024/07/17/man_killed_at_trump_rally_identified_as_firefighter_corey_comperatore__who_died_a_hero 'Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’')
 
@@ -203,8 +205,6 @@
 - [Teoscar Hernández becomes first Dodgers player to win the Home Run Derby](https://new-news.github.io/Latest/2024/07/17/teoscar_hernández_becomes_first_dodgers_player_to_win_the_home_run_derby 'Teoscar Hernández becomes first Dodgers player to win the Home Run Derby')
 
 - [This grocery store item is beloved in the US. But it’s banned in South Korea](https://new-news.github.io/Latest/2024/07/17/this_grocery_store_item_is_beloved_in_the_us__but_its_banned_in_south_korea 'This grocery store item is beloved in the US. But it’s banned in South Korea')
-
-- [Colombian Football Federation president among dozens arrested at Copa América final](https://new-news.github.io/Latest/2024/07/17/colombian_football_federation_president_among_dozens_arrested_at_copa_américa_final 'Colombian Football Federation president among dozens arrested at Copa América final')
 
 
 
