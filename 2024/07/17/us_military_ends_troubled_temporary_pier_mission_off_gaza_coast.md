@@ -1,6 +1,6 @@
 # US military ends troubled temporary pier mission off Gaza coast
 
-Published :`2024-07-17 20:36:02`
+Published :`2024-07-17 21:14:31`
 
 ---
 
@@ -15,6 +15,12 @@ Cooper said the pier was operational for “a little more than 20 days” and de
 “Israel has been fully supportive of this effort,” he said. For the aid now coming through the Ashdod port, Cooper said it will be taken on trucks through the Erez crossing into Gaza.  The US military will continue to help deliver the remaining aid from Cyprus to Ashdod, Cooper said.
 
 While Cooper repeatedly claimed that the pier had completed its mission and was successful, the effort has been plagued with issues since the pier was first anchored to the beach in Gaza in May.
+
+The pier was announced by President Joe Biden in his State of the Union address in March.
+
+“A temporary pier would enable a massive increase in the amount of humanitarian assistance getting into Gaza every day,” Biden said.
+
+But the pier which cost $230 million did little to alleviate the grave humanitarian situation in Gaza as the war between Hamas and Israel, which has claimed thousands of civilian lives, continues.
 
 It was operational for only a week before heavy seas and a North African storm broke the pier apart, forcing it to be towed to Israel for repairs. During the same storm, four US Army vessels supporting the pier were washed ashore on beaches in Gaza and Israel. It was reattached over a week later, only to have to be temporary dismantled again less than a week after that in advance of more heavy seas.
 

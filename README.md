@@ -1,12 +1,32 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 20:36:06`
+#### Latest Update : `2024-07-17 21:14:36`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Trump says he won’t fire Fed Chair Jerome Powell. Don’t hold your breath](https://new-news.github.io/Latest/2024/07/17/trump_says_he_wont_fire_fed_chair_jerome_powell__dont_hold_your_breath 'Trump says he won’t fire Fed Chair Jerome Powell. Don’t hold your breath')
+
+- [At least 3 young children died in the span of a week after being left in hot cars in the US](https://new-news.github.io/Latest/2024/07/17/at_least_3_young_children_died_in_the_span_of_a_week_after_being_left_in_hot_cars_in_the_us 'At least 3 young children died in the span of a week after being left in hot cars in the US')
+
+- [Rudy Giuliani drains half of bank account for personal expenses while creditors pursue what he owes them](https://new-news.github.io/Latest/2024/07/17/rudy_giuliani_drains_half_of_bank_account_for_personal_expenses_while_creditors_pursue_what_he_owes_them 'Rudy Giuliani drains half of bank account for personal expenses while creditors pursue what he owes them')
+
+- [US military ends troubled temporary pier mission off Gaza coast](https://new-news.github.io/Latest/2024/07/17/us_military_ends_troubled_temporary_pier_mission_off_gaza_coast 'US military ends troubled temporary pier mission off Gaza coast')
+
 - [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
+
+- [Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident](https://new-news.github.io/Latest/2024/07/17/naomi_pomeroy__renowned_chef_and_top_chef_masters_star__dead_at_49_in_tubing_accident 'Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident')
+
+- [Long Covid risk has dropped over time but remains substantial, study shows](https://new-news.github.io/Latest/2024/07/17/long_covid_risk_has_dropped_over_time_but_remains_substantial__study_shows 'Long Covid risk has dropped over time but remains substantial, study shows')
+
+- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
+
+- [Ultra-Orthodox party in Israel urges young Haredi men to resist draft](https://new-news.github.io/Latest/2024/07/17/ultra_orthodox_party_in_israel_urges_young_haredi_men_to_resist_draft 'Ultra-Orthodox party in Israel urges young Haredi men to resist draft')
+
+- [Biden administration urges Supreme Court to let it continue implementing student loan repayment program](https://new-news.github.io/Latest/2024/07/17/biden_administration_urges_supreme_court_to_let_it_continue_implementing_student_loan_repayment_program 'Biden administration urges Supreme Court to let it continue implementing student loan repayment program')
+
+- [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/17/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
 
 - [Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case](https://new-news.github.io/Latest/2024/07/17/brad_pitt_pushes_back_on_angelina_jolies oppressive_and_harassing request_to_disclose_messages_in_miraval_case 'Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case')
 
@@ -16,13 +36,9 @@
 
 - [Nasdaq has worst day since 2022 as tech stocks get slammed](https://new-news.github.io/Latest/2024/07/17/nasdaq_has_worst_day_since_2022_as_tech_stocks_get_slammed 'Nasdaq has worst day since 2022 as tech stocks get slammed')
 
-- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
-
 - [Strange planet with a backward, cucumber-shape orbit is turning into another kind of world](https://new-news.github.io/Latest/2024/07/17/strange_planet_with_a_backward__cucumber_shape_orbit_is_turning_into_another_kind_of_world 'Strange planet with a backward, cucumber-shape orbit is turning into another kind of world')
 
 - [Flood emergency hits Arkansas after months of rain falls in a few hours](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours 'Flood emergency hits Arkansas after months of rain falls in a few hours')
-
-- [US military ends troubled temporary pier mission off Gaza coast](https://new-news.github.io/Latest/2024/07/17/us_military_ends_troubled_temporary_pier_mission_off_gaza_coast 'US military ends troubled temporary pier mission off Gaza coast')
 
 - [Special counsel appeals dismissal of Trump classified documents case](https://new-news.github.io/Latest/2024/07/17/special_counsel_appeals_dismissal_of_trump_classified_documents_case 'Special counsel appeals dismissal of Trump classified documents case')
 
@@ -140,8 +156,6 @@
 
 - [Work from home could lead to more homes in vacant offices](https://new-news.github.io/Latest/2024/07/17/work_from_home_could_lead_to_more_homes_in_vacant_offices 'Work from home could lead to more homes in vacant offices')
 
-- [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/17/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
-
 - [Drake shows video of flooded mansion as torrential rain batters Toronto](https://new-news.github.io/Latest/2024/07/17/drake_shows_video_of_flooded_mansion_as_torrential_rain_batters_toronto 'Drake shows video of flooded mansion as torrential rain batters Toronto')
 
 - [Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region](https://new-news.github.io/Latest/2024/07/17/deadly_floods_engulf_parts_of_south_asia_as_extreme_weather_devastates_vulnerable_region 'Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region')
@@ -192,22 +206,8 @@
 
 - [FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/fbi_and_dhs_warn_of_potential_follow_on_or_retaliatory_attacks_following_trump_assassination_attempt 'FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt')
 
-- [Changes coming to ACT exam, including the science portion being made optional](https://new-news.github.io/Latest/2024/07/17/changes_coming_to_act_exam__including_the_science_portion_being_made_optional 'Changes coming to ACT exam, including the science portion being made optional')
-
-- [Exiled Chinese billionaire Guo Wengui found guilty on federal fraud charges](https://new-news.github.io/Latest/2024/07/17/exiled_chinese_billionaire_guo_wengui_found_guilty_on_federal_fraud_charges 'Exiled Chinese billionaire Guo Wengui found guilty on federal fraud charges')
-
-- [Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say](https://new-news.github.io/Latest/2024/07/17/biden_to_push_for_supreme_court_ethics_reform__term_limits_and_amendment_to_overturn_immunity_ruling__sources_say 'Biden to push for Supreme Court ethics reform, term limits and amendment to overturn immunity ruling, sources say')
-
-- [Giuliani has ‘no regrets’ about defaming 2020 election workers](https://new-news.github.io/Latest/2024/07/17/giuliani_has_no_regrets_about_defaming_2020_election_workers 'Giuliani has ‘no regrets’ about defaming 2020 election workers')
-
-- [Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut](https://new-news.github.io/Latest/2024/07/17/behind_the_numbers__988_crisis_lifeline_answers_over_10_million_contacts_since_its_debut 'Behind the numbers: 988 crisis lifeline answers over 10 million contacts since its debut')
-
-- [Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69](https://new-news.github.io/Latest/2024/07/17/joe_jellybean_bryant__father_of_kobe_bryant__has_died_at_69 'Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69')
-
-- [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/17/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [act](/ 'act')  [active](/ 'active')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alameda](/ 'alameda')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [active](/ 'active')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alameda](/ 'alameda')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon') 

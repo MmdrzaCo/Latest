@@ -1,6 +1,6 @@
 # Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence
 
-Published :`2024-07-17 20:36:02`
+Published :`2024-07-17 21:14:31`
 
 ---
 
@@ -20,7 +20,7 @@ The act has sparked a wide range of reaction on social media platform X – from
 
 ### The eternal unruly tourists
 
-Misbehaving tourists having been plaguing Italian authorities for years now.
+Misbehaving tourists have been plaguing Italian authorities for years now.
 
 Back in 2022, a man was charged after a Maserati was driven down Rome’s famed Spanish Steps. That same year, tourists were fined for surfing up Venice’s Grand Canal.
 

@@ -1,6 +1,6 @@
 # Why Europe looks at Trump’s VP pick with anxiety
 
-Published :`2024-07-17 20:36:05`
+Published :`2024-07-17 21:14:35`
 
 ---
 
