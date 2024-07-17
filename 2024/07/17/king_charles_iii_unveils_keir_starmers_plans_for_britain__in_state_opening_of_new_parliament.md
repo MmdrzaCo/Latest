@@ -1,6 +1,6 @@
 # King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament
 
-Published :`2024-07-17 13:35:55`
+Published :`2024-07-17 14:15:07`
 
 ---
 
@@ -28,7 +28,7 @@ Starmer and his defeated rival, Conservative leader Rishi Sunak, shared a warm c
 
 Once the speech began, focus shifted to the first Labour legislative plan in a decade and a half. It put at its heart an effort to build, after a decade of stalled growth that had seen housing and infrastructure projects scuppered across Britain.
 
-Starmer also formalized plans to renationalize Britain’s rail network in the coming years, and to create a publicly-owned energy company.
+Starmer also formalized plans to renationalize Britain’s rail network in the coming years, and to create a publicly-owned renewable energy company.
 
 Other parts of the speech continued Labour’s efforts to appeal to traditionally conservative voters who have lost faith in the Tory party after a tumultuous stretch in government.
 

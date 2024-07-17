@@ -1,6 +1,6 @@
 # Growing faction of Democrats revolt against Biden’s upcoming virtual nomination
 
-Published :`2024-07-17 13:35:57`
+Published :`2024-07-17 14:15:08`
 
 ---
 

@@ -1,6 +1,6 @@
 # Tuskegee syphilis study whistleblower Peter Buxtun has died at age 86
 
-Published :`2024-07-17 13:35:58`
+Published :`2024-07-17 14:15:09`
 
 ---
 

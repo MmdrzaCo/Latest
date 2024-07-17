@@ -1,6 +1,6 @@
 # Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader
 
-Published :`2024-07-17 13:35:56`
+Published :`2024-07-17 14:15:08`
 
 ---
 

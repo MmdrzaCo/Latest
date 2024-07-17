@@ -1,6 +1,6 @@
 # Police from Ohio assisting with security at Republican National Convention fatally shoot man
 
-Published :`2024-07-17 13:35:55`
+Published :`2024-07-17 14:15:07`
 
 ---
 
@@ -24,23 +24,31 @@ They immediately point their weapons and run toward the altercation, yelling at 
 
 The assailant appears to walk toward the other man when the officers fire their weapons and the man goes down, the video shows.
 
+Milwaukee Mayor Cavalier Johnson said the shooting was a tragedy that appears to be justified.
+
+“Any officer in that same situation where they witness somebody who’s going to cause death or serious bodily harm to somebody with a gun or, in this case, with a knife – not just one knife, but two knives – would have taken the exact same action to preserve life,” Johnson told CNN’s Ryan Young.
+
+The force from Columbus, Ohio, is in Milwaukee to assist with security for the Republican National Convention, but Johnson said the incident had no connection to the convention.
+
+Johnson, a Democrat who has endorsed President Joe Biden for the upcoming election, said former President Donald Trump called him Tuesday to express appreciation for the city’s public safety efforts hosting the convention.
+
+### Milwaukee activists call for accountability
+
 The shooting in Milwaukee comes more than a year after the US Department of Justice released recommendations for reform of the Columbus Division of Police following a nearly two-year review of its policies. The division requested the review after facing multiple controversies, including criticism over its management of racial justice protests in 2020 and deadly police shootings, including those of Andre Hill and Ma’Khia Bryant.
 
 The recommendations were aimed at strengthening the police department’s relationship with the community and included longer training periods for officers and technology improvements.
 
-### Milwaukee activists call for accountability
-
 The fatal shooting sparked anger and criticism by local activists.
 
 At an evening news conference held by people calling for police accountability, activist Alan Chavoya said, “We’re not even two days into this RNC and we have a casualty. How is that possible? And guess what, as always, no answers from the MPD. No transparency, no accountability.”
-
-Some people who said they witnessed the shooting said the man didn’t have any knives. “If he ain’t had no knife, y’all should have tackled him or something. Why you gotta shoot him?” one person, who only gave his first name, said.
 
 “We want answers, we want to know why was there an out-of-state police officer in this area in the first place,” Pastor Radontae Ashford of the Infinite Church said at the news conference. “There’s only two reasons … that any of us that even live in Milwaukee would even be in this area, either for something helpful or something harmful.”
 
 In a statement, the American Civil Liberties Union of Wisconsin called for a “full and transparent” investigation into what led up to the shooting.
 
 “More than 4,000 additional law enforcement officials are in Milwaukee for the RNC, and we’ve long feared how this heavy police presence could increase the risk of deadly police encounters, especially by out-of-state officers who don’t know and aren’t accountable to our community,” the statement from Executive Director Melinda Brennan read. “We offer our condolences to the friends and family of the person killed.”
+
+CNN’s Andy Rose contributed to this story.
 
 ---
 

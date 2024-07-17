@@ -1,6 +1,6 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 13:35:58`
+#### Latest Update : `2024-07-17 14:15:09`
 
 ## Latest News Grabbing 
 
@@ -8,23 +8,35 @@
 
 - [‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids](https://new-news.github.io/Latest/2024/07/17/my_dignity_was_stripped__football_legend_terrell_davis_tells_gma_about_getting_handcuffed_on_a_plane_in_front_of_his_kids '‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids')
 
+- [Prosecutors say neo-Nazi ‘murder cult’ leader plotted to give poison candy to Jewish kids in NYC](https://new-news.github.io/Latest/2024/07/17/prosecutors_say_neo_nazi_murder_cult_leader_plotted_to_give_poison_candy_to_jewish_kids_in_nyc 'Prosecutors say neo-Nazi ‘murder cult’ leader plotted to give poison candy to Jewish kids in NYC')
+
+- [Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say](https://new-news.github.io/Latest/2024/07/17/trump_shooter_requested_saturday_off_from_work_and_told_colleagues_hed_be_back_at_work_sunday__officials_say 'Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say')
+
+- [DNC moving forward with Friday meeting to begin Biden virtual roll call process despite furious backlash](https://new-news.github.io/Latest/2024/07/17/dnc_moving_forward_with_friday_meeting_to_begin_biden_virtual_roll_call_process_despite_furious_backlash 'DNC moving forward with Friday meeting to begin Biden virtual roll call process despite furious backlash')
+
+- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
+
+- [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
+
+- [Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music](https://new-news.github.io/Latest/2024/07/17/adeles_tank_is_quite_empty_at_the_minute__shes_planning_a_big_break_from_music 'Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music')
+
+- [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/17/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
+
+- [One of the world’s biggest booze makers is ditching wine brands as the world drinks less](https://new-news.github.io/Latest/2024/07/17/one_of_the_worlds_biggest_booze_makers_is_ditching_wine_brands_as_the_world_drinks_less 'One of the world’s biggest booze makers is ditching wine brands as the world drinks less')
+
+- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
+
 - [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/17/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
 
 - [Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army](https://new-news.github.io/Latest/2024/07/17/archaeologists_identify_roman_wall_built_to_hold_back_rebel_slave_spartacus_and_his_army 'Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army')
 
 - [Opinion: My teenage son had an influencer in his class. This is what it was like](https://new-news.github.io/Latest/2024/07/17/opinion__my_teenage_son_had_an_influencer_in_his_class__this_is_what_it_was_like 'Opinion: My teenage son had an influencer in his class. This is what it was like')
 
-- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
-
 - [Marathon-winning ‘spray-on’ running shoes could shake up Olympics](https://new-news.github.io/Latest/2024/07/17/marathon_winning_spray_on_running_shoes_could_shake_up_olympics 'Marathon-winning ‘spray-on’ running shoes could shake up Olympics')
 
 - [Former Trump adviser Peter Navarro released from prison after serving 4 months for contempt of Congress](https://new-news.github.io/Latest/2024/07/17/former_trump_adviser_peter_navarro_released_from_prison_after_serving_4_months_for_contempt_of_congress 'Former Trump adviser Peter Navarro released from prison after serving 4 months for contempt of Congress')
 
 - [How the ATF identified the Trump rally shooter in 30 minutes](https://new-news.github.io/Latest/2024/07/17/how_the_atf_identified_the_trump_rally_shooter_in_30_minutes 'How the ATF identified the Trump rally shooter in 30 minutes')
-
-- [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/17/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
-
-- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
 
 - [Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime](https://new-news.github.io/Latest/2024/07/17/biden_administration_points_to_29__drop_in_border_arrests_as_rnc_turns_focus_to_immigration_and_crime 'Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime')
 
@@ -124,8 +136,6 @@
 
 - [Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting](https://new-news.github.io/Latest/2024/07/17/exclusive__secret_service_ramped_up_security_after_intel_of_iran_plot_to_assassinate_trump__no_known_connection_to_shooting 'Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting')
 
-- [Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say](https://new-news.github.io/Latest/2024/07/17/trump_shooter_requested_saturday_off_from_work_and_told_colleagues_hed_be_back_at_work_sunday__officials_say 'Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say')
-
 - [Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out](https://new-news.github.io/Latest/2024/07/17/has_one_of_the_worlds_rarest_whales_washed_up_on_a_beach_scientists_are_scrambling_to_find_out 'Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out')
 
 - [FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/fbi_and_dhs_warn_of_potential_follow_on_or_retaliatory_attacks_following_trump_assassination_attempt 'FBI and DHS warn of potential ‘follow-on or retaliatory attacks’ following Trump assassination attempt')
@@ -196,18 +206,8 @@
 
 - [Gazans endure deadly weekend of Israeli strikes as UN chief laments ‘incomprehensible and inexcusable’ destruction](https://new-news.github.io/Latest/2024/07/17/gazans_endure_deadly_weekend_of_israeli_strikes_as_un_chief_laments_incomprehensible_and_inexcusable_destruction 'Gazans endure deadly weekend of Israeli strikes as UN chief laments ‘incomprehensible and inexcusable’ destruction')
 
-- [A cruise liner-size asteroid will come closer to Earth than some satellites. A new mission may be racing to meet it](https://new-news.github.io/Latest/2024/07/17/a_cruise_liner_size_asteroid_will_come_closer_to_earth_than_some_satellites__a_new_mission_may_be_racing_to_meet_it 'A cruise liner-size asteroid will come closer to Earth than some satellites. A new mission may be racing to meet it')
-
-- [Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/jack_blacks_band_cancels_tour_after_backlash_to_bandmates_comment_on_trump_assassination_attempt 'Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt')
-
-- [Andrew Tate banned from leaving Romania after court overturns ruling](https://new-news.github.io/Latest/2024/07/17/andrew_tate_banned_from_leaving_romania_after_court_overturns_ruling 'Andrew Tate banned from leaving Romania after court overturns ruling')
-
-- [‘Morning Joe’ hosts take on-air swipe at NBC leadership after program was pulled from air](https://new-news.github.io/Latest/2024/07/17/morning_joe_hosts_take_on_air_swipe_at_nbc_leadership_after_program_was_pulled_from_air '‘Morning Joe’ hosts take on-air swipe at NBC leadership after program was pulled from air')
-
-- [Elon Musk is going all-in on Donald Trump](https://new-news.github.io/Latest/2024/07/17/elon_musk_is_going_all_in_on_donald_trump 'Elon Musk is going all-in on Donald Trump')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies') 

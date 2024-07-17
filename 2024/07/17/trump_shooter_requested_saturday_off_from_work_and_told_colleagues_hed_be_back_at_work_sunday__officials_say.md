@@ -1,6 +1,6 @@
 # Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say
 
-Published :`2024-07-17 13:35:57`
+Published :`2024-07-17 14:15:07`
 
 ---
 
@@ -22,6 +22,8 @@ Around the same time witnesses alerted police that Crooks was crawling on the ro
 
 Crooks gained access to the rooftop by climbing on top of the building’s air conditioning system and hoisting himself up, according to a senior federal law enforcement official briefed on the investigation.
 
+Around 11 p.m., Crooks’ father reported him missing, law enforcement officials told CNN. His father told agents that he believed his son had taken the rifle Saturday to go to the shooting range and thought he would be back by around 1:00 p.m., the sources said.
+
 After the shooting, multiple law enforcement sources said investigators found a bulletproof vest, three fully-loaded magazines, and two remote-controlled explosive devices in Crooks’ car.
 
 Investigators are uncertain as to whether Crooks had a plan to use the body armor, nearly 100 rounds of additional ammunition from those loaded magazines, and two remote-controlled bombs, had he escaped after the shooting.
@@ -29,6 +31,8 @@ Investigators are uncertain as to whether Crooks had a plan to use the body armo
 Additionally, after a search of his residence, investigators discovered another bulletproof vest, another remote-controlled explosive device, and a 3D printer, according to multiple law enforcement sources.
 
 In the last several months, Crooks received multiple packages, including some marked as possibly containing hazardous materials, according to a joint FBI and Department of Homeland Security bulletin obtained by CNN.
+
+This story has been updated with additional information.
 
 ---
 
