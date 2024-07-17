@@ -1,12 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 22:14:58`
+#### Latest Update : `2024-07-17 22:37:52`
 
 ## Latest News Grabbing 
 
 ---
 
+- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
+
+- [Right-wing media figures blame women in Secret Service and ‘DEI’ for security failure in Trump shooting](https://new-news.github.io/Latest/2024/07/17/right_wing_media_figures_blame women_in_secret_service_and_dei_for_security_failure_in_trump_shooting 'Right-wing media figures blame women in Secret Service and ‘DEI’ for security failure in Trump shooting')
+
 - [President Joe Biden has tested positive for Covid-19](https://new-news.github.io/Latest/2024/07/17/president_joe_biden_has_tested_positive_for_covid_19 'President Joe Biden has tested positive for Covid-19')
+
+- [Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say](https://new-news.github.io/Latest/2024/07/17/cyanide_poisoning_likely_killed_six_found_dead_in_luxury_hotel__including_two_us_citizens__thai_police_say 'Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say')
 
 - [Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case](https://new-news.github.io/Latest/2024/07/17/attorneys_for_rust_armorer_file_for_dismissal_of_her_case_or_new_trial_after_collapse_of_alec_baldwin_case 'Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case')
 
@@ -29,8 +35,6 @@
 - [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
 
 - [Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident](https://new-news.github.io/Latest/2024/07/17/naomi_pomeroy__renowned_chef_and_top_chef_masters_star__dead_at_49_in_tubing_accident 'Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident')
-
-- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/17/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
 
 - [Biden administration urges Supreme Court to let it continue implementing student loan repayment program](https://new-news.github.io/Latest/2024/07/17/biden_administration_urges_supreme_court_to_let_it_continue_implementing_student_loan_repayment_program 'Biden administration urges Supreme Court to let it continue implementing student loan repayment program')
 
@@ -154,8 +158,6 @@
 
 - [Uncontacted tribe sighted in Peruvian Amazon where loggers are active](https://new-news.github.io/Latest/2024/07/17/uncontacted tribe_sighted_in_peruvian_amazon_where_loggers_are_active 'Uncontacted tribe sighted in Peruvian Amazon where loggers are active')
 
-- [Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say](https://new-news.github.io/Latest/2024/07/17/cyanide_poisoning_likely_killed_six_found_dead_in_luxury_hotel__including_two_us_citizens__thai_police_say 'Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say')
-
 - [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/17/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
 
 - [Work from home could lead to more homes in vacant offices](https://new-news.github.io/Latest/2024/07/17/work_from_home_could_lead_to_more_homes_in_vacant_offices 'Work from home could lead to more homes in vacant offices')
@@ -203,8 +205,6 @@
 - [2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces](https://new-news.github.io/Latest/2024/07/17/2_death_row_inmates_to_be_resentenced_amid_review_into_decades_of_prosecutorial_misconduct_in_alameda_county__da_announces '2 death row inmates to be resentenced amid review into decades of prosecutorial misconduct in Alameda County, DA announces')
 
 - [Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting](https://new-news.github.io/Latest/2024/07/17/exclusive__secret_service_ramped_up_security_after_intel_of_iran_plot_to_assassinate_trump__no_known_connection_to_shooting 'Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting')
-
-- [Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out](https://new-news.github.io/Latest/2024/07/17/has_one_of_the_worlds_rarest_whales_washed_up_on_a_beach_scientists_are_scrambling_to_find_out 'Has one of the world’s rarest whales washed up on a beach? Scientists are scrambling to find out')
 
 
 

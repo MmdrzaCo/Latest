@@ -1,6 +1,6 @@
 # Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video
 
-Published :`2024-07-17 22:14:57`
+Published :`2024-07-17 22:37:50`
 
 ---
 

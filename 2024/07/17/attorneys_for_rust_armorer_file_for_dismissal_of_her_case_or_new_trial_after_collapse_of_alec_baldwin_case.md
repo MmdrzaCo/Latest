@@ -1,6 +1,6 @@
 # Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case
 
-Published :`2024-07-17 22:14:56`
+Published :`2024-07-17 22:37:48`
 
 ---
 
