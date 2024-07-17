@@ -1,10 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 10:16:20`
+#### Latest Update : `2024-07-17 10:38:28`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/17/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
+
+- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
+
+- [Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video](https://new-news.github.io/Latest/2024/07/17/trump_shares_vaccine_skepticism_on_call_with_rfk_jr__in_since_deleted_video 'Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video')
+
+- [2024 No. 1 NFL Draft pick Caleb Williams agrees to a fully guaranteed, four-year, $39.5 million deal with Bears, per reports](https://new-news.github.io/Latest/2024/07/17/2024_no__1_nfl_draft_pick_caleb_williams_agrees_to_a_fully_guaranteed__four_year___39_5_million_deal_with_bears__per_reports '2024 No. 1 NFL Draft pick Caleb Williams agrees to a fully guaranteed, four-year, $39.5 million deal with Bears, per reports')
 
 - [Anger grows as some senior facilities left without power for days: ‘It’s horrible what the state of Texas is doing’](https://new-news.github.io/Latest/2024/07/17/anger_grows_as_some_senior_facilities_left_without_power_for_days__its_horrible_what_the_state_of_texas_is_doing 'Anger grows as some senior facilities left without power for days: ‘It’s horrible what the state of Texas is doing’')
 
@@ -71,8 +79,6 @@
 - [Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot](https://new-news.github.io/Latest/2024/07/17/asias_50_best_bars_for_2024_have_been_announced__a_newcomer_has_earned_the_top_spot 'Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot')
 
 - [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/17/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
-
-- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
 
 - [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/17/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
 
@@ -150,8 +156,6 @@
 
 - [How to survive a shark attack – or better yet, avoid one entirely](https://new-news.github.io/Latest/2024/07/17/how_to_survive_a_shark_attack_–_or_better_yet__avoid_one_entirely 'How to survive a shark attack – or better yet, avoid one entirely')
 
-- [Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video](https://new-news.github.io/Latest/2024/07/17/trump_shares_vaccine_skepticism_on_call_with_rfk_jr__in_since_deleted_video 'Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video')
-
 - [Federal prosecutor accused of mishandling evidence in Trump inauguration protest cases](https://new-news.github.io/Latest/2024/07/17/federal_prosecutor_accused_of_mishandling_evidence_in_trump_inauguration_protest_cases 'Federal prosecutor accused of mishandling evidence in Trump inauguration protest cases')
 
 - [Rally security failure has Secret Service at odds with its local law enforcement allies](https://new-news.github.io/Latest/2024/07/17/rally_security_failure_has_secret_service_at_odds_with_its_local_law_enforcement_allies 'Rally security failure has Secret Service at odds with its local law enforcement allies')
@@ -202,12 +206,8 @@
 
 - [Gareth Southgate leaves England men’s national team after defeat in Euro 2024 final](https://new-news.github.io/Latest/2024/07/17/gareth_southgate_leaves_england_mens_national_team_after_defeat_in_euro_2024_final 'Gareth Southgate leaves England men’s national team after defeat in Euro 2024 final')
 
-- [A Baltimore man died after being sedated and restrained by medics. His mom wants answers](https://new-news.github.io/Latest/2024/07/17/a_baltimore_man_died_after_being_sedated_and_restrained_by_medics__his_mom_wants_answers 'A Baltimore man died after being sedated and restrained by medics. His mom wants answers')
-
-- [Here’s why people have fond memories of the Trump economy](https://new-news.github.io/Latest/2024/07/17/heres_why_people_have_fond_memories_of_the_trump_economy 'Here’s why people have fond memories of the Trump economy')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies')  [amazon](/ 'amazon') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies') 

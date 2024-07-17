@@ -1,6 +1,6 @@
 # Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot
 
-Published :`2024-07-17 10:16:19`
+Published :`2024-07-17 10:38:25`
 
 ---
 

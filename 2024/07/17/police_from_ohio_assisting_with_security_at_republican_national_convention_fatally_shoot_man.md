@@ -1,10 +1,10 @@
 # Police from Ohio assisting with security at Republican National Convention fatally shoot man
 
-Published :`2024-07-17 10:16:19`
+Published :`2024-07-17 10:38:24`
 
 ---
 
-Ohio police officers who were in Milwaukee to help with security at the Republican National Convention shot and killed a man Tuesday who local authorities said had knives in both hands and was trying to attack another man.
+Ohio police officers who were in Milwaukee to help with security at the Republican National Convention shot and killed a man Tuesday who local authorities said had knives in both hands and was trying to attack another man – an encounter that prompted calls for transparency from local activists.
 
 Milwaukee Police Chief Jeffrey Norman told reporters the officers from Columbus, Ohio,  saw a man with two knives involved in an altercation with an unarmed man and went to intervene.
 
@@ -23,6 +23,12 @@ The 31-second video, which begins partially blurred, starts with the officers en
 They immediately point their weapons and run toward the altercation, yelling at the armed man to drop his weapon, the video shows.
 
 The assailant appears to walk toward the other man when the officers fire their weapons and the man goes down, the video shows.
+
+The shooting in Milwaukee comes more than a year after the US Department of Justice released recommendations for reform of the Columbus Division of Police following a nearly two-year review of its policies. The division requested the review after facing multiple controversies, including criticism over its management of racial justice protests in 2020 and deadly police shootings, including those of Andre Hill and Ma’Khia Bryant.
+
+The recommendations were aimed at strengthening the police department’s relationship with the community and included longer training periods for officers and technology improvements.
+
+### Milwaukee activists call for accountability
 
 The fatal shooting sparked anger and criticism by local activists.
 
