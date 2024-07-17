@@ -1,10 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 10:38:28`
+#### Latest Update : `2024-07-17 11:12:58`
 
 ## Latest News Grabbing 
 
 ---
+
+- [‘Morning Joe’ backlash is latest mess for NBC and Comcast executives](https://new-news.github.io/Latest/2024/07/17/morning_joe_backlash_is_latest_mess_for_nbc_and_comcast_executives '‘Morning Joe’ backlash is latest mess for NBC and Comcast executives')
+
+- [New York Liberty cements position as WNBA’s best team with win over Connecticut Sun as Sabrina Ionescu shines](https://new-news.github.io/Latest/2024/07/17/new_york_liberty_cements_position_as_wnbas_best_team_with_win_over_connecticut_sun_as_sabrina_ionescu_shines 'New York Liberty cements position as WNBA’s best team with win over Connecticut Sun as Sabrina Ionescu shines')
+
+- [The iconic Mirage in Las Vegas is closing today after 34 years](https://new-news.github.io/Latest/2024/07/17/the_iconic_mirage_in_las_vegas_is_closing_today_after_34_years 'The iconic Mirage in Las Vegas is closing today after 34 years')
+
+- [American League tops National League for 10th time in last 11 MLB All-Star Games](https://new-news.github.io/Latest/2024/07/17/american_league_tops_national_league_for_10th_time_in_last_11_mlb_all_star_games 'American League tops National League for 10th time in last 11 MLB All-Star Games')
+
+- [Enzo Fernández apologizes for singing racist chant with Argentina teammates about France](https://new-news.github.io/Latest/2024/07/17/enzo_fernández_apologizes_for_singing_racist_chant_with_argentina_teammates_about_france 'Enzo Fernández apologizes for singing racist chant with Argentina teammates about France')
 
 - [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/17/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
 
@@ -196,18 +206,8 @@
 
 - [Conspiracy theories spread wildly after the first assassination attempt on a US president in the social media age](https://new-news.github.io/Latest/2024/07/17/conspiracy_theories_spread_wildly_after_the_first_assassination_attempt_on_a_us_president_in_the_social_media_age 'Conspiracy theories spread wildly after the first assassination attempt on a US president in the social media age')
 
-- [Body found on Spanish island is missing British teenager Jay Slater, court says](https://new-news.github.io/Latest/2024/07/17/body_found_on_spanish_island_is_missing_british_teenager_jay_slater__court_says 'Body found on Spanish island is missing British teenager Jay Slater, court says')
-
-- [Gambian parliament rejects bid to overturn historic ban on female genital mutilation](https://new-news.github.io/Latest/2024/07/17/gambian_parliament_rejects_bid_to_overturn_historic_ban_on_female_genital_mutilation 'Gambian parliament rejects bid to overturn historic ban on female genital mutilation')
-
-- [As Republicans gather in Milwaukee, news outlets grapple with covering their rhetoric](https://new-news.github.io/Latest/2024/07/17/as_republicans_gather_in_milwaukee__news_outlets_grapple_with_covering_their_rhetoric 'As Republicans gather in Milwaukee, news outlets grapple with covering their rhetoric')
-
-- [American journalist Masha Gessen convicted in absentia by Russia for criticizing its military](https://new-news.github.io/Latest/2024/07/17/american_journalist_masha_gessen_convicted_in_absentia_by_russia_for_criticizing_its_military 'American journalist Masha Gessen convicted in absentia by Russia for criticizing its military')
-
-- [Gareth Southgate leaves England men’s national team after defeat in Euro 2024 final](https://new-news.github.io/Latest/2024/07/17/gareth_southgate_leaves_england_mens_national_team_after_defeat_in_euro_2024_final 'Gareth Southgate leaves England men’s national team after defeat in Euro 2024 final')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [absentia](/ 'absentia')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [air](/ 'air')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies')  [amazon](/ 'amazon') 

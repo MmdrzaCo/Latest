@@ -1,6 +1,6 @@
 # Father and daughter found dead at Canyonlands National Park after getting lost, running out of water in triple-digit heat
 
-Published :`2024-07-17 10:38:28`
+Published :`2024-07-17 11:12:58`
 
 ---
 
