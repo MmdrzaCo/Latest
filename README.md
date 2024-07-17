@@ -1,12 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 17:13:00`
+#### Latest Update : `2024-07-17 17:35:44`
 
 ## Latest News Grabbing 
 
 ---
 
 - [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
+
+- [The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture](https://new-news.github.io/Latest/2024/07/17/the_same_judge_who_greenlit_the_controversial_willow_project_just_axed_a_different_alaska_oil_venture 'The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture')
 
 - [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
 
@@ -204,10 +206,8 @@
 
 - [Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says](https://new-news.github.io/Latest/2024/07/17/minnesota_ban_on_18__to_20_year_olds_obtaining_handgun_permits_is_unconstitutional__federal_appeals_court_says 'Minnesota ban on 18- to 20-year-olds obtaining handgun permits is unconstitutional, federal appeals court says')
 
-- [Democratic Sen. Bob Menendez found guilty in federal corruption trial; Chuck Schumer calls on him to resign](https://new-news.github.io/Latest/2024/07/17/democratic_sen__bob_menendez_found_guilty_in_federal_corruption_trial__chuck_schumer_calls_on_him_to_resign 'Democratic Sen. Bob Menendez found guilty in federal corruption trial; Chuck Schumer calls on him to resign')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [act](/ 'act')  [active](/ 'active')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american')  [americans](/ 'americans') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [act](/ 'act')  [active](/ 'active')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american') 
