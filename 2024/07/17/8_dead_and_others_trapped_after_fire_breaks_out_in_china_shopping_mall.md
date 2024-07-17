@@ -1,6 +1,6 @@
 # 8 dead and others trapped after fire breaks out in China shopping mall
 
-Published :`2024-07-17 16:41:32`
+Published :`2024-07-17 17:12:53`
 
 ---
 

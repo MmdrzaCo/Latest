@@ -1,6 +1,6 @@
 # Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69
 
-Published :`2024-07-17 16:41:39`
+Published :`2024-07-17 17:12:59`
 
 ---
 

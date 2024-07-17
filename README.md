@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 16:41:41`
+#### Latest Update : `2024-07-17 17:13:00`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/17/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
+
+- [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
 
 - [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/17/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
 
@@ -12,7 +16,7 @@
 
 - [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/17/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
 
-- [Tech stocks fall after report that Biden administration plans to crack down on China chipmakers](https://new-news.github.io/Latest/2024/07/17/tech_stocks_fall_after_report_that_biden_administration_plans_to_crack_down_on_china_chipmakers 'Tech stocks fall after report that Biden administration plans to crack down on China chipmakers')
+- [Tech stocks dive after report that Biden administration plans to crack down on China chipmakers](https://new-news.github.io/Latest/2024/07/17/tech_stocks_dive_after_report_that_biden_administration_plans_to_crack_down_on_china_chipmakers 'Tech stocks dive after report that Biden administration plans to crack down on China chipmakers')
 
 - [Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea](https://new-news.github.io/Latest/2024/07/17/former_cia_analyst_sue_mi_terry_indicted_on_charges_of_secretly_working_for_south_korea 'Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea')
 
@@ -23,8 +27,6 @@
 - [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
 
 - [How this soccer player saved a Jewish teenager from persecution in Nazi Germany](https://new-news.github.io/Latest/2024/07/17/how_this_soccer_player_saved_a_jewish_teenager_from_persecution_in_nazi_germany 'How this soccer player saved a Jewish teenager from persecution in Nazi Germany')
-
-- [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
 
 - [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
 
@@ -204,10 +206,8 @@
 
 - [Democratic Sen. Bob Menendez found guilty in federal corruption trial; Chuck Schumer calls on him to resign](https://new-news.github.io/Latest/2024/07/17/democratic_sen__bob_menendez_found_guilty_in_federal_corruption_trial__chuck_schumer_calls_on_him_to_resign 'Democratic Sen. Bob Menendez found guilty in federal corruption trial; Chuck Schumer calls on him to resign')
 
-- [Jennifer Lopez and Ben Affleck mark their second wedding anniversary](https://new-news.github.io/Latest/2024/07/17/jennifer_lopez_and_ben_affleck_mark_their_second_wedding_anniversary 'Jennifer Lopez and Ben Affleck mark their second wedding anniversary')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american')  [americans](/ 'americans') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [act](/ 'act')  [active](/ 'active')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american')  [americans](/ 'americans') 

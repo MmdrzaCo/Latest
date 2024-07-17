@@ -1,6 +1,6 @@
 # DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats
 
-Published :`2024-07-17 16:41:32`
+Published :`2024-07-17 17:12:53`
 
 ---
 
@@ -39,6 +39,10 @@ He added of the DNC: “Fast-forwarding the nomination process is no way to con
 Rep. Jared Huffman, a progressive Democrat from California, told CNN on Tuesday that there is a “growing number of members” concerned about the virtual roll call vote, calling it a “terrible idea” and a “dumb thing.”
 
 “If the election were held today, he would get crushed,” Huffman said of Biden. “We have got to do something about it.”
+
+A spokesperson for Huffman told CNN that in light of the DNC letter to hold a virtual roll call in August, they will not be sending the formal letter calling on the party to delay nominating Biden that was circulated earlier this week. Huffman had drafted a letter to House Democrats to delay Biden’s nomination until delegates gathered at the convention.
+
+The source said that the California congressman is pleased to see the pressure members were putting on the DNC not to hold a virtual roll call by the end of July was successful.
 
 ---
 
