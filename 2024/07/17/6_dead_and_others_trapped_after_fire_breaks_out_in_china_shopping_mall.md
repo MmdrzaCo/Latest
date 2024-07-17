@@ -1,6 +1,6 @@
 # 6 dead and others trapped after fire breaks out in China shopping mall
 
-Published :`2024-07-17 15:39:02`
+Published :`2024-07-17 16:19:01`
 
 ---
 
@@ -13,6 +13,10 @@ Dramatic images showed a huge column of black smoke billowing from the 14-story 
 Nearly 300 emergency workers and dozens of vehicles were dispatched from the local fire department to the scene. The blaze was extinguished at 8.20 p.m. local time.
 
 A total of 30 people have been rescued from the site. It is unclear how many people are trapped.
+
+Such incidents are not uncommon in China, where safety standards fall short and enforcement is lax.
+
+In January, a fire broke out at a mixed-use building in southeastern China, killing at least 39 people and injuring nine others. That fire came days after another blaze broke out in the dormitory of a boarding school in the central province of Henan, killing 13 children.
 
 This is a developing story and will be updated.
 

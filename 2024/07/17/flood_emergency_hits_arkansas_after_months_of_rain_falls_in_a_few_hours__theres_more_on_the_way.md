@@ -1,6 +1,6 @@
 # Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way
 
-Published :`2024-07-17 15:39:02`
+Published :`2024-07-17 16:19:01`
 
 ---
 

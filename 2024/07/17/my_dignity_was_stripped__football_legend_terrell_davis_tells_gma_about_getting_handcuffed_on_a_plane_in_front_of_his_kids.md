@@ -1,6 +1,6 @@
 # ‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids
 
-Published :`2024-07-17 15:39:02`
+Published :`2024-07-17 16:19:02`
 
 ---
 

@@ -1,20 +1,30 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 15:39:08`
+#### Latest Update : `2024-07-17 16:19:09`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Emmy nominations 2024: Were your favorite shows nominated?](https://new-news.github.io/Latest/2024/07/17/emmy_nominations_2024__were_your_favorite_shows_nominated 'Emmy nominations 2024: Were your favorite shows nominated?')
-
-- [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
+- [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/17/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
 
 - [Chicago gas prices could soar after tornado narrowly misses refinery](https://new-news.github.io/Latest/2024/07/17/chicago_gas_prices_could_soar_after_tornado_narrowly_misses_refinery 'Chicago gas prices could soar after tornado narrowly misses refinery')
 
-- [Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer](https://new-news.github.io/Latest/2024/07/17/now_you_can_watch_hundreds_of_rattlesnakes_in_a_mega_den_–_from_the_safety_of_your_computer 'Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer')
+- [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/17/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
+
+- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
+
+- [How this soccer player saved a Jewish teenager from persecution in Nazi Germany](https://new-news.github.io/Latest/2024/07/17/how_this_soccer_player_saved_a_jewish_teenager_from_persecution_in_nazi_germany 'How this soccer player saved a Jewish teenager from persecution in Nazi Germany')
+
+- [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/17/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
+
+- [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/17/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
 
 - [6 dead and others trapped after fire breaks out in China shopping mall](https://new-news.github.io/Latest/2024/07/17/6_dead_and_others_trapped_after_fire_breaks_out_in_china_shopping_mall '6 dead and others trapped after fire breaks out in China shopping mall')
+
+- [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
+
+- [Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer](https://new-news.github.io/Latest/2024/07/17/now_you_can_watch_hundreds_of_rattlesnakes_in_a_mega_den_–_from_the_safety_of_your_computer 'Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer')
 
 - [Streetwear brand Supreme is getting a surprising new owner](https://new-news.github.io/Latest/2024/07/17/streetwear_brand_supreme_is_getting_a_surprising_new_owner 'Streetwear brand Supreme is getting a surprising new owner')
 
@@ -23,8 +33,6 @@
 - [Armani and Dior probed in Italy following worker exploitation claims](https://new-news.github.io/Latest/2024/07/17/armani_and_dior_probed_in_italy_following_worker_exploitation_claims 'Armani and Dior probed in Italy following worker exploitation claims')
 
 - [Women with endometriosis face fourfold higher risk of ovarian cancer, study suggests](https://new-news.github.io/Latest/2024/07/17/women_with_endometriosis_face_fourfold_higher_risk_of_ovarian_cancer__study_suggests 'Women with endometriosis face fourfold higher risk of ovarian cancer, study suggests')
-
-- [DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1](https://new-news.github.io/Latest/2024/07/17/dnc_moving_forward_with_biden_virtual_nomination__voting_to_begin_no_sooner_than_august_1 'DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1')
 
 - [Biden’s 41-year evolution on Supreme Court reform](https://new-news.github.io/Latest/2024/07/17/bidens_41_year_evolution_on_supreme_court_reform 'Biden’s 41-year evolution on Supreme Court reform')
 
@@ -40,13 +48,7 @@
 
 - [Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music](https://new-news.github.io/Latest/2024/07/17/adeles_tank_is_quite_empty_at_the_minute__shes_planning_a_big_break_from_music 'Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music')
 
-- [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/17/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
-
 - [One of the world’s biggest booze makers is ditching wine brands as the world drinks less](https://new-news.github.io/Latest/2024/07/17/one_of_the_worlds_biggest_booze_makers_is_ditching_wine_brands_as_the_world_drinks_less 'One of the world’s biggest booze makers is ditching wine brands as the world drinks less')
-
-- [Police from Ohio assisting with security at Republican National Convention fatally shoot man](https://new-news.github.io/Latest/2024/07/17/police_from_ohio_assisting_with_security_at_republican_national_convention_fatally_shoot_man 'Police from Ohio assisting with security at Republican National Convention fatally shoot man')
-
-- [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/17/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
 
 - [Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army](https://new-news.github.io/Latest/2024/07/17/archaeologists_identify_roman_wall_built_to_hold_back_rebel_slave_spartacus_and_his_army 'Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army')
 
@@ -203,8 +205,6 @@
 - [Jennifer Lopez and Ben Affleck mark their second wedding anniversary](https://new-news.github.io/Latest/2024/07/17/jennifer_lopez_and_ben_affleck_mark_their_second_wedding_anniversary 'Jennifer Lopez and Ben Affleck mark their second wedding anniversary')
 
 - [Tuskegee syphilis study whistleblower Peter Buxtun has died at age 86](https://new-news.github.io/Latest/2024/07/17/tuskegee_syphilis_study_whistleblower_peter_buxtun_has_died_at_age_86 'Tuskegee syphilis study whistleblower Peter Buxtun has died at age 86')
-
-- [Families release photos of five female Israeli soldiers from their first days of captivity in Gaza](https://new-news.github.io/Latest/2024/07/17/families_release_photos_of_five_female_israeli_soldiers_from_their_first_days_of_captivity_in_gaza 'Families release photos of five female Israeli soldiers from their first days of captivity in Gaza')
 
 
 

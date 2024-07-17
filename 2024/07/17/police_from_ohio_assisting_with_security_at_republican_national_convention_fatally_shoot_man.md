@@ -1,6 +1,6 @@
 # Police from Ohio assisting with security at Republican National Convention fatally shoot man
 
-Published :`2024-07-17 15:39:02`
+Published :`2024-07-17 16:19:01`
 
 ---
 
@@ -20,15 +20,17 @@ The chief also released video from the body-worn camera of one officer involved 
 
 The 31-second video, which begins partially blurred, starts with the officers engaged in a briefing before turning their attention to an altercation involving two men nearby.
 
-They immediately point their weapons and run toward the altercation, yelling at the armed man to drop his weapon, the video shows.
+“He’s got a knife. Yes he does,” one officer says in the video.
 
-The assailant appears to walk toward the other man when the officers fire their weapons and the man goes down, the video shows.
+They immediately draw their weapons and run toward the altercation, yelling at the armed man, “Drop the knife!” the video shows.
+
+As the officers come near, one man holding something in each hand appears to move toward the other man, the video shows. The officers then shoot at the moving man, and he falls to the ground, the video shows.
 
 Milwaukee Mayor Cavalier Johnson said the shooting was a tragedy that appears to be justified.
 
 “Any officer in that same situation where they witness somebody who’s going to cause death or serious bodily harm to somebody with a gun or, in this case, with a knife – not just one knife, but two knives – would have taken the exact same action to preserve life,” Johnson told CNN’s Ryan Young.
 
-The force from Columbus, Ohio, is in Milwaukee to assist with security for the Republican National Convention, but Johnson said the incident had no connection to the convention.
+The force from Columbus is in Milwaukee to assist with security for the Republican National Convention, but Johnson said the incident had no connection to the convention.
 
 Johnson, a Democrat who has endorsed President Joe Biden for the upcoming election, said former President Donald Trump called him Tuesday to express appreciation for the city’s public safety efforts hosting the convention.
 

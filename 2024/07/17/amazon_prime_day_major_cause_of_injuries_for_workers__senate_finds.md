@@ -1,14 +1,14 @@
 # Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds
 
-Published :`2024-07-17 15:39:02`
+Published :`2024-07-17 16:19:01`
 
 ---
 
 Amazon’s warehouses are especially dangerous for workers during the company’s annual Prime Day event, as well as the holiday season, according to an investigation by the US Senate.
 
-Prime Day, held on Tuesday and Wednesday this week, is “a major cause of injuries for the warehouse workers who make it possible,” said a report by the Senate Committee on Health, Education, Labor and Pensions, published Monday, noting “the extremely unsafe conditions in Amazon warehouses” during the two peak periods. The report called on the company to do more to protect warehouse workers.
+Prime Day, held on Tuesday and Wednesday this week, is “a major cause of injuries for the warehouse workers who make it possible,” said a report released Monday by Sen. Bernie Sanders, who chairs the Senate Committee on Health, Education, Labor and Pensions. The report noted “the extremely unsafe conditions in Amazon warehouses” during the two peak periods and called on the company to do more to protect warehouse workers.
 
-During its ongoing investigation, the committee, chaired by Sen. Bernie Sanders, found that Prime Day and the holiday season at Amazon (AMZN) are characterized by an “extremely high volume” of work and “intense pressure to work long hours and ignore safety guidelines.”
+During its ongoing investigation, the committee found that Prime Day and the holiday season at Amazon (AMZN) are characterized by an “extremely high volume” of work and “intense pressure to work long hours and ignore safety guidelines.”
 
 The report makes public, for the first time, the company’s internal data on warehouse injury rates. The data shows that during Prime Day 2019 the rate of “recordable” injuries — those Amazon is required to disclose to the Occupational Safety and Health Administration — exceeded 10 per 100 workers, more than double the average in the US warehousing and storage industry.
 
@@ -20,7 +20,9 @@ Amazon raked in $12.7 billion in sales on July 11 and 12 last year, its Prime Da
 
 “The safety and health of our employees is and always will be our top priority,” Kelly Nantel, an Amazon spokesperson, told CNN in a statement. “And since 2019, we’ve made significant progress — reducing our recordable incident rate (which includes anything that requires more than basic first aid) in the US by 28%.”
 
-“One of the false claims in the report implies that we’re not adequately staffed for busy shopping periods. This is just not true, as we carefully plan and staff up for major events, ensure that we have excess capacity across our network, and design our network so that orders are automatically routed to sites that can handle unexpected spikes in volume,” the spokesperson added.
+The spokesperson also took issue with the total injury rate cited in the Senate report, saying it had come from a five-year-old internal document that had “flawed methodology and gaps in the research” and which was “rejected by experts who specialize in data analysis.”
+
+The spokesperson added: “One of the false claims in the report implies that we’re not adequately staffed for busy shopping periods. This is just not true, as we carefully plan and staff up for major events, ensure that we have excess capacity across our network, and design our network so that orders are automatically routed to sites that can handle unexpected spikes in volume.”
 
 Over the years, some Amazon workers have described the “grueling” experience of long hours racing around warehouses that can be the size of 28 football fields while the company tracks their every move.
 
