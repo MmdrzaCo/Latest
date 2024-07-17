@@ -1,6 +1,6 @@
 # DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1
 
-Published :`2024-07-17 14:37:32`
+Published :`2024-07-17 15:17:52`
 
 ---
 
@@ -19,6 +19,12 @@ A growing faction of House Democrats, convinced that Biden is too politically da
 In Wednesday’s letter, the co-chairs of the rules committee alluded to reports of Biden allies hoping to accelerate the virtual roll call, writing: “No matter what may be reported, our goal is not to fast-track.”
 
 “None of this will be rushed,” they said.
+
+Appearing on “CNN News Central” Wednesday, Minnesota Gov. Tim Walz, a co-chair of the DNC’s rules committee, rejected suggestions that the DNC is trying to fast-track Biden’s nomination.
+
+“No, I don’t think it behooves us to fall into conspiracy theories. The Republicans have cornered the market on that,” Walz said. “Look, this is the process that we’ve done. There is nothing going to happen on Friday other than to start to set the rules. Again, if our convention would have been held last month, then no one would be talking about this, but we have to get the work done,” he added.
+
+Walz was referring to the initial rationale for the virtual roll call process, which was intended to step around an issue in Ohio that threatened to leave Biden off the ballot in that state. Lawmakers in Ohio have since passed a law to make that issue moot, but the DNC has pointed to the potential of a legal challenge by Ohio Republicans for moving forward with the virtual roll call anyway.
 
 ---
 

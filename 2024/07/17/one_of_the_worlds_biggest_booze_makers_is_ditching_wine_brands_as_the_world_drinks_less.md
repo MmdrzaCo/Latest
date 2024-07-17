@@ -1,6 +1,6 @@
 # One of the world’s biggest booze makers is ditching wine brands as the world drinks less
 
-Published :`2024-07-17 14:37:33`
+Published :`2024-07-17 15:17:53`
 
 ---
 
@@ -10,7 +10,7 @@ The French group — which owns Absolut Vodka, Jameson Whiskey, Olmeca Tequila a
 
 The sale to Australian Wine Holdco Limited, a consortium of international investors, will see Pernod Ricard offload 10 wine brands: Jacob’s Creek, Orlando, St Hugo, Stoneleigh, Brancott Estate, Church Road, Campo Viejo, Ysios, Tarsus, and Azpilicueta. No financial details were disclosed.
 
-The deal comes after wine consumption globally hit a 27-year low last year, according to an estimate by the International Organisation for Vine and Wine (OIV), an industry group.
+The deal comes after wine consumption globally hit a 27-year low last year, according to an estimate by the International Organisation of Vine and Wine (OIV), an industry group.
 
 Pernod Ricard reported a 7% fall in sales for the wine brands it plans to sell in the first quarter of this year, mainly as a result of a decline in popularity of Jacob’s Creek in India and Campo Viejo in the US.
 

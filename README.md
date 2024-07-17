@@ -1,16 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 14:37:42`
+#### Latest Update : `2024-07-17 15:17:59`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Armani and Dior probed in Italy following worker exploitation claims](https://new-news.github.io/Latest/2024/07/17/armani_and_dior_probed_in_italy_following_worker_exploitation_claims 'Armani and Dior probed in Italy following worker exploitation claims')
+
+- [Women with endometriosis face fourfold higher risk of ovarian cancer, study suggests](https://new-news.github.io/Latest/2024/07/17/women_with_endometriosis_face_fourfold_higher_risk_of_ovarian_cancer__study_suggests 'Women with endometriosis face fourfold higher risk of ovarian cancer, study suggests')
+
+- [DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1](https://new-news.github.io/Latest/2024/07/17/dnc_moving_forward_with_biden_virtual_nomination__voting_to_begin_no_sooner_than_august_1 'DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1')
+
+- [Biden’s 41-year evolution on Supreme Court reform](https://new-news.github.io/Latest/2024/07/17/bidens_41_year_evolution_on_supreme_court_reform 'Biden’s 41-year evolution on Supreme Court reform')
+
 - [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
 
 - [Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters](https://new-news.github.io/Latest/2024/07/17/usha_vance_is_the_4th_person_of_south_asian_descent_to_be_part_of_the_2024_presidential_campaign__why_that_matters 'Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters')
-
-- [DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1](https://new-news.github.io/Latest/2024/07/17/dnc_moving_forward_with_biden_virtual_nomination__voting_to_begin_no_sooner_than_august_1 'DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1')
 
 - [‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids](https://new-news.github.io/Latest/2024/07/17/my_dignity_was_stripped__football_legend_terrell_davis_tells_gma_about_getting_handcuffed_on_a_plane_in_front_of_his_kids '‘My dignity was stripped’: Football legend Terrell Davis tells ‘GMA’ about getting handcuffed on a plane in front of his kids')
 
@@ -200,14 +206,8 @@
 
 - [Tracking destructive and deadly tornadoes in the US, in maps and charts](https://new-news.github.io/Latest/2024/07/17/tracking_destructive_and_deadly_tornadoes_in_the_us__in_maps_and_charts 'Tracking destructive and deadly tornadoes in the US, in maps and charts')
 
-- [Macron accepts French PM’s resignation, with no clear successor in sight](https://new-news.github.io/Latest/2024/07/17/macron_accepts_french_pms_resignation__with_no_clear_successor_in_sight 'Macron accepts French PM’s resignation, with no clear successor in sight')
-
-- [‘Stranger Things’ Season 5 shares a behind-the-scenes look with its now grown-up cast](https://new-news.github.io/Latest/2024/07/17/stranger_things_season_5_shares_a_behind_the_scenes_look_with_its_now_grown_up_cast '‘Stranger Things’ Season 5 shares a behind-the-scenes look with its now grown-up cast')
-
-- [Gazans endure deadly weekend of Israeli strikes as UN chief laments ‘incomprehensible and inexcusable’ destruction](https://new-news.github.io/Latest/2024/07/17/gazans_endure_deadly_weekend_of_israeli_strikes_as_un_chief_laments_incomprehensible_and_inexcusable_destruction 'Gazans endure deadly weekend of Israeli strikes as UN chief laments ‘incomprehensible and inexcusable’ destruction')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [accepts](/ 'accepts')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies')  [amazon](/ 'amazon') 
