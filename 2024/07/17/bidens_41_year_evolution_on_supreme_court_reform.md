@@ -1,6 +1,6 @@
 # Biden’s 41-year evolution on Supreme Court reform
 
-Published :`2024-07-17 15:17:52`
+Published :`2024-07-17 15:39:02`
 
 ---
 

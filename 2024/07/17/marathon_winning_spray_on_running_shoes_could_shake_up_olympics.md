@@ -1,6 +1,6 @@
 # Marathon-winning ‘spray-on’ running shoes could shake up Olympics
 
-Published :`2024-07-17 15:17:53`
+Published :`2024-07-17 15:39:03`
 
 ---
 
@@ -8,7 +8,7 @@ We’ve seen spray-on hair, a spray-on dress and now — marathon-winning spray-
 
 Swiss sportswear brand On is the latest company to embrace advanced “spray-on” materials with a “revolutionary” robot-made sneaker it believes can improve performance at this month’s Olympics.
 
-The Cloudboom Strike LS is lace-free, weighs less than the latest iPhone and comes out of a pressurized can. Designed to be more adaptable, dynamic and supportive than your average running sneakers, the $330 shoes already have a convincing track record: Kenyan runner Hellen Obiri, an Olympic silver medalist and the only woman to have won indoor, outdoor and cross-country world titles, triumphed at this year’s Boston Marathon wearing a pair. She will don them again to compete in the Paris 2024 Games this summer.
+The Cloudboom Strike LS is lace-free and weighs less than the latest iPhone. Designed to be more adaptable, dynamic and supportive than your average running sneakers, the $330 shoes already have a convincing track record: Kenyan runner Hellen Obiri, an Olympic silver medalist and the only woman to have won indoor, outdoor and cross-country world titles, triumphed at this year’s Boston Marathon wearing a pair. She will don them again to compete in the Paris 2024 Games this summer.
 
 Zurich-based On credits its shoes’ success to a combination of biomechanics, physiology and extreme lightness. (A men’s US size 8.5 weighs just 170g per shoe, over 100g lighter than several popular running shoes of the same size.) “More than anything, we want (the athletes) to win,” said senior director of innovation, Ilmarin Heitz, in a promotional video published Monday. “That is our gauge of success.”
 
@@ -22,11 +22,11 @@ The company claims its technology reduces the carbon emissions of producing a sh
 
 ### Sprayed-to-measure
 
-A live demonstration of the spray technology will take place at the company’s labs in Paris on 25 July, the evening before the Olympic Opening Ceremony. And while it is not yet known if which athletes other than Obiri will wear them at the Games, a number of Olympians have recently raced in the Cloudboom Strike LS, including Australian middle-distance runner Olli Hoare. The brand told CNN via email that it hopes athletes going to Paris who have previously worn the shoes — such as Irish 1,500-meter runner Luke McCann — will “continue to choose them this summer.”
+The technology will be on display at a pop up in Paris later this month as people flock to the capital for the 2024 Olympic Games. And while it is not yet known if which athletes other than Obiri will wear them at the Games, a number of Olympians have recently raced in the Cloudboom Strike LS, including Australian middle-distance runner Olli Hoare. The brand told CNN via email that it hopes athletes going to Paris who have previously worn the shoes — such as Irish 1,500-meter runner Luke McCann — will “continue to choose them this summer.”
 
 On is not the first company to experiment with spray-on textiles. In October 2022, luxury French fashion house Coperni made headlines when it sprayed a custom-fit dress onto model Bella Hadid at Paris Fashion Week. The label partnered with Manel Torres, whose brand Fabrican has been producing “clothes-in-a-can” for over 20 years. Spray-on fibers have also been used in the beauty industry, with “hair in a can” solutions used to conceal bald spots and thinning hair.
 
-For now, the Cloudboom Strike LS will be made-to-order — a production model On hopes will generate less waste. Having initially been made available to the public in April, the shoes will again go on sale to consumers later this year.
+Having initially been made available to the public in April, the Cloudboom Strike LS will again go on sale to consumers later this year.
 
 ---
 

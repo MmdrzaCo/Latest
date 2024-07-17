@@ -1,6 +1,6 @@
 # DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1
 
-Published :`2024-07-17 15:17:52`
+Published :`2024-07-17 15:39:02`
 
 ---
 

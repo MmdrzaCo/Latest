@@ -1,10 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 15:17:59`
+#### Latest Update : `2024-07-17 15:39:08`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Emmy nominations 2024: Were your favorite shows nominated?](https://new-news.github.io/Latest/2024/07/17/emmy_nominations_2024__were_your_favorite_shows_nominated 'Emmy nominations 2024: Were your favorite shows nominated?')
+
+- [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
+
+- [Chicago gas prices could soar after tornado narrowly misses refinery](https://new-news.github.io/Latest/2024/07/17/chicago_gas_prices_could_soar_after_tornado_narrowly_misses_refinery 'Chicago gas prices could soar after tornado narrowly misses refinery')
+
+- [Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer](https://new-news.github.io/Latest/2024/07/17/now_you_can_watch_hundreds_of_rattlesnakes_in_a_mega_den_–_from_the_safety_of_your_computer 'Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer')
+
+- [6 dead and others trapped after fire breaks out in China shopping mall](https://new-news.github.io/Latest/2024/07/17/6_dead_and_others_trapped_after_fire_breaks_out_in_china_shopping_mall '6 dead and others trapped after fire breaks out in China shopping mall')
+
+- [Streetwear brand Supreme is getting a surprising new owner](https://new-news.github.io/Latest/2024/07/17/streetwear_brand_supreme_is_getting_a_surprising_new_owner 'Streetwear brand Supreme is getting a surprising new owner')
+
+- [Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors](https://new-news.github.io/Latest/2024/07/17/lawyers_representing_us_soldier_who_crossed_into_north_korea_are_in_plea_negotiations_with_prosecutors 'Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors')
 
 - [Armani and Dior probed in Italy following worker exploitation claims](https://new-news.github.io/Latest/2024/07/17/armani_and_dior_probed_in_italy_following_worker_exploitation_claims 'Armani and Dior probed in Italy following worker exploitation claims')
 
@@ -13,8 +27,6 @@
 - [DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1](https://new-news.github.io/Latest/2024/07/17/dnc_moving_forward_with_biden_virtual_nomination__voting_to_begin_no_sooner_than_august_1 'DNC moving forward with Biden virtual nomination; voting to begin no sooner than August 1')
 
 - [Biden’s 41-year evolution on Supreme Court reform](https://new-news.github.io/Latest/2024/07/17/bidens_41_year_evolution_on_supreme_court_reform 'Biden’s 41-year evolution on Supreme Court reform')
-
-- [Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way](https://new-news.github.io/Latest/2024/07/17/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours__theres_more_on_the_way 'Flood emergency hits Arkansas after months of rain falls in a few hours. There’s more on the way')
 
 - [Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters](https://new-news.github.io/Latest/2024/07/17/usha_vance_is_the_4th_person_of_south_asian_descent_to_be_part_of_the_2024_presidential_campaign__why_that_matters 'Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters')
 
@@ -47,8 +59,6 @@
 - [How the ATF identified the Trump rally shooter in 30 minutes](https://new-news.github.io/Latest/2024/07/17/how_the_atf_identified_the_trump_rally_shooter_in_30_minutes 'How the ATF identified the Trump rally shooter in 30 minutes')
 
 - [Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime](https://new-news.github.io/Latest/2024/07/17/biden_administration_points_to_29__drop_in_border_arrests_as_rnc_turns_focus_to_immigration_and_crime 'Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime')
-
-- [Supreme is getting a surprising new owner](https://new-news.github.io/Latest/2024/07/17/supreme_is_getting_a_surprising_new_owner 'Supreme is getting a surprising new owner')
 
 - [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/17/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
 
@@ -160,8 +170,6 @@
 
 - [Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69](https://new-news.github.io/Latest/2024/07/17/joe_jellybean_bryant__father_of_kobe_bryant__has_died_at_69 'Joe ‘Jellybean’ Bryant, father of Kobe Bryant, has died at 69')
 
-- [Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors](https://new-news.github.io/Latest/2024/07/17/lawyers_representing_us_soldier_who_crossed_into_north_korea_are_in_plea_negotiations_with_prosecutors 'Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors')
-
 - [Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say](https://new-news.github.io/Latest/2024/07/17/dozens_of_indian_nationals_in_italy_freed_from_slave_like_working_conditions_on_farms__police_say 'Dozens of Indian nationals in Italy freed from ‘slave-like’ working conditions on farms, police say')
 
 - [Growing faction of Democrats revolt against Biden’s upcoming virtual nomination](https://new-news.github.io/Latest/2024/07/17/growing_faction_of_democrats_revolt_against_bidens_upcoming_virtual_nomination 'Growing faction of Democrats revolt against Biden’s upcoming virtual nomination')
@@ -198,16 +206,8 @@
 
 - [Families release photos of five female Israeli soldiers from their first days of captivity in Gaza](https://new-news.github.io/Latest/2024/07/17/families_release_photos_of_five_female_israeli_soldiers_from_their_first_days_of_captivity_in_gaza 'Families release photos of five female Israeli soldiers from their first days of captivity in Gaza')
 
-- [How to survive a shark attack – or better yet, avoid one entirely](https://new-news.github.io/Latest/2024/07/17/how_to_survive_a_shark_attack_–_or_better_yet__avoid_one_entirely 'How to survive a shark attack – or better yet, avoid one entirely')
-
-- [Federal prosecutor accused of mishandling evidence in Trump inauguration protest cases](https://new-news.github.io/Latest/2024/07/17/federal_prosecutor_accused_of_mishandling_evidence_in_trump_inauguration_protest_cases 'Federal prosecutor accused of mishandling evidence in Trump inauguration protest cases')
-
-- [Rally security failure has Secret Service at odds with its local law enforcement allies](https://new-news.github.io/Latest/2024/07/17/rally_security_failure_has_secret_service_at_odds_with_its_local_law_enforcement_allies 'Rally security failure has Secret Service at odds with its local law enforcement allies')
-
-- [Tracking destructive and deadly tornadoes in the US, in maps and charts](https://new-news.github.io/Latest/2024/07/17/tracking_destructive_and_deadly_tornadoes_in_the_us__in_maps_and_charts 'Tracking destructive and deadly tornadoes in the US, in maps and charts')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [accused](/ 'accused')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [allies](/ 'allies')  [amazon](/ 'amazon') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [act](/ 'act')  [active](/ 'active')  [administration](/ 'administration')  [adviser](/ 'adviser')  [affleck](/ 'affleck')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agrees](/ 'agrees')  [airport](/ 'airport')  [alameda](/ 'alameda')  [alec](/ 'alec')  [all](/ 'all')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [amendment](/ 'amendment')  [american](/ 'american') 
