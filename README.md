@@ -1,12 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-17 19:11:04`
+#### Latest Update : `2024-07-17 19:36:41`
 
 ## Latest News Grabbing 
 
 ---
 
 - [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/17/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
+
+- [Special counsel appeals dismissal of Trump classified documents case](https://new-news.github.io/Latest/2024/07/17/special_counsel_appeals_dismissal_of_trump_classified_documents_case 'Special counsel appeals dismissal of Trump classified documents case')
+
+- [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/17/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
 
 - [Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’](https://new-news.github.io/Latest/2024/07/17/actor_treat_williams_earns_posthumous_emmy_nomination_for_final_role_in_feud 'Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’')
 
@@ -150,8 +154,6 @@
 
 - [Takeaways from the second night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/17/takeaways_from_the_second_night_of_the_republican_national_convention 'Takeaways from the second night of the Republican National Convention')
 
-- [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/17/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
-
 - [USWNT puts a frustrating night behind them as they look forward to next week’s Olympics](https://new-news.github.io/Latest/2024/07/17/uswnt_puts_a_frustrating_night_behind_them_as_they_look_forward_to_next_weeks_olympics 'USWNT puts a frustrating night behind them as they look forward to next week’s Olympics')
 
 - [JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment](https://new-news.github.io/Latest/2024/07/17/jd_vances_hillbilly_elegy_tops_amazon_book_and_netflix_film_charts_following_trumps_vp_appointment 'JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment')
@@ -203,8 +205,6 @@
 - [Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges](https://new-news.github.io/Latest/2024/07/17/trump_can_now_discuss_classified_documents_case_with_potential_witnesses_and_co_defendants_after_judge_tosses_charges 'Trump can now discuss classified documents case with potential witnesses and co-defendants after judge tosses charges')
 
 - [NASA transmits a Missy Elliott song to Venus](https://new-news.github.io/Latest/2024/07/17/nasa_transmits_a_missy_elliott_song_to_venus 'NASA transmits a Missy Elliott song to Venus')
-
-- [Ozy Media founder Carlos Watson convicted in New York fraud trial](https://new-news.github.io/Latest/2024/07/17/ozy_media_founder_carlos_watson_convicted_in_new_york_fraud_trial 'Ozy Media founder Carlos Watson convicted in New York fraud trial')
 
 
 
