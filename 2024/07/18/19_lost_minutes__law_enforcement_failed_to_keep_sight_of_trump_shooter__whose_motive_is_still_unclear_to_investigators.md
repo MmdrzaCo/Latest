@@ -1,10 +1,12 @@
 # 19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators
 
-Published :`2024-07-18 12:30:01`
+Published :`2024-07-18 12:56:40`
 
 ---
 
 Thomas Matthew Crooks visited the Donald Trump rally location twice, his cell phone contained images of both Trump and President Joe Biden, and the would-be assassin’s search history included dates of the Democratic National Convention as well as future Trump events, three US officials told CNN.
+
+And on the gaming platform Steam, Crooks wrote, “July 13 will be my premiere, watch as it unfolds,” a source familiar with the matter told CNN.
 
 The new details revealed more about what Crooks was doing in the days and hours leading up to his attempt to assassinate the former president. But investigators combing through Crooks’ physical and digital trail still lack the key detail that would explain why the 20-year-old climbed the roof in Butler, Pennsylvania, with an AR-style weapon: a motive.
 

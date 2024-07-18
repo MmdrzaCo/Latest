@@ -1,6 +1,6 @@
 # Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says
 
-Published :`2024-07-18 12:30:01`
+Published :`2024-07-18 12:56:40`
 
 ---
 
@@ -14,7 +14,7 @@ But investigators combing through Crooks’ physical and digital trail still lac
 
 Crooks also conducted searches online about major depression disorder, administration officials told Congress during briefings Wednesday.
 
-This story is breaking and will be updated.
+This story has been updated with additional details.
 
 ---
 

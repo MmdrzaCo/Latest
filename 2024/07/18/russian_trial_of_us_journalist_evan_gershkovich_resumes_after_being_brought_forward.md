@@ -1,12 +1,14 @@
 # Russian trial of US journalist Evan Gershkovich resumes after being brought forward
 
-Published :`2024-07-18 12:30:01`
+Published :`2024-07-18 12:56:40`
 
 ---
 
-A Russian court resumed the espionage trial of American journalist Evan Gershkovich on Thursday after it was moved forward by a month at the request of his defense.
+The espionage trial of American journalist Evan Gershkovich resumed in a Russian court on Thursday after being brought forward at the request of his defense.
 
-Gershkovich attended the court hearing in person, according to the court’s press service. But the hearing is being held behind closed doors and little other information was immediately available.
+Gershkovich attended the court hearing in person, according to the court’s press service, with the hearing being held behind closed doors. The hearing has adjourned for today and will start again Friday.
+
+The court did not give an indication of when they would expect to deliver the verdict.
 
 Gershkovich, the first American journalist to be arrested on spying charges in Russia since the Cold War, first went on trial on June 26 at the Sverdlovsky Regional Court in the city of Yekaterinburg, where he appeared in a courtroom’s glass cage with his head shaved.
 
@@ -16,7 +18,7 @@ US and Western officials have accused Russia of using Gershkovich and other jail
 
 A high-profile swap in 2022 saw US basketball star Brittney Griner exchanged for arms dealer Viktor Bout. But Russia refused to release another jailed US citizen, Paul Whelan, as it was seeking a former colonel from Russia’s domestic spy organization in return.
 
-If convicted, he faces up to 20 years in prison. A sentencing date has yet to be announced.
+If convicted, he faces up to 20 years in prison.
 
 The British Consul General in Ekaterinburg, Ameer Kotecha, attended the hearing as a listener — but like other listeners, he won’t be able to get into the courtroom, according to Russian state media TASS.
 

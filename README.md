@@ -1,16 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 12:30:04`
+#### Latest Update : `2024-07-18 12:56:43`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/18/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
+- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
+
+- [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
+
+- [Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says](https://new-news.github.io/Latest/2024/07/18/would_be_assassin_posted_on_gaming_site_that_july_13_will_be_my_premiere__watch_as_it_unfolds__source_says 'Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says')
+
+- [Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats](https://new-news.github.io/Latest/2024/07/18/ferrari_program_asks_customers_to_rat_out_counterfeit_cars__t_shirts_and_hats 'Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats')
 
 - [Ursula von der Leyen elected to second term as European Commission president](https://new-news.github.io/Latest/2024/07/18/ursula_von_der_leyen_elected_to_second_term_as_european_commission_president 'Ursula von der Leyen elected to second term as European Commission president')
 
-- [Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says](https://new-news.github.io/Latest/2024/07/18/would_be_assassin_posted_on_gaming_site_that_july_13_will_be_my_premiere__watch_as_it_unfolds__source_says 'Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says')
+- [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/18/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
 
 - [Alabama set to execute man for fatal shooting of a delivery driver during a 1998 robbery attempt](https://new-news.github.io/Latest/2024/07/18/alabama_set_to_execute_man_for_fatal_shooting_of_a_delivery_driver_during_a_1998_robbery_attempt 'Alabama set to execute man for fatal shooting of a delivery driver during a 1998 robbery attempt')
 
@@ -21,8 +27,6 @@
 - [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/18/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
 
 - [Bud Light loses more ground, slipping to No. 3 in America](https://new-news.github.io/Latest/2024/07/18/bud_light_loses_more_ground__slipping_to_no__3_in_america 'Bud Light loses more ground, slipping to No. 3 in America')
-
-- [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
 
 - [John Deere backs away from diversity and inclusion efforts after a conservative backlash](https://new-news.github.io/Latest/2024/07/18/john_deere_backs_away_from_diversity_and_inclusion_efforts_after_a_conservative_backlash 'John Deere backs away from diversity and inclusion efforts after a conservative backlash')
 
@@ -75,8 +79,6 @@
 - [Man who escaped Oregon prison 30 years ago was found in Georgia with a stolen identity, authorities say](https://new-news.github.io/Latest/2024/07/18/man_who_escaped_oregon_prison_30_years_ago_was_found_in_georgia_with_a_stolen_identity__authorities_say 'Man who escaped Oregon prison 30 years ago was found in Georgia with a stolen identity, authorities say')
 
 - [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/18/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
-
-- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
 - [Takeaways from the third night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/18/takeaways_from_the_third_night_of_the_republican_national_convention 'Takeaways from the third night of the Republican National Convention')
 
@@ -203,8 +205,6 @@
 - [Armani and Dior probed in Italy following worker exploitation claims](https://new-news.github.io/Latest/2024/07/18/armani_and_dior_probed_in_italy_following_worker_exploitation_claims 'Armani and Dior probed in Italy following worker exploitation claims')
 
 - [Women with endometriosis face fourfold higher risk of ovarian cancer, study suggests](https://new-news.github.io/Latest/2024/07/18/women_with_endometriosis_face_fourfold_higher_risk_of_ovarian_cancer__study_suggests 'Women with endometriosis face fourfold higher risk of ovarian cancer, study suggests')
-
-- [Biden’s 41-year evolution on Supreme Court reform](https://new-news.github.io/Latest/2024/07/18/bidens_41_year_evolution_on_supreme_court_reform 'Biden’s 41-year evolution on Supreme Court reform')
 
 
 
