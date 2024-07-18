@@ -1,6 +1,6 @@
 # Supreme Court grants Texas man a stay of execution just before his scheduled lethal injection
 
-Published :`2024-07-18 17:14:02`
+Published :`2024-07-18 17:35:51`
 
 ---
 

@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 17:14:09`
+#### Latest Update : `2024-07-18 17:35:53`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Tennessee agrees to remove sex workers with HIV from sex offender registry](https://new-news.github.io/Latest/2024/07/18/tennessee_agrees_to_remove_sex_workers_with_hiv_from_sex_offender_registry 'Tennessee agrees to remove sex workers with HIV from sex offender registry')
 
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
@@ -204,10 +206,8 @@
 
 - [Joe Biden made a false statement about his current polling](https://new-news.github.io/Latest/2024/07/18/joe_biden_made_a_false_statement_about_his_current_polling 'Joe Biden made a false statement about his current polling')
 
-- [Police from Ohio fatally shoot 43-year-old Samuel Sharpe Jr. near Republican National Convention in Milwaukee](https://new-news.github.io/Latest/2024/07/18/police_from_ohio_fatally_shoot_43_year_old_samuel_sharpe_jr__near_republican_national_convention_in_milwaukee 'Police from Ohio fatally shoot 43-year-old Samuel Sharpe Jr. near Republican National Convention in Milwaukee')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alec](/ 'alec') 
+##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ago](/ 'ago')  [agrees](/ 'agrees')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama') 
