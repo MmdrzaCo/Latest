@@ -1,6 +1,6 @@
 # 19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators
 
-Published :`2024-07-18 03:38:58`
+Published :`2024-07-18 04:18:36`
 
 ---
 
@@ -49,6 +49,14 @@ Butler Township Police “immediately” communicated the individual’s locatio
 ### Calls for Secret Service director to quit
 
 The Wednesday briefings came amid growing calls from Republicans for Cheatle to resign as director of the Secret Service, including from Johnson and Senate Minority Leader Mitch McConnell.
+
+A stunning scene played out at the Republican National Convention in Milwaukee on Wednesday as a group of Republican senators chased Cheatle through the Fiserv Forum, shouting that she had refused to answer questions regarding the assassination attempt on Trump.
+
+“You owe the people answers. You owe President Trump answers,” Tennessee Sen. Marsha Blackburn shouted at the Secret Service director.
+
+Video also showed Wyoming Sen. John Barrasso, the No. 3 Senate Republican, demanding Cheatle’s “resignation or full explanation to us, right now.”
+
+When pressed by Blackburn why Trump was still able to go onstage in Pennsylvania when law enforcement had already been made aware of a threat, Cheatle replied, “I don’t think that this is the forum to have this discussion.” At this point, Barrasso accused her of hanging up on them on the earlier briefing call.
 
 “Last week’s near-assassination of former President Trump was a grave attack on American democracy. The nation deserves answers and accountability,” McConnell said in a statement. “New leadership at the Secret Service would be an important step in that direction.”
 

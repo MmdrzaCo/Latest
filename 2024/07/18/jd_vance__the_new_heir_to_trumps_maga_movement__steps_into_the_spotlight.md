@@ -1,6 +1,6 @@
 # JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight
 
-Published :`2024-07-18 03:38:59`
+Published :`2024-07-18 04:18:35`
 
 ---
 
@@ -8,13 +8,15 @@ A faint burst of applause broke out from the Republican National Convention floo
 
 The Gettysburg Address was loaded into the teleprompters, adjusted for Vance’s towering frame. Arms crossed over a navy suit and gold tie – an Ohio State man dangerously close to sporting Michigan colors – Vance looked out during his midday walkthrough, a hint of a smile on his face. Before him was an arena of empty chairs soon to be filled by members of the party he has been hand-picked to one day lead.
 
-On Wednesday, when Vance addresses the convention, he will do so not only as the party’s vice presidential nominee but as its MAGA heir-in-waiting.
+On Wednesday, Vance addressed the convention not only as the party’s vice presidential nominee but as its MAGA heir-in-waiting.
+
+“Mr. President, I will never take for granted the trust you have put in me,” he said, looking toward Trump. “And what an honor it is to help achieve the extraordinary vision that you have for this country.”
 
 In tapping a 39-year-old first-term senator from the country’s heartland over more experienced Republicans with deeper party ties, Trump is looking ahead to the future of his political movement. Those close to Trump say he is looking to Vance to lead the party beyond his time in office, an expectation he never seriously harbored for his previous vice president, Mike Pence.
 
 “It’s very clear that Trump wants someone who can carry the movement on,” a person close to Trump told CNN said of the Vance selection.
 
-His choice of whom to carry the torch remained concealed until Trump was ready to reveal it, but the anointment of Vance shouldn’t come as a surprise. Trump’s campaign had said for months that the former president sought in a running mate “a strong leader who will make a great president for eight years after his next four-year term concludes.”
+His choice of whom to carry the torch remained concealed until Trump was ready to reveal it, but the anointment of Vance shouldn’t have come as a surprise. Trump’s campaign had said for months that what the former president was looking for in a running mat was “a strong leader who will make a great president for eight years after his next four-year term concludes.”
 
 How could that person be North Dakota Gov. Doug Burgum, who would be 71 years old next election cycle? Or Sen. Marco Rubio, a Republican well liked by donors but who still faces skeptics among Trump’s most loyal supporters.
 
@@ -44,7 +46,7 @@ Still, doubters remain. A senior Republican official told CNN, “I don’t know
 
 Challenges certainly remain for Vance to maintain his position as next in line to the throne in Trump’s party.
 
-No one other than Trump has demonstrated they can hold together the loose coalition of voters that currently make up the party’s base, some of whom never cast a ballot before the former reality television star decided to dabble in politics. Only Trump has managed to appease Evangelical voters and pro-business Republicans while still convincing some of the Democratic Party’s bedrock supporters – Black voters, Latinos and union households – to consider switching parties.
+No one other than Trump has demonstrated they can hold together the loose coalition of voters that currently make up the party’s base, some of whom never cast a ballot before the former reality television star decided to dabble in politics. Only Trump has managed to appease evangelical voters and pro-business Republicans while still convincing some of the Democratic Party’s bedrock supporters – Black voters, Latinos and union households – to consider switching parties.
 
 As some of his detractors eagerly pointed out during Trump’s search, Vance won his Senate seat two years ago by just 6 points in solidly red Ohio – running 19 points behind the state’s Republican governor, Mike DeWine, in the same election.
 
@@ -56,7 +58,7 @@ Other Republicans will also certainly have a say as to who they believe should l
 
 “This doesn’t guarantee it but Ronald Reagan was president for two terms and George Herbert Walker Bush was president after that,” said former Wisconsin Gov. Scott Walker, himself once considered the future of his party. “In the end, it all depends on getting elected first and foremost but what happens after that.”
 
-Still, Vance is viewed as an immediate obstacle for anyone looking beyond Trump to 2028. Michelle Crawford, president of the Iowa Federation of Republican Women, cautioned four years is a long time but acknowledged Vance would likely have a major advantage in her state, the traditional first stop on the GOP presidential nominating calendar.
+Still, Vance is viewed as an immediate obstacle to anyone looking beyond Trump to 2028. Michelle Crawford, president of the Iowa Federation of Republican Women, cautioned that four years is a long time but acknowledged that Vance would likely have a major advantage in her state, the traditional first stop on the GOP presidential nominating calendar.
 
 “So much can transpire, but I think there’s absolutely potential for that,” Crawford said. “And if Trump has confidence in him, the Iowa delegation will get behind that as well.”
 
@@ -71,6 +73,8 @@ Among Trump’s staunchest allies, people like DeSantis who challenged the forme
 John Fredericks, a longtime conservative radio host in Virginia who has interviewed Trump on several occasions, called the selection of Vance a “12-year legacy pick” that “ended the presidential aspirations” of his home state governor, Glenn Youngkin, and others eyeing a shot at the party’s nomination once Trump is no longer in the picture.
 
 “You can forget about Youngkin,” Fredericks told CNN from the convention floor Monday. “Trump iced them all out. This is his legacy. He knows it. He has four years and he’s done. So he needs someone to continue that legacy. That’s why he picked JD Vance.”
+
+This story has been updated with additional information.
 
 ---
 

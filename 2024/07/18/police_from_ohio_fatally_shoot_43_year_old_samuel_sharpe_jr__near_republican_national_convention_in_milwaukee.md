@@ -1,6 +1,6 @@
 # Police from Ohio fatally shoot 43-year-old Samuel Sharpe Jr. near Republican National Convention in Milwaukee
 
-Published :`2024-07-18 03:38:59`
+Published :`2024-07-18 04:18:36`
 
 ---
 

@@ -1,10 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 03:39:00`
+#### Latest Update : `2024-07-18 04:18:38`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Three former Trump officials say they requested protection from increased Iranian threats in 2023](https://new-news.github.io/Latest/2024/07/18/three_former_trump_officials_say_they_requested_protection_from_increased_iranian_threats_in_2023 'Three former Trump officials say they requested protection from increased Iranian threats in 2023')
+
+- [These are the states that rank highest and lowest for women’s health in new report](https://new-news.github.io/Latest/2024/07/18/these_are_the_states_that_rank_highest_and_lowest_for_womens_health_in_new_report 'These are the states that rank highest and lowest for women’s health in new report')
+
+- [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/18/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
+
+- [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/18/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
 
 - [Senators confront Secret Service director on Republican convention floor](https://new-news.github.io/Latest/2024/07/18/senators_confront_secret_service_director_on_republican_convention_floor 'Senators confront Secret Service director on Republican convention floor')
 
@@ -77,8 +85,6 @@
 - [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/18/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
 
 - [Biden administration urges Supreme Court to let it continue implementing student loan repayment program](https://new-news.github.io/Latest/2024/07/18/biden_administration_urges_supreme_court_to_let_it_continue_implementing_student_loan_repayment_program 'Biden administration urges Supreme Court to let it continue implementing student loan repayment program')
-
-- [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/18/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
 
 - [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/18/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
 
@@ -199,12 +205,6 @@
 - [China probes companies for allegedly giving pregnancy tests to job seekers](https://new-news.github.io/Latest/2024/07/18/china_probes_companies_for_allegedly_giving_pregnancy_tests_to_job_seekers 'China probes companies for allegedly giving pregnancy tests to job seekers')
 
 - [Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader](https://new-news.github.io/Latest/2024/07/18/trumps_former_rivals_bury_their_criticism_to_celebrate_all_powerful_gop_leader 'Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader')
-
-- [A spate of stabbings has sparked online debate about China’s economic woes](https://new-news.github.io/Latest/2024/07/18/a_spate_of_stabbings_has_sparked_online_debate_about_chinas_economic_woes 'A spate of stabbings has sparked online debate about China’s economic woes')
-
-- [Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’](https://new-news.github.io/Latest/2024/07/18/man_killed_at_trump_rally_identified_as_firefighter_corey_comperatore__who_died_a_hero 'Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’')
-
-- [We asked how you use emojis. Here’s how different generations responded](https://new-news.github.io/Latest/2024/07/18/we_asked_how_you_use_emojis__heres_how_different_generations_responded 'We asked how you use emojis. Here’s how different generations responded')
 
 
 
