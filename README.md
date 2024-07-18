@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 06:21:17`
+#### Latest Update : `2024-07-18 06:40:46`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/18/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
 
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
@@ -121,8 +123,6 @@
 - [‘Strictly Come Dancing’ contestants to be chaperoned after abuse allegations](https://new-news.github.io/Latest/2024/07/18/strictly_come_dancing_contestants_to_be_chaperoned_after_abuse_allegations '‘Strictly Come Dancing’ contestants to be chaperoned after abuse allegations')
 
 - [The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture](https://new-news.github.io/Latest/2024/07/18/the_same_judge_who_greenlit_the_controversial_willow_project_just_axed_a_different_alaska_oil_venture 'The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture')
-
-- [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/18/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
 
 - [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/18/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
 

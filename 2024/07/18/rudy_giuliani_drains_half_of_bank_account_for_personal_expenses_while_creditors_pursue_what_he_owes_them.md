@@ -1,6 +1,6 @@
 # Rudy Giuliani drains half of bank account for personal expenses while creditors pursue what he owes them
 
-Published :`2024-07-18 06:21:15`
+Published :`2024-07-18 06:40:42`
 
 ---
 
