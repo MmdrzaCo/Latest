@@ -1,6 +1,6 @@
 # Ultra-Orthodox party in Israel urges young Haredi men to resist draft
 
-Published :`2024-07-18 21:13:43`
+Published :`2024-07-18 21:36:45`
 
 ---
 

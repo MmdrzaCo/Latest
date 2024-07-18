@@ -1,16 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 21:13:43`
+#### Latest Update : `2024-07-18 21:36:46`
 
 ## Latest News Grabbing 
 
 ---
 
+- [A popular #CleanTok tool is recalled for burn hazards](https://new-news.github.io/Latest/2024/07/18/a_popular__cleantok_tool_is_recalled_for_burn_hazards 'A popular #CleanTok tool is recalled for burn hazards')
+
+- [READ: Raskin’s letter encouraging Biden to reconsider reelection campaign](https://new-news.github.io/Latest/2024/07/18/read__raskins_letter_encouraging_biden_to_reconsider_reelection_campaign 'READ: Raskin’s letter encouraging Biden to reconsider reelection campaign')
+
+- [Federal appeals court dismisses challenge to Tennessee’s anti-drag law](https://new-news.github.io/Latest/2024/07/18/federal_appeals_court_dismisses_challenge_to_tennessees_anti_drag_law 'Federal appeals court dismisses challenge to Tennessee’s anti-drag law')
+
+- [Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign](https://new-news.github.io/Latest/2024/07/18/top_democrat_raskin_privately_encouraged_biden_to_reconsider_reelection_campaign 'Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign')
+
 - [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
 
 - [Opinion: We’re neglecting pets in disasters — with tragic consequences](https://new-news.github.io/Latest/2024/07/18/opinion__were_neglecting_pets_in_disasters_—_with_tragic_consequences 'Opinion: We’re neglecting pets in disasters — with tragic consequences')
-
-- [Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign](https://new-news.github.io/Latest/2024/07/18/top_democrat_raskin_privately_encouraged_biden_to_reconsider_reelection_campaign 'Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign')
 
 - [Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78](https://new-news.github.io/Latest/2024/07/18/lou_dobbs__veteran_cable_news_anchor_and_trump_booster__dies_at_78 'Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78')
 
@@ -199,12 +205,6 @@
 - [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/18/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
 
 - [Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say](https://new-news.github.io/Latest/2024/07/18/cyanide_poisoning_likely_killed_six_found_dead_in_luxury_hotel__including_two_us_citizens__thai_police_say 'Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say')
-
-- [Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case](https://new-news.github.io/Latest/2024/07/18/attorneys_for_rust_armorer_file_for_dismissal_of_her_case_or_new_trial_after_collapse_of_alec_baldwin_case 'Attorneys for ‘Rust’ armorer file for dismissal of her case or new trial after collapse of Alec Baldwin case')
-
-- [Special counsel appeals dismissal of Trump classified documents case](https://new-news.github.io/Latest/2024/07/18/special_counsel_appeals_dismissal_of_trump_classified_documents_case 'Special counsel appeals dismissal of Trump classified documents case')
-
-- [Long Covid risk has dropped over time but remains substantial, study shows](https://new-news.github.io/Latest/2024/07/18/long_covid_risk_has_dropped_over_time_but_remains_substantial__study_shows 'Long Covid risk has dropped over time but remains substantial, study shows')
 
 
 
