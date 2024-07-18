@@ -1,6 +1,6 @@
 # What went wrong with security at Trump’s Pennsylvania rally
 
-Published :`2024-07-18 01:07:09`
+Published :`2024-07-18 02:20:25`
 
 ---
 
@@ -45,6 +45,12 @@ As Trump questioned if Biden “was doing the job,” someone on the video said,
 The shooter was spotted by local law enforcement who thought he might have been acting suspiciously near the magnetometers on Saturday, according to a senior law enforcement official.
 
 They put it out over their radio to keep an eye on him – and that information was passed to Secret Service as well, according to the source. When the shooter left the area of the magnetometers, he apparently wasn’t seen again until people alerted law enforcement in a field outside the event that he was on the rooftop.
+
+About an hour before the incident, a person wearing clothing resembling the gunman’s was also captured on video in front of the building whose roof the shooter later climbed, according to footage obtained by CNN affiliate WTAE.
+
+Pennsylvania State Police told WTAE they are looking into the video as a part of the investigation.
+
+CNN has reached out to the state police for more information.
 
 ### Local officer unable to tackle gunman before he fired at stage
 

@@ -1,6 +1,6 @@
 # Uncontacted tribe sighted in Peruvian Amazon where loggers are active
 
-Published :`2024-07-18 01:07:11`
+Published :`2024-07-18 02:20:30`
 
 ---
 

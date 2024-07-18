@@ -1,12 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 01:07:13`
+#### Latest Update : `2024-07-18 02:20:32`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Man found guilty on all counts for Cleveland shooting that injured 9 last year](https://new-news.github.io/Latest/2024/07/18/man_found_guilty on_all_counts_for_cleveland_shooting_that_injured_9_last_year 'Man found guilty on all counts for Cleveland shooting that injured 9 last year')
+
+- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
+
+- [Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident](https://new-news.github.io/Latest/2024/07/18/naomi_pomeroy__renowned_chef_and_top_chef_masters_star__dead_at_49_in_tubing_accident 'Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident')
+
+- [Fire at shopping mall in southwest China kills 16 people](https://new-news.github.io/Latest/2024/07/18/fire_at_shopping_mall_in_southwest_china_kills_16_people 'Fire at shopping mall in southwest China kills 16 people')
+
+- [Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/jack_blacks_band_cancels_tour_after_backlash_to_bandmates_comment_on_trump_assassination_attempt 'Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt')
+
+- [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/18/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
+
 - [A new moment for Biden? One Democratic adviser says: ‘He’s being receptive’](https://new-news.github.io/Latest/2024/07/18/a_new_moment_for_biden_one_democratic_adviser_says__hes_being_receptive 'A new moment for Biden? One Democratic adviser says: ‘He’s being receptive’')
+
+- [Japan’s prime minister apologizes to people forcibly sterilized under former  eugenics law](https://new-news.github.io/Latest/2024/07/18/japans_prime_minister_apologizes_to_people_forcibly_sterilized_under_former__eugenics_law 'Japan’s prime minister apologizes to people forcibly sterilized under former  eugenics law')
 
 - [Right-wing media figures blame women in Secret Service and ‘DEI’ for security failure in Trump shooting](https://new-news.github.io/Latest/2024/07/18/right_wing_media_figures_blame women_in_secret_service_and_dei_for_security_failure_in_trump_shooting 'Right-wing media figures blame women in Secret Service and ‘DEI’ for security failure in Trump shooting')
 
@@ -50,8 +64,6 @@
 
 - [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/18/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
 
-- [Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident](https://new-news.github.io/Latest/2024/07/18/naomi_pomeroy__renowned_chef_and_top_chef_masters_star__dead_at_49_in_tubing_accident 'Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident')
-
 - [Biden administration urges Supreme Court to let it continue implementing student loan repayment program](https://new-news.github.io/Latest/2024/07/18/biden_administration_urges_supreme_court_to_let_it_continue_implementing_student_loan_repayment_program 'Biden administration urges Supreme Court to let it continue implementing student loan repayment program')
 
 - [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/18/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
@@ -87,8 +99,6 @@
 - [The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture](https://new-news.github.io/Latest/2024/07/18/the_same_judge_who_greenlit_the_controversial_willow_project_just_axed_a_different_alaska_oil_venture 'The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture')
 
 - [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/18/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
-
-- [8 dead and others trapped after fire breaks out in China shopping mall](https://new-news.github.io/Latest/2024/07/18/8_dead_and_others_trapped_after_fire_breaks_out_in_china_shopping_mall '8 dead and others trapped after fire breaks out in China shopping mall')
 
 - [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/18/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
 
@@ -137,8 +147,6 @@
 - [Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime](https://new-news.github.io/Latest/2024/07/18/biden_administration_points_to_29__drop_in_border_arrests_as_rnc_turns_focus_to_immigration_and_crime 'Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime')
 
 - [HSBC names third CEO in less than eight years](https://new-news.github.io/Latest/2024/07/18/hsbc names_third_ceo_in_less_than_eight_years 'HSBC names third CEO in less than eight years')
-
-- [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/18/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
 
 - [‘Morning Joe’ backlash is latest mess for NBC and Comcast executives](https://new-news.github.io/Latest/2024/07/18/morning_joe_backlash_is_latest_mess_for_nbc_and_comcast_executives '‘Morning Joe’ backlash is latest mess for NBC and Comcast executives')
 
@@ -197,14 +205,6 @@
 - [Five killed in violent protests over public sector jobs quota in Bangladesh](https://new-news.github.io/Latest/2024/07/18/five_killed_in_violent_protests_over_public_sector_jobs_quota_in bangladesh 'Five killed in violent protests over public sector jobs quota in Bangladesh')
 
 - [FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC](https://new-news.github.io/Latest/2024/07/18/fda__ftc_issue_warnings_to_companies_selling_copycat_snacks_with_delta_8_thc 'FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC')
-
-- [Dozens killed as bus plummets over 650 feet into ravine in Peru](https://new-news.github.io/Latest/2024/07/18/dozens_killed_as_bus_plummets_over_650_feet_into_ravine_in_peru 'Dozens killed as bus plummets over 650 feet into ravine in Peru')
-
-- [Nikki Haley offers her ‘strong endorsement’ of Trump in convention speech](https://new-news.github.io/Latest/2024/07/18/nikki_haley_offers_her_strong_endorsement_of_trump_in_convention_speech 'Nikki Haley offers her ‘strong endorsement’ of Trump in convention speech')
-
-- [Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot](https://new-news.github.io/Latest/2024/07/18/asias_50_best_bars_for_2024_have_been_announced__a_newcomer_has_earned_the_top_spot 'Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot')
-
-- [Six people found dead in luxury Thai hotel, with police exploring possible poisoning](https://new-news.github.io/Latest/2024/07/18/six_people_found_dead_in_luxury_thai_hotel__with_police_exploring_possible_poisoning 'Six people found dead in luxury Thai hotel, with police exploring possible poisoning')
 
 
 
