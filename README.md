@@ -1,10 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 08:38:53`
+#### Latest Update : `2024-07-18 09:16:03`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Angel City FC set to become world’s most valuable pro women’s sports team following new investment](https://new-news.github.io/Latest/2024/07/18/angel_city_fc_set_to_become_worlds_most_valuable_pro_womens_sports_team_following_new_investment 'Angel City FC set to become world’s most valuable pro women’s sports team following new investment')
+
+- [Biden announces additional $1.2 billion in student debt relief for 35,000 public-sector workers](https://new-news.github.io/Latest/2024/07/18/biden_announces_additional__1_2_billion_in_student_debt_relief_for_35_000_public_sector_workers 'Biden announces additional $1.2 billion in student debt relief for 35,000 public-sector workers')
+
+- [Former Goldman analyst gets 28-month prison sentence for insider trading](https://new-news.github.io/Latest/2024/07/18/former goldman_analyst_gets_28_month_prison_sentence_for_insider_trading 'Former Goldman analyst gets 28-month prison sentence for insider trading')
+
+- [Could a Trump-Vance win reshape America’s relationship with China – and Taiwan?](https://new-news.github.io/Latest/2024/07/18/could_a_trump_vance_win_reshape_americas_relationship_with_china_–_and_taiwan 'Could a Trump-Vance win reshape America’s relationship with China – and Taiwan?')
 
 - [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
 
@@ -198,16 +206,8 @@
 
 - [Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video](https://new-news.github.io/Latest/2024/07/18/trump_shares_vaccine_skepticism_on_call_with_rfk_jr__in_since_deleted_video 'Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video')
 
-- [2024 No. 1 NFL Draft pick Caleb Williams agrees to a fully guaranteed, four-year, $39.5 million deal with Bears, per reports](https://new-news.github.io/Latest/2024/07/18/2024_no__1_nfl_draft_pick_caleb_williams_agrees_to_a_fully_guaranteed__four_year___39_5_million_deal_with_bears__per_reports '2024 No. 1 NFL Draft pick Caleb Williams agrees to a fully guaranteed, four-year, $39.5 million deal with Bears, per reports')
-
-- [Anger grows as some senior facilities left without power for days: ‘It’s horrible what the state of Texas is doing’](https://new-news.github.io/Latest/2024/07/18/anger_grows_as_some_senior_facilities_left_without_power_for_days__its_horrible_what_the_state_of_texas_is_doing 'Anger grows as some senior facilities left without power for days: ‘It’s horrible what the state of Texas is doing’')
-
-- [JD Vance’s populist persona leaves pro-worker groups skeptical](https://new-news.github.io/Latest/2024/07/18/jd_vances_populist_persona_leaves_pro_worker_groups_skeptical 'JD Vance’s populist persona leaves pro-worker groups skeptical')
-
-- [ISIS claims responsibility for rare attack on mosque in Oman](https://new-news.github.io/Latest/2024/07/18/isis_claims_responsibility_for_rare_attack_on_mosque_in_oman 'ISIS claims responsibility for rare attack on mosque in Oman')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [aileen](/ 'aileen')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america')  [american](/ 'american') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [aileen](/ 'aileen')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america')  [american](/ 'american') 

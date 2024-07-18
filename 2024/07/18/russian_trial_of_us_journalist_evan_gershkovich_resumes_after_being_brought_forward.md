@@ -1,6 +1,6 @@
 # Russian trial of US journalist Evan Gershkovich resumes after being brought forward
 
-Published :`2024-07-18 08:38:48`
+Published :`2024-07-18 09:15:52`
 
 ---
 

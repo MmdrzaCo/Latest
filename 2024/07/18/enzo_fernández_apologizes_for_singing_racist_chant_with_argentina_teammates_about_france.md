@@ -1,6 +1,6 @@
 # Enzo Fernández apologizes for singing racist chant with Argentina teammates about France
 
-Published :`2024-07-18 08:38:53`
+Published :`2024-07-18 09:16:03`
 
 ---
 
