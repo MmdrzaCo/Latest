@@ -1,6 +1,6 @@
 # Netflix has a plan to keep you paying for your subscription
 
-Published :`2024-07-18 12:56:40`
+Published :`2024-07-18 13:20:46`
 
 ---
 

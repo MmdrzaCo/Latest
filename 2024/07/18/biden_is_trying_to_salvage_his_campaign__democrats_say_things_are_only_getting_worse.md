@@ -1,6 +1,6 @@
 # Biden is trying to salvage his campaign. Democrats say things are only getting worse
 
-Published :`2024-07-18 12:56:41`
+Published :`2024-07-18 13:20:45`
 
 ---
 
@@ -58,11 +58,13 @@ One senior House Democrat said on television that they had not heard from the ca
 
 In a meeting last week, Jeffries presented Biden with the “the full breadth of insight” he had received from the Democratic caucus, and did not offer the president an endorsement. ABC News’ Jonathan Karl reported earlier Wednesday that Schumer told Biden on Saturday that it would be best if Biden bowed out of the presidential race.
 
-In a statement responding to the ABC News reporting, a Schumer spokesperson said, “Unless ABC’s source is Senator Chuck Schumer or President Joe Biden the reporting is idle speculation. Leader Schumer conveyed the views of his caucus directly to President Biden on Saturday.”
+In a statement responding to the ABC News reporting, a Schumer spokesperson said, “Unless ABC’s source is Senator Chuck Schumer or President Joe Biden, the reporting is idle speculation. Leader Schumer conveyed the views of his caucus directly to President Biden on Saturday.”
 
 What that statement did not say, however, was three important words that Schumer has included every time he is asked whether Biden’s candidacy should proceed: “I’m with Joe.”
 
 White House spokesman Andrew Bates responded to the ABC News reporting, saying, “The President told both leaders he is the nominee of the party, he plans to win, and looks forward to working with both of them to pass his 100 days agenda to help working families.”
+
+Christie Stephenson, a spokesperson for Jeffries, said “further characterization of the private, one-on-one meeting between President Biden and Leader Jeffries is speculative and uninformed.”
 
 But those conversations were just the beginning.
 

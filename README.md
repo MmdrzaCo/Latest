@@ -1,10 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 12:56:43`
+#### Latest Update : `2024-07-18 13:20:49`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Opinion: Why we can’t give up on capitalism](https://new-news.github.io/Latest/2024/07/18/opinion__why_we_cant_give_up_on_capitalism 'Opinion: Why we can’t give up on capitalism')
+
+- [Shakeups in the 2024 race provide much-needed jolt in interest for news outlets](https://new-news.github.io/Latest/2024/07/18/shakeups_in_the_2024_race_provide_much_needed_jolt_in_interest_for_news_outlets 'Shakeups in the 2024 race provide much-needed jolt in interest for news outlets')
+
+- [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/18/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
+
+- [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
+
+- [Glen Powell will have his nose in the books on his next project](https://new-news.github.io/Latest/2024/07/18/glen_powell_will_have_his_nose_in_the_books_on_his_next_project 'Glen Powell will have his nose in the books on his next project')
 
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
@@ -39,8 +49,6 @@
 - [Germany to halve military aid for Ukraine despite possible Trump White House](https://new-news.github.io/Latest/2024/07/18/germany_to_halve_military_aid_for_ukraine_despite_possible_trump_white_house 'Germany to halve military aid for Ukraine despite possible Trump White House')
 
 - [Vietnam Communist Party chief hands power to president as he undergoes medical care](https://new-news.github.io/Latest/2024/07/18/vietnam_communist_party_chief_hands_power_to_president_as_he_undergoes_medical_care 'Vietnam Communist Party chief hands power to president as he undergoes medical care')
-
-- [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
 
 - [Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe](https://new-news.github.io/Latest/2024/07/18/greece_shuts_acropolis_and_adriatic_sea_hits_record_high_temperature_as_extreme_heat_bakes_europe 'Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe')
 
@@ -91,8 +99,6 @@
 - [These are the states that rank highest and lowest for women’s health in new report](https://new-news.github.io/Latest/2024/07/18/these_are_the_states_that_rank_highest_and_lowest_for_womens_health_in_new_report 'These are the states that rank highest and lowest for women’s health in new report')
 
 - [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/18/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
-
-- [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/18/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
 
 - [Families release photos of five female Israeli soldiers from their first days of captivity in Gaza](https://new-news.github.io/Latest/2024/07/18/families_release_photos_of_five_female_israeli_soldiers_from_their_first_days_of_captivity_in_gaza 'Families release photos of five female Israeli soldiers from their first days of captivity in Gaza')
 
@@ -199,12 +205,6 @@
 - [Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer](https://new-news.github.io/Latest/2024/07/18/now_you_can_watch_hundreds_of_rattlesnakes_in_a_mega_den_–_from_the_safety_of_your_computer 'Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer')
 
 - [Streetwear brand Supreme is getting a surprising new owner](https://new-news.github.io/Latest/2024/07/18/streetwear_brand_supreme_is_getting_a_surprising_new_owner 'Streetwear brand Supreme is getting a surprising new owner')
-
-- [Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors](https://new-news.github.io/Latest/2024/07/18/lawyers_representing_us_soldier_who_crossed_into_north_korea_are_in_plea_negotiations_with_prosecutors 'Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors')
-
-- [Armani and Dior probed in Italy following worker exploitation claims](https://new-news.github.io/Latest/2024/07/18/armani_and_dior_probed_in_italy_following_worker_exploitation_claims 'Armani and Dior probed in Italy following worker exploitation claims')
-
-- [Women with endometriosis face fourfold higher risk of ovarian cancer, study suggests](https://new-news.github.io/Latest/2024/07/18/women_with_endometriosis_face_fourfold_higher_risk_of_ovarian_cancer__study_suggests 'Women with endometriosis face fourfold higher risk of ovarian cancer, study suggests')
 
 
 
