@@ -1,10 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 11:13:37`
+#### Latest Update : `2024-07-18 11:35:39`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
+
+- [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/18/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
+
+- [Dinosaur skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/18/dinosaur_skeleton_sets_auction_record__selling_for__44_6_million 'Dinosaur skeleton sets auction record, selling for $44.6 million')
+
+- [John Deere backs away from diversity and inclusion efforts after a conservative backlash](https://new-news.github.io/Latest/2024/07/18/john_deere_backs_away_from_diversity_and_inclusion_efforts_after_a_conservative_backlash 'John Deere backs away from diversity and inclusion efforts after a conservative backlash')
 
 - [Philadelphia Union’s 14-year-old phenom Cavan Sullivan makes history in MLS debut](https://new-news.github.io/Latest/2024/07/18/philadelphia_unions_14_year_old_phenom_cavan_sullivan_makes_history_in_mls_debut 'Philadelphia Union’s 14-year-old phenom Cavan Sullivan makes history in MLS debut')
 
@@ -58,8 +66,6 @@
 
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
-- [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/18/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
-
 - [Takeaways from the third night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/18/takeaways_from_the_third_night_of_the_republican_national_convention 'Takeaways from the third night of the Republican National Convention')
 
 - [US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’](https://new-news.github.io/Latest/2024/07/18/us_urges_venezuela_to_free_opposition_figures_as_maduro_says_he_must_win_reelection_to_avoid_a_bloodbath 'US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’')
@@ -73,8 +79,6 @@
 - [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/18/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
 
 - [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/18/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
-
-- [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
 
 - [Families release photos of five female Israeli soldiers from their first days of captivity in Gaza](https://new-news.github.io/Latest/2024/07/18/families_release_photos_of_five_female_israeli_soldiers_from_their_first_days_of_captivity_in_gaza 'Families release photos of five female Israeli soldiers from their first days of captivity in Gaza')
 
@@ -201,10 +205,6 @@
 - [Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music](https://new-news.github.io/Latest/2024/07/18/adeles_tank_is_quite_empty_at_the_minute__shes_planning_a_big_break_from_music 'Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music')
 
 - [One of the world’s biggest booze makers is ditching wine brands as the world drinks less](https://new-news.github.io/Latest/2024/07/18/one_of_the_worlds_biggest_booze_makers_is_ditching_wine_brands_as_the_world_drinks_less 'One of the world’s biggest booze makers is ditching wine brands as the world drinks less')
-
-- [Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army](https://new-news.github.io/Latest/2024/07/18/archaeologists_identify_roman_wall_built_to_hold_back_rebel_slave_spartacus_and_his_army 'Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army')
-
-- [Opinion: My teenage son had an influencer in his class. This is what it was like](https://new-news.github.io/Latest/2024/07/18/opinion__my_teenage_son_had_an_influencer_in_his_class__this_is_what_it_was_like 'Opinion: My teenage son had an influencer in his class. This is what it was like')
 
 
 
