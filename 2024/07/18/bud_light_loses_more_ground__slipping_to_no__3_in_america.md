@@ -1,6 +1,6 @@
 # Bud Light loses more ground, slipping to No. 3 in America
 
-Published :`2024-07-18 14:14:29`
+Published :`2024-07-18 14:36:57`
 
 ---
 
@@ -10,15 +10,15 @@ Michelob Ultra, also brewed by Anheuser-Busch, leapfrogged Bud Light to become t
 
 For the past four weeks ending on July 6, Bud Light captured 6.5% of beer dollar sales at retail stores compared to 7.3% for Michelob Ultra, NIQ data shows. Meanwhile, Modelo maintains its top share at 9.7%.
 
-Bud Light’s further decline shows that a boycott over the brand that started in April 2023 over a one-off sponsored Instagram post featuring transgender influencer Dylan Mulvaney, has caused lasting damage to the beer’s sales. The social media post garnered national attention from the right and Bud Light’s response to the controversy caught anger from the left.
+Bud Light’s further decline shows that a boycott over the brand that started in April 2023 over a one-off sponsored Instagram post featuring transgender influencer Dylan Mulvaney has caused lasting damage to the beer’s sales. The social media post garnered national attention from the right, and Bud Light’s response to the controversy caught anger from the left.
 
-Michelob Ultra’s rise to the top isn’t solely because of the decline of Bud Light. A-B has pumped more marketing money into the beer that attracts health-conscious drinkers seeking a flavorful and low-carb beer. Industry observers and even former A-B executives predicted this would happen.
+Michelob Ultra’s rise to the top isn’t solely due to the decline of Bud Light. A-B has pumped more marketing money into the beer, which attracts health-conscious drinkers seeking a flavorful and low-carb beer. Industry observers and even former A-B executives predicted this would happen.
 
-The beer sponsored the Copa America soccer tournament, which racked up record US TV ratings, and is now the official beer sponsor for Team USA with its ads set to dominate the Olympics on US TV. Michelob Ultra also released special-edition packaging featuring the Team USA logo and the American flag in a nod to its patriotic passion.
+The beer sponsored the Copa America soccer tournament, which racked up record US TV ratings. And it is now the official beer sponsor for Team USA with its ads set to dominate the Olympics on US TV. Michelob Ultra also released special-edition packaging featuring the Team USA logo and the American flag, in a nod to its patriotic passion.
 
 For Bud Light, its marketing efforts pivoted to win back conservatives. It became the official beer of the UFC and sponsored music festivals with country stars. It’s also maintaining a large advertising presence in the upcoming NFL season.
 
-A-B didn’t immediately respond to comment.
+An A-B spokesperson said in a statement that “millions of consumers choose Bud Light every day” and that the beer brand “will always be a mainstay of our iconic portfolio.”
 
 ---
 

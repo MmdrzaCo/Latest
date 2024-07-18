@@ -1,14 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 14:14:37`
+#### Latest Update : `2024-07-18 14:37:06`
 
 ## Latest News Grabbing 
 
 ---
 
-- [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/18/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
-
 - [Dubai princess’s Instagram account announces divorce with royal husband](https://new-news.github.io/Latest/2024/07/18/dubai_princesss_instagram_account_announces_divorce_with_royal_husband 'Dubai princess’s Instagram account announces divorce with royal husband')
+
+- [Israeli lawmakers vote overwhelmingly against Palestinian statehood, challenging US policy](https://new-news.github.io/Latest/2024/07/18/israeli_lawmakers_vote_overwhelmingly_against_palestinian_statehood__challenging_us_policy 'Israeli lawmakers vote overwhelmingly against Palestinian statehood, challenging US policy')
+
+- [Bud Light loses more ground, slipping to No. 3 in America](https://new-news.github.io/Latest/2024/07/18/bud_light_loses_more_ground__slipping_to_no__3_in_america 'Bud Light loses more ground, slipping to No. 3 in America')
+
+- [Judge plans to declare a mistrial today if jurors can’t reach a verdict in the Samantha Woll murder case](https://new-news.github.io/Latest/2024/07/18/judge_plans_to_declare_a_mistrial_today_if_jurors_cant_reach_a_verdict_in_the_samantha_woll_murder_case 'Judge plans to declare a mistrial today if jurors can’t reach a verdict in the Samantha Woll murder case')
+
+- [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/18/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
 
 - [‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel](https://new-news.github.io/Latest/2024/07/18/twister_gave_rise_to_a_generation_of_storm_chasers__heres_what_they_hope_to_see_in_the sequel '‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel')
 
@@ -19,8 +25,6 @@
 - [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
 
 - [Team USA earns dominant win over Serbia and NBA MVP Nikola Jokić](https://new-news.github.io/Latest/2024/07/18/team_usa_earns_dominant_win_over_serbia_and_nba_mvp_nikola_jokić 'Team USA earns dominant win over Serbia and NBA MVP Nikola Jokić')
-
-- [Crocodiles that were nearly extinct make a comeback in Cambodia](https://new-news.github.io/Latest/2024/07/18/crocodiles_that_were_nearly_extinct_make_a_comeback_in_cambodia 'Crocodiles that were nearly extinct make a comeback in Cambodia')
 
 - [Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’](https://new-news.github.io/Latest/2024/07/18/britney_spears_has_a_message_for_ozzy_osbourne_after_he_called_her_dancing_sad 'Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’')
 
@@ -47,8 +51,6 @@
 - [Jerry Ferrara is cruising through the 20th anniversary of ‘Entourage.’ In an Escalade, of course](https://new-news.github.io/Latest/2024/07/18/jerry_ferrara_is_cruising_through_the_20th_anniversary_of_entourage__in_an_escalade__of_course 'Jerry Ferrara is cruising through the 20th anniversary of ‘Entourage.’ In an Escalade, of course')
 
 - [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/18/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
-
-- [Bud Light loses more ground, slipping to No. 3 in America](https://new-news.github.io/Latest/2024/07/18/bud_light_loses_more_ground__slipping_to_no__3_in_america 'Bud Light loses more ground, slipping to No. 3 in America')
 
 - [John Deere backs away from diversity and inclusion efforts after a conservative backlash](https://new-news.github.io/Latest/2024/07/18/john_deere_backs_away_from_diversity_and_inclusion_efforts_after_a_conservative_backlash 'John Deere backs away from diversity and inclusion efforts after a conservative backlash')
 
@@ -204,10 +206,8 @@
 
 - [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/18/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
 
-- [Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea](https://new-news.github.io/Latest/2024/07/18/former_cia_analyst_sue_mi_terry_indicted_on_charges_of_secretly_working_for_south_korea 'Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alaska](/ 'alaska')  [alec](/ 'alec') 

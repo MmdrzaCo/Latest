@@ -1,6 +1,6 @@
 # ‘Strictly Come Dancing’ contestants to be chaperoned after abuse allegations
 
-Published :`2024-07-18 14:14:37`
+Published :`2024-07-18 14:37:05`
 
 ---
 
