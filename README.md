@@ -1,10 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 10:16:06`
+#### Latest Update : `2024-07-18 10:38:17`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Philadelphia Union’s 14-year-old phenom Cavan Sullivan makes history in MLS debut](https://new-news.github.io/Latest/2024/07/18/philadelphia_unions_14_year_old_phenom_cavan_sullivan_makes_history_in_mls_debut 'Philadelphia Union’s 14-year-old phenom Cavan Sullivan makes history in MLS debut')
+
+- [Supreme Court grants Texas man a stay of execution just before his scheduled lethal injection](https://new-news.github.io/Latest/2024/07/18/supreme_court_grants_texas_man_a_stay_of_execution_just_before_his_scheduled_lethal_injection 'Supreme Court grants Texas man a stay of execution just before his scheduled lethal injection')
+
+- [Orlando Magic co-founder Pat Williams dies at 84](https://new-news.github.io/Latest/2024/07/18/orlando_magic_co_founder_pat_williams_dies_at_84 'Orlando Magic co-founder Pat Williams dies at 84')
+
+- [Germany to halve military aid for Ukraine despite possible Trump White House](https://new-news.github.io/Latest/2024/07/18/germany_to_halve_military_aid_for_ukraine_despite_possible_trump_white_house 'Germany to halve military aid for Ukraine despite possible Trump White House')
+
+- [Vietnam Communist Party chief hands power to president as he undergoes medical care](https://new-news.github.io/Latest/2024/07/18/vietnam_communist_party_chief_hands_power_to_president_as_he_undergoes_medical_care 'Vietnam Communist Party chief hands power to president as he undergoes medical care')
 
 - [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
 
@@ -19,10 +29,6 @@
 - [Caitlin Clark sets WNBA record for most assists in a single game](https://new-news.github.io/Latest/2024/07/18/caitlin_clark_sets_wnba_record_for_most_assists_in_a_single_game 'Caitlin Clark sets WNBA record for most assists in a single game')
 
 - [Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say](https://new-news.github.io/Latest/2024/07/18/ski_mask_wearing_man_with_concealed_ak_47_pistol_arrested_monday_near_republican_national_convention__authorities_say 'Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say')
-
-- [Orlando Magic co-founder Pat Williams dies at 84](https://new-news.github.io/Latest/2024/07/18/orlando_magic_co_founder_pat_williams_dies_at_84 'Orlando Magic co-founder Pat Williams dies at 84')
-
-- [Germany to halve military aid for Ukraine despite possible Trump White House](https://new-news.github.io/Latest/2024/07/18/germany_to_halve_military_aid_for_ukraine_despite_possible_trump_white_house 'Germany to halve military aid for Ukraine despite possible Trump White House')
 
 - [Angel City FC set to become world’s most valuable pro women’s sports team following new investment](https://new-news.github.io/Latest/2024/07/18/angel_city_fc_set_to_become_worlds_most_valuable_pro_womens_sports_team_following_new_investment 'Angel City FC set to become world’s most valuable pro women’s sports team following new investment')
 
@@ -199,12 +205,6 @@
 - [Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army](https://new-news.github.io/Latest/2024/07/18/archaeologists_identify_roman_wall_built_to_hold_back_rebel_slave_spartacus_and_his_army 'Archaeologists identify Roman wall built to hold back rebel slave Spartacus and his army')
 
 - [Opinion: My teenage son had an influencer in his class. This is what it was like](https://new-news.github.io/Latest/2024/07/18/opinion__my_teenage_son_had_an_influencer_in_his_class__this_is_what_it_was_like 'Opinion: My teenage son had an influencer in his class. This is what it was like')
-
-- [Marathon-winning ‘spray-on’ running shoes could shake up Olympics](https://new-news.github.io/Latest/2024/07/18/marathon_winning_spray_on_running_shoes_could_shake_up_olympics 'Marathon-winning ‘spray-on’ running shoes could shake up Olympics')
-
-- [How the ATF identified the Trump rally shooter in 30 minutes](https://new-news.github.io/Latest/2024/07/18/how_the_atf_identified_the_trump_rally_shooter_in_30_minutes 'How the ATF identified the Trump rally shooter in 30 minutes')
-
-- [Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime](https://new-news.github.io/Latest/2024/07/18/biden_administration_points_to_29__drop_in_border_arrests_as_rnc_turns_focus_to_immigration_and_crime 'Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime')
 
 
 

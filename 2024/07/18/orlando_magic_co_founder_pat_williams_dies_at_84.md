@@ -1,6 +1,6 @@
 # Orlando Magic co-founder Pat Williams dies at 84
 
-Published :`2024-07-18 10:16:03`
+Published :`2024-07-18 10:38:13`
 
 ---
 
@@ -19,8 +19,6 @@ Williams started his NBA career as the business manager of the Philadelphia 76er
 “Pat Williams simply brought magic to Orlando,” team chairman Dan DeVos and CEO Alex Martins said in a joint statement.
 
 DeVos and Martins added: “His accomplishments will always be remembered. Armed with his ever-present optimism and unparalleled energy, he was an incredible visionary who helped transform the world of sports in multiple ways.”
-
-Williams was also awarded with the John W. Bunn Lifetime Achievement Award in 2012 by the Naismith Memorial Basketball Hall of Fame.
 
 He was also a talented baseball player and earned a scholarship to Wake Forest University to play the sport, securing himself a spot in the Wake Forest Sports Hall of Fame after a stint as catcher on the Demon Deacons baseball team, per NBA.com.
 
