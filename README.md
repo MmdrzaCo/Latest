@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 03:19:36`
+#### Latest Update : `2024-07-18 03:39:00`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Senators confront Secret Service director on Republican convention floor](https://new-news.github.io/Latest/2024/07/18/senators_confront_secret_service_director_on_republican_convention_floor 'Senators confront Secret Service director on Republican convention floor')
+
+- [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
 
 - [Families release photos of five female Israeli soldiers from their first days of captivity in Gaza](https://new-news.github.io/Latest/2024/07/18/families_release_photos_of_five_female_israeli_soldiers_from_their_first_days_of_captivity_in_gaza 'Families release photos of five female Israeli soldiers from their first days of captivity in Gaza')
 
@@ -201,10 +205,6 @@
 - [Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’](https://new-news.github.io/Latest/2024/07/18/man_killed_at_trump_rally_identified_as_firefighter_corey_comperatore__who_died_a_hero 'Man killed at Trump rally identified as firefighter Corey Comperatore, who ‘died a hero’')
 
 - [We asked how you use emojis. Here’s how different generations responded](https://new-news.github.io/Latest/2024/07/18/we_asked_how_you_use_emojis__heres_how_different_generations_responded 'We asked how you use emojis. Here’s how different generations responded')
-
-- [Takeaways from the second night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/18/takeaways_from_the_second_night_of_the_republican_national_convention 'Takeaways from the second night of the Republican National Convention')
-
-- [USWNT puts a frustrating night behind them as they look forward to next week’s Olympics](https://new-news.github.io/Latest/2024/07/18/uswnt_puts_a_frustrating_night_behind_them_as_they_look_forward_to_next_weeks_olympics 'USWNT puts a frustrating night behind them as they look forward to next week’s Olympics')
 
 
 

@@ -1,6 +1,6 @@
 # Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds
 
-Published :`2024-07-18 03:19:34`
+Published :`2024-07-18 03:38:59`
 
 ---
 

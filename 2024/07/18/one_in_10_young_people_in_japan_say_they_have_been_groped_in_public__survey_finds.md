@@ -1,6 +1,6 @@
 # One in 10 young people in Japan say they have been groped in public, survey finds
 
-Published :`2024-07-18 03:19:36`
+Published :`2024-07-18 03:39:00`
 
 ---
 

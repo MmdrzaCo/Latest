@@ -1,6 +1,6 @@
 # Long Covid risk has dropped over time but remains substantial, study shows
 
-Published :`2024-07-18 03:19:33`
+Published :`2024-07-18 03:38:59`
 
 ---
 

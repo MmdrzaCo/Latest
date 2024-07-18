@@ -1,6 +1,6 @@
 # The iconic Mirage in Las Vegas is closing today after 34 years
 
-Published :`2024-07-18 03:19:35`
+Published :`2024-07-18 03:39:00`
 
 ---
 
