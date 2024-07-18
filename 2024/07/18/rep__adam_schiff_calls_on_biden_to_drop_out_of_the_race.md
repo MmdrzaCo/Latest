@@ -1,6 +1,6 @@
 # Rep. Adam Schiff calls on Biden to drop out of the race
 
-Published :`2024-07-18 18:40:02`
+Published :`2024-07-18 19:12:57`
 
 ---
 

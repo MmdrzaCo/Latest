@@ -1,6 +1,6 @@
 # Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness
 
-Published :`2024-07-18 18:39:59`
+Published :`2024-07-18 19:12:53`
 
 ---
 
@@ -17,6 +17,8 @@ Pelosi has spent the weeks following the debate listening to concerns from her c
 When asked for comment, White House spokesperson Andrew Bates did not respond to the details of CNN’s reporting on the recent Pelosi-Biden call. “President Biden is the nominee of the party. He plans to win and looks forward to working with congressional Democrats to pass his 100 days agenda to help working families,” Bates said.
 
 A Pelosi spokesperson told CNN that the former House speaker has been in California since Friday and she has not spoken to Biden since.
+
+“Speaker Pelosi respects the confidentiality of her meetings and conversations with the president of the United States,” a Pelosi spokesperson said. “Sadly, the feeding frenzy from the press based on anonymous sources misrepresents any conversations the speaker may have had with the president.”
 
 ---
 

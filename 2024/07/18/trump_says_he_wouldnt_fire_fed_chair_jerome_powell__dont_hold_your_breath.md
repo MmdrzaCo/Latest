@@ -1,6 +1,6 @@
 # Trump says he wouldn’t fire Fed Chair Jerome Powell. Don’t hold your breath
 
-Published :`2024-07-18 18:40:02`
+Published :`2024-07-18 19:12:57`
 
 ---
 

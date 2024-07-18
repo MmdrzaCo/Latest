@@ -1,10 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 18:40:03`
+#### Latest Update : `2024-07-18 19:12:58`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Appeals court halts fresh Biden administration efforts to cancel some student debt](https://new-news.github.io/Latest/2024/07/18/appeals_court_halts_fresh_biden_administration_efforts_to_cancel_some_student_debt 'Appeals court halts fresh Biden administration efforts to cancel some student debt')
+
+- [An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals](https://new-news.github.io/Latest/2024/07/18/an_unusual_and_rare_wind_turbine_failure_is_littering_nantucket_beaches_with_debris__angering_locals 'An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals')
+
+- [Dow slides by more than 450 points and tech stocks continue to sell off](https://new-news.github.io/Latest/2024/07/18/dow_slides_by_more_than_450_points_and_tech_stocks_continue_to_sell_off 'Dow slides by more than 450 points and tech stocks continue to sell off')
+
+- [Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks](https://new-news.github.io/Latest/2024/07/18/putins_summer_residence_gets_new_air_defenses_as_ukraine_steps_up_drone_attacks 'Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks')
+
+- [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
+
+- [Secret Service calls right-wing media attacks on female agents ‘baseless’ and ‘disgusting’](https://new-news.github.io/Latest/2024/07/18/secret_service_calls_right_wing_media_attacks_on_female_agents_baseless_and_disgusting 'Secret Service calls right-wing media attacks on female agents ‘baseless’ and ‘disgusting’')
+
+- [Police officer attacked in Paris, as security measures ramp up for Olympics](https://new-news.github.io/Latest/2024/07/18/police_officer_attacked_in_paris__as_security_measures_ramp_up_for_olympics 'Police officer attacked in Paris, as security measures ramp up for Olympics')
+
+- [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
 
 - [Tennessee agrees to remove sex workers with HIV from sex offender registry](https://new-news.github.io/Latest/2024/07/18/tennessee_agrees_to_remove_sex_workers_with_hiv_from_sex_offender_registry 'Tennessee agrees to remove sex workers with HIV from sex offender registry')
 
@@ -42,8 +58,6 @@
 
 - [Bud Light loses more ground, slipping to No. 3 in America](https://new-news.github.io/Latest/2024/07/18/bud_light_loses_more_ground__slipping_to_no__3_in_america 'Bud Light loses more ground, slipping to No. 3 in America')
 
-- [Judge plans to declare a mistrial today if jurors can’t reach a verdict in the Samantha Woll murder case](https://new-news.github.io/Latest/2024/07/18/judge_plans_to_declare_a_mistrial_today_if_jurors_cant_reach_a_verdict_in_the_samantha_woll_murder_case 'Judge plans to declare a mistrial today if jurors can’t reach a verdict in the Samantha Woll murder case')
-
 - [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/18/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
 
 - [Ursula von der Leyen elected to second term as European Commission president](https://new-news.github.io/Latest/2024/07/18/ursula_von_der_leyen_elected_to_second_term_as_european_commission_president 'Ursula von der Leyen elected to second term as European Commission president')
@@ -61,8 +75,6 @@
 - [Shakeups in the 2024 race provide much-needed jolt in interest for news outlets](https://new-news.github.io/Latest/2024/07/18/shakeups_in_the_2024_race_provide_much_needed_jolt_in_interest_for_news_outlets 'Shakeups in the 2024 race provide much-needed jolt in interest for news outlets')
 
 - [Glen Powell will have his nose in the books on his next project](https://new-news.github.io/Latest/2024/07/18/glen_powell_will_have_his_nose_in_the_books_on_his_next_project 'Glen Powell will have his nose in the books on his next project')
-
-- [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
 
 - [Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats](https://new-news.github.io/Latest/2024/07/18/ferrari_program_asks_customers_to_rat_out_counterfeit_cars__t_shirts_and_hats 'Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats')
 
@@ -194,20 +206,8 @@
 
 - [Biden administration urges Supreme Court to let it continue implementing student loan repayment program](https://new-news.github.io/Latest/2024/07/18/biden_administration_urges_supreme_court_to_let_it_continue_implementing_student_loan_repayment_program 'Biden administration urges Supreme Court to let it continue implementing student loan repayment program')
 
-- [DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats](https://new-news.github.io/Latest/2024/07/18/dnc_moves_forward_with_biden_virtual_roll_call_despite_furious_backlash_from_some_democrats 'DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats')
-
-- [Nasdaq has worst day since 2022 as tech stocks get slammed](https://new-news.github.io/Latest/2024/07/18/nasdaq_has_worst_day_since_2022_as_tech_stocks_get_slammed 'Nasdaq has worst day since 2022 as tech stocks get slammed')
-
-- [Strange planet with a backward, cucumber-shape orbit is turning into another kind of world](https://new-news.github.io/Latest/2024/07/18/strange_planet_with_a_backward__cucumber_shape_orbit_is_turning_into_another_kind_of_world 'Strange planet with a backward, cucumber-shape orbit is turning into another kind of world')
-
-- [Flood emergency hits Arkansas after months of rain falls in a few hours](https://new-news.github.io/Latest/2024/07/18/flood_emergency_hits_arkansas_after_months_of_rain_falls_in_a_few_hours 'Flood emergency hits Arkansas after months of rain falls in a few hours')
-
-- [Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says](https://new-news.github.io/Latest/2024/07/18/over_70_arbitrary_detentions_reported_days_into_campaigning_for_venezuela_election__ngo_says 'Over 70 arbitrary detentions reported days into campaigning for Venezuela election, NGO says')
-
-- [Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’](https://new-news.github.io/Latest/2024/07/18/actor_treat_williams_earns_posthumous_emmy_nomination_for_final_role_in_feud 'Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ago](/ 'ago')  [agrees](/ 'agrees')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama') 
+##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [accident](/ 'accident')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agrees](/ 'agrees')  [aid](/ 'aid')  [aileen](/ 'aileen') 
