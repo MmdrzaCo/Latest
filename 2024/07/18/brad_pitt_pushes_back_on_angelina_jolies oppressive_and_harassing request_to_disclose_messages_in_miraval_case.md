@@ -1,6 +1,6 @@
 # Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case
 
-Published :`2024-07-18 11:35:39`
+Published :`2024-07-18 12:30:02`
 
 ---
 

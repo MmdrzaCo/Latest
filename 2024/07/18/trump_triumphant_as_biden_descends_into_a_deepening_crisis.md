@@ -1,6 +1,6 @@
 # Trump triumphant as Biden descends into a deepening crisis
 
-Published :`2024-07-18 11:35:38`
+Published :`2024-07-18 12:30:01`
 
 ---
 
@@ -46,9 +46,9 @@ As Trump settled in to enjoy the national debut of his new protege, the revolt a
 
 Schiff became the most high-profile Democrat to publicly calling for the president to “pass the torch.” The California Democrat said in a statement that, by leaving, Biden could “secure his legacy of leadership by allowing us to defeat Donald Trump in the upcoming election.” The intervention was seen as especially significant since Schiff, who is running for the Senate, is very close to Pelosi, the ultimate Democratic powerbroker who many in her party hope will be able to finesse a transition to another presidential candidate. But Biden pushed back in his call with Pelosi, telling her that he has seen polling that indicates that he can still win, CNN reported Wednesday.
 
-Signs of dissent toward Biden grew as details emerged of an ill-tempered clash with lawmakers over the weekend. Two sources described the remarkable encounter to CNN’s Dana Bash that included an exchange with Rep. Jason Crow, an Iraq war veteran who told the president that voters are not seeing the election the way the president is. At one point, Biden told the Colorado Democrat to “cut that crap out” and said that while he knows Crow is a Bronze Star recipient, like his son Beau, “he didn’t rebuild NATO.”
+Signs of dissent toward Biden grew as details emerged of an ill-tempered clash with lawmakers over the weekend. Two sources described the remarkable encounter to CNN’s Dana Bash that included an exchange with Rep. Jason Crow, an Iraq war veteran who told the president that voters are not seeing the election the way the president is. At one point, Biden told the Colorado Democrat, “I don’t want to hear that crap,” and said that while he knows Crow is a Bronze Star recipient, like his son Beau, “he didn’t rebuild NATO.”
 
-Another Democratic lawmaker, Pennsylvania Rep. Chrissy Houlahan, told Biden she was concerned about his standing in Bucks County, a critical region he needs to win big to carry the commonwealth in November. The president told Houlahan that his team would get her talking points about all of the things that he has done for Pennsylvania and reminded her that he married a “Philly girl.”
+Another Democratic lawmaker, Pennsylvania Rep. Chrissy Houlahan, told Biden that he was losing ground in her state. The president told Houlahan that his team would get her talking points about all of the things that he has done for Pennsylvania and reminded her that he married a “Philly girl.”
 
 By evening, there were fresh signs that Biden’s reelection effort was again plunging into critical territory. ABC News reported that in a meeting at Biden’s beach house on Saturday, Senate Majority Leader Chuck Schumer shared the concerns of his caucus about Biden’s campaign. The leader’s spokesman said in a statement that the report was “idle speculation.” House Minority Leader Hakeem Jeffries was also at the meeting. But White House spokesman Andrew Bates said: “The President told both leaders he is the nominee of the party, he plans to win, and looks forward to working with both of them to pass his 100 days agenda to help working families.”
 
@@ -63,6 +63,8 @@ The latest speculation over Biden’s future represents a cruel twist for a pres
 The situation is especially agonizing for the president, since he views his campaign in existential terms and as a battle to save the soul of America from what he sees as Trump’s mortal threat to democracy. The ex-president spent four years testing the rule of law and the limits of executive power in office and is vowing to pursue a campaign of personal retribution if he is reelected.
 
 And the fact that the Republican Party is crowning a convicted felon, who was found guilty in his New York hush money case, who lost a massive civil fraud trial and was found liable for sexual assault, has been all but lost in the rush of attention Trump has achieved after the heinous attempt on his life on Saturday.
+
+CORRECTION: An earlier version of this story incorrectly quoted Biden. His quote has been updated.
 
 ---
 

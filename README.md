@@ -1,16 +1,28 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 11:35:39`
+#### Latest Update : `2024-07-18 12:30:04`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
+- [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/18/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
+
+- [Ursula von der Leyen elected to second term as European Commission president](https://new-news.github.io/Latest/2024/07/18/ursula_von_der_leyen_elected_to_second_term_as_european_commission_president 'Ursula von der Leyen elected to second term as European Commission president')
+
+- [Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says](https://new-news.github.io/Latest/2024/07/18/would_be_assassin_posted_on_gaming_site_that_july_13_will_be_my_premiere__watch_as_it_unfolds__source_says 'Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says')
+
+- [Alabama set to execute man for fatal shooting of a delivery driver during a 1998 robbery attempt](https://new-news.github.io/Latest/2024/07/18/alabama_set_to_execute_man_for_fatal_shooting_of_a_delivery_driver_during_a_1998_robbery_attempt 'Alabama set to execute man for fatal shooting of a delivery driver during a 1998 robbery attempt')
+
+- [We’re in the thick of the ‘dog days of summer.’ We can thank the ancient Greeks for that](https://new-news.github.io/Latest/2024/07/18/were_in_the_thick_of_the_dog_days_of_summer__we_can_thank_the_ancient_greeks_for_that 'We’re in the thick of the ‘dog days of summer.’ We can thank the ancient Greeks for that')
+
+- [Jerry Ferrara is cruising through the 20th anniversary of ‘Entourage.’ In an Escalade, of course](https://new-news.github.io/Latest/2024/07/18/jerry_ferrara_is_cruising_through_the_20th_anniversary_of_entourage__in_an_escalade__of_course 'Jerry Ferrara is cruising through the 20th anniversary of ‘Entourage.’ In an Escalade, of course')
 
 - [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/18/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
 
-- [Dinosaur skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/18/dinosaur_skeleton_sets_auction_record__selling_for__44_6_million 'Dinosaur skeleton sets auction record, selling for $44.6 million')
+- [Bud Light loses more ground, slipping to No. 3 in America](https://new-news.github.io/Latest/2024/07/18/bud_light_loses_more_ground__slipping_to_no__3_in_america 'Bud Light loses more ground, slipping to No. 3 in America')
+
+- [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
 
 - [John Deere backs away from diversity and inclusion efforts after a conservative backlash](https://new-news.github.io/Latest/2024/07/18/john_deere_backs_away_from_diversity_and_inclusion_efforts_after_a_conservative_backlash 'John Deere backs away from diversity and inclusion efforts after a conservative backlash')
 
@@ -194,20 +206,8 @@
 
 - [Biden’s 41-year evolution on Supreme Court reform](https://new-news.github.io/Latest/2024/07/18/bidens_41_year_evolution_on_supreme_court_reform 'Biden’s 41-year evolution on Supreme Court reform')
 
-- [Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters](https://new-news.github.io/Latest/2024/07/18/usha_vance_is_the_4th_person_of_south_asian_descent_to_be_part_of_the_2024_presidential_campaign__why_that_matters 'Usha Vance is the 4th person of South Asian descent to be part of the 2024 presidential campaign. Why that matters')
-
-- [Prosecutors say neo-Nazi ‘murder cult’ leader plotted to give poison candy to Jewish kids in NYC](https://new-news.github.io/Latest/2024/07/18/prosecutors_say_neo_nazi_murder_cult_leader_plotted_to_give_poison_candy_to_jewish_kids_in_nyc 'Prosecutors say neo-Nazi ‘murder cult’ leader plotted to give poison candy to Jewish kids in NYC')
-
-- [Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say](https://new-news.github.io/Latest/2024/07/18/trump_shooter_requested_saturday_off_from_work_and_told_colleagues_hed_be_back_at_work_sunday__officials_say 'Trump shooter requested Saturday off from work and told colleagues he’d be back at work Sunday, officials say')
-
-- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/18/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
-
-- [Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music](https://new-news.github.io/Latest/2024/07/18/adeles_tank_is_quite_empty_at_the_minute__shes_planning_a_big_break_from_music 'Adele’s ‘tank is quite empty at the minute.’ She’s planning a ‘big break’ from music')
-
-- [One of the world’s biggest booze makers is ditching wine brands as the world drinks less](https://new-news.github.io/Latest/2024/07/18/one_of_the_worlds_biggest_booze_makers_is_ditching_wine_brands_as_the_world_drinks_less 'One of the world’s biggest booze makers is ditching wine brands as the world drinks less')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all') 
