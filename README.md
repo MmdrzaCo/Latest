@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 02:46:56`
+#### Latest Update : `2024-07-18 03:19:36`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Families release photos of five female Israeli soldiers from their first days of captivity in Gaza](https://new-news.github.io/Latest/2024/07/18/families_release_photos_of_five_female_israeli_soldiers_from_their_first_days_of_captivity_in_gaza 'Families release photos of five female Israeli soldiers from their first days of captivity in Gaza')
+
+- [Menopause retreats are the next big thing in wellness](https://new-news.github.io/Latest/2024/07/18/menopause_retreats_are_the_next_big_thing_in_wellness 'Menopause retreats are the next big thing in wellness')
+
+- [Former Trump adviser Peter Navarro speaks at GOP convention hours after release from prison](https://new-news.github.io/Latest/2024/07/18/former_trump_adviser_peter_navarro_speaks_at_gop_convention_hours_after_release_from_prison 'Former Trump adviser Peter Navarro speaks at GOP convention hours after release from prison')
 
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
@@ -142,8 +148,6 @@
 
 - [Marathon-winning ‘spray-on’ running shoes could shake up Olympics](https://new-news.github.io/Latest/2024/07/18/marathon_winning_spray_on_running_shoes_could_shake_up_olympics 'Marathon-winning ‘spray-on’ running shoes could shake up Olympics')
 
-- [Former Trump adviser Peter Navarro released from prison after serving 4 months for contempt of Congress](https://new-news.github.io/Latest/2024/07/18/former_trump_adviser_peter_navarro_released_from_prison_after_serving_4_months_for_contempt_of_congress 'Former Trump adviser Peter Navarro released from prison after serving 4 months for contempt of Congress')
-
 - [How the ATF identified the Trump rally shooter in 30 minutes](https://new-news.github.io/Latest/2024/07/18/how_the_atf_identified_the_trump_rally_shooter_in_30_minutes 'How the ATF identified the Trump rally shooter in 30 minutes')
 
 - [Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime](https://new-news.github.io/Latest/2024/07/18/biden_administration_points_to_29__drop_in_border_arrests_as_rnc_turns_focus_to_immigration_and_crime 'Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime')
@@ -201,10 +205,6 @@
 - [Takeaways from the second night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/18/takeaways_from_the_second_night_of_the_republican_national_convention 'Takeaways from the second night of the Republican National Convention')
 
 - [USWNT puts a frustrating night behind them as they look forward to next week’s Olympics](https://new-news.github.io/Latest/2024/07/18/uswnt_puts_a_frustrating_night_behind_them_as_they_look_forward_to_next_weeks_olympics 'USWNT puts a frustrating night behind them as they look forward to next week’s Olympics')
-
-- [JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment](https://new-news.github.io/Latest/2024/07/18/jd_vances_hillbilly_elegy_tops_amazon_book_and_netflix_film_charts_following_trumps_vp_appointment 'JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment')
-
-- [Five killed in violent protests over public sector jobs quota in Bangladesh](https://new-news.github.io/Latest/2024/07/18/five_killed_in_violent_protests_over_public_sector_jobs_quota_in bangladesh 'Five killed in violent protests over public sector jobs quota in Bangladesh')
 
 
 

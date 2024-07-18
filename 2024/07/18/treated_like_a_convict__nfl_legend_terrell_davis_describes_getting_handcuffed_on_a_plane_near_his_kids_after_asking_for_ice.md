@@ -1,10 +1,10 @@
 # ‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice
 
-Published :`2024-07-18 02:46:53`
+Published :`2024-07-18 03:19:33`
 
 ---
 
-Terrell Davis and his family were looking forward to vacationing in California when the NFL Hall of Famer was handcuffed and removed from a United Airlines plane – for no apparent reason.
+Terrell Davis and his family were looking forward to vacationing in California when pro football Hall of Famer was handcuffed and removed from a United Airlines plane – for no apparent reason.
 
 “I was stripped of my dignity. I was powerless. I couldn’t do anything,” the two-time Super Bowl champion told CNN’s Erin Burnett on Wednesday.
 
