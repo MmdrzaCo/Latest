@@ -1,6 +1,6 @@
 # Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll
 
-Published :`2024-07-18 21:36:42`
+Published :`2024-07-18 22:14:08`
 
 ---
 
@@ -17,6 +17,10 @@ Defense attorney Brian Brown said his client was frustrated with the verdict.
 “We feel that the jury should have come back with a not guilty on the felony murder and also the home invasion first degree. They got it right on the premeditated murder,” Brown said. “My guy is innocent. You know, there’s no point of going through this all over again.”
 
 Brown said there “was zero evidence that would have put my client inside the home. He never went inside.” The attorney said he was “still scratching my head” on the deadlocked home invasion count.
+
+Wayne County Prosecutor Kym Worthy, in a statement, thanked the jury for its dedication and said her office had been “hopeful that a decision could (be) reached today,” CNN affiliate WXYZ reported.
+
+Worthy added, “We will press on for justice for the Wolls and will determine our next course of action at the pre-trial hearing.”
 
 ### What we know about the attack
 

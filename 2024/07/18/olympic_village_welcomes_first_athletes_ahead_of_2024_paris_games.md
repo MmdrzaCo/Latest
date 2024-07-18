@@ -1,6 +1,6 @@
 # Olympic Village welcomes first athletes ahead of 2024 Paris Games
 
-Published :`2024-07-18 21:36:42`
+Published :`2024-07-18 22:14:08`
 
 ---
 

@@ -1,10 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 21:36:46`
+#### Latest Update : `2024-07-18 22:14:10`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
+
+- [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
+
+- [If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove](https://new-news.github.io/Latest/2024/07/18/if_the_trump_classified_documents_case_is_reinstated__judge_aileen_cannon_would_be_difficult_to_remove 'If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove')
+
+- [Hunter Biden says Aileen Cannon’s ruling that ended Trump’s classified documents case should help him as well](https://new-news.github.io/Latest/2024/07/18/hunter_biden_says_aileen_cannons_ruling_that_ended_trumps_classified_documents_case_should_help_him_as_well 'Hunter Biden says Aileen Cannon’s ruling that ended Trump’s classified documents case should help him as well')
+
+- [Fandango founder identified as man who fell to death from New York City hotel](https://new-news.github.io/Latest/2024/07/18/fandango_founder_identified_as_man_who_fell_to_death_from_new_york_city_hotel 'Fandango founder identified as man who fell to death from New York City hotel')
+
+- [Netflix is axing its cheapest, ad-free plan in the US](https://new-news.github.io/Latest/2024/07/18/netflix_is_axing_its_cheapest__ad_free_plan_in_the_us 'Netflix is axing its cheapest, ad-free plan in the US')
+
+- [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/18/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
+
+- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
 
 - [A popular #CleanTok tool is recalled for burn hazards](https://new-news.github.io/Latest/2024/07/18/a_popular__cleantok_tool_is_recalled_for_burn_hazards 'A popular #CleanTok tool is recalled for burn hazards')
 
@@ -14,19 +30,11 @@
 
 - [Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign](https://new-news.github.io/Latest/2024/07/18/top_democrat_raskin_privately_encouraged_biden_to_reconsider_reelection_campaign 'Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign')
 
-- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
-
 - [Opinion: We’re neglecting pets in disasters — with tragic consequences](https://new-news.github.io/Latest/2024/07/18/opinion__were_neglecting_pets_in_disasters_—_with_tragic_consequences 'Opinion: We’re neglecting pets in disasters — with tragic consequences')
 
 - [Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78](https://new-news.github.io/Latest/2024/07/18/lou_dobbs__veteran_cable_news_anchor_and_trump_booster__dies_at_78 'Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78')
 
-- [Netflix is axing its cheapest, ad-free plan in the US](https://new-news.github.io/Latest/2024/07/18/netflix_is_axing_its_cheapest__ad_free_plan_in_the_us 'Netflix is axing its cheapest, ad-free plan in the US')
-
-- [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/18/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
-
 - [Newest National Park Service site is a stark reminder of the era of segregated schools in the US](https://new-news.github.io/Latest/2024/07/18/newest_national_park_service_site_is_a_stark_reminder_of_the_era_of_segregated_schools_in_the_us 'Newest National Park Service site is a stark reminder of the era of segregated schools in the US')
-
-- [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
 
 - [Dow closes more than 500 points lower and tech rout continues](https://new-news.github.io/Latest/2024/07/18/dow_closes_more_than_500_points_lower_and_tech_rout_continues 'Dow closes more than 500 points lower and tech rout continues')
 
@@ -140,8 +148,6 @@
 
 - [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/18/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
 
-- [If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove](https://new-news.github.io/Latest/2024/07/18/if_the_trump_classified_documents_case_is_reinstated__judge_aileen_cannon_would_be_difficult_to_remove 'If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove')
-
 - [Shiite Muslims mark holy day of Ashura with mourning and self-flagellation](https://new-news.github.io/Latest/2024/07/18/shiite_muslims_mark_holy_day_of_ashura_with_mourning_and_self_flagellation 'Shiite Muslims mark holy day of Ashura with mourning and self-flagellation')
 
 - [Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing](https://new-news.github.io/Latest/2024/07/18/hong_kong_journalist_says_she_was_fired_by_wsj_after_taking_top_post_at_union_under_attack_by_beijing 'Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing')
@@ -200,14 +206,8 @@
 
 - [Navy exonerates 256 Black sailors who were unjustly punished after deadly 1944 California port explosion](https://new-news.github.io/Latest/2024/07/18/navy_exonerates_256_black_sailors_who_were_unjustly_punished_after_deadly_1944_california_port_explosion 'Navy exonerates 256 Black sailors who were unjustly punished after deadly 1944 California port explosion')
 
-- [Rep. Adam Schiff calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/18/rep__adam_schiff_calls_on_biden_to_drop_out_of_the_race 'Rep. Adam Schiff calls on Biden to drop out of the race')
-
-- [‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice](https://new-news.github.io/Latest/2024/07/18/treated_like_a_convict__nfl_legend_terrell_davis_describes_getting_handcuffed_on_a_plane_near_his_kids_after_asking_for_ice '‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice')
-
-- [Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say](https://new-news.github.io/Latest/2024/07/18/cyanide_poisoning_likely_killed_six_found_dead_in_luxury_hotel__including_two_us_citizens__thai_police_say 'Cyanide poisoning likely killed six found dead in luxury hotel, including two US citizens, Thai police say')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [accident](/ 'accident')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid') 
+##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [accident](/ 'accident')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 

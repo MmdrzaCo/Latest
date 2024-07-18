@@ -1,6 +1,6 @@
 # Netflix is axing its cheapest, ad-free plan in the US
 
-Published :`2024-07-18 21:36:42`
+Published :`2024-07-18 22:14:08`
 
 ---
 
@@ -12,7 +12,7 @@ In January, the company said it would retire its cheapest ad-free tier in Canada
 
 Basic users in the US who want an ad-free viewing experience on Netflix will now have two choices: Netflix’s Standard plan, which costs $15.49 per month, and its Premium plan, which costs $22.99 per month.
 
-Netflix said its cheapest, ad-supported tier saw a 34% jump in sign-ups in the second quarter of this year.
+Netflix said its cheapest, ad-supported tier, its “Standard with ads” plan, saw a 34% jump in sign-ups in the second quarter of this year.
 
 The company reported a record-high 277.65 million subscribers on its streaming platform Thursday, far outpacing streaming competitors like Disney+, Peacock and Max (which is owned by Warner Bros. Discovery, CNN’s parent company). Overall, Netflix added 8.05 million new subscribers in its second quarter.
 
@@ -42,7 +42,9 @@ The event was “the single biggest subscriber acquisition moment ever measured�
 
 Earlier this year, Netflix also announced another high-profile foray into sports programming: A 10-year deal to air “WWE Raw” live, valued at more than $5 billion.
 
-But sports aren’t the only way Netflix is trying to expand its footprint. Last month, the company said it plans to open two massive entertainment venues called Netflix Houses.
+“We’re in live because our members love it. It drives a ton of engagement and it drives a ton of excitement, and those two things are very valuable,” Netflix co-CEO Ted Sarandos said on the company’s earnings call Thursday. “The good thing is advertisers like it too.”
+
+But live sports aren’t the only way Netflix is trying to expand its footprint. Last month, the company said it plans to open two massive entertainment venues called Netflix Houses.
 
 The “experiential” complexes, in former department store locations at Dallas Galleria and King of Prussia mall (near Philadelphia), will each span more than 100,000 square feet and include events, themed gift shops and restaurants. Both will open in 2025.
 
