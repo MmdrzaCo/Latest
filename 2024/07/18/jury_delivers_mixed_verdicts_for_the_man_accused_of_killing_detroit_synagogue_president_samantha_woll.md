@@ -1,16 +1,22 @@
 # Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll
 
-Published :`2024-07-18 19:36:01`
+Published :`2024-07-18 20:15:52`
 
 ---
 
-Jurors returned mixed verdicts Thursday in the trial of a man accused of killing Detroit synagogue president Samantha Woll at her home, CNN affiliate WXYZ reported.
+Jurors returned mixed verdicts Thursday in the trial of a man accused of killing Detroit synagogue president Samantha Woll at her home.
 
-Michael Jackson-Bolanos, 29, faced four charges. Jurors deadlocked on the charges of felony murder and home invasion, WXYZ said. They found him not guilty of premeditated murder but found him guilty of lying to a police officer.
+Michael Jackson-Bolanos, 29, faced four charges. Jurors deadlocked on the charges of felony murder and home invasion. They found him not guilty of premeditated murder but found him guilty of lying to a police officer.
 
-A pretrial hearing on the two deadlocked counts has been scheduled for noon on July 25, WXYZ reported. Prosecutors could decide to not retry the case but did not immediately comment after the jury’s findings Thursday.
+A pretrial hearing on the two deadlocked counts has been scheduled for noon on July 25. Prosecutors could decide to not retry the case but did not immediately comment after the jury’s findings Thursday.
 
 The trial, which lasted over a month, was complicated by the replacement of a juror this week. It also included stunning testimony from Woll’s ex-boyfriend Jeffrey Herbstman, who initially told police he “may have murdered my girlfriend” – but later testified he had nothing to do with Woll’s death.
+
+Defense attorney Brian Brown said his client was frustrated with the verdict.
+
+“We feel that the jury should have come back with a not guilty on the felony murder and also the home invasion first degree. They got it right on the premeditated murder,” Brown said. “My guy is innocent. You know, there’s no point of going through this all over again.”
+
+Brown said there “was zero evidence that would have put my client inside the home. He never went inside.” The attorney said he was “still scratching my head” on the deadlocked home invasion count.
 
 ### What we know about the attack
 
@@ -36,7 +42,7 @@ When Jackson-Bolanos was interrogated by Detroit police last year, he insisted h
 
 “I don’t know this woman. I don’t know anything about this woman except when it popped up on the news, bro. That’s it,” Jackson-Bolanos said, according to CNN affiliate WDIV. “The only thing I know that I was in the wrong place at the wrong time.”
 
-In his opening statement, defense attorney Brian S. Brown said clues at the scene indicate his client did not kill Woll during a home invasion.
+In his opening statement, Brown said clues at the scene indicate his client did not kill Woll during a home invasion.
 
 “Yes, Samantha Woll tragically died on October 21st. However, it was not Michael Jackson-Bolanos who did this. She was stabbed eight times in the neck, in the back of the head, in the back of the neck. To me, that would indicate a crime of passion. This wasn’t just some random person walking into her house, trying to steal anything,” Brown told jurors.
 

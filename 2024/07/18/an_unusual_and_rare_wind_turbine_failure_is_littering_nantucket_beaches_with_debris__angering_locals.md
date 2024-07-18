@@ -1,6 +1,6 @@
 # An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals
 
-Published :`2024-07-18 19:36:01`
+Published :`2024-07-18 20:15:52`
 
 ---
 
@@ -14,7 +14,9 @@ There are few answers to what caused the turbine to fail, and the incident has 
 
 Speaking to the public on Wednesday, top company officials from Vineyard Wind and wind blade manufacturer GE Vernova promised they were investigating.
 
-A wind turbine breaking is “highly unusual and rare,” Roger Martella, head of government affairs at GE Vernova, said Wednesday. Martella couldn’t provide officials with the precise number of times something similar has happened at other wind farms around the world. CNN reached out to GE Vernova for comment.
+A wind turbine breaking is “highly unusual and rare,” Roger Martella, head of government affairs at GE Vernova, said Wednesday. Martella couldn’t provide officials with the precise number of times something similar has happened at other wind farms around the world.
+
+A GE Vernova spokesperson said in a statement the company was “working with urgency to complete our root cause analysis of this event.”
 
 Nantucket select board chair Brooke Mohr said the meeting with officials left her with the impression that it could take months to figure out why it happened.
 

@@ -1,6 +1,6 @@
 # Special counsel appeals dismissal of Trump classified documents case
 
-Published :`2024-07-18 19:36:07`
+Published :`2024-07-18 20:15:55`
 
 ---
 

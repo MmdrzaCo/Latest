@@ -1,24 +1,28 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 19:36:08`
+#### Latest Update : `2024-07-18 20:15:55`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Netflix is axing its cheapest, ad-free plan in the US](https://new-news.github.io/Latest/2024/07/18/netflix_is_axing_its_cheapest__ad_free_plan_in_the_us 'Netflix is axing its cheapest, ad-free plan in the US')
+
+- [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/18/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
+
+- [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
+
+- [Dow closes more than 500 points lower and tech rout continues](https://new-news.github.io/Latest/2024/07/18/dow_closes_more_than_500_points_lower_and_tech_rout_continues 'Dow closes more than 500 points lower and tech rout continues')
+
+- [An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals](https://new-news.github.io/Latest/2024/07/18/an_unusual_and_rare_wind_turbine_failure_is_littering_nantucket_beaches_with_debris__angering_locals 'An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals')
+
 - [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/18/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
 
 - [AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T](https://new-news.github.io/Latest/2024/07/18/at_t_is_telling_customers_they_were_hacked__protecting_data_has_been_a_big_fight_–_from_companies_like_at_t 'AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T')
 
-- [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
-
 - [Olympic Village welcomes first athletes ahead of 2024 Paris Games](https://new-news.github.io/Latest/2024/07/18/olympic_village_welcomes_first_athletes_ahead_of_2024_paris_games 'Olympic Village welcomes first athletes ahead of 2024 Paris Games')
 
 - [Appeals court halts fresh Biden administration efforts to cancel some student debt](https://new-news.github.io/Latest/2024/07/18/appeals_court_halts_fresh_biden_administration_efforts_to_cancel_some_student_debt 'Appeals court halts fresh Biden administration efforts to cancel some student debt')
-
-- [An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals](https://new-news.github.io/Latest/2024/07/18/an_unusual_and_rare_wind_turbine_failure_is_littering_nantucket_beaches_with_debris__angering_locals 'An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals')
-
-- [Dow slides by more than 500 points and tech stocks continue to sell off](https://new-news.github.io/Latest/2024/07/18/dow_slides_by_more_than_500_points_and_tech_stocks_continue_to_sell_off 'Dow slides by more than 500 points and tech stocks continue to sell off')
 
 - [Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks](https://new-news.github.io/Latest/2024/07/18/putins_summer_residence_gets_new_air_defenses_as_ukraine_steps_up_drone_attacks 'Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks')
 
@@ -103,8 +107,6 @@
 - [Vietnam Communist Party chief hands power to president as he undergoes medical care](https://new-news.github.io/Latest/2024/07/18/vietnam_communist_party_chief_hands_power_to_president_as_he_undergoes_medical_care 'Vietnam Communist Party chief hands power to president as he undergoes medical care')
 
 - [Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe](https://new-news.github.io/Latest/2024/07/18/greece_shuts_acropolis_and_adriatic_sea_hits_record_high_temperature_as_extreme_heat_bakes_europe 'Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe')
-
-- [Netflix has a plan to keep you paying for your subscription](https://new-news.github.io/Latest/2024/07/18/netflix_has_a_plan_to_keep_you_paying_for_your_subscription 'Netflix has a plan to keep you paying for your subscription')
 
 - [Justice Department drops some January 6 obstruction charges and retools plea deals after Supreme Court ruling](https://new-news.github.io/Latest/2024/07/18/justice_department_drops_some_january_6_obstruction_charges_and_retools_plea_deals_after_supreme_court_ruling 'Justice Department drops some January 6 obstruction charges and retools plea deals after Supreme Court ruling')
 
@@ -203,8 +205,6 @@
 - [At least 3 young children died in the span of a week after being left in hot cars in the US](https://new-news.github.io/Latest/2024/07/18/at_least_3_young_children_died_in_the_span_of_a_week_after_being_left_in_hot_cars_in_the_us 'At least 3 young children died in the span of a week after being left in hot cars in the US')
 
 - [Rudy Giuliani drains half of bank account for personal expenses while creditors pursue what he owes them](https://new-news.github.io/Latest/2024/07/18/rudy_giuliani_drains_half_of_bank_account_for_personal_expenses_while_creditors_pursue_what_he_owes_them 'Rudy Giuliani drains half of bank account for personal expenses while creditors pursue what he owes them')
-
-- [US military ends troubled temporary pier mission off Gaza coast](https://new-news.github.io/Latest/2024/07/18/us_military_ends_troubled_temporary_pier_mission_off_gaza_coast 'US military ends troubled temporary pier mission off Gaza coast')
 
 
 
