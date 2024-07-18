@@ -1,14 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 22:14:10`
+#### Latest Update : `2024-07-18 22:37:02`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
-
 - [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
+
+- [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/18/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
+
+- [Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78](https://new-news.github.io/Latest/2024/07/18/lou_dobbs__veteran_cable_news_anchor_and_trump_booster__dies_at_78 'Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78')
+
+- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
 
 - [If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove](https://new-news.github.io/Latest/2024/07/18/if_the_trump_classified_documents_case_is_reinstated__judge_aileen_cannon_would_be_difficult_to_remove 'If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove')
 
@@ -17,8 +21,6 @@
 - [Fandango founder identified as man who fell to death from New York City hotel](https://new-news.github.io/Latest/2024/07/18/fandango_founder_identified_as_man_who_fell_to_death_from_new_york_city_hotel 'Fandango founder identified as man who fell to death from New York City hotel')
 
 - [Netflix is axing its cheapest, ad-free plan in the US](https://new-news.github.io/Latest/2024/07/18/netflix_is_axing_its_cheapest__ad_free_plan_in_the_us 'Netflix is axing its cheapest, ad-free plan in the US')
-
-- [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/18/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
 
 - [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
 
@@ -31,8 +33,6 @@
 - [Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign](https://new-news.github.io/Latest/2024/07/18/top_democrat_raskin_privately_encouraged_biden_to_reconsider_reelection_campaign 'Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign')
 
 - [Opinion: We’re neglecting pets in disasters — with tragic consequences](https://new-news.github.io/Latest/2024/07/18/opinion__were_neglecting_pets_in_disasters_—_with_tragic_consequences 'Opinion: We’re neglecting pets in disasters — with tragic consequences')
-
-- [Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78](https://new-news.github.io/Latest/2024/07/18/lou_dobbs__veteran_cable_news_anchor_and_trump_booster__dies_at_78 'Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78')
 
 - [Newest National Park Service site is a stark reminder of the era of segregated schools in the US](https://new-news.github.io/Latest/2024/07/18/newest_national_park_service_site_is_a_stark_reminder_of_the_era_of_segregated_schools_in_the_us 'Newest National Park Service site is a stark reminder of the era of segregated schools in the US')
 

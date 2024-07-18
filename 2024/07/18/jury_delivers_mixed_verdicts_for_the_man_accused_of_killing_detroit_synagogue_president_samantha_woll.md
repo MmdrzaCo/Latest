@@ -1,6 +1,6 @@
 # Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll
 
-Published :`2024-07-18 22:14:08`
+Published :`2024-07-18 22:36:58`
 
 ---
 
@@ -18,7 +18,7 @@ Defense attorney Brian Brown said his client was frustrated with the verdict.
 
 Brown said there “was zero evidence that would have put my client inside the home. He never went inside.” The attorney said he was “still scratching my head” on the deadlocked home invasion count.
 
-Wayne County Prosecutor Kym Worthy, in a statement, thanked the jury for its dedication and said her office had been “hopeful that a decision could (be) reached today,” CNN affiliate WXYZ reported.
+Wayne County Prosecutor Kym Worthy, in a statement, thanked the jury for its dedication and said her office had been “hopeful that a decision could be reached today.”
 
 Worthy added, “We will press on for justice for the Wolls and will determine our next course of action at the pre-trial hearing.”
 
@@ -32,7 +32,7 @@ A prosecutor told jurors that Woll left her door open, which led to a tragic enc
 
 In the early morning hours of October 21, 2023, Woll’s body was found fatally stabbed outside her home. Authorities believe she stumbled outside after she was attacked.
 
-A medical examiner determined Woll died from “multiple sharp force wounds with a straight-edge cutting instrument,” Wayne County Prosecutor Kym Worthy’s office said in a news release.
+A medical examiner determined Woll died from “multiple sharp force wounds with a straight-edge cutting instrument,” Worthy’s office said in a news release.
 
 Authorities have said they believe Jackson-Bolanos did not know Woll, and the Wayne County prosecutor has said there was no evidence suggesting the killing was a hate crime.
 

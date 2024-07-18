@@ -1,6 +1,6 @@
 # Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign
 
-Published :`2024-07-18 22:14:08`
+Published :`2024-07-18 22:36:59`
 
 ---
 
