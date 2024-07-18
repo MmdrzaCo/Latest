@@ -1,6 +1,6 @@
 # Germany to halve military aid for Ukraine despite possible Trump White House
 
-Published :`2024-07-18 23:14:48`
+Published :`2024-07-18 23:37:17`
 
 ---
 

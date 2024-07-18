@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 23:14:50`
+#### Latest Update : `2024-07-18 23:37:21`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Biden’s top officials believe he must drop out as he becomes increasingly isolated](https://new-news.github.io/Latest/2024/07/18/bidens_top_officials_believe_he_must_drop_out as_he_becomes_increasingly_isolated 'Biden’s top officials believe he must drop out as he becomes increasingly isolated')
 
 - [Macron’s party wins parliamentary president role despite rebuke from voters](https://new-news.github.io/Latest/2024/07/18/macrons_party_wins_parliamentary_president_role_despite_rebuke_from_voters 'Macron’s party wins parliamentary president role despite rebuke from voters')
 
@@ -203,8 +205,6 @@
 - [The Indian villages with rooftop sculptures of planes, tanks and cars](https://new-news.github.io/Latest/2024/07/18/the_indian_villages_with_rooftop_sculptures_of_planes__tanks_and_cars 'The Indian villages with rooftop sculptures of planes, tanks and cars')
 
 - [Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case](https://new-news.github.io/Latest/2024/07/18/brad_pitt_pushes_back_on_angelina_jolies oppressive_and_harassing request_to_disclose_messages_in_miraval_case 'Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case')
-
-- [Why Europe looks at Trump’s VP pick with anxiety](https://new-news.github.io/Latest/2024/07/18/why_europe_looks_at_trumps_vp_pick_with_anxiety 'Why Europe looks at Trump’s VP pick with anxiety')
 
 
 

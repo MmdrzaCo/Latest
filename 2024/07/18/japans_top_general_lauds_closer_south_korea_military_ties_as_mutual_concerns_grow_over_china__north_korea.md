@@ -1,6 +1,6 @@
 # Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea
 
-Published :`2024-07-18 23:14:49`
+Published :`2024-07-18 23:37:18`
 
 ---
 
@@ -20,7 +20,7 @@ Kim said he and Yoshida “share a lot of the same thoughts,” an acknowledgmen
 
 Regional analyst James Brown said the Japan-South Korea meeting showed just how far the bilateral relationship has come under South Korean President Yoon Suk Yeol, who succeeded Moon Jae-in in 2022.
 
-“The political mood has improved significantly, and now we’re having the defense side of things aligning with that,” said Brown, an associate professor of political science at Temple University in Tokyo.
+“The political mood has improved significantly, and now we’re having the defense side of things aligning with that,” said Brown, a professor of political science at Temple University in Tokyo.
 
 “The Japanese government’s feeling about this is that this is the relationship they’ve always wanted.”
 

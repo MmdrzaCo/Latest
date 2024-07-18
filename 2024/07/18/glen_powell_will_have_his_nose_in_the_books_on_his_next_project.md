@@ -1,6 +1,6 @@
 # Glen Powell will have his nose in the books on his next project
 
-Published :`2024-07-18 23:14:48`
+Published :`2024-07-18 23:37:15`
 
 ---
 
