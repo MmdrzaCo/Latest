@@ -1,6 +1,6 @@
 # President Joe Biden tests positive for Covid-19 at pivotal moment in reelection campaign
 
-Published :`2024-07-18 05:14:54`
+Published :`2024-07-18 05:36:31`
 
 ---
 
@@ -36,7 +36,7 @@ But even though anger and panic has been steadily rising inside the Democratic P
 
 “The private conversations with the Hill are continuing,” a senior Democratic adviser tells CNN, speaking on condition of anonymity to avoid alienating the campaign and the White House. “He’s being receptive. Not as defiant as he is publicly.”
 
-“He’s gone from saying, ‘Kamala can’t win,’ to ‘Do you think Kamala can win?” the adviser said. “It’s still unclear where he’s going to land but seems to be listening.
+“He’s gone from saying, ‘Kamala can’t win,’ to ‘Do you think Kamala can win?’” the adviser said. “It’s still unclear where he’s going to land but seems to be listening.”
 
 Despite Biden’s diagnosis, Vice President Kamala Harris was set to keep her Thursday appearance at a campaign event in Fayetteville, North Carolina, as planned, an administration staffer said Wednesday evening. Harris’ husband, second gentleman Doug Emhoff, tested positive for Covid-19 earlier this month – though the vice president tested negative for the virus at the time.
 
