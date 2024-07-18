@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 16:39:40`
+#### Latest Update : `2024-07-18 17:14:09`
 
 ## Latest News Grabbing 
 
 ---
+
+- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
 - [Tiger Woods says he lost sleep over Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/tiger_woods_says_he_lost_sleep_over_trump_assassination_attempt 'Tiger Woods says he lost sleep over Trump assassination attempt')
 
@@ -53,8 +55,6 @@
 - [Shakeups in the 2024 race provide much-needed jolt in interest for news outlets](https://new-news.github.io/Latest/2024/07/18/shakeups_in_the_2024_race_provide_much_needed_jolt_in_interest_for_news_outlets 'Shakeups in the 2024 race provide much-needed jolt in interest for news outlets')
 
 - [Glen Powell will have his nose in the books on his next project](https://new-news.github.io/Latest/2024/07/18/glen_powell_will_have_his_nose_in_the_books_on_his_next_project 'Glen Powell will have his nose in the books on his next project')
-
-- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
 - [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
 
