@@ -1,12 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 09:37:00`
+#### Latest Update : `2024-07-18 10:16:06`
 
 ## Latest News Grabbing 
 
 ---
 
 - [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
+
+- [Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe](https://new-news.github.io/Latest/2024/07/18/greece_shuts_acropolis_and_adriatic_sea_hits_record_high_temperature_as_extreme_heat_bakes_europe 'Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe')
+
+- [Netflix has a plan to keep you paying for your subscription](https://new-news.github.io/Latest/2024/07/18/netflix_has_a_plan_to_keep_you_paying_for_your_subscription 'Netflix has a plan to keep you paying for your subscription')
+
+- [Justice Department drops some January 6 obstruction charges and retools plea deals after Supreme Court ruling](https://new-news.github.io/Latest/2024/07/18/justice_department_drops_some_january_6_obstruction_charges_and_retools_plea_deals_after_supreme_court_ruling 'Justice Department drops some January 6 obstruction charges and retools plea deals after Supreme Court ruling')
+
+- [‘This has gotta be a shirt’: Images of a bloodied Trump blanket Milwaukee](https://new-news.github.io/Latest/2024/07/18/this_has_gotta_be_a_shirt__images_of_a_bloodied_trump_blanket_milwaukee '‘This has gotta be a shirt’: Images of a bloodied Trump blanket Milwaukee')
+
+- [Caitlin Clark sets WNBA record for most assists in a single game](https://new-news.github.io/Latest/2024/07/18/caitlin_clark_sets_wnba_record_for_most_assists_in_a_single_game 'Caitlin Clark sets WNBA record for most assists in a single game')
+
+- [Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say](https://new-news.github.io/Latest/2024/07/18/ski_mask_wearing_man_with_concealed_ak_47_pistol_arrested_monday_near_republican_national_convention__authorities_say 'Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say')
+
+- [Orlando Magic co-founder Pat Williams dies at 84](https://new-news.github.io/Latest/2024/07/18/orlando_magic_co_founder_pat_williams_dies_at_84 'Orlando Magic co-founder Pat Williams dies at 84')
 
 - [Germany to halve military aid for Ukraine despite possible Trump White House](https://new-news.github.io/Latest/2024/07/18/germany_to_halve_military_aid_for_ukraine_despite_possible_trump_white_house 'Germany to halve military aid for Ukraine despite possible Trump White House')
 
@@ -83,8 +97,6 @@
 - [President Joe Biden tests positive for Covid-19 at pivotal moment in reelection campaign](https://new-news.github.io/Latest/2024/07/18/president_joe_biden_tests_positive_for_covid_19_at_pivotal_moment_in_reelection_campaign 'President Joe Biden tests positive for Covid-19 at pivotal moment in reelection campaign')
 
 - [The Indian villages with rooftop sculptures of planes, tanks and cars](https://new-news.github.io/Latest/2024/07/18/the_indian_villages_with_rooftop_sculptures_of_planes__tanks_and_cars 'The Indian villages with rooftop sculptures of planes, tanks and cars')
-
-- [Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say](https://new-news.github.io/Latest/2024/07/18/ski_mask_wearing_man_with_concealed_ak_47_pistol_arrested_monday_near_republican_national_convention__authorities_say 'Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say')
 
 - [Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case](https://new-news.github.io/Latest/2024/07/18/brad_pitt_pushes_back_on_angelina_jolies oppressive_and_harassing request_to_disclose_messages_in_miraval_case 'Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case')
 
@@ -194,20 +206,8 @@
 
 - [Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime](https://new-news.github.io/Latest/2024/07/18/biden_administration_points_to_29__drop_in_border_arrests_as_rnc_turns_focus_to_immigration_and_crime 'Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime')
 
-- [HSBC names third CEO in less than eight years](https://new-news.github.io/Latest/2024/07/18/hsbc names_third_ceo_in_less_than_eight_years 'HSBC names third CEO in less than eight years')
-
-- [‘Morning Joe’ backlash is latest mess for NBC and Comcast executives](https://new-news.github.io/Latest/2024/07/18/morning_joe_backlash_is_latest_mess_for_nbc_and_comcast_executives '‘Morning Joe’ backlash is latest mess for NBC and Comcast executives')
-
-- [New York Liberty cements position as WNBA’s best team with win over Connecticut Sun as Sabrina Ionescu shines](https://new-news.github.io/Latest/2024/07/18/new_york_liberty_cements_position_as_wnbas_best_team_with_win_over_connecticut_sun_as_sabrina_ionescu_shines 'New York Liberty cements position as WNBA’s best team with win over Connecticut Sun as Sabrina Ionescu shines')
-
-- [The iconic Mirage in Las Vegas is closing today after 34 years](https://new-news.github.io/Latest/2024/07/18/the_iconic_mirage_in_las_vegas_is_closing_today_after_34_years 'The iconic Mirage in Las Vegas is closing today after 34 years')
-
-- [American League tops National League for 10th time in last 11 MLB All-Star Games](https://new-news.github.io/Latest/2024/07/18/american_league_tops_national_league_for_10th_time_in_last_11_mlb_all_star_games 'American League tops National League for 10th time in last 11 MLB All-Star Games')
-
-- [Enzo Fernández apologizes for singing racist chant with Argentina teammates about France](https://new-news.github.io/Latest/2024/07/18/enzo_fernández_apologizes_for_singing_racist_chant_with_argentina_teammates_about_france 'Enzo Fernández apologizes for singing racist chant with Argentina teammates about France')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations') 

@@ -1,6 +1,6 @@
 # Menopause retreats are the next big thing in wellness
 
-Published :`2024-07-18 09:36:58`
+Published :`2024-07-18 10:16:04`
 
 ---
 

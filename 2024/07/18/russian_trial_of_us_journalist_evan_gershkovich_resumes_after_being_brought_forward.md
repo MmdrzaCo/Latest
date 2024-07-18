@@ -1,6 +1,6 @@
 # Russian trial of US journalist Evan Gershkovich resumes after being brought forward
 
-Published :`2024-07-18 09:36:57`
+Published :`2024-07-18 10:16:03`
 
 ---
 
@@ -14,6 +14,8 @@ He was arrested while reporting for the Wall Street Journal, during a reporting 
 
 US and Western officials have accused Russia of using Gershkovich and other jailed foreigners as bargaining chips for possible prisoner exchanges.
 
+A high-profile swap in 2022 saw US basketball star Brittney Griner exchanged for arms dealer Viktor Bout. But Russia refused to release another jailed US citizen, Paul Whelan, as it was seeking a former colonel from Russia’s domestic spy organization in return.
+
 If convicted, he faces up to 20 years in prison. A sentencing date has yet to be announced.
 
 The British Consul General in Ekaterinburg, Ameer Kotecha, attended the hearing as a listener — but like other listeners, he won’t be able to get into the courtroom, according to Russian state media TASS.
@@ -26,7 +28,7 @@ Before his transfer to Yekaterinburg, the 32-year-old journalist was imprisoned 
 
 He passed the time by writing letters to his friends and family, his parents said in an interview with the WSJ, adding that he has been allowed just one hour of walking per day.
 
-This story has been update with additional information.
+This story has been updated with additional information.
 
 ---
 
