@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 06:40:46`
+#### Latest Update : `2024-07-18 07:14:23`
 
 ## Latest News Grabbing 
 
 ---
+
+- [India’s ‘godmen’: How a rigid caste system has created a new kind of deity](https://new-news.github.io/Latest/2024/07/18/indias_godmen__how_a_rigid_caste_system_has_created_a_new_kind_of_deity 'India’s ‘godmen’: How a rigid caste system has created a new kind of deity')
+
+- [Senators confront Secret Service director on Republican convention floor](https://new-news.github.io/Latest/2024/07/18/senators_confront_secret_service_director_on_republican_convention_floor 'Senators confront Secret Service director on Republican convention floor')
+
+- [Man who escaped Oregon prison 30 years ago was found in Georgia with a stolen identity, authorities say](https://new-news.github.io/Latest/2024/07/18/man_who_escaped_oregon_prison_30_years_ago_was_found_in_georgia_with_a_stolen_identity__authorities_say 'Man who escaped Oregon prison 30 years ago was found in Georgia with a stolen identity, authorities say')
 
 - [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/18/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
 
@@ -25,8 +31,6 @@
 - [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/18/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
 
 - [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/18/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
-
-- [Senators confront Secret Service director on Republican convention floor](https://new-news.github.io/Latest/2024/07/18/senators_confront_secret_service_director_on_republican_convention_floor 'Senators confront Secret Service director on Republican convention floor')
 
 - [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
 
@@ -201,10 +205,6 @@
 - [Uncontacted tribe sighted in Peruvian Amazon where loggers are active](https://new-news.github.io/Latest/2024/07/18/uncontacted tribe_sighted_in_peruvian_amazon_where_loggers_are_active 'Uncontacted tribe sighted in Peruvian Amazon where loggers are active')
 
 - [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/18/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
-
-- [Work from home could lead to more homes in vacant offices](https://new-news.github.io/Latest/2024/07/18/work_from_home_could_lead_to_more_homes_in_vacant_offices 'Work from home could lead to more homes in vacant offices')
-
-- [Drake shows video of flooded mansion as torrential rain batters Toronto](https://new-news.github.io/Latest/2024/07/18/drake_shows_video_of_flooded_mansion_as_torrential_rain_batters_toronto 'Drake shows video of flooded mansion as torrential rain batters Toronto')
 
 
 

@@ -1,6 +1,6 @@
 # Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence
 
-Published :`2024-07-18 06:40:42`
+Published :`2024-07-18 07:14:16`
 
 ---
 
