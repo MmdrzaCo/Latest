@@ -1,6 +1,6 @@
 # Simone Biles reflects on Tokyo Olympics in ‘Rising’: ‘I felt like I was in jail with my own brain and body’
 
-Published :`2024-07-18 17:35:51`
+Published :`2024-07-18 18:20:36`
 
 ---
 

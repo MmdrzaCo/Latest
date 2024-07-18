@@ -1,6 +1,6 @@
 # Man found guilty on all counts for Cleveland shooting that injured 9 last year
 
-Published :`2024-07-18 17:35:52`
+Published :`2024-07-18 18:20:37`
 
 ---
 

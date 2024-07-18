@@ -1,6 +1,6 @@
 # Angel City FC set to become world’s most valuable pro women’s sports team following new investment
 
-Published :`2024-07-18 17:35:52`
+Published :`2024-07-18 18:20:37`
 
 ---
 

@@ -1,24 +1,30 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 17:35:53`
+#### Latest Update : `2024-07-18 18:20:38`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
+
+- [Senators confront Secret Service director on Republican convention floor](https://new-news.github.io/Latest/2024/07/18/senators_confront_secret_service_director_on_republican_convention_floor 'Senators confront Secret Service director on Republican convention floor')
+
+- [Tiger Woods says he lost sleep over Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/tiger_woods_says_he_lost_sleep_over_trump_assassination_attempt 'Tiger Woods says he lost sleep over Trump assassination attempt')
+
+- [‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel](https://new-news.github.io/Latest/2024/07/18/twister_gave_rise_to_a_generation_of_storm_chasers__heres_what_they_hope_to_see_in_the sequel '‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel')
+
+- [Environmental activists sentenced to years in prison over UK highway protest](https://new-news.github.io/Latest/2024/07/18/environmental_activists_sentenced_to_years_in_prison_over_uk_highway_protest 'Environmental activists sentenced to years in prison over UK highway protest')
+
 - [Tennessee agrees to remove sex workers with HIV from sex offender registry](https://new-news.github.io/Latest/2024/07/18/tennessee_agrees_to_remove_sex_workers_with_hiv_from_sex_offender_registry 'Tennessee agrees to remove sex workers with HIV from sex offender registry')
 
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
-
-- [Tiger Woods says he lost sleep over Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/tiger_woods_says_he_lost_sleep_over_trump_assassination_attempt 'Tiger Woods says he lost sleep over Trump assassination attempt')
 
 - [See where abortions are banned and legal — and where it’s still in limbo](https://new-news.github.io/Latest/2024/07/18/see_where_abortions_are_banned_and_legal_—_and_where_its_still_in_limbo 'See where abortions are banned and legal — and where it’s still in limbo')
 
 - [Pentagon leaker Jack Teixeira to face military court martial charges](https://new-news.github.io/Latest/2024/07/18/pentagon_leaker_jack_teixeira_to_face_military_court_martial_charges 'Pentagon leaker Jack Teixeira to face military court martial charges')
 
 - [Investigators now believe account on gaming site in would-be assassin’s name is fake](https://new-news.github.io/Latest/2024/07/18/investigators_now_believe_account_on_gaming_site_in_would_be_assassins_name_is_fake 'Investigators now believe account on gaming site in would-be assassin’s name is fake')
-
-- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
 
 - [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/18/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
 
@@ -39,8 +45,6 @@
 - [Judge plans to declare a mistrial today if jurors can’t reach a verdict in the Samantha Woll murder case](https://new-news.github.io/Latest/2024/07/18/judge_plans_to_declare_a_mistrial_today_if_jurors_cant_reach_a_verdict_in_the_samantha_woll_murder_case 'Judge plans to declare a mistrial today if jurors can’t reach a verdict in the Samantha Woll murder case')
 
 - [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/18/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
-
-- [‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel](https://new-news.github.io/Latest/2024/07/18/twister_gave_rise_to_a_generation_of_storm_chasers__heres_what_they_hope_to_see_in_the sequel '‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel')
 
 - [Ursula von der Leyen elected to second term as European Commission president](https://new-news.github.io/Latest/2024/07/18/ursula_von_der_leyen_elected_to_second_term_as_european_commission_president 'Ursula von der Leyen elected to second term as European Commission president')
 
@@ -113,8 +117,6 @@
 - [Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea](https://new-news.github.io/Latest/2024/07/18/japans_top_general_lauds_closer_south_korea_military_ties_as_mutual_concerns_grow_over_china__north_korea 'Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea')
 
 - [India’s ‘godmen’: How a rigid caste system has created a new kind of deity](https://new-news.github.io/Latest/2024/07/18/indias_godmen__how_a_rigid_caste_system_has_created_a_new_kind_of_deity 'India’s ‘godmen’: How a rigid caste system has created a new kind of deity')
-
-- [Senators confront Secret Service director on Republican convention floor](https://new-news.github.io/Latest/2024/07/18/senators_confront_secret_service_director_on_republican_convention_floor 'Senators confront Secret Service director on Republican convention floor')
 
 - [Man who escaped Oregon prison 30 years ago was found in Georgia with a stolen identity, authorities say](https://new-news.github.io/Latest/2024/07/18/man_who_escaped_oregon_prison_30_years_ago_was_found_in_georgia_with_a_stolen_identity__authorities_say 'Man who escaped Oregon prison 30 years ago was found in Georgia with a stolen identity, authorities say')
 
@@ -204,10 +206,8 @@
 
 - [Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’](https://new-news.github.io/Latest/2024/07/18/actor_treat_williams_earns_posthumous_emmy_nomination_for_final_role_in_feud 'Actor Treat Williams earns posthumous Emmy nomination for final role in ‘Feud’')
 
-- [Joe Biden made a false statement about his current polling](https://new-news.github.io/Latest/2024/07/18/joe_biden_made_a_false_statement_about_his_current_polling 'Joe Biden made a false statement about his current polling')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ago](/ 'ago')  [agrees](/ 'agrees')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama') 
+##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ago](/ 'ago')  [agrees](/ 'agrees')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama') 

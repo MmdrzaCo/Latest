@@ -1,6 +1,6 @@
 # US military ends troubled temporary pier mission off Gaza coast
 
-Published :`2024-07-18 17:35:53`
+Published :`2024-07-18 18:20:38`
 
 ---
 

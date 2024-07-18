@@ -1,6 +1,6 @@
 # Tiger Woods says he lost sleep over Trump assassination attempt
 
-Published :`2024-07-18 17:35:51`
+Published :`2024-07-18 18:20:36`
 
 ---
 
@@ -18,7 +18,7 @@ Trump, an avid golfer, has a long history with Woods, with the pair playing nume
 
 “No matter who is in the office, you may like, dislike personality or the politics, but we all must respect the office,” he added, according to Yahoo Sports.
 
-Woods teed off Thursday in pursuit of a fourth Open Championship victory on Thursday, having lifted the Claret Jug in 2000, 2005 and 2006.
+Woods teed off in pursuit of a fourth Open Championship victory on Thursday, having lifted the Claret Jug in 2000, 2005 and 2006.
 
 It would be a shock win on his 23rd appearance at the major, given Woods’ persistent battles with injuries and rehabilitation following leg injuries in a 2021 car crash that have contributed to sporadic competitive appearances.
 

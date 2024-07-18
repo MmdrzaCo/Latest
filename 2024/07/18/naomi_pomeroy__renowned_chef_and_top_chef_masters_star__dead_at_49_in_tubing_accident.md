@@ -1,6 +1,6 @@
 # Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident
 
-Published :`2024-07-18 17:35:52`
+Published :`2024-07-18 18:20:37`
 
 ---
 

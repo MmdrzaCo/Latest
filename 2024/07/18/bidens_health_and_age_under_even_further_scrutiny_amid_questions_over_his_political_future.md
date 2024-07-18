@@ -1,6 +1,6 @@
 # Biden’s health and age under even further scrutiny amid questions over his political future
 
-Published :`2024-07-18 17:35:51`
+Published :`2024-07-18 18:20:36`
 
 ---
 
@@ -18,13 +18,13 @@ He stumbled while referring to Black members of his administration, describing L
 
 The White House said Wednesday the president had “upper respiratory symptoms, to include rhinorhea (runny nose) and non-productive cough, with general malaise” as a result of his Covid infection. Video of the president leaving Las Vegas showed him slowly walking up the steps to enter Air Force One, including pausing on the second step to gather himself before continuing into the plane.
 
+Biden on Thursday is experiencing “mild upper respiratory symptoms” and is continuing to receive Paxlovid, according to a note from his physician Dr. Kevin O’Connor. O’Connor notes that Biden does not have a fever and his vitals remain “normal.”
+
 Additional video shot by pool reporters who met Biden in Delaware late Wednesday also shows the president appearing to have difficulty getting situated in his SUV for the drive to his Rehoboth Beach, Delaware, home, where he is planning to isolate. The video shows Biden taking half a minute to get into the SUV and requiring the assistance of Secret Service agents to get situated in the car. The president was not wearing a face mask while he was interacting with the agents, despite having Covid. He eventually did put on a mask.
 
 Earlier on Wednesday, while visiting a local restaurant, the president appeared to mistake Nevada Attorney General Aaron Ford for the state’s governor. While speaking to a guest, Biden pointed to Ford and asked, “You know the gov?” Individuals nearby laughed at the statement, but it was unclear whether Biden was joking.
 
-CNN has reached out to the Biden campaign and White House for comment on the moment in Nevada and the president’s arrival in Delaware.
-
-Biden’s deputy campaign manager Quentin Fulks on Thursday said the campaign is “not working through any scenarios” where Biden is not the presidential nominee.
+CNN has reached out to the Biden campaign and White House for comment on the moment in Nevada and the president’s arrival in Delaware. Biden’s deputy campaign manager Quentin Fulks on Thursday said the campaign is “not working through any scenarios” where Biden is not the presidential nominee.
 
 “The vice president is a part of the Biden-Harris ticket. Our campaign is not working through any scenarios where President Biden is not the top of the ticket. He is and will be the Democratic nominee,” he said during a DNC news conference in Milwaukee when asked if the campaign was working on any plans should Vice President Kamala Harris take the lead.
 

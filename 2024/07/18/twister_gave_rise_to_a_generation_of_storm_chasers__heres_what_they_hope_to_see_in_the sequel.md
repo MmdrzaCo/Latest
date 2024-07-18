@@ -1,6 +1,6 @@
 # ‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel
 
-Published :`2024-07-18 17:35:51`
+Published :`2024-07-18 18:20:36`
 
 ---
 
@@ -30,7 +30,7 @@ Noting that she is “unfortunately, one of very few women doing this profession
 
 “That brings up some complicated stuff,” she said. “Was it impressive that films like ‘Twister’ and ‘Jurassic Park’ (featuring Laura Dern as a paleobotanist) were showcasing women scientists almost 30 years ago? Yes! But in reality Jo’s storyline is still reduced to a he-gets-the-girl in the end plot – wet tank tops and all.”
 
-Expectations are running high for “Twisters,” the Lee Isaac Chung-directed new installment which is coming out this week and stars Daisy Edgar-Jones and Glenn Powell. To the generation of storm chasers who largely dedicated their lives to the science of weather because of the 1996 movie, the hope is that the new entry will get more than a few things right.
+Expectations are running high for “Twisters,” the Lee Isaac Chung-directed new installment which is coming out this week and stars Daisy Edgar-Jones and Glen Powell. To the generation of storm chasers who largely dedicated their lives to the science of weather because of the 1996 movie, the hope is that the new entry will get more than a few things right.
 
 ### Safety and science matter
 
@@ -38,7 +38,7 @@ For starters, experts hope safety will be emphasized amid all the gasp-inducing 
 
 “Weather is fascinating and it is beautiful, but it is also dangerous, I really hope this movie can balance all of that,” Miller said.
 
-When it comes to chasing storms, the danger is twofold – there’s the considerable risk posed by the extreme weather itself, as well as the dangers from too many chasers – formally trained meteorologists and otherwise – pursuing the same weather pattern, oftentimes on the same road.
+When it comes to chasing storms, the danger is twofold: there’s the considerable risk posed by the extreme weather itself, as well as the dangers from too many chasers – formally trained meteorologists and otherwise – pursuing the same weather pattern, oftentimes on the same road.
 
 “I am interested to see how they handle the concept of ‘chaser convergence’ and the explosion of popularity chasing has seen over recent years,” said Smith. “In the first film there were really just the two teams on the roads (and they still almost collided!).”
 
