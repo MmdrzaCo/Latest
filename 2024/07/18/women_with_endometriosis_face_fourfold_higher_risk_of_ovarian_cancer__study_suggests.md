@@ -1,6 +1,6 @@
 # Women with endometriosis face fourfold higher risk of ovarian cancer, study suggests
 
-Published :`2024-07-18 09:16:00`
+Published :`2024-07-18 09:37:00`
 
 ---
 

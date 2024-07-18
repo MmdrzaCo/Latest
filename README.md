@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 09:16:03`
+#### Latest Update : `2024-07-18 09:37:00`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
+
+- [Germany to halve military aid for Ukraine despite possible Trump White House](https://new-news.github.io/Latest/2024/07/18/germany_to_halve_military_aid_for_ukraine_despite_possible_trump_white_house 'Germany to halve military aid for Ukraine despite possible Trump White House')
 
 - [Angel City FC set to become world’s most valuable pro women’s sports team following new investment](https://new-news.github.io/Latest/2024/07/18/angel_city_fc_set_to_become_worlds_most_valuable_pro_womens_sports_team_following_new_investment 'Angel City FC set to become world’s most valuable pro women’s sports team following new investment')
 
@@ -13,8 +17,6 @@
 - [Former Goldman analyst gets 28-month prison sentence for insider trading](https://new-news.github.io/Latest/2024/07/18/former goldman_analyst_gets_28_month_prison_sentence_for_insider_trading 'Former Goldman analyst gets 28-month prison sentence for insider trading')
 
 - [Could a Trump-Vance win reshape America’s relationship with China – and Taiwan?](https://new-news.github.io/Latest/2024/07/18/could_a_trump_vance_win_reshape_americas_relationship_with_china_–_and_taiwan 'Could a Trump-Vance win reshape America’s relationship with China – and Taiwan?')
-
-- [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
 
 - [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/18/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
 
@@ -204,10 +206,8 @@
 
 - [Enzo Fernández apologizes for singing racist chant with Argentina teammates about France](https://new-news.github.io/Latest/2024/07/18/enzo_fernández_apologizes_for_singing_racist_chant_with_argentina_teammates_about_france 'Enzo Fernández apologizes for singing racist chant with Argentina teammates about France')
 
-- [Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video](https://new-news.github.io/Latest/2024/07/18/trump_shares_vaccine_skepticism_on_call_with_rfk_jr__in_since_deleted_video 'Trump shares vaccine skepticism on call with RFK Jr. in since-deleted video')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [aileen](/ 'aileen')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america')  [american](/ 'american') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america') 

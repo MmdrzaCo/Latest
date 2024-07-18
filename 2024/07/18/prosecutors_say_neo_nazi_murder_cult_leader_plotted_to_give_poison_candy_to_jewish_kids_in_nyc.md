@@ -1,6 +1,6 @@
 # Prosecutors say neo-Nazi ‘murder cult’ leader plotted to give poison candy to Jewish kids in NYC
 
-Published :`2024-07-18 09:16:00`
+Published :`2024-07-18 09:37:00`
 
 ---
 
