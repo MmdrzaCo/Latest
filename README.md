@@ -1,14 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 02:20:32`
+#### Latest Update : `2024-07-18 02:46:56`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Man found guilty on all counts for Cleveland shooting that injured 9 last year](https://new-news.github.io/Latest/2024/07/18/man_found_guilty on_all_counts_for_cleveland_shooting_that_injured_9_last_year 'Man found guilty on all counts for Cleveland shooting that injured 9 last year')
-
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
+
+- [Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot](https://new-news.github.io/Latest/2024/07/18/asias_50_best_bars_for_2024_have_been_announced__a_newcomer_has_earned_the_top_spot 'Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot')
+
+- [Man found guilty on all counts for Cleveland shooting that injured 9 last year](https://new-news.github.io/Latest/2024/07/18/man_found_guilty on_all_counts_for_cleveland_shooting_that_injured_9_last_year 'Man found guilty on all counts for Cleveland shooting that injured 9 last year')
 
 - [Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident](https://new-news.github.io/Latest/2024/07/18/naomi_pomeroy__renowned_chef_and_top_chef_masters_star__dead_at_49_in_tubing_accident 'Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident')
 
@@ -203,8 +205,6 @@
 - [JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment](https://new-news.github.io/Latest/2024/07/18/jd_vances_hillbilly_elegy_tops_amazon_book_and_netflix_film_charts_following_trumps_vp_appointment 'JD Vance’s ‘Hillbilly Elegy’ tops Amazon book and Netflix film charts following Trump’s VP appointment')
 
 - [Five killed in violent protests over public sector jobs quota in Bangladesh](https://new-news.github.io/Latest/2024/07/18/five_killed_in_violent_protests_over_public_sector_jobs_quota_in bangladesh 'Five killed in violent protests over public sector jobs quota in Bangladesh')
-
-- [FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC](https://new-news.github.io/Latest/2024/07/18/fda__ftc_issue_warnings_to_companies_selling_copycat_snacks_with_delta_8_thc 'FDA, FTC issue warnings to companies selling copycat snacks with delta-8 THC')
 
 
 

@@ -1,6 +1,6 @@
 # A new moment for Biden? One Democratic adviser says: ‘He’s being receptive’
 
-Published :`2024-07-18 02:20:25`
+Published :`2024-07-18 02:46:53`
 
 ---
 

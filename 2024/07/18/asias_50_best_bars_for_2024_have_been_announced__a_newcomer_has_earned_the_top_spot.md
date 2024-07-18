@@ -1,6 +1,6 @@
 # Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot
 
-Published :`2024-07-18 01:07:13`
+Published :`2024-07-18 02:46:53`
 
 ---
 
@@ -24,7 +24,9 @@ However, Khan, sporting his signature black baseball cap, was among those cheeri
 
 A clear winner was Singapore, with eleven bars in the top 50. But there were also new destinations getting well-deserved shoutouts. Craftroom became Osaka’s first-ever representative on the list, landing in 28th place, and Changsha’s CMYK, in 43rd, was the first ever bar from that Chinese city to be recognized.
 
-The list, which was first put together in 2017, added a new category this year recognizing  best bar design. That accolade went to Singapore’s Atlas, a gin-centric bar whose striking interiors have made it popular on social media.
+“We are incredibly proud to represent Changsha and put this incredible city onto the global cocktail map,” a representative from CMYK told CNN. “We hope to motivate international guests to come and soak in the energy of the city, try our famous spicy dishes, and of course to visit CMYK and enjoy a drink with us.”
+
+The list, which was first put together in 2016, added a new category this year recognizing best bar design. That accolade went to Singapore’s Atlas, a gin-centric bar whose striking interiors have made it popular on social media.
 
 Also winning praise as the Bartender’s Bartender was Demie Kim of Seoul’s Zest, which came in second place overall. Kim, who hails from Busan, originally worked as a barista before getting into the cocktail industry.
 

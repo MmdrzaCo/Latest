@@ -1,6 +1,6 @@
 # How the ATF identified the Trump rally shooter in 30 minutes
 
-Published :`2024-07-18 02:20:29`
+Published :`2024-07-18 02:46:55`
 
 ---
 
