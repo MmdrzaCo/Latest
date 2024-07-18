@@ -1,6 +1,6 @@
 # Biden administration points to 29% drop in border arrests as RNC turns focus to immigration and crime
 
-Published :`2024-07-18 05:36:33`
+Published :`2024-07-18 06:21:16`
 
 ---
 

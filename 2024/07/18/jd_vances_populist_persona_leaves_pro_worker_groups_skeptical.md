@@ -1,6 +1,6 @@
 # JD Vance’s populist persona leaves pro-worker groups skeptical
 
-Published :`2024-07-18 05:36:34`
+Published :`2024-07-18 06:21:17`
 
 ---
 

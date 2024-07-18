@@ -1,16 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 05:36:34`
+#### Latest Update : `2024-07-18 06:21:17`
 
 ## Latest News Grabbing 
 
 ---
 
+- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
+
 - [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/18/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
 
 - [Takeaways from the third night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/18/takeaways_from_the_third_night_of_the_republican_national_convention 'Takeaways from the third night of the Republican National Convention')
-
-- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
 - [US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’](https://new-news.github.io/Latest/2024/07/18/us_urges_venezuela_to_free_opposition_figures_as_maduro_says_he_must_win_reelection_to_avoid_a_bloodbath 'US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’')
 

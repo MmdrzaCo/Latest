@@ -1,6 +1,6 @@
 # Work from home could lead to more homes in vacant offices
 
-Published :`2024-07-18 05:36:34`
+Published :`2024-07-18 06:21:17`
 
 ---
 

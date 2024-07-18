@@ -1,6 +1,6 @@
 # Lawyers representing US soldier who crossed into North Korea are in plea negotiations with prosecutors
 
-Published :`2024-07-18 05:36:33`
+Published :`2024-07-18 06:21:16`
 
 ---
 

@@ -1,6 +1,6 @@
 # Joe Biden made a false statement about his current polling
 
-Published :`2024-07-18 05:36:32`
+Published :`2024-07-18 06:21:15`
 
 ---
 
