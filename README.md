@@ -1,16 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 07:36:17`
+#### Latest Update : `2024-07-18 08:19:09`
 
 ## Latest News Grabbing 
 
 ---
 
+- [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/18/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
+
+- [If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove](https://new-news.github.io/Latest/2024/07/18/if_the_trump_classified_documents_case_is_reinstated__judge_aileen_cannon_would_be_difficult_to_remove 'If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove')
+
+- [Trial of American journalist Evan Gershkovich resumes in Russia](https://new-news.github.io/Latest/2024/07/18/trial_of_american_journalist_evan_gershkovich_resumes_in_russia 'Trial of American journalist Evan Gershkovich resumes in Russia')
+
+- [Shiite Muslims mark holy day of Ashura with mourning and self-flagellation](https://new-news.github.io/Latest/2024/07/18/shiite_muslims_mark_holy_day_of_ashura_with_mourning_and_self_flagellation 'Shiite Muslims mark holy day of Ashura with mourning and self-flagellation')
+
 - [Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing](https://new-news.github.io/Latest/2024/07/18/hong_kong_journalist_says_she_was_fired_by_wsj_after_taking_top_post_at_union_under_attack_by_beijing 'Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing')
 
 - [Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea](https://new-news.github.io/Latest/2024/07/18/japans_top_general_lauds_closer_south_korea_military_ties_as_mutual_concerns_grow_over_china__north_korea 'Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea')
-
-- [Shiite Muslims mark holy day of Ashura with mourning and self-flagellation](https://new-news.github.io/Latest/2024/07/18/shiite_muslims_mark_holy_day_of_ashura_with_mourning_and_self_flagellation 'Shiite Muslims mark holy day of Ashura with mourning and self-flagellation')
 
 - [India’s ‘godmen’: How a rigid caste system has created a new kind of deity](https://new-news.github.io/Latest/2024/07/18/indias_godmen__how_a_rigid_caste_system_has_created_a_new_kind_of_deity 'India’s ‘godmen’: How a rigid caste system has created a new kind of deity')
 
@@ -200,14 +206,8 @@
 
 - [ISIS claims responsibility for rare attack on mosque in Oman](https://new-news.github.io/Latest/2024/07/18/isis_claims_responsibility_for_rare_attack_on_mosque_in_oman 'ISIS claims responsibility for rare attack on mosque in Oman')
 
-- [It’s not just you. Here’s where this summer really has been the worst](https://new-news.github.io/Latest/2024/07/18/its_not_just_you__heres_where_this_summer_really_has_been_the_worst 'It’s not just you. Here’s where this summer really has been the worst')
-
-- [Chaos on social media platforms after Trump shooting is a mess of their own making](https://new-news.github.io/Latest/2024/07/18/chaos_on_social_media_platforms_after_trump_shooting_is_a_mess_of_their_own_making 'Chaos on social media platforms after Trump shooting is a mess of their own making')
-
-- [‘Twisters’ spins out from the original but has all the weight of a stiff breeze](https://new-news.github.io/Latest/2024/07/18/twisters_spins_out_from_the_original_but_has_all_the_weight_of_a_stiff_breeze '‘Twisters’ spins out from the original but has all the weight of a stiff breeze')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america')  [american](/ 'american')  [an](/ 'an') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [aileen](/ 'aileen')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america')  [american](/ 'american') 

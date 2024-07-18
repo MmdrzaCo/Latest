@@ -1,6 +1,6 @@
 # Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say
 
-Published :`2024-07-18 07:36:14`
+Published :`2024-07-18 08:19:03`
 
 ---
 

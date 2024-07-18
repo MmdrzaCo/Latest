@@ -1,12 +1,12 @@
 # Shiite Muslims mark holy day of Ashura with mourning and self-flagellation
 
-Published :`2024-07-18 07:36:13`
+Published :`2024-07-18 08:19:02`
 
 ---
 
 Shiite Muslims across the globe on Tuesday observed Ashura, an annual commemoration mourning the seventh-century martyrdom of a grandson of the Prophet Mohammed.
 
-Imam Hussein bin Ali’s death in the Battle of Karbala in 680 AD is believed to have caused the split between Shiites – who consider him a rightful successor to the prophet – and Sunnis, the world’s most populous Islamic sect.
+Imam Hussein bin Ali’s death in the Battle of Karbala in 680 AD is believed to have cemented the split between Shiites – who consider him a rightful successor to the prophet – and Sunnis, the world’s most populous Islamic sect.
 
 Shiites comprise the majority of Muslims in Iran, Iraq and Azerbaijan, with sizable minority populations in a number of countries including Pakistan and India.
 
