@@ -1,14 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 15:36:37`
+#### Latest Update : `2024-07-18 16:18:25`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/18/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
+- [Investigators now believe account on gaming site in would-be assassin’s name is fake](https://new-news.github.io/Latest/2024/07/18/investigators_now_believe_account_on_gaming_site_in_would_be_assassins_name_is_fake 'Investigators now believe account on gaming site in would-be assassin’s name is fake')
 
 - [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
+
+- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/18/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
 
 - [Donald Glover is retiring Childish Gambino](https://new-news.github.io/Latest/2024/07/18/donald_glover_is_retiring_childish_gambino 'Donald Glover is retiring Childish Gambino')
 
@@ -49,8 +51,6 @@
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
 - [Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness](https://new-news.github.io/Latest/2024/07/18/pelosi_privately_told_biden_polls_show_he_cannot_win_and_will_take_down_the_house__biden_responded_with_defensiveness 'Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness')
-
-- [Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says](https://new-news.github.io/Latest/2024/07/18/would_be_assassin_posted_on_gaming_site_that_july_13_will_be_my_premiere__watch_as_it_unfolds__source_says 'Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says')
 
 - [Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats](https://new-news.github.io/Latest/2024/07/18/ferrari_program_asks_customers_to_rat_out_counterfeit_cars__t_shirts_and_hats 'Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats')
 

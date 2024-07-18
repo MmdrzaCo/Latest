@@ -1,6 +1,6 @@
 # Shakeups in the 2024 race provide much-needed jolt in interest for news outlets
 
-Published :`2024-07-18 15:36:35`
+Published :`2024-07-18 16:18:18`
 
 ---
 

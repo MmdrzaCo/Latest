@@ -1,6 +1,6 @@
 # If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove
 
-Published :`2024-07-18 15:36:35`
+Published :`2024-07-18 16:18:20`
 
 ---
 

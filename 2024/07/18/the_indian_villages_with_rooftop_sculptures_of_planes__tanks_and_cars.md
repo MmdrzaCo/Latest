@@ -1,6 +1,6 @@
 # The Indian villages with rooftop sculptures of planes, tanks and cars
 
-Published :`2024-07-18 15:36:36`
+Published :`2024-07-18 16:18:22`
 
 ---
 

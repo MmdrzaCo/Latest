@@ -1,6 +1,6 @@
 # Former Trump adviser Peter Navarro speaks at GOP convention hours after release from prison
 
-Published :`2024-07-18 15:36:36`
+Published :`2024-07-18 16:18:22`
 
 ---
 

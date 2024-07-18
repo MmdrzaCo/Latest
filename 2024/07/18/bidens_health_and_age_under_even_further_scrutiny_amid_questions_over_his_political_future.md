@@ -1,6 +1,6 @@
 # Biden’s health and age under even further scrutiny amid questions over his political future
 
-Published :`2024-07-18 15:36:34`
+Published :`2024-07-18 16:18:17`
 
 ---
 
@@ -24,6 +24,14 @@ Earlier on Wednesday, while visiting a local restaurant, the president appeared 
 
 CNN has reached out to the Biden campaign and White House for comment on the moment in Nevada and the president’s arrival in Delaware.
 
+Biden’s deputy campaign manager Quentin Fulks on Thursday said the campaign is “not working through any scenarios” where Biden is not the presidential nominee.
+
+“The vice president is a part of the Biden-Harris ticket. Our campaign is not working through any scenarios where President Biden is not the top of the ticket. He is and will be the Democratic nominee,” he said during a DNC news conference in Milwaukee when asked if the campaign was working on any plans should Vice President Kamala Harris take the lead.
+
+Asked if Biden’s receptive to conversations about leaving the race, Fulks replied, “The president has said it several times, he’s staying in this race.”
+
+“The president is in this race. He’s going to and we look forward to him accepting the delegates in Chicago and continuing with this race to talk about what’s at stake,” he added.
+
 ### Polling shows a problem
 
 As calls for Biden to reconsider his candidacy are poised to grow even louder on Thursday, some of the reasons why are coming into sharper focus: Not only is Biden falling short to Trump, but Democratic candidates are afraid voters could see their own defenses of Biden as dishonest.
@@ -46,7 +54,7 @@ The internal polling data shows an expanding battleground in the presidential ra
 
 The president has had several moments over the last week that have worried Democrats even more about whether he can effectively continue to campaign.
 
-On July 11, the president had back-to-back slip-ups on the last day of the NATO summit in Washington, referring to Ukrainian President Volodymyr Zelensky as “President Putin” before correcting himself at one event and then referring to Vice President Kamala Harris as “Vice President Trump” in a press conference, a mistake he did not correct or acknowledge.
+On July 11, the president had back-to-back slip-ups on the last day of the NATO summit in Washington, referring to Ukrainian President Volodymyr Zelensky as “President Putin” before correcting himself at one event and then referring to Harris as “Vice President Trump” in a press conference, a mistake he did not correct or acknowledge.
 
 In that same press conference, Biden also appeared to back away from his previous assertion that only the “Lord Almighty” could convince him to leave the race, saying he would not leave the race “unless they came back and said there’s no way you can win.”
 
