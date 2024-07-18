@@ -1,6 +1,6 @@
 # DNC moves forward with Biden virtual roll call despite furious backlash from some Democrats
 
-Published :`2024-07-18 18:20:38`
+Published :`2024-07-18 18:40:02`
 
 ---
 

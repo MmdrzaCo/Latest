@@ -1,6 +1,6 @@
 # Israeli lawmakers vote overwhelmingly against Palestinian statehood, challenging US policy
 
-Published :`2024-07-18 18:20:36`
+Published :`2024-07-18 18:39:59`
 
 ---
 

@@ -1,6 +1,6 @@
 # Senators confront Secret Service director on Republican convention floor
 
-Published :`2024-07-18 18:20:36`
+Published :`2024-07-18 18:39:59`
 
 ---
 
@@ -13,6 +13,10 @@ A stunning scene played out at the Republican National Convention on Wednesday 
 Blackburn later posted a video of the encounter to X, writing: “The American people deserve answers from the Secret Service.”
 
 The confrontation came after Trump met with Cheatle on Tuesday to receive a private, in-person briefing about the attempted assassination, a source familiar with the meeting said.
+
+At an event hosted by CNN and Politico at the Republican convention on Thursday, Chris LaCivita, a top Trump adviser, agreed with a question about whether Cheatle should resign.
+
+“Oh. Yeah. Yeah. A hundred percent,” he said.
 
 The Department of Homeland Security Office of Inspector General announced earlier Wednesday that it was investigating the circumstances surrounding Saturday’s attempted assassination, and congressional Republicans have also vowed to launch their own investigation.
 

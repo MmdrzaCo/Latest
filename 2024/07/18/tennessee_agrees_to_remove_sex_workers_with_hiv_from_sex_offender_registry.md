@@ -1,6 +1,6 @@
 # Tennessee agrees to remove sex workers with HIV from sex offender registry
 
-Published :`2024-07-18 18:20:36`
+Published :`2024-07-18 18:39:59`
 
 ---
 
@@ -39,6 +39,8 @@ State Sen. Page Walley (R-Savannah), who supported the original aggravated prost
 “Having stood, as I mentioned, in 1991 and passed this,” Walley said, “it is a particular gratifying moment for me to see how we continue to evolve and seek what’s just and what’s right and what’s best.”
 
 KFF Health News is a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs at KFF — an independent source for health policy research, polling, and journalism.
+
+CORRECTION: The photo caption has been changed to reflect the nature of the state’s reversal.
 
 ---
 

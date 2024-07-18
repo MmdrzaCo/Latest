@@ -1,6 +1,6 @@
 # Fire at shopping mall in southwest China kills 16 people
 
-Published :`2024-07-18 18:20:37`
+Published :`2024-07-18 18:40:01`
 
 ---
 

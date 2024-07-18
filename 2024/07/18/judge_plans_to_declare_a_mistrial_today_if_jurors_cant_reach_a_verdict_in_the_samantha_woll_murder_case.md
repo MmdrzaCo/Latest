@@ -1,6 +1,6 @@
 # Judge plans to declare a mistrial today if jurors can’t reach a verdict in the Samantha Woll murder case
 
-Published :`2024-07-18 18:20:36`
+Published :`2024-07-18 18:39:59`
 
 ---
 

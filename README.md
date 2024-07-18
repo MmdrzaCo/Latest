@@ -1,22 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 18:20:38`
+#### Latest Update : `2024-07-18 18:40:03`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
+- [Tennessee agrees to remove sex workers with HIV from sex offender registry](https://new-news.github.io/Latest/2024/07/18/tennessee_agrees_to_remove_sex_workers_with_hiv_from_sex_offender_registry 'Tennessee agrees to remove sex workers with HIV from sex offender registry')
 
 - [Senators confront Secret Service director on Republican convention floor](https://new-news.github.io/Latest/2024/07/18/senators_confront_secret_service_director_on_republican_convention_floor 'Senators confront Secret Service director on Republican convention floor')
+
+- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
 
 - [Tiger Woods says he lost sleep over Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/tiger_woods_says_he_lost_sleep_over_trump_assassination_attempt 'Tiger Woods says he lost sleep over Trump assassination attempt')
 
 - [‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel](https://new-news.github.io/Latest/2024/07/18/twister_gave_rise_to_a_generation_of_storm_chasers__heres_what_they_hope_to_see_in_the sequel '‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel')
 
 - [Environmental activists sentenced to years in prison over UK highway protest](https://new-news.github.io/Latest/2024/07/18/environmental_activists_sentenced_to_years_in_prison_over_uk_highway_protest 'Environmental activists sentenced to years in prison over UK highway protest')
-
-- [Tennessee agrees to remove sex workers with HIV from sex offender registry](https://new-news.github.io/Latest/2024/07/18/tennessee_agrees_to_remove_sex_workers_with_hiv_from_sex_offender_registry 'Tennessee agrees to remove sex workers with HIV from sex offender registry')
 
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
