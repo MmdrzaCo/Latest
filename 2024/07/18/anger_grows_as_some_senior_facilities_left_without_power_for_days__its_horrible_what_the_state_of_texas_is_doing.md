@@ -1,6 +1,6 @@
 # Anger grows as some senior facilities left without power for days: ‘It’s horrible what the state of Texas is doing’
 
-Published :`2024-07-18 04:39:13`
+Published :`2024-07-18 05:15:01`
 
 ---
 

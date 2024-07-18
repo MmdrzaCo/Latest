@@ -1,6 +1,6 @@
 # Chaos on social media platforms after Trump shooting is a mess of their own making
 
-Published :`2024-07-18 04:39:13`
+Published :`2024-07-18 05:15:02`
 
 ---
 

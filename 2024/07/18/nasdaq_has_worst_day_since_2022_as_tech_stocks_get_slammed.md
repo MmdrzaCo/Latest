@@ -1,6 +1,6 @@
 # Nasdaq has worst day since 2022 as tech stocks get slammed
 
-Published :`2024-07-18 04:39:11`
+Published :`2024-07-18 05:14:56`
 
 ---
 

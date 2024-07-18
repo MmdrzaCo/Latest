@@ -1,6 +1,6 @@
 # It’s not just you. Here’s where this summer really has been the worst
 
-Published :`2024-07-18 04:39:13`
+Published :`2024-07-18 05:15:01`
 
 ---
 

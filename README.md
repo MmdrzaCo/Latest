@@ -1,14 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 04:39:14`
+#### Latest Update : `2024-07-18 05:15:02`
 
 ## Latest News Grabbing 
 
 ---
 
-- [US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’](https://new-news.github.io/Latest/2024/07/18/us_urges_venezuela_to_free_opposition_figures_as_maduro_says_he_must_win_reelection_to_avoid_a_bloodbath 'US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’')
+- [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/18/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
 
 - [Takeaways from the third night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/18/takeaways_from_the_third_night_of_the_republican_national_convention 'Takeaways from the third night of the Republican National Convention')
+
+- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
+
+- [US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’](https://new-news.github.io/Latest/2024/07/18/us_urges_venezuela_to_free_opposition_figures_as_maduro_says_he_must_win_reelection_to_avoid_a_bloodbath 'US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’')
 
 - [Remains of ancient Papal palace believed to have been found in Rome](https://new-news.github.io/Latest/2024/07/18/remains_of_ancient_papal_palace_believed_to_have_been_found_in_rome 'Remains of ancient Papal palace believed to have been found in Rome')
 
@@ -29,8 +33,6 @@
 - [Menopause retreats are the next big thing in wellness](https://new-news.github.io/Latest/2024/07/18/menopause_retreats_are_the_next_big_thing_in_wellness 'Menopause retreats are the next big thing in wellness')
 
 - [Former Trump adviser Peter Navarro speaks at GOP convention hours after release from prison](https://new-news.github.io/Latest/2024/07/18/former_trump_adviser_peter_navarro_speaks_at_gop_convention_hours_after_release_from_prison 'Former Trump adviser Peter Navarro speaks at GOP convention hours after release from prison')
-
-- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/18/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
 - [Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot](https://new-news.github.io/Latest/2024/07/18/asias_50_best_bars_for_2024_have_been_announced__a_newcomer_has_earned_the_top_spot 'Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot')
 
@@ -203,8 +205,6 @@
 - [Work from home could lead to more homes in vacant offices](https://new-news.github.io/Latest/2024/07/18/work_from_home_could_lead_to_more_homes_in_vacant_offices 'Work from home could lead to more homes in vacant offices')
 
 - [Drake shows video of flooded mansion as torrential rain batters Toronto](https://new-news.github.io/Latest/2024/07/18/drake_shows_video_of_flooded_mansion_as_torrential_rain_batters_toronto 'Drake shows video of flooded mansion as torrential rain batters Toronto')
-
-- [Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region](https://new-news.github.io/Latest/2024/07/18/deadly_floods_engulf_parts_of_south_asia_as_extreme_weather_devastates_vulnerable_region 'Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region')
 
 
 
