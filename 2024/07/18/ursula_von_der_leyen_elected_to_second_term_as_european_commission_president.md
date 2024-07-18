@@ -1,6 +1,6 @@
 # Ursula von der Leyen elected to second term as European Commission president
 
-Published :`2024-07-18 13:35:43`
+Published :`2024-07-18 14:14:28`
 
 ---
 
@@ -19,6 +19,10 @@ Von der Leyen, a 65-year-old German national, was parachuted into the presidenti
 Von der Leyen’s own position was somewhat diminished by last month’s election, which saw a surge in support for the far right and saw Brussels’ center ground shrink.
 
 Her reelection was not certain but widely expected, after she was proposed by EU leaders and could rely on the support of her center-right European People’s Party (EPP), as well as the center-left Socialist and Democrats (S&D) and liberal Renew blocs. Shortly before Thursday’s vote, the Green bloc also announced it would support her.
+
+After the vote, von der Leyen said her reelection was “a very emotional and special moment” and that she was grateful for the trust the parliament had placed in her.
+
+“We have spared no effort. We have navigated the most troubled waters that our union has ever faced. And we have kept the course on our long-term European goals,” she said, praising the work done under her first term.
 
 Earlier Thursday, von der Leyen published a 31-page policy proposal, setting out her priorities if she won a second term.
 

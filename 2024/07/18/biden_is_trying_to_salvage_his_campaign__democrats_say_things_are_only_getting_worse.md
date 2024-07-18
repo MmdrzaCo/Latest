@@ -1,6 +1,6 @@
 # Biden is trying to salvage his campaign. Democrats say things are only getting worse
 
-Published :`2024-07-18 13:35:43`
+Published :`2024-07-18 14:14:28`
 
 ---
 
@@ -70,7 +70,7 @@ But those conversations were just the beginning.
 
 During a Saturday call with a moderate group of House Democrats, Biden lashed out at Rep. Jason Crow after the Colorado Democrat bluntly told him that voters are concerned about his vigor and strength, especially as it is perceived on the world stage.
 
-The president responded to Crow, an Army Ranger who served two tours in Afghanistan and one in Iraq, that he knows the congressman is a Bronze Star recipient, like his son Beau: “Tell me who did something that you’ve never done with your Bronze Star, and your – like my son, [I’m] proud of your leadership” according to a source familiar with the call.
+The president responded to Crow, an Army Ranger who served two tours in Afghanistan and one in Iraq, that he knows the congressman is a Bronze Star recipient, like his son Beau: “Tell me who did something that you’ve never done with your Bronze Star, and your – like my son, (I’m) proud of your leadership” according to a source familiar with the call.
 
 But that “he didn’t rebuild NATO.” According to two sources familiar with the call, the exchange became even more contentious when Crow pushed back on the president, who also argued that NATO leaders are supportive of him. Crow told the president that he needs to understand that voters aren’t seeing him that way.
 
@@ -106,6 +106,10 @@ Biden, who was 30 minutes late to his call with the moderate Democrats, only too
 
 On a separate call with the campaign arm of the Congressional Hispanic Caucus the day earlier, Democratic Rep. Mike Levin told Biden directly it was time he steps aside.
 
+Others on the call however walked away with a more positive take, including the group’s chair Rep. Nanette Barragán who said Biden had her “unwavering support.”
+
+And still, more than 70 members of the House and Senate have publicly reaffirmed their support for Biden as the party’s presidential nominee.
+
 Biden’s calls with the Congressional Progressive Caucus and Congressional Asian Pacific American Caucus seemed to go smoother, with a number of lawmakers expressing their public support for the president, but the overall performative nature of the outreach still left many members dissatisfied.
 
 “The president can learn a lot and benefit from candid conversations. He is not going to learn anything or benefit at all from canned, scripted, orchestrated Q&A sessions,” one of the lawmakers on the call told CNN.
@@ -113,6 +117,8 @@ Biden’s calls with the Congressional Progressive Caucus and Congressional Asi
 Democratic Sen. Chris Coons, a close ally of Biden, told CNN’s Pamela Brown on Wednesday that the president is “well aware of the concerns” with his electability and his age.
 
 The Delaware Democrat noted that in one call with Biden and the other campaign co-chairs, he shared two text messages he had received in recent weeks – one calling for him to “keep at it,” and one encouraging the president to drop out.
+
+This story has been updated with additional developments.
 
 ---
 

@@ -1,20 +1,32 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 13:35:45`
+#### Latest Update : `2024-07-18 14:14:37`
 
 ## Latest News Grabbing 
 
 ---
+
+- [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/18/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
+
+- [Dubai princess’s Instagram account announces divorce with royal husband](https://new-news.github.io/Latest/2024/07/18/dubai_princesss_instagram_account_announces_divorce_with_royal_husband 'Dubai princess’s Instagram account announces divorce with royal husband')
+
+- [‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel](https://new-news.github.io/Latest/2024/07/18/twister_gave_rise_to_a_generation_of_storm_chasers__heres_what_they_hope_to_see_in_the sequel '‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel')
+
+- [Ursula von der Leyen elected to second term as European Commission president](https://new-news.github.io/Latest/2024/07/18/ursula_von_der_leyen_elected_to_second_term_as_european_commission_president 'Ursula von der Leyen elected to second term as European Commission president')
+
+- [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/18/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
+
+- [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
+
+- [Team USA earns dominant win over Serbia and NBA MVP Nikola Jokić](https://new-news.github.io/Latest/2024/07/18/team_usa_earns_dominant_win_over_serbia_and_nba_mvp_nikola_jokić 'Team USA earns dominant win over Serbia and NBA MVP Nikola Jokić')
+
+- [Crocodiles that were nearly extinct make a comeback in Cambodia](https://new-news.github.io/Latest/2024/07/18/crocodiles_that_were_nearly_extinct_make_a_comeback_in_cambodia 'Crocodiles that were nearly extinct make a comeback in Cambodia')
 
 - [Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’](https://new-news.github.io/Latest/2024/07/18/britney_spears_has_a_message_for_ozzy_osbourne_after_he_called_her_dancing_sad 'Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’')
 
 - [Opinion: Why we can’t give up on capitalism](https://new-news.github.io/Latest/2024/07/18/opinion__why_we_cant_give_up_on_capitalism 'Opinion: Why we can’t give up on capitalism')
 
 - [Shakeups in the 2024 race provide much-needed jolt in interest for news outlets](https://new-news.github.io/Latest/2024/07/18/shakeups_in_the_2024_race_provide_much_needed_jolt_in_interest_for_news_outlets 'Shakeups in the 2024 race provide much-needed jolt in interest for news outlets')
-
-- [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/18/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
-
-- [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
 
 - [Glen Powell will have his nose in the books on his next project](https://new-news.github.io/Latest/2024/07/18/glen_powell_will_have_his_nose_in_the_books_on_his_next_project 'Glen Powell will have his nose in the books on his next project')
 
@@ -25,8 +37,6 @@
 - [Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says](https://new-news.github.io/Latest/2024/07/18/would_be_assassin_posted_on_gaming_site_that_july_13_will_be_my_premiere__watch_as_it_unfolds__source_says 'Would-be assassin posted on gaming site that ‘July 13 will be my premiere, watch as it unfolds,’ source says')
 
 - [Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats](https://new-news.github.io/Latest/2024/07/18/ferrari_program_asks_customers_to_rat_out_counterfeit_cars__t_shirts_and_hats 'Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats')
-
-- [Ursula von der Leyen elected to second term as European Commission president](https://new-news.github.io/Latest/2024/07/18/ursula_von_der_leyen_elected_to_second_term_as_european_commission_president 'Ursula von der Leyen elected to second term as European Commission president')
 
 - [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/18/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
 
@@ -118,8 +128,6 @@
 
 - [Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/jack_blacks_band_cancels_tour_after_backlash_to_bandmates_comment_on_trump_assassination_attempt 'Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt')
 
-- [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/18/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
-
 - [A new moment for Biden? One Democratic adviser says: ‘He’s being receptive’](https://new-news.github.io/Latest/2024/07/18/a_new_moment_for_biden_one_democratic_adviser_says__hes_being_receptive 'A new moment for Biden? One Democratic adviser says: ‘He’s being receptive’')
 
 - [Japan’s prime minister apologizes to people forcibly sterilized under former  eugenics law](https://new-news.github.io/Latest/2024/07/18/japans_prime_minister_apologizes_to_people_forcibly_sterilized_under_former__eugenics_law 'Japan’s prime minister apologizes to people forcibly sterilized under former  eugenics law')
@@ -197,14 +205,6 @@
 - [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/18/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
 
 - [Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea](https://new-news.github.io/Latest/2024/07/18/former_cia_analyst_sue_mi_terry_indicted_on_charges_of_secretly_working_for_south_korea 'Former CIA analyst Sue Mi Terry indicted on charges of secretly working for South Korea')
-
-- [Chicago gas prices could soar after tornado narrowly misses refinery](https://new-news.github.io/Latest/2024/07/18/chicago_gas_prices_could_soar_after_tornado_narrowly_misses_refinery 'Chicago gas prices could soar after tornado narrowly misses refinery')
-
-- [Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds](https://new-news.github.io/Latest/2024/07/18/amazon_prime_day_major_cause_of_injuries_for_workers__senate_finds 'Amazon Prime Day ‘major cause of injuries’ for workers, Senate finds')
-
-- [How this soccer player saved a Jewish teenager from persecution in Nazi Germany](https://new-news.github.io/Latest/2024/07/18/how_this_soccer_player_saved_a_jewish_teenager_from_persecution_in_nazi_germany 'How this soccer player saved a Jewish teenager from persecution in Nazi Germany')
-
-- [Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer](https://new-news.github.io/Latest/2024/07/18/now_you_can_watch_hundreds_of_rattlesnakes_in_a_mega_den_–_from_the_safety_of_your_computer 'Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer')
 
 
 

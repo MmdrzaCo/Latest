@@ -1,6 +1,6 @@
 # Man who escaped Oregon prison 30 years ago was found in Georgia with a stolen identity, authorities say
 
-Published :`2024-07-18 13:35:44`
+Published :`2024-07-18 14:14:31`
 
 ---
 
