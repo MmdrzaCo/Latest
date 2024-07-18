@@ -1,16 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 08:19:09`
+#### Latest Update : `2024-07-18 08:38:53`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/18/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
+
 - [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/18/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
 
 - [If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove](https://new-news.github.io/Latest/2024/07/18/if_the_trump_classified_documents_case_is_reinstated__judge_aileen_cannon_would_be_difficult_to_remove 'If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove')
-
-- [Trial of American journalist Evan Gershkovich resumes in Russia](https://new-news.github.io/Latest/2024/07/18/trial_of_american_journalist_evan_gershkovich_resumes_in_russia 'Trial of American journalist Evan Gershkovich resumes in Russia')
 
 - [Shiite Muslims mark holy day of Ashura with mourning and self-flagellation](https://new-news.github.io/Latest/2024/07/18/shiite_muslims_mark_holy_day_of_ashura_with_mourning_and_self_flagellation 'Shiite Muslims mark holy day of Ashura with mourning and self-flagellation')
 
