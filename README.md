@@ -1,12 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 20:15:55`
+#### Latest Update : `2024-07-18 20:36:21`
 
 ## Latest News Grabbing 
 
 ---
 
 - [Netflix is axing its cheapest, ad-free plan in the US](https://new-news.github.io/Latest/2024/07/18/netflix_is_axing_its_cheapest__ad_free_plan_in_the_us 'Netflix is axing its cheapest, ad-free plan in the US')
+
+- [Newest National Park Service site is a stark reminder of the era of segregated schools in the US](https://new-news.github.io/Latest/2024/07/18/newest_national_park_service_site_is_a_stark_reminder_of_the_era_of_segregated_schools_in_the_us 'Newest National Park Service site is a stark reminder of the era of segregated schools in the US')
 
 - [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/18/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
 
@@ -203,8 +205,6 @@
 - [Trump says he wouldn’t fire Fed Chair Jerome Powell. Don’t hold your breath](https://new-news.github.io/Latest/2024/07/18/trump_says_he_wouldnt_fire_fed_chair_jerome_powell__dont_hold_your_breath 'Trump says he wouldn’t fire Fed Chair Jerome Powell. Don’t hold your breath')
 
 - [At least 3 young children died in the span of a week after being left in hot cars in the US](https://new-news.github.io/Latest/2024/07/18/at_least_3_young_children_died_in_the_span_of_a_week_after_being_left_in_hot_cars_in_the_us 'At least 3 young children died in the span of a week after being left in hot cars in the US')
-
-- [Rudy Giuliani drains half of bank account for personal expenses while creditors pursue what he owes them](https://new-news.github.io/Latest/2024/07/18/rudy_giuliani_drains_half_of_bank_account_for_personal_expenses_while_creditors_pursue_what_he_owes_them 'Rudy Giuliani drains half of bank account for personal expenses while creditors pursue what he owes them')
 
 
 

@@ -1,24 +1,20 @@
 # Netflix is axing its cheapest, ad-free plan in the US
 
-Published :`2024-07-18 20:15:52`
+Published :`2024-07-18 20:36:09`
 
 ---
-
-[BREAKING NEWS]
 
 Netflix will start phasing out its Basic plan, its cheapest advertising-free plan, which costs $11.99 per month in the United States, the company said on Thursday.
 
 The company had previously stopped accepting new sign-ups for the Basic plan, instead pushing customers to Netflix’s ad-supported plan, which costs $6.99 per month. But existing users had been allowed to keep the Basic plan.
 
-[ORIGINAL STORY FOLLOWS]
+Basic users in the US who want an ad-free viewing experience on Netflix will now have two choices: Netflix’s Standard plan, which costs $15.49 per month, and its Premium plan, which costs $22.99 per month.
 
-Football, wrestling and immersive experiences: This year, Netflix has expanded beyond its usual scripted and reality TV offerings.
+The company reported a record-high 277.65 million subscribers on its streaming platform Thursday, far outpacing streaming competitors like Disney+, Peacock and Max (which is owned by Warner Bros. Discovery, CNN’s parent company). Overall, Netflix added 8.05 million new subscribers in its second quarter.
 
-Last quarter, the company reported a record high of 269.9 million subscribers, far outpacing streaming competitors like Disney+, Peacock, and Max (which is owned by Warner Bros. Discovery, CNN’s parent company), fueled in part by the company’s recent effort to push users who share passwords to create their own accounts.
+Netflix’s surge in new subscribers has been fueled in part by the company’s effort to push users who share passwords to create their own accounts.
 
 However, the short-term subscriber jolt from the password-sharing crackdown could soon fade. The company recently disclosed that it would stop sharing its quarterly subscriber numbers beginning in 2025.
-
-In the never-ending battle for eyeballs between traditional media companies and newer entrants like YouTube and TikTok, Netflix has, in the past two months, pushed further into the world of live sports programming and experiences.
 
 And with Netflix’s recent advance into advertising, the company is starting to look closer to the traditional media companies it seeks to disrupt, said Tim Nollen, a Netflix analyst at Macquarie.
 
@@ -26,7 +22,7 @@ And with Netflix’s recent advance into advertising, the company is starting to
 
 In May, Netflix disclosed that it has 40 million monthly active users on its new ad-supported subscription tier, a jump from 23 million in January.
 
-Netflix reports second-quarter earnings on Thursday after the bell, likely further shedding light on its strategy.
+Netflix, in the past two months, has also pushed further into the world of live sports programming and experiences.
 
 ### The early stages of Netflix’s evolution
 

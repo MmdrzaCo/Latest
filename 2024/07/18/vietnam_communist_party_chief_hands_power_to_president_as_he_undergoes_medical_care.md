@@ -1,6 +1,6 @@
 # Vietnam Communist Party chief hands power to president as he undergoes medical care
 
-Published :`2024-07-18 20:15:53`
+Published :`2024-07-18 20:36:13`
 
 ---
 

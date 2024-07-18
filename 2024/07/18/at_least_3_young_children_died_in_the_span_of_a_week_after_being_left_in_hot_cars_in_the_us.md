@@ -1,6 +1,6 @@
 # At least 3 young children died in the span of a week after being left in hot cars in the US
 
-Published :`2024-07-18 20:15:55`
+Published :`2024-07-18 20:36:21`
 
 ---
 
