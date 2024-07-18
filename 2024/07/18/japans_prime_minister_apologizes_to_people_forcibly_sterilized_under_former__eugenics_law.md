@@ -1,6 +1,6 @@
 # Japan’s prime minister apologizes to people forcibly sterilized under former  eugenics law
 
-Published :`2024-07-18 07:14:14`
+Published :`2024-07-18 07:36:14`
 
 ---
 

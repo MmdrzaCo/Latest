@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 07:14:23`
+#### Latest Update : `2024-07-18 07:36:17`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing](https://new-news.github.io/Latest/2024/07/18/hong_kong_journalist_says_she_was_fired_by_wsj_after_taking_top_post_at_union_under_attack_by_beijing 'Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing')
+
+- [Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea](https://new-news.github.io/Latest/2024/07/18/japans_top_general_lauds_closer_south_korea_military_ties_as_mutual_concerns_grow_over_china__north_korea 'Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea')
+
+- [Shiite Muslims mark holy day of Ashura with mourning and self-flagellation](https://new-news.github.io/Latest/2024/07/18/shiite_muslims_mark_holy_day_of_ashura_with_mourning_and_self_flagellation 'Shiite Muslims mark holy day of Ashura with mourning and self-flagellation')
 
 - [India’s ‘godmen’: How a rigid caste system has created a new kind of deity](https://new-news.github.io/Latest/2024/07/18/indias_godmen__how_a_rigid_caste_system_has_created_a_new_kind_of_deity 'India’s ‘godmen’: How a rigid caste system has created a new kind of deity')
 
@@ -200,14 +206,8 @@
 
 - [‘Twisters’ spins out from the original but has all the weight of a stiff breeze](https://new-news.github.io/Latest/2024/07/18/twisters_spins_out_from_the_original_but_has_all_the_weight_of_a_stiff_breeze '‘Twisters’ spins out from the original but has all the weight of a stiff breeze')
 
-- [MH17 passengers’ relatives mark 10 years since plane was shot down over Ukraine, killing 298](https://new-news.github.io/Latest/2024/07/18/mh17_passengers_relatives_mark_10_years_since_plane_was_shot_down_over_ukraine__killing_298 'MH17 passengers’ relatives mark 10 years since plane was shot down over Ukraine, killing 298')
-
-- [Uncontacted tribe sighted in Peruvian Amazon where loggers are active](https://new-news.github.io/Latest/2024/07/18/uncontacted tribe_sighted_in_peruvian_amazon_where_loggers_are_active 'Uncontacted tribe sighted in Peruvian Amazon where loggers are active')
-
-- [One in 10 young people in Japan say they have been groped in public, survey finds](https://new-news.github.io/Latest/2024/07/18/one_in_10_young_people_in_japan_say_they_have_been_groped_in_public__survey_finds 'One in 10 young people in Japan say they have been groped in public, survey finds')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [active](/ 'active')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america')  [american](/ 'american') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america')  [american](/ 'american')  [an](/ 'an') 
