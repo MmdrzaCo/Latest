@@ -1,6 +1,6 @@
 # Trump triumphant as Biden descends into a deepening crisis
 
-Published :`2024-07-18 14:36:59`
+Published :`2024-07-18 15:16:49`
 
 ---
 
@@ -50,7 +50,7 @@ Signs of dissent toward Biden grew as details emerged of an ill-tempered clash w
 
 Another Democratic lawmaker, Pennsylvania Rep. Chrissy Houlahan, told Biden that he was losing ground in her state. The president told Houlahan that his team would get her talking points about all of the things that he has done for Pennsylvania and reminded her that he married a “Philly girl.”
 
-By evening, there were fresh signs that Biden’s reelection effort was again plunging into critical territory. ABC News reported that in a meeting at Biden’s beach house on Saturday, Senate Majority Leader Chuck Schumer shared the concerns of his caucus about Biden’s campaign. The leader’s spokesman said in a statement that the report was “idle speculation.” House Minority Leader Hakeem Jeffries was also at the meeting. But White House spokesman Andrew Bates said: “The President told both leaders he is the nominee of the party, he plans to win, and looks forward to working with both of them to pass his 100 days agenda to help working families.”
+By evening, there were fresh signs that Biden’s reelection effort was again plunging into critical territory. ABC News reported that in a meeting at Biden’s beach house on Saturday, Senate Majority Leader Chuck Schumer shared the concerns of his caucus about Biden’s campaign. The leader’s spokesman said in a statement that the report was “idle speculation.” House Minority Leader Hakeem Jeffries also had a meeting with Biden last week. The leader’s spokesperson said in a statement: “On behalf of the House Democratic caucus, he directly expressed the full breadth of insight, perspective and conclusions reached about the path forward - after extensive colleague to colleague discussions. Any further characterization of the private, one-on-one meeting between President Biden and Leader Jeffries is speculative and uninformed.”
 
 Biden has publicly shut down every suggestion that he should step aside, despite overwhelming public concerns that he would not be able to fully serve out a second term that would end when he is 86. He insists he is the strongest candidate to take on Trump in November. But doubts that he is getting a full picture of his vulnerable political standing grew Wednesday with the release of an AP-NORC poll showing that a 65% majority of Democrats and Democratic-leaning independents say Biden “should withdraw and allow his party to select a different candidate.”
 
@@ -64,7 +64,7 @@ The situation is especially agonizing for the president, since he views his camp
 
 And the fact that the Republican Party is crowning a convicted felon, who was found guilty in his New York hush money case, who lost a massive civil fraud trial and was found liable for sexual assault, has been all but lost in the rush of attention Trump has achieved after the heinous attempt on his life on Saturday.
 
-CORRECTION: An earlier version of this story incorrectly quoted Biden. His quote has been updated.
+CORRECTION: An earlier version of this story incorrectly quoted Biden. It also has been updated to reflect that Jeffries met with Biden last week.
 
 ---
 

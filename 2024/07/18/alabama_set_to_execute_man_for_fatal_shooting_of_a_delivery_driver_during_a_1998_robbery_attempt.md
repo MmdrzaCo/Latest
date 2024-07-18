@@ -1,6 +1,6 @@
 # Alabama set to execute man for fatal shooting of a delivery driver during a 1998 robbery attempt
 
-Published :`2024-07-18 14:36:58`
+Published :`2024-07-18 15:16:49`
 
 ---
 

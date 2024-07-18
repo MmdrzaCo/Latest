@@ -1,10 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 14:37:06`
+#### Latest Update : `2024-07-18 15:16:53`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Donald Glover is retiring Childish Gambino](https://new-news.github.io/Latest/2024/07/18/donald_glover_is_retiring_childish_gambino 'Donald Glover is retiring Childish Gambino')
+
+- [US rock band manager Travis Leake sentenced to 13 years in Russian penal colony, following drug charges](https://new-news.github.io/Latest/2024/07/18/us_rock_band_manager_travis_leake_sentenced_to_13_years_in_russian_penal_colony__following_drug_charges 'US rock band manager Travis Leake sentenced to 13 years in Russian penal colony, following drug charges')
+
+- [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/18/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
+
+- [Simone Biles reflects on Tokyo Olympics in ‘Rising’: ‘I felt like I was in jail with my own brain and body’](https://new-news.github.io/Latest/2024/07/18/simone_biles_reflects_on_tokyo_olympics_in_rising__i_felt_like_i_was_in_jail_with_my_own_brain_and_body 'Simone Biles reflects on Tokyo Olympics in ‘Rising’: ‘I felt like I was in jail with my own brain and body’')
 
 - [Dubai princess’s Instagram account announces divorce with royal husband](https://new-news.github.io/Latest/2024/07/18/dubai_princesss_instagram_account_announces_divorce_with_royal_husband 'Dubai princess’s Instagram account announces divorce with royal husband')
 
@@ -49,8 +57,6 @@
 - [We’re in the thick of the ‘dog days of summer.’ We can thank the ancient Greeks for that](https://new-news.github.io/Latest/2024/07/18/were_in_the_thick_of_the_dog_days_of_summer__we_can_thank_the_ancient_greeks_for_that 'We’re in the thick of the ‘dog days of summer.’ We can thank the ancient Greeks for that')
 
 - [Jerry Ferrara is cruising through the 20th anniversary of ‘Entourage.’ In an Escalade, of course](https://new-news.github.io/Latest/2024/07/18/jerry_ferrara_is_cruising_through_the_20th_anniversary_of_entourage__in_an_escalade__of_course 'Jerry Ferrara is cruising through the 20th anniversary of ‘Entourage.’ In an Escalade, of course')
-
-- [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/18/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
 
 - [John Deere backs away from diversity and inclusion efforts after a conservative backlash](https://new-news.github.io/Latest/2024/07/18/john_deere_backs_away_from_diversity_and_inclusion_efforts_after_a_conservative_backlash 'John Deere backs away from diversity and inclusion efforts after a conservative backlash')
 
@@ -200,14 +206,8 @@
 
 - [‘Shōgun’ makes Emmys history](https://new-news.github.io/Latest/2024/07/18/shōgun_makes_emmys_history '‘Shōgun’ makes Emmys history')
 
-- [‘Strictly Come Dancing’ contestants to be chaperoned after abuse allegations](https://new-news.github.io/Latest/2024/07/18/strictly_come_dancing_contestants_to_be_chaperoned_after_abuse_allegations '‘Strictly Come Dancing’ contestants to be chaperoned after abuse allegations')
-
-- [The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture](https://new-news.github.io/Latest/2024/07/18/the_same_judge_who_greenlit_the_controversial_willow_project_just_axed_a_different_alaska_oil_venture 'The same judge who greenlit the controversial Willow Project just axed a different Alaska oil venture')
-
-- [King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament](https://new-news.github.io/Latest/2024/07/18/king_charles_iii_unveils_keir_starmers_plans_for_britain__in_state_opening_of_new_parliament 'King Charles III unveils Keir Starmer’s plans for Britain, in state opening of new parliament')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alaska](/ 'alaska')  [alec](/ 'alec') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alec](/ 'alec')  [all](/ 'all')  [america](/ 'america') 
