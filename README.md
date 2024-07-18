@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 04:18:38`
+#### Latest Update : `2024-07-18 04:39:14`
 
 ## Latest News Grabbing 
 
 ---
+
+- [US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’](https://new-news.github.io/Latest/2024/07/18/us_urges_venezuela_to_free_opposition_figures_as_maduro_says_he_must_win_reelection_to_avoid_a_bloodbath 'US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’')
+
+- [Takeaways from the third night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/18/takeaways_from_the_third_night_of_the_republican_national_convention 'Takeaways from the third night of the Republican National Convention')
+
+- [Remains of ancient Papal palace believed to have been found in Rome](https://new-news.github.io/Latest/2024/07/18/remains_of_ancient_papal_palace_believed_to_have_been_found_in_rome 'Remains of ancient Papal palace believed to have been found in Rome')
 
 - [Three former Trump officials say they requested protection from increased Iranian threats in 2023](https://new-news.github.io/Latest/2024/07/18/three_former_trump_officials_say_they_requested_protection_from_increased_iranian_threats_in_2023 'Three former Trump officials say they requested protection from increased Iranian threats in 2023')
 
@@ -51,8 +57,6 @@
 - [Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say](https://new-news.github.io/Latest/2024/07/18/ski_mask_wearing_man_with_concealed_ak_47_pistol_arrested_monday_near_republican_national_convention__authorities_say 'Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say')
 
 - [Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case](https://new-news.github.io/Latest/2024/07/18/brad_pitt_pushes_back_on_angelina_jolies oppressive_and_harassing request_to_disclose_messages_in_miraval_case 'Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case')
-
-- [Venezuela’s Maduro says he needs to win reelection to avoid possible ‘bloodbath’](https://new-news.github.io/Latest/2024/07/18/venezuelas_maduro_says_he_needs_to_win_reelection_to_avoid_possible_bloodbath 'Venezuela’s Maduro says he needs to win reelection to avoid possible ‘bloodbath’')
 
 - [Why Europe looks at Trump’s VP pick with anxiety](https://new-news.github.io/Latest/2024/07/18/why_europe_looks_at_trumps_vp_pick_with_anxiety 'Why Europe looks at Trump’s VP pick with anxiety')
 
@@ -202,12 +206,8 @@
 
 - [Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region](https://new-news.github.io/Latest/2024/07/18/deadly_floods_engulf_parts_of_south_asia_as_extreme_weather_devastates_vulnerable_region 'Deadly floods engulf parts of South Asia as extreme weather devastates vulnerable region')
 
-- [China probes companies for allegedly giving pregnancy tests to job seekers](https://new-news.github.io/Latest/2024/07/18/china_probes_companies_for_allegedly_giving_pregnancy_tests_to_job_seekers 'China probes companies for allegedly giving pregnancy tests to job seekers')
-
-- [Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader](https://new-news.github.io/Latest/2024/07/18/trumps_former_rivals_bury_their_criticism_to_celebrate_all_powerful_gop_leader 'Trump’s former rivals bury their criticism to celebrate all-powerful GOP leader')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [active](/ 'active')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [allegedly](/ 'allegedly')  [amazon](/ 'amazon')  [america](/ 'america') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [abuse](/ 'abuse')  [accident](/ 'accident')  [account](/ 'account')  [active](/ 'active')  [actor](/ 'actor')  [adam](/ 'adam')  [administration](/ 'administration')  [adviser](/ 'adviser')  [after](/ 'after')  [ago](/ 'ago')  [agrees](/ 'agrees')  [alaska](/ 'alaska')  [alec](/ 'alec')  [all](/ 'all')  [allegations](/ 'allegations')  [amazon](/ 'amazon')  [america](/ 'america')  [american](/ 'american') 

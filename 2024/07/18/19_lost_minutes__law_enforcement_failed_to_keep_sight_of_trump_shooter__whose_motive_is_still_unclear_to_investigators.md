@@ -1,6 +1,6 @@
 # 19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators
 
-Published :`2024-07-18 04:18:36`
+Published :`2024-07-18 04:39:10`
 
 ---
 
@@ -52,21 +52,27 @@ The Wednesday briefings came amid growing calls from Republicans for Cheatle to 
 
 A stunning scene played out at the Republican National Convention in Milwaukee on Wednesday as a group of Republican senators chased Cheatle through the Fiserv Forum, shouting that she had refused to answer questions regarding the assassination attempt on Trump.
 
-“You owe the people answers. You owe President Trump answers,” Tennessee Sen. Marsha Blackburn shouted at the Secret Service director.
+Video posted by Tennessee Sen. Marsha Blackburn shows the senators confronting Cheatle about why Trump was still able to go onstage in Butler when law enforcement had already been made aware of a threat.
 
-Video also showed Wyoming Sen. John Barrasso, the No. 3 Senate Republican, demanding Cheatle’s “resignation or full explanation to us, right now.”
+“I don’t think that this is the forum to have this discussion,” Cheatle replied.
 
-When pressed by Blackburn why Trump was still able to go onstage in Pennsylvania when law enforcement had already been made aware of a threat, Cheatle replied, “I don’t think that this is the forum to have this discussion.” At this point, Barrasso accused her of hanging up on them on the earlier briefing call.
+The Secret Service director later offered to answer the senators’ questions at another time and moved to leave. At that point, the senators began following her.
 
-“Last week’s near-assassination of former President Trump was a grave attack on American democracy. The nation deserves answers and accountability,” McConnell said in a statement. “New leadership at the Secret Service would be an important step in that direction.”
+Wyoming Sen. John Barrasso, the Senate’s No. 3 Republican, accused Cheatle of having “no shame, no concern. You’re supposed to protect the president of the United States.”
 
-Speaking to lawmakers Wednesday, Cheatle acknowledged on the briefing call that her agency made mistakes and had failures.
+“This was an assassination attempt. You owe the people answers. You owe President Trump answers,” Blackburn said as the Secret Service director continued walking.
+
+Earlier Wednesday, McConnell called the attempt on Trump’s life “a grave attack on American democracy.”
+
+“The nation deserves answers and accountability,” the Kentucky Republican said in a statement. “New leadership at the Secret Service would be an important step in that direction.”
+
+Speaking to lawmakers on a Wednesday briefing call, Cheatle acknowledged that her agency had made mistakes and that there were failures.
 
 She told CNN in an interview Tuesday that the agency was “solely responsible” for the implementation and execution of security at the rally site and that it would make any needed changes in response to the internal and external reviews that will be conducted.
 
-House lawmakers are likely to get the chance to question Cheatle directly on Monday at a an Oversight Committee hearing.
+House lawmakers are likely to get the chance to question Cheatle directly on Monday at an Oversight Committee hearing.
 
-This headline has been updated.
+This story and headline have been updated with additional information.
 
 ---
 
