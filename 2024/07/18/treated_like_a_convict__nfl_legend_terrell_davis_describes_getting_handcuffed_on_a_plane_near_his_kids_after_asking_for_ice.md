@@ -1,6 +1,6 @@
 # ‘Treated like a convict’: NFL legend Terrell Davis describes getting handcuffed on a plane near his kids after asking for ice
 
-Published :`2024-07-18 13:20:47`
+Published :`2024-07-18 13:35:44`
 
 ---
 

@@ -1,6 +1,6 @@
 # Stegosaurus skeleton sets auction record, selling for $44.6 million
 
-Published :`2024-07-18 13:20:46`
+Published :`2024-07-18 13:35:43`
 
 ---
 
@@ -14,7 +14,7 @@ Apex was discovered on private land in Moffat County, Colorado, by commercial pa
 
 It was preserved in hard sandstone, which protected the bones from becoming distorted, Sotheby’s added.
 
-Measuring 11 feet tall and with 254 fossil bone elements of an approximate total of 319, indications suggest that Apex was a “large, robust adult individual,” according to the auction house.
+Measuring 11 feet tall and nearly 27 feet long from nose to tail, with 254 fossil bone elements of an approximate total of 319, indications suggest that Apex was a “large, robust adult individual,” according to the auction house.
 
 There is also evidence that the dinosaur might have had arthritis, which could suggest that it lived to an advanced age.
 

@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 13:20:49`
+#### Latest Update : `2024-07-18 13:35:45`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’](https://new-news.github.io/Latest/2024/07/18/britney_spears_has_a_message_for_ozzy_osbourne_after_he_called_her_dancing_sad 'Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’')
 
 - [Opinion: Why we can’t give up on capitalism](https://new-news.github.io/Latest/2024/07/18/opinion__why_we_cant_give_up_on_capitalism 'Opinion: Why we can’t give up on capitalism')
 
@@ -203,8 +205,6 @@
 - [How this soccer player saved a Jewish teenager from persecution in Nazi Germany](https://new-news.github.io/Latest/2024/07/18/how_this_soccer_player_saved_a_jewish_teenager_from_persecution_in_nazi_germany 'How this soccer player saved a Jewish teenager from persecution in Nazi Germany')
 
 - [Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer](https://new-news.github.io/Latest/2024/07/18/now_you_can_watch_hundreds_of_rattlesnakes_in_a_mega_den_–_from_the_safety_of_your_computer 'Now you can watch hundreds of rattlesnakes in a ‘mega-den’ – from the safety of your computer')
-
-- [Streetwear brand Supreme is getting a surprising new owner](https://new-news.github.io/Latest/2024/07/18/streetwear_brand_supreme_is_getting_a_surprising_new_owner 'Streetwear brand Supreme is getting a surprising new owner')
 
 
 
