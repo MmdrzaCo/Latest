@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 15:16:53`
+#### Latest Update : `2024-07-18 15:36:37`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/18/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
+
+- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
 
 - [Donald Glover is retiring Childish Gambino](https://new-news.github.io/Latest/2024/07/18/donald_glover_is_retiring_childish_gambino 'Donald Glover is retiring Childish Gambino')
 
@@ -202,12 +206,8 @@
 
 - [Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe](https://new-news.github.io/Latest/2024/07/18/paraguay_carries_out_largest_cocaine_bust_in_its_history_as_4_tons_are_found_in_sugar_shipment_headed_to_europe 'Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe')
 
-- [US imposes visa restrictions on former IDF sergeant for human rights violation](https://new-news.github.io/Latest/2024/07/18/us_imposes_visa_restrictions_on_former_idf_sergeant_for_human_rights_violation 'US imposes visa restrictions on former IDF sergeant for human rights violation')
-
-- [‘Shōgun’ makes Emmys history](https://new-news.github.io/Latest/2024/07/18/shōgun_makes_emmys_history '‘Shōgun’ makes Emmys history')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alec](/ 'alec')  [all](/ 'all')  [america](/ 'america') 
+##### Tags: [a](/ 'a')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alec](/ 'alec')  [all](/ 'all') 

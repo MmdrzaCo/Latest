@@ -1,6 +1,6 @@
 # Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN
 
-Published :`2024-07-18 11:35:39`
+Published :`2024-07-18 15:36:34`
 
 ---
 
@@ -28,7 +28,7 @@ Cheatle did not describe the team as “full,” but instead said the team size 
 
 “We were actually beyond the numbers that we would have as a normal compliment,” Cheatle said.
 
-The Secret Service director is facing a flurry of questions about how a gunman was able to get a clear line of sight to Trump at the rally site, and there have been calls from her resignation from some members of Congress, including House Majority Leader Steve Scalise.
+The Secret Service director is facing a flurry of questions about how a gunman was able to get a clear line of sight to Trump at the rally site, and there have been calls for her resignation from some members of Congress, including House Majority Leader Steve Scalise.
 
 When asked by CNN if the perimeter at the rally was too small, Cheatle said it “encompassed the area that we needed to secure the event that we had on that day.”
 
