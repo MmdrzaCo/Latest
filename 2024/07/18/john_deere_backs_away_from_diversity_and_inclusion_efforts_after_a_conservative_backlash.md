@@ -1,6 +1,6 @@
 # John Deere backs away from diversity and inclusion efforts after a conservative backlash
 
-Published :`2024-07-18 16:18:19`
+Published :`2024-07-18 16:39:38`
 
 ---
 

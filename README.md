@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 16:18:25`
+#### Latest Update : `2024-07-18 16:39:40`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Tiger Woods says he lost sleep over Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/tiger_woods_says_he_lost_sleep_over_trump_assassination_attempt 'Tiger Woods says he lost sleep over Trump assassination attempt')
+
+- [See where abortions are banned and legal — and where it’s still in limbo](https://new-news.github.io/Latest/2024/07/18/see_where_abortions_are_banned_and_legal_—_and_where_its_still_in_limbo 'See where abortions are banned and legal — and where it’s still in limbo')
+
+- [Pentagon leaker Jack Teixeira to face military court martial charges](https://new-news.github.io/Latest/2024/07/18/pentagon_leaker_jack_teixeira_to_face_military_court_martial_charges 'Pentagon leaker Jack Teixeira to face military court martial charges')
 
 - [Investigators now believe account on gaming site in would-be assassin’s name is fake](https://new-news.github.io/Latest/2024/07/18/investigators_now_believe_account_on_gaming_site_in_would_be_assassins_name_is_fake 'Investigators now believe account on gaming site in would-be assassin’s name is fake')
 
@@ -200,14 +206,8 @@
 
 - [Police from Ohio fatally shoot 43-year-old Samuel Sharpe Jr. near Republican National Convention in Milwaukee](https://new-news.github.io/Latest/2024/07/18/police_from_ohio_fatally_shoot_43_year_old_samuel_sharpe_jr__near_republican_national_convention_in_milwaukee 'Police from Ohio fatally shoot 43-year-old Samuel Sharpe Jr. near Republican National Convention in Milwaukee')
 
-- [Giant armadillo fossil reveals humans were in South America a surprisingly long time ago](https://new-news.github.io/Latest/2024/07/18/giant_armadillo_fossil_reveals_humans_were_in_south_america_a_surprisingly_long_time_ago 'Giant armadillo fossil reveals humans were in South America a surprisingly long time ago')
-
-- [More student loan borrowers are getting relief through bankruptcy after Biden policy change](https://new-news.github.io/Latest/2024/07/18/more_student_loan_borrowers_are_getting_relief_through_bankruptcy_after_biden_policy_change 'More student loan borrowers are getting relief through bankruptcy after Biden policy change')
-
-- [Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe](https://new-news.github.io/Latest/2024/07/18/paraguay_carries_out_largest_cocaine_bust_in_its_history_as_4_tons_are_found_in_sugar_shipment_headed_to_europe 'Paraguay carries out largest cocaine bust in its history as 4 tons are found in sugar shipment headed to Europe')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alec](/ 'alec')  [all](/ 'all') 
+##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [acropolis](/ 'acropolis')  [actor](/ 'actor')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [ago](/ 'ago')  [aid](/ 'aid')  [aileen](/ 'aileen')  [alabama](/ 'alabama')  [alec](/ 'alec') 
