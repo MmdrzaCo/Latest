@@ -1,6 +1,6 @@
 # President Joe Biden tests positive for Covid-19 at pivotal moment in reelection campaign
 
-Published :`2024-07-18 10:38:15`
+Published :`2024-07-18 11:13:34`
 
 ---
 

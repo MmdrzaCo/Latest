@@ -1,10 +1,10 @@
 # Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe
 
-Published :`2024-07-18 10:38:14`
+Published :`2024-07-18 11:13:33`
 
 ---
 
-The Acropolis in Greece closed for hours, record-breaking ocean temperatures off Croatia and plans to feed zoo animals popsicles in Italy — southern Europe is baking under a “hellishly hot” heat wave.
+The Acropolis in Greece shut for hours, record-breaking ocean temperatures off Croatia and plans to feed zoo animals popsicles in Italy — southern Europe is baking under a “hellishly hot” heat wave.
 
 Greece’s Culture Ministry ordered the closure of the Acropolis — the country’s biggest cultural attraction — for five hours from 12 p.m. local time on Wednesday, forcing tourists hoping to visit the Parthenon temple atop the site to line up early in the morning. The Red Cross handed out chilled bottled water and information fliers to those waiting in line.
 

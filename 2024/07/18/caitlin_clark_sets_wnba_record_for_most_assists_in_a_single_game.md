@@ -1,6 +1,6 @@
 # Caitlin Clark sets WNBA record for most assists in a single game
 
-Published :`2024-07-18 10:38:14`
+Published :`2024-07-18 11:13:33`
 
 ---
 
