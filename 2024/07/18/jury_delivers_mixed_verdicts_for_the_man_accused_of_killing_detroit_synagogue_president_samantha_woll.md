@@ -1,12 +1,14 @@
 # Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll
 
-Published :`2024-07-18 19:12:53`
+Published :`2024-07-18 19:36:01`
 
 ---
 
 Jurors returned mixed verdicts Thursday in the trial of a man accused of killing Detroit synagogue president Samantha Woll at her home, CNN affiliate WXYZ reported.
 
 Michael Jackson-Bolanos, 29, faced four charges. Jurors deadlocked on the charges of felony murder and home invasion, WXYZ said. They found him not guilty of premeditated murder but found him guilty of lying to a police officer.
+
+A pretrial hearing on the two deadlocked counts has been scheduled for noon on July 25, WXYZ reported. Prosecutors could decide to not retry the case but did not immediately comment after the jury’s findings Thursday.
 
 The trial, which lasted over a month, was complicated by the replacement of a juror this week. It also included stunning testimony from Woll’s ex-boyfriend Jeffrey Herbstman, who initially told police he “may have murdered my girlfriend” – but later testified he had nothing to do with Woll’s death.
 

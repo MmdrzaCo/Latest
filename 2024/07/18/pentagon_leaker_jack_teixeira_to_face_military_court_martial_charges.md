@@ -1,6 +1,6 @@
 # Pentagon leaker Jack Teixeira to face military court martial charges
 
-Published :`2024-07-18 19:12:53`
+Published :`2024-07-18 19:36:02`
 
 ---
 

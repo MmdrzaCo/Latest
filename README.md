@@ -1,20 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 19:12:58`
+#### Latest Update : `2024-07-18 19:36:08`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/18/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
+
+- [AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T](https://new-news.github.io/Latest/2024/07/18/at_t_is_telling_customers_they_were_hacked__protecting_data_has_been_a_big_fight_–_from_companies_like_at_t 'AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T')
+
+- [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
+
+- [Olympic Village welcomes first athletes ahead of 2024 Paris Games](https://new-news.github.io/Latest/2024/07/18/olympic_village_welcomes_first_athletes_ahead_of_2024_paris_games 'Olympic Village welcomes first athletes ahead of 2024 Paris Games')
+
 - [Appeals court halts fresh Biden administration efforts to cancel some student debt](https://new-news.github.io/Latest/2024/07/18/appeals_court_halts_fresh_biden_administration_efforts_to_cancel_some_student_debt 'Appeals court halts fresh Biden administration efforts to cancel some student debt')
 
 - [An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals](https://new-news.github.io/Latest/2024/07/18/an_unusual_and_rare_wind_turbine_failure_is_littering_nantucket_beaches_with_debris__angering_locals 'An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals')
 
-- [Dow slides by more than 450 points and tech stocks continue to sell off](https://new-news.github.io/Latest/2024/07/18/dow_slides_by_more_than_450_points_and_tech_stocks_continue_to_sell_off 'Dow slides by more than 450 points and tech stocks continue to sell off')
+- [Dow slides by more than 500 points and tech stocks continue to sell off](https://new-news.github.io/Latest/2024/07/18/dow_slides_by_more_than_500_points_and_tech_stocks_continue_to_sell_off 'Dow slides by more than 500 points and tech stocks continue to sell off')
 
 - [Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks](https://new-news.github.io/Latest/2024/07/18/putins_summer_residence_gets_new_air_defenses_as_ukraine_steps_up_drone_attacks 'Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks')
-
-- [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
 
 - [Secret Service calls right-wing media attacks on female agents ‘baseless’ and ‘disgusting’](https://new-news.github.io/Latest/2024/07/18/secret_service_calls_right_wing_media_attacks_on_female_agents_baseless_and_disgusting 'Secret Service calls right-wing media attacks on female agents ‘baseless’ and ‘disgusting’')
 
@@ -77,8 +83,6 @@
 - [Glen Powell will have his nose in the books on his next project](https://new-news.github.io/Latest/2024/07/18/glen_powell_will_have_his_nose_in_the_books_on_his_next_project 'Glen Powell will have his nose in the books on his next project')
 
 - [Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats](https://new-news.github.io/Latest/2024/07/18/ferrari_program_asks_customers_to_rat_out_counterfeit_cars__t_shirts_and_hats 'Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats')
-
-- [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/18/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
 
 - [Alabama set to execute man for fatal shooting of a delivery driver during a 1998 robbery attempt](https://new-news.github.io/Latest/2024/07/18/alabama_set_to_execute_man_for_fatal_shooting_of_a_delivery_driver_during_a_1998_robbery_attempt 'Alabama set to execute man for fatal shooting of a delivery driver during a 1998 robbery attempt')
 
@@ -202,12 +206,8 @@
 
 - [US military ends troubled temporary pier mission off Gaza coast](https://new-news.github.io/Latest/2024/07/18/us_military_ends_troubled_temporary_pier_mission_off_gaza_coast 'US military ends troubled temporary pier mission off Gaza coast')
 
-- [Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence](https://new-news.github.io/Latest/2024/07/18/italian_officials_slam_tourist_who_mimicked_sex_acts_on_a_statue_of_bacchus_in_florence 'Italian officials slam tourist who ‘mimicked sex acts’ on a statue of Bacchus in Florence')
-
-- [Biden administration urges Supreme Court to let it continue implementing student loan repayment program](https://new-news.github.io/Latest/2024/07/18/biden_administration_urges_supreme_court_to_let_it_continue_implementing_student_loan_repayment_program 'Biden administration urges Supreme Court to let it continue implementing student loan repayment program')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [accident](/ 'accident')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agrees](/ 'agrees')  [aid](/ 'aid')  [aileen](/ 'aileen') 
+##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [accident](/ 'accident')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [adam](/ 'adam')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid') 

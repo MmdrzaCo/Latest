@@ -1,6 +1,6 @@
 # Appeals court halts fresh Biden administration efforts to cancel some student debt
 
-Published :`2024-07-18 19:12:53`
+Published :`2024-07-18 19:36:01`
 
 ---
 

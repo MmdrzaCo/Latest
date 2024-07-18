@@ -1,6 +1,6 @@
 # Stegosaurus skeleton sets auction record, selling for $44.6 million
 
-Published :`2024-07-18 19:12:54`
+Published :`2024-07-18 19:36:01`
 
 ---
 

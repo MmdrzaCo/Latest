@@ -1,6 +1,6 @@
 # Secret Service calls right-wing media attacks on female agents ‘baseless’ and ‘disgusting’
 
-Published :`2024-07-18 19:12:53`
+Published :`2024-07-18 19:36:02`
 
 ---
 
@@ -10,7 +10,7 @@ In the wake of the Saturday shooting, some right-wing media figures focused thei
 
 Edited videos that have garnered millions of views on social media as supposed evidence of female incompetence, showed a female Secret Service agent seemingly struggling to holster her gun amid the chaotic scene as a group of agents escorted Trump to his motorcade.
 
-Law enforcement professionals, including a former Secret Service deputy director, have strenuously pushed back on the narrative, that has been promoted on Fox News and billionaire X owner Elon Musk, who has pledged his support for Trump.
+Law enforcement professionals, including a former Secret Service deputy director, have strenuously pushed back on the narrative that has been promoted on Fox News and by billionaire X owner Elon Musk, who has pledged his support for Trump.
 
 In a statement Thursday to CNN, the Secret Service blasted misogynist claims that the female agents were incapable of protecting Trump.
 

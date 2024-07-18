@@ -1,12 +1,12 @@
 # An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals
 
-Published :`2024-07-18 19:12:53`
+Published :`2024-07-18 19:36:01`
 
 ---
 
 Debris from a broken offshore wind turbine has for days been washing up on the Nantucket shore, prompting beach closures and frustrating locals at the peak of the summer season.
 
-The massive turbine blade – around 350 feet long intact – was part of the Vineyard Wind farm off the coast of Massachusetts. The blade was “broken” and “folded over” on Saturday, Vineyard Wind CEO Klaus Skoust Møller told Nantucket residents and officials at a public meeting Wednesday night.
+The massive turbine blade – as long as a football field – was part of the Vineyard Wind farm off the coast of Massachusetts and its islands, Martha’s Vineyard and Nantucket. The blade was “broken” and “folded over” on Saturday, Vineyard Wind CEO Klaus Skoust Møller told Nantucket residents and officials at a public meeting Wednesday night.
 
 Since then, foam debris and fiberglass  – including some large and dangerously sharp pieces – have washed onto beaches. A “significant part” of the remaining damaged blade detached from the turbine early Thursday morning, Vineyard Wind said in a news release. The US Coast Guard confirmed to CNN it has located a 300-foot piece of the blade.
 
