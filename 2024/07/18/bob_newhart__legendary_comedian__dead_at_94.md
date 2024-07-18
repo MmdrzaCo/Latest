@@ -1,6 +1,6 @@
 # Bob Newhart, legendary comedian, dead at 94
 
-Published :`2024-07-18 20:36:09`
+Published :`2024-07-18 21:13:41`
 
 ---
 
@@ -12,11 +12,11 @@ Over the course of five decades, Newhart’s popularity rarely waned, whether it
 
 He remains best known for the television shows, “The Bob Newhart Show” (1972-78) and “Newhart” (1982-90), both of which were built around his persona as a reasonable man put-upon by crazies.
 
-### Unlikely beginnings
+### Finding success
 
 Born George Robert Newhart in Oak Park, Illinois on September 5, 1929, Newhart was originally an accountant and advertising copywriter.
 
-He first rose to fame with his comedy album, 1960’s “The Button-Down Mind of Bob Newhart.” The album was a phenomenon of its time: one of the best-selling albums of the year, it was No. 1 for 14 weeks on Billboard’s album chart and a multiple Grammy Award-winner, beating out Frank Sinatra, Harry Belafonte and Nat “King” Cole for album of the year. He also hit No. 1 with the follow-up: “The Button-Down Mind Strikes Back!”
+He first rose to fame with his comedy album, 1960’s “The Button-Down Mind of Bob Newhart.” The album was a phenomenon of its time and one of the best-selling albums of the year. It was No. 1 for 14 weeks on Billboard’s album chart and a multiple Grammy Award-winner, beating out Frank Sinatra, Harry Belafonte and Nat “King” Cole for album of the year. He also hit No. 1 with the follow-up, “The Button-Down Mind Strikes Back!”
 
 “The Bob Newhart Show” debuted in 1972. (This is not to be confused with his Peabody and Emmy Award-winning variety show of the same name that aired for one season beginning in 1961.) He played a Chicago psychologist, Bob Hartley, who ministered to a host of eccentric patients.
 
@@ -28,11 +28,19 @@ The latter show’s finale remains one of the most famous in television history.
 
 “Honey, wake up! You won’t believe the dream I just had,” he tells her, to uproarious audience laughter.
 
-He was a frequent guest on the era’s variety and talk shows, and a regular fill-in host on the “Tonight Show.”
+“That was my wife Ginny’s idea,” Newhart explained to Parade magazine in 2013. “She said, ‘You should end the show by waking up in bed with Emily and explain a dream you had about owning an inn in Vermont.’ We used it!”
 
-Newhart never really retired, continuing to make television appearances in recent years on “Young Sheldon” and “The Big Bang Theory.”
+The actor was nominated for a Primetime Emmy for his “Newhart” three times in the outstanding lead actor category. He didn’t win an individual acting Emmy until 2013, when he was recognized in the outstanding guest actor category for his portrayal of Professor Proton on “The Big Bang Theory.”
 
-Newhart is survived by four children, Jennifer, Courtney, Timothy and Robert, and numerous grandchildren. His wife of 60 years, Virginia “Ginnie” Newhart, passed away last year.
+He was nominated for a total of nine Emmys throughout the course of his career.
+
+Newhart was a frequent guest on the era’s variety and talk shows, and a regular fill-in host on the “Tonight Show,” switching out for his friend Johnny Carson 87 times.
+
+Newhart never really retired, continuing to make television appearances in recent years on “Big Bang” and “Young Sheldon,” along with “Hot in Cleveland” and “The Librarians.”
+
+The actor and comedian was inducted into the Television Hall of Fame in 1993, and has had his material added to the collection of the Smithsonian’s National Museum of American History. He won the Kennedy Center’s 2002 Mark Twain Prize for American Humor.
+
+Newhart is survived by four children, Jennifer, Courtney, Timothy and Robert, and numerous grandchildren, according to his publicist. His wife of 60 years, Virginia “Ginnie” Newhart, passed away last year.
 
 This is a developing story and will be updated.
 

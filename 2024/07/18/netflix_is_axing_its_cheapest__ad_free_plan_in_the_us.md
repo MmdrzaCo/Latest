@@ -1,28 +1,34 @@
 # Netflix is axing its cheapest, ad-free plan in the US
 
-Published :`2024-07-18 20:36:09`
+Published :`2024-07-18 21:13:41`
 
 ---
 
 Netflix will start phasing out its Basic plan, its cheapest advertising-free plan, which costs $11.99 per month in the United States, the company said on Thursday.
 
-The company had previously stopped accepting new sign-ups for the Basic plan, instead pushing customers to Netflix’s ad-supported plan, which costs $6.99 per month. But existing users had been allowed to keep the Basic plan.
+The company had previously stopped accepting new sign-ups for the Basic plan, instead pushing customers to Netflix’s ad-supported plan, which costs $6.99 per month. However, existing users were allowed to keep the basic plan.
+
+In January, the company said it would retire its cheapest ad-free tier in Canada and the UK. On Thursday, the company said the US and France are next.
 
 Basic users in the US who want an ad-free viewing experience on Netflix will now have two choices: Netflix’s Standard plan, which costs $15.49 per month, and its Premium plan, which costs $22.99 per month.
+
+Netflix said its cheapest, ad-supported tier saw a 34% jump in sign-ups in the second quarter of this year.
 
 The company reported a record-high 277.65 million subscribers on its streaming platform Thursday, far outpacing streaming competitors like Disney+, Peacock and Max (which is owned by Warner Bros. Discovery, CNN’s parent company). Overall, Netflix added 8.05 million new subscribers in its second quarter.
 
 Netflix’s surge in new subscribers has been fueled in part by the company’s effort to push users who share passwords to create their own accounts.
 
-However, the short-term subscriber jolt from the password-sharing crackdown could soon fade. The company recently disclosed that it would stop sharing its quarterly subscriber numbers beginning in 2025.
+However, the short-term subscriber jolt from the password-sharing crackdown could soon fade. On Thursday, Netflix said it expects the pace of its subscriber additions to slow in the third quarter.
+
+Netflix’s stock fell nearly 2% in after-hours trading, but it has climbed more than 35% in 2024.
+
+The company recently disclosed that it would stop sharing its quarterly subscriber numbers beginning in 2025 in favor of a new disclosure: time spent on the platform.
+
+Netflix, in the past two months, has also pushed further into the world of live sports programming and experiences.
 
 And with Netflix’s recent advance into advertising, the company is starting to look closer to the traditional media companies it seeks to disrupt, said Tim Nollen, a Netflix analyst at Macquarie.
 
 “Whatever the old broadcasters were in their best of times, Netflix is becoming that in a new and probably longer-term, sustainable way,” he said.
-
-In May, Netflix disclosed that it has 40 million monthly active users on its new ad-supported subscription tier, a jump from 23 million in January.
-
-Netflix, in the past two months, has also pushed further into the world of live sports programming and experiences.
 
 ### The early stages of Netflix’s evolution
 

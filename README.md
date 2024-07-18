@@ -1,16 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 20:36:21`
+#### Latest Update : `2024-07-18 21:13:43`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
+
+- [Opinion: We’re neglecting pets in disasters — with tragic consequences](https://new-news.github.io/Latest/2024/07/18/opinion__were_neglecting_pets_in_disasters_—_with_tragic_consequences 'Opinion: We’re neglecting pets in disasters — with tragic consequences')
+
+- [Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign](https://new-news.github.io/Latest/2024/07/18/top_democrat_raskin_privately_encouraged_biden_to_reconsider_reelection_campaign 'Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign')
+
+- [Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78](https://new-news.github.io/Latest/2024/07/18/lou_dobbs__veteran_cable_news_anchor_and_trump_booster__dies_at_78 'Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78')
+
 - [Netflix is axing its cheapest, ad-free plan in the US](https://new-news.github.io/Latest/2024/07/18/netflix_is_axing_its_cheapest__ad_free_plan_in_the_us 'Netflix is axing its cheapest, ad-free plan in the US')
 
-- [Newest National Park Service site is a stark reminder of the era of segregated schools in the US](https://new-news.github.io/Latest/2024/07/18/newest_national_park_service_site_is_a_stark_reminder_of_the_era_of_segregated_schools_in_the_us 'Newest National Park Service site is a stark reminder of the era of segregated schools in the US')
-
 - [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/18/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
+
+- [Newest National Park Service site is a stark reminder of the era of segregated schools in the US](https://new-news.github.io/Latest/2024/07/18/newest_national_park_service_site_is_a_stark_reminder_of_the_era_of_segregated_schools_in_the_us 'Newest National Park Service site is a stark reminder of the era of segregated schools in the US')
 
 - [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
 
@@ -37,8 +45,6 @@
 - [Tennessee agrees to remove sex workers with HIV from sex offender registry](https://new-news.github.io/Latest/2024/07/18/tennessee_agrees_to_remove_sex_workers_with_hiv_from_sex_offender_registry 'Tennessee agrees to remove sex workers with HIV from sex offender registry')
 
 - [Senators confront Secret Service director on Republican convention floor](https://new-news.github.io/Latest/2024/07/18/senators_confront_secret_service_director_on_republican_convention_floor 'Senators confront Secret Service director on Republican convention floor')
-
-- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/18/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
 
 - [Tiger Woods says he lost sleep over Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/tiger_woods_says_he_lost_sleep_over_trump_assassination_attempt 'Tiger Woods says he lost sleep over Trump assassination attempt')
 
@@ -199,12 +205,6 @@
 - [Special counsel appeals dismissal of Trump classified documents case](https://new-news.github.io/Latest/2024/07/18/special_counsel_appeals_dismissal_of_trump_classified_documents_case 'Special counsel appeals dismissal of Trump classified documents case')
 
 - [Long Covid risk has dropped over time but remains substantial, study shows](https://new-news.github.io/Latest/2024/07/18/long_covid_risk_has_dropped_over_time_but_remains_substantial__study_shows 'Long Covid risk has dropped over time but remains substantial, study shows')
-
-- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/18/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
-
-- [Trump says he wouldn’t fire Fed Chair Jerome Powell. Don’t hold your breath](https://new-news.github.io/Latest/2024/07/18/trump_says_he_wouldnt_fire_fed_chair_jerome_powell__dont_hold_your_breath 'Trump says he wouldn’t fire Fed Chair Jerome Powell. Don’t hold your breath')
-
-- [At least 3 young children died in the span of a week after being left in hot cars in the US](https://new-news.github.io/Latest/2024/07/18/at_least_3_young_children_died_in_the_span_of_a_week_after_being_left_in_hot_cars_in_the_us 'At least 3 young children died in the span of a week after being left in hot cars in the US')
 
 
 
