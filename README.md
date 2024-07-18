@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-18 22:37:02`
+#### Latest Update : `2024-07-18 23:14:50`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Macron’s party wins parliamentary president role despite rebuke from voters](https://new-news.github.io/Latest/2024/07/18/macrons_party_wins_parliamentary_president_role_despite_rebuke_from_voters 'Macron’s party wins parliamentary president role despite rebuke from voters')
+
+- [Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says](https://new-news.github.io/Latest/2024/07/18/seattle_officer_fired_for_cruel_comments_and_callous_laughter_following_indian_grad_students_death__police_chief_says 'Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says')
 
 - [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/18/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
 
@@ -201,10 +205,6 @@
 - [Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case](https://new-news.github.io/Latest/2024/07/18/brad_pitt_pushes_back_on_angelina_jolies oppressive_and_harassing request_to_disclose_messages_in_miraval_case 'Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case')
 
 - [Why Europe looks at Trump’s VP pick with anxiety](https://new-news.github.io/Latest/2024/07/18/why_europe_looks_at_trumps_vp_pick_with_anxiety 'Why Europe looks at Trump’s VP pick with anxiety')
-
-- [Ultra-Orthodox party in Israel urges young Haredi men to resist draft](https://new-news.github.io/Latest/2024/07/18/ultra_orthodox_party_in_israel_urges_young_haredi_men_to_resist_draft 'Ultra-Orthodox party in Israel urges young Haredi men to resist draft')
-
-- [Navy exonerates 256 Black sailors who were unjustly punished after deadly 1944 California port explosion](https://new-news.github.io/Latest/2024/07/18/navy_exonerates_256_black_sailors_who_were_unjustly_punished_after_deadly_1944_california_port_explosion 'Navy exonerates 256 Black sailors who were unjustly punished after deadly 1944 California port explosion')
 
 
 
