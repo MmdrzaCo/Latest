@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 14:37:07`
+#### Latest Update : `2024-07-19 15:16:29`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Spanish town to fine tourists for hogging beach spots](https://new-news.github.io/Latest/2024/07/19/spanish_town_to_fine_tourists_for_hogging_beach_spots 'Spanish town to fine tourists for hogging beach spots')
+
+- [Which airports and airlines have been affected by the outages?](https://new-news.github.io/Latest/2024/07/19/which_airports_and_airlines_have_been_affected_by_the_outages 'Which airports and airlines have been affected by the outages?')
 
 - [Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’](https://new-news.github.io/Latest/2024/07/19/kate_hudson_says_she_could_smell_matthew_mcconaughey_from_a_mile 'Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’')
 
@@ -202,12 +206,8 @@
 
 - [Supreme Court grants Texas man a stay of execution just before his scheduled lethal injection](https://new-news.github.io/Latest/2024/07/19/supreme_court_grants_texas_man_a_stay_of_execution_just_before_his_scheduled_lethal_injection 'Supreme Court grants Texas man a stay of execution just before his scheduled lethal injection')
 
-- [Orlando Magic co-founder Pat Williams dies at 84](https://new-news.github.io/Latest/2024/07/19/orlando_magic_co_founder_pat_williams_dies_at_84 'Orlando Magic co-founder Pat Williams dies at 84')
-
-- [Germany to halve military aid for Ukraine despite possible Trump White House](https://new-news.github.io/Latest/2024/07/19/germany_to_halve_military_aid_for_ukraine_despite_possible_trump_white_house 'Germany to halve military aid for Ukraine despite possible Trump White House')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [across](/ 'across')  [activists](/ 'activists')  [administration](/ 'administration')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen')  [air](/ 'air')  [airlines](/ 'airlines') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [across](/ 'across')  [activists](/ 'activists')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aileen](/ 'aileen')  [air](/ 'air')  [airlines](/ 'airlines') 
