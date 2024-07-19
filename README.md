@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 22:15:42`
+#### Latest Update : `2024-07-19 22:37:22`
 
 ## Latest News Grabbing 
 
 ---
+
+- [July’s full moon coincides with the anniversary of a special lunar event](https://new-news.github.io/Latest/2024/07/19/julys_full_moon_coincides_with_the_anniversary_of_a_special_lunar_event 'July’s full moon coincides with the anniversary of a special lunar event')
+
+- [2,700 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_700_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,700 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
 
 - [How the world’s tech crashed all at once](https://new-news.github.io/Latest/2024/07/19/how_the_worlds_tech_crashed_all_at_once 'How the world’s tech crashed all at once')
 
@@ -12,15 +16,11 @@
 
 - [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://new-news.github.io/Latest/2024/07/19/two_dead_in_multistate_listeria_outbreak_linked_with_sliced_deli_meat__cdc_says 'Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says')
 
-- [July’s full buck moon will peak in time for the Apollo 11 lunar landing anniversary](https://new-news.github.io/Latest/2024/07/19/julys_full_buck_moon_will_peak_in_time_for_the_apollo_11_lunar_landing_anniversary 'July’s full buck moon will peak in time for the Apollo 11 lunar landing anniversary')
-
 - [Carol Burnett shares time capsule tribute to Bob Newhart](https://new-news.github.io/Latest/2024/07/19/carol_burnett_shares_time_capsule_tribute_to_bob_newhart 'Carol Burnett shares time capsule tribute to Bob Newhart')
 
 - [Biden faces fresh wave of Democratic defections as campaign tries to press forward](https://new-news.github.io/Latest/2024/07/19/biden_faces_fresh_wave_of_democratic_defections_as_campaign_tries_to_press_forward 'Biden faces fresh wave of Democratic defections as campaign tries to press forward')
 
 - [Blinken says Iran’s nuclear weapon breakout time is probably down to 1-2 weeks](https://new-news.github.io/Latest/2024/07/19/blinken_says_irans_nuclear_weapon_breakout_time_is_probably_down_to_1_2_weeks 'Blinken says Iran’s nuclear weapon breakout time is probably down to 1-2 weeks')
-
-- [2,600 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_600_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,600 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
 
 - [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 

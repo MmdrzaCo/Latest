@@ -1,6 +1,6 @@
 # Police officer attacked in Paris, as security measures ramp up for Olympics
 
-Published :`2024-07-19 22:15:42`
+Published :`2024-07-19 22:37:21`
 
 ---
 
