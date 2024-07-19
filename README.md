@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 04:19:42`
+#### Latest Update : `2024-07-19 04:39:30`
 
 ## Latest News Grabbing 
 
 ---
+
+- [University of Florida president Ben Sasse is resigning after his wife was diagnosed with epilepsy](https://new-news.github.io/Latest/2024/07/19/university_of_florida_president_ben_sasse_is_resigning_after_his_wife_was_diagnosed_with_epilepsy 'University of Florida president Ben Sasse is resigning after his wife was diagnosed with epilepsy')
 
 - [Blast in Tel Aviv kills at least one in possible drone attack, Israeli officials say](https://new-news.github.io/Latest/2024/07/19/blast_in_tel_aviv_kills_at_least_one_in_possible_drone_attack__israeli_officials_say 'Blast in Tel Aviv kills at least one in possible drone attack, Israeli officials say')
 
@@ -203,8 +205,6 @@
 - [Menopause retreats are the next big thing in wellness](https://new-news.github.io/Latest/2024/07/19/menopause_retreats_are_the_next_big_thing_in_wellness 'Menopause retreats are the next big thing in wellness')
 
 - [Former Trump adviser Peter Navarro speaks at GOP convention hours after release from prison](https://new-news.github.io/Latest/2024/07/19/former_trump_adviser_peter_navarro_speaks_at_gop_convention_hours_after_release_from_prison 'Former Trump adviser Peter Navarro speaks at GOP convention hours after release from prison')
-
-- [Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot](https://new-news.github.io/Latest/2024/07/19/asias_50_best_bars_for_2024_have_been_announced__a_newcomer_has_earned_the_top_spot 'Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot')
 
 
 

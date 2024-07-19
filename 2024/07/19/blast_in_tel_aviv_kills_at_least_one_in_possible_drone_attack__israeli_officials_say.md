@@ -1,6 +1,6 @@
 # Blast in Tel Aviv kills at least one in possible drone attack, Israeli officials say
 
-Published :`2024-07-19 04:19:38`
+Published :`2024-07-19 04:39:23`
 
 ---
 
@@ -16,7 +16,7 @@ The Israel Defense Forces said it is looking into reports that it was an aerial 
 
 Emergency crews responded to an “an object” that had exploded on Shalom Aleichem Street, the MDA said.
 
-“The dead man had suffered penetrating injuries,” MDA paramedic Roi Klein said .
+“The dead man had suffered penetrating injuries,” MDA paramedic Roi Klein said.
 
 Police urged local residents “not to touch any rocket remnants that may contain explosives.”
 

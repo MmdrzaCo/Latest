@@ -1,6 +1,6 @@
 # An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals
 
-Published :`2024-07-19 04:19:39`
+Published :`2024-07-19 04:39:25`
 
 ---
 
