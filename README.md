@@ -1,16 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 11:13:37`
+#### Latest Update : `2024-07-19 11:36:38`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78](https://new-news.github.io/Latest/2024/07/19/cheng_pei_pei__queen_of_martial_arts_movies__dead_at_78 'Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78')
+
+- [Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay](https://new-news.github.io/Latest/2024/07/19/lewis_hamilton_praises_ralf_schumacher_after_former_f1_driver_publicly_identifies_as_gay 'Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay')
+
+- [What is CrowdStrike, the company linked to the global outage?](https://new-news.github.io/Latest/2024/07/19/what_is_crowdstrike__the_company_linked_to_the_global_outage 'What is CrowdStrike, the company linked to the global outage?')
+
+- [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/19/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
+
 - [Russian court to announce verdict in US journalist Evan Gershkovich espionage trial](https://new-news.github.io/Latest/2024/07/19/russian_court_to_announce_verdict_in_us_journalist_evan_gershkovich_espionage_trial 'Russian court to announce verdict in US journalist Evan Gershkovich espionage trial')
 
 - [Delta, United and American Airlines flights grounded due to communication issue, FAA says](https://new-news.github.io/Latest/2024/07/19/delta__united_and_american_airlines_flights_grounded_due_to_communication_issue__faa_says 'Delta, United and American Airlines flights grounded due to communication issue, FAA says')
-
-- [What is Crowdstrike, the company responsible for the global outage?](https://new-news.github.io/Latest/2024/07/19/what_is_crowdstrike__the_company_responsible_for_the_global_outage 'What is Crowdstrike, the company responsible for the global outage?')
 
 - [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
 
@@ -199,12 +205,6 @@
 - [Biden announces additional $1.2 billion in student debt relief for 35,000 public-sector workers](https://new-news.github.io/Latest/2024/07/19/biden_announces_additional__1_2_billion_in_student_debt_relief_for_35_000_public_sector_workers 'Biden announces additional $1.2 billion in student debt relief for 35,000 public-sector workers')
 
 - [Former Goldman analyst gets 28-month prison sentence for insider trading](https://new-news.github.io/Latest/2024/07/19/former goldman_analyst_gets_28_month_prison_sentence_for_insider_trading 'Former Goldman analyst gets 28-month prison sentence for insider trading')
-
-- [Could a Trump-Vance win reshape America’s relationship with China – and Taiwan?](https://new-news.github.io/Latest/2024/07/19/could_a_trump_vance_win_reshape_americas_relationship_with_china_–_and_taiwan 'Could a Trump-Vance win reshape America’s relationship with China – and Taiwan?')
-
-- [Shiite Muslims mark holy day of Ashura with mourning and self-flagellation](https://new-news.github.io/Latest/2024/07/19/shiite_muslims_mark_holy_day_of_ashura_with_mourning_and_self_flagellation 'Shiite Muslims mark holy day of Ashura with mourning and self-flagellation')
-
-- [Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing](https://new-news.github.io/Latest/2024/07/19/hong_kong_journalist_says_she_was_fired_by_wsj_after_taking_top_post_at_union_under_attack_by_beijing 'Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing')
 
 
 

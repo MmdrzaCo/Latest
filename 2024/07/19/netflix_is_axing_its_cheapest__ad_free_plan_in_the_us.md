@@ -1,6 +1,6 @@
 # Netflix is axing its cheapest, ad-free plan in the US
 
-Published :`2024-07-19 11:13:30`
+Published :`2024-07-19 11:36:37`
 
 ---
 
