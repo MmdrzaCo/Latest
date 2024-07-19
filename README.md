@@ -1,14 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 03:38:57`
+#### Latest Update : `2024-07-19 04:19:42`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Frontier and other airlines were at a standstill for hours after a massive Microsoft outage](https://new-news.github.io/Latest/2024/07/19/frontier_and_other_airlines_were_at_a_standstill_for_hours_after_a_massive_microsoft_outage 'Frontier and other airlines were at a standstill for hours after a massive Microsoft outage')
+- [Blast in Tel Aviv kills at least one in possible drone attack, Israeli officials say](https://new-news.github.io/Latest/2024/07/19/blast_in_tel_aviv_kills_at_least_one_in_possible_drone_attack__israeli_officials_say 'Blast in Tel Aviv kills at least one in possible drone attack, Israeli officials say')
+
+- [Olympic Village welcomes first athletes ahead of 2024 Paris Games](https://new-news.github.io/Latest/2024/07/19/olympic_village_welcomes_first_athletes_ahead_of_2024_paris_games 'Olympic Village welcomes first athletes ahead of 2024 Paris Games')
+
+- [Largest housing provider for migrant children engaged in pervasive sexual abuse, US says](https://new-news.github.io/Latest/2024/07/19/largest_housing_provider_for_migrant_children_engaged_in_pervasive_sexual_abuse__us_says 'Largest housing provider for migrant children engaged in pervasive sexual abuse, US says')
 
 - [DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time](https://new-news.github.io/Latest/2024/07/19/doj_says_substantial_progress_made_toward_final_plea_agreement_with_boeing_but_needs_more_time 'DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time')
+
+- [Frontier and other airlines were at a standstill for hours after a massive Microsoft outage](https://new-news.github.io/Latest/2024/07/19/frontier_and_other_airlines_were_at_a_standstill_for_hours_after_a_massive_microsoft_outage 'Frontier and other airlines were at a standstill for hours after a massive Microsoft outage')
 
 - [Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says](https://new-news.github.io/Latest/2024/07/19/seattle_officer_fired_for_cruel_comments_and_callous_laughter_following_indian_grad_students_death__police_chief_says 'Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says')
 
@@ -69,8 +75,6 @@
 - [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/19/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
 
 - [AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T](https://new-news.github.io/Latest/2024/07/19/at_t_is_telling_customers_they_were_hacked__protecting_data_has_been_a_big_fight_–_from_companies_like_at_t 'AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T')
-
-- [Olympic Village welcomes first athletes ahead of 2024 Paris Games](https://new-news.github.io/Latest/2024/07/19/olympic_village_welcomes_first_athletes_ahead_of_2024_paris_games 'Olympic Village welcomes first athletes ahead of 2024 Paris Games')
 
 - [Appeals court halts fresh Biden administration efforts to cancel some student debt](https://new-news.github.io/Latest/2024/07/19/appeals_court_halts_fresh_biden_administration_efforts_to_cancel_some_student_debt 'Appeals court halts fresh Biden administration efforts to cancel some student debt')
 
@@ -202,12 +206,8 @@
 
 - [Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot](https://new-news.github.io/Latest/2024/07/19/asias_50_best_bars_for_2024_have_been_announced__a_newcomer_has_earned_the_top_spot 'Asia’s 50 best bars for 2024 have been announced. A newcomer has earned the top spot')
 
-- [Man found guilty on all counts for Cleveland shooting that injured 9 last year](https://new-news.github.io/Latest/2024/07/19/man_found_guilty on_all_counts_for_cleveland_shooting_that_injured_9_last_year 'Man found guilty on all counts for Cleveland shooting that injured 9 last year')
-
-- [Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident](https://new-news.github.io/Latest/2024/07/19/naomi_pomeroy__renowned_chef_and_top_chef_masters_star__dead_at_49_in_tubing_accident 'Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead') 
+##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid') 

@@ -1,6 +1,6 @@
 # JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight
 
-Published :`2024-07-19 03:38:56`
+Published :`2024-07-19 04:19:41`
 
 ---
 
