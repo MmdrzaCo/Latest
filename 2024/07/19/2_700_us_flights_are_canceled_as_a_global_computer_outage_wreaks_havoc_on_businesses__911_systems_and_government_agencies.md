@@ -1,6 +1,6 @@
 # 2,700 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies
 
-Published :`2024-07-19 22:37:19`
+Published :`2024-07-19 23:15:06`
 
 ---
 
@@ -8,7 +8,7 @@ Thousands of US flights were grounded Friday as a technical disaster plagued go
 
 A cybersecurity company said the debacle is “not a security incident or cyberattack.” But the technical fiasco has paralyzed airlines, banks, state agencies and even emergency services around the world.
 
-As of Friday afternoon, more than 2,700 flights into, out of or within the United States had been canceled and 9,000 delayed, according to FlightAware.com.
+As of Friday afternoon, more than 2,800 flights into, out of or within the United States had been canceled and 10,000 delayed, according to FlightAware.com.
 
 Charlotte Douglas International Airport in North Carolina told passengers not to come to the airport unless they had confirmed their flights. Bewildered travelers at the world’s busiest airport in Atlanta were stranded as they tried to get to urgent events.
 

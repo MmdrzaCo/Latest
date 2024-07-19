@@ -1,6 +1,6 @@
 # First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos
 
-Published :`2024-07-19 22:37:19`
+Published :`2024-07-19 23:15:06`
 
 ---
 
@@ -8,7 +8,7 @@ First lady Dr. Jill Biden will host a fundraiser while she’s in Paris leading 
 
 The event will be hosted by former US Ambassador to the EU Tony Gardner, Belinda de Gaudemar, and Lorna Johnson. Tickets range from $500-$25,000. As only Americans can donate to US campaigns, they will have to show a copy of their passport photo page to ensure compliance with federal election law, the campaign said.
 
-The fundraiser comes at a time of uncertainty for Biden’s campaign – during which donations have been drying up. Her attendance comes at a pivotal moment for her husband’s candidacy, as a growing number of Democrats have called on the president to step aside. The first lady remains the president’s closest adviser and fiercest protector, wielding influence in the White House and campaign. She has been an active surrogate on the campaign trail, criss-crossing the country on his behalf as she works to bolster his support with key coalitions.
+The fundraiser, first reported by Politico, comes at a time of uncertainty for Biden’s campaign – during which donations have been drying up. Her attendance comes at a pivotal moment for her husband’s candidacy, as a growing number of Democrats have called on the president to step aside. The first lady remains the president’s closest adviser and fiercest protector, wielding influence in the White House and campaign. She has been an active surrogate on the campaign trail, criss-crossing the country on his behalf as she works to bolster his support with key coalitions.
 
 Biden will lead the US delegation to the Olympic Games opening ceremony in Paris, cheering on America’s athletes on behalf of the Biden administration.
 

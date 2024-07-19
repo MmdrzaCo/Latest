@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 22:37:22`
+#### Latest Update : `2024-07-19 23:15:14`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Global tech outage: What to know if you’re traveling this weekend](https://new-news.github.io/Latest/2024/07/19/global_tech_outage__what_to_know_if_youre_traveling_this_weekend 'Global tech outage: What to know if you’re traveling this weekend')
+
+- [First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos](https://new-news.github.io/Latest/2024/07/19/first_lady_dr__jill_biden_to_host_fundraiser_in_paris_amid_campaign_chaos 'First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos')
+
+- [Utah Republican Gov. Spencer Cox pledges Trump his support after saying last week he wouldn’t vote for him](https://new-news.github.io/Latest/2024/07/19/utah_republican_gov__spencer_cox_pledges_trump_his_support_after_saying_last_week_he_wouldnt_vote_for_him 'Utah Republican Gov. Spencer Cox pledges Trump his support after saying last week he wouldn’t vote for him')
 
 - [July’s full moon coincides with the anniversary of a special lunar event](https://new-news.github.io/Latest/2024/07/19/julys_full_moon_coincides_with_the_anniversary_of_a_special_lunar_event 'July’s full moon coincides with the anniversary of a special lunar event')
 
@@ -37,8 +43,6 @@
 - [JD Vance Fast Facts](https://new-news.github.io/Latest/2024/07/19/jd_vance_fast_facts 'JD Vance Fast Facts')
 
 - [Paul Whelan tells CNN he has ‘sympathy and empathy’ for Evan Gershkovich but expresses hope following sentencing](https://new-news.github.io/Latest/2024/07/19/paul_whelan_tells_cnn_he_has_sympathy_and_empathy_for_evan_gershkovich_but_expresses_hope_following_sentencing 'Paul Whelan tells CNN he has ‘sympathy and empathy’ for Evan Gershkovich but expresses hope following sentencing')
-
-- [First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos](https://new-news.github.io/Latest/2024/07/19/first_lady_dr__jill_biden_to_host_fundraiser_in_paris_amid_campaign_chaos 'First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos')
 
 - [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
 
@@ -81,8 +85,6 @@
 - [Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation](https://new-news.github.io/Latest/2024/07/19/allen_weisselberg__former_trump_org__cfo__released_from_jail_after_serving_100_days_for_lying_during_investigation 'Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation')
 
 - [Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height](https://new-news.github.io/Latest/2024/07/19/journalist_told_to_pay_italian_prime_minister_giorgia_meloni__5_400_for_tweet_mocking_her_height 'Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height')
-
-- [Global tech outage: What to know if you’re traveling this weekend](https://new-news.github.io/Latest/2024/07/19/global_tech_outage__what_to_know_if_youre_traveling_this_weekend 'Global tech outage: What to know if you’re traveling this weekend')
 
 - [Student loan payments will be paused for 8 million borrowers after appeals court temporarily halts Biden’s repayment plan](https://new-news.github.io/Latest/2024/07/19/student_loan_payments_will_be_paused_for_8_million_borrowers_after_appeals_court_temporarily_halts_bidens_repayment_plan 'Student loan payments will be paused for 8 million borrowers after appeals court temporarily halts Biden’s repayment plan')
 
@@ -203,8 +205,6 @@
 - [‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel](https://new-news.github.io/Latest/2024/07/19/twister_gave_rise_to_a_generation_of_storm_chasers__heres_what_they_hope_to_see_in_the sequel '‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel')
 
 - [Environmental activists sentenced to years in prison over UK highway protest](https://new-news.github.io/Latest/2024/07/19/environmental_activists_sentenced_to_years_in_prison_over_uk_highway_protest 'Environmental activists sentenced to years in prison over UK highway protest')
-
-- [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/19/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
 
 
