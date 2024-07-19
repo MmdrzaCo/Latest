@@ -1,6 +1,6 @@
 # READ: Raskin’s letter encouraging Biden to reconsider reelection campaign
 
-Published :`2024-07-19 07:36:02`
+Published :`2024-07-19 08:18:37`
 
 ---
 

@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 07:36:06`
+#### Latest Update : `2024-07-19 08:18:38`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Trump’s would-be assassin researched previous mass shooter Ethan Crumbley and his family before attack](https://new-news.github.io/Latest/2024/07/19/trumps_would_be_assassin_researched_previous_mass_shooter_ethan_crumbley_and_his_family_before_attack 'Trump’s would-be assassin researched previous mass shooter Ethan Crumbley and his family before attack')
+
+- [Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks](https://new-news.github.io/Latest/2024/07/19/putins_summer_residence_gets_new_air_defenses_as_ukraine_steps_up_drone_attacks 'Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks')
 
 - [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
 
@@ -89,8 +93,6 @@
 - [AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T](https://new-news.github.io/Latest/2024/07/19/at_t_is_telling_customers_they_were_hacked__protecting_data_has_been_a_big_fight_–_from_companies_like_at_t 'AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T')
 
 - [Appeals court halts fresh Biden administration efforts to cancel some student debt](https://new-news.github.io/Latest/2024/07/19/appeals_court_halts_fresh_biden_administration_efforts_to_cancel_some_student_debt 'Appeals court halts fresh Biden administration efforts to cancel some student debt')
-
-- [Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks](https://new-news.github.io/Latest/2024/07/19/putins_summer_residence_gets_new_air_defenses_as_ukraine_steps_up_drone_attacks 'Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks')
 
 - [Secret Service calls right-wing media attacks on female agents ‘baseless’ and ‘disgusting’](https://new-news.github.io/Latest/2024/07/19/secret_service_calls_right_wing_media_attacks_on_female_agents_baseless_and_disgusting 'Secret Service calls right-wing media attacks on female agents ‘baseless’ and ‘disgusting’')
 
@@ -203,8 +205,6 @@
 - [Remains of ancient Papal palace believed to have been found in Rome](https://new-news.github.io/Latest/2024/07/19/remains_of_ancient_papal_palace_believed_to_have_been_found_in_rome 'Remains of ancient Papal palace believed to have been found in Rome')
 
 - [Three former Trump officials say they requested protection from increased Iranian threats in 2023](https://new-news.github.io/Latest/2024/07/19/three_former_trump_officials_say_they_requested_protection_from_increased_iranian_threats_in_2023 'Three former Trump officials say they requested protection from increased Iranian threats in 2023')
-
-- [These are the states that rank highest and lowest for women’s health in new report](https://new-news.github.io/Latest/2024/07/19/these_are_the_states_that_rank_highest_and_lowest_for_womens_health_in_new_report 'These are the states that rank highest and lowest for women’s health in new report')
 
 
 

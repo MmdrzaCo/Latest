@@ -1,6 +1,6 @@
 # Takeaways from the third night of the Republican National Convention
 
-Published :`2024-07-19 07:36:06`
+Published :`2024-07-19 08:18:38`
 
 ---
 
