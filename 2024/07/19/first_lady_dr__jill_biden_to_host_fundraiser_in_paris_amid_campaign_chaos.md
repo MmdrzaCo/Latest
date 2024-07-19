@@ -1,6 +1,6 @@
 # First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos
 
-Published :`2024-07-19 23:15:06`
+Published :`2024-07-19 23:36:09`
 
 ---
 

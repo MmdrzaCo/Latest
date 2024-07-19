@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 23:15:14`
+#### Latest Update : `2024-07-19 23:36:19`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Sixth human case of bird flu reported in Colorado, CDC says](https://new-news.github.io/Latest/2024/07/19/sixth_human_case_of_bird_flu_reported_in_colorado__cdc_says 'Sixth human case of bird flu reported in Colorado, CDC says')
+
+- [2,800 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_800_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,800 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
 
 - [Global tech outage: What to know if you’re traveling this weekend](https://new-news.github.io/Latest/2024/07/19/global_tech_outage__what_to_know_if_youre_traveling_this_weekend 'Global tech outage: What to know if you’re traveling this weekend')
 
@@ -13,8 +17,6 @@
 - [Utah Republican Gov. Spencer Cox pledges Trump his support after saying last week he wouldn’t vote for him](https://new-news.github.io/Latest/2024/07/19/utah_republican_gov__spencer_cox_pledges_trump_his_support_after_saying_last_week_he_wouldnt_vote_for_him 'Utah Republican Gov. Spencer Cox pledges Trump his support after saying last week he wouldn’t vote for him')
 
 - [July’s full moon coincides with the anniversary of a special lunar event](https://new-news.github.io/Latest/2024/07/19/julys_full_moon_coincides_with_the_anniversary_of_a_special_lunar_event 'July’s full moon coincides with the anniversary of a special lunar event')
-
-- [2,700 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_700_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,700 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
 
 - [How the world’s tech crashed all at once](https://new-news.github.io/Latest/2024/07/19/how_the_worlds_tech_crashed_all_at_once 'How the world’s tech crashed all at once')
 
@@ -204,10 +206,8 @@
 
 - [‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel](https://new-news.github.io/Latest/2024/07/19/twister_gave_rise_to_a_generation_of_storm_chasers__heres_what_they_hope_to_see_in_the sequel '‘Twister’ gave rise to a generation of storm chasers. Here’s what they hope to see in the sequel')
 
-- [Environmental activists sentenced to years in prison over UK highway protest](https://new-news.github.io/Latest/2024/07/19/environmental_activists_sentenced_to_years_in_prison_over_uk_highway_protest 'Environmental activists sentenced to years in prison over UK highway protest')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [activists](/ 'activists')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen')  [air](/ 'air') 
