@@ -1,6 +1,6 @@
 # Recovering from the global tech outage could be a long, arduous process
 
-Published :`2024-07-19 18:19:53`
+Published :`2024-07-19 18:39:15`
 
 ---
 
@@ -56,7 +56,13 @@ Imagine a person trying to buy a coffee, said Andrew Peck, a cybersecurity exper
 
 “There are a lot of computers in this chain, and usually the larger the business, the larger the chain,” Peck said. “If any one of the computers are down in the chain, the transaction will not complete.”
 
-Now scale that up to something like the massive aviation industry, the critical financial services sector or the life-or-death operations of a health care provider, and the scope of the disaster becomes starkly clear.
+It could take millions of person-hours of work by corporate IT professionals to fix all the computers that were affected, said O’Neill, the former FBI counterintelligence operative. But, he said, coming up with a firm estimate is difficult because it’s unknown how many computers were affected.
+
+Imagine something like the massive aviation industry, the critical financial services sector or the life-or-death operations of a health care provider, and the scope of the disaster becomes starkly clear.
+
+With many people now working from home, he said, IT professionals can’t just go desk-to-desk to fix different computers. Instead, they’ll have to communicate with individual employees and talk them through the process remotely.
+
+“That magnifies the issue,” he said. “Something that could have been fixed in hours is going to take days.”
 
 Some affected machines may be rarely serviced by people or located in remote areas. Others may not even have monitors or keyboards plugged in, because they don’t regularly require humans to directly interact with them.
 
@@ -84,7 +90,7 @@ Since the update to CrowdStrike’s software was delivered by the company’s ow
 
 The problem with CrowdStrike’s update was that it wasn’t formatted correctly “and causes Windows to crash every time,” Beaumont posted on X.
 
-CNN’s Olesya Dmitracova contributed reporting.
+CNN’s Olesya Dmitracova and Chris Isidore contributed reporting.
 
 This story has been updated with additional context and developments.
 

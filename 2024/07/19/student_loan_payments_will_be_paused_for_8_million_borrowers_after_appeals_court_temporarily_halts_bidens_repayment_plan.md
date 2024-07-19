@@ -1,6 +1,6 @@
 # Student loan payments will be paused for 8 million borrowers after appeals court temporarily halts Biden’s repayment plan
 
-Published :`2024-07-19 18:19:53`
+Published :`2024-07-19 18:39:15`
 
 ---
 

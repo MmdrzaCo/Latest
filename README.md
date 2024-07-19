@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 18:19:56`
+#### Latest Update : `2024-07-19 18:39:18`
 
 ## Latest News Grabbing 
 
 ---
+
+- [2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_000_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
+
+- [First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos](https://new-news.github.io/Latest/2024/07/19/first_lady_dr__jill_biden_to_host_fundraiser_in_paris_amid_campaign_chaos 'First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos')
 
 - [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
 
@@ -31,8 +35,6 @@
 - [What is CrowdStrike, the company linked to the global outage?](https://new-news.github.io/Latest/2024/07/19/what_is_crowdstrike__the_company_linked_to_the_global_outage 'What is CrowdStrike, the company linked to the global outage?')
 
 - [US sanctions alleged Russian hackers who claimed attacks on US water facilities](https://new-news.github.io/Latest/2024/07/19/us_sanctions_alleged_russian_hackers_who_claimed_attacks_on_us_water_facilities 'US sanctions alleged Russian hackers who claimed attacks on US water facilities')
-
-- [2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and state agencies](https://new-news.github.io/Latest/2024/07/19/2_000_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_state_agencies '2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and state agencies')
 
 - [Nearly 2 dozen families claim owner of Houston surrogacy escrow company stole millions to fund lavish lifestyle](https://new-news.github.io/Latest/2024/07/19/nearly_2_dozen_families_claim_owner_of_houston_surrogacy_escrow_company_stole_millions_to_fund_lavish_lifestyle 'Nearly 2 dozen families claim owner of Houston surrogacy escrow company stole millions to fund lavish lifestyle')
 
@@ -203,8 +205,6 @@
 - [Ursula von der Leyen elected to second term as European Commission president](https://new-news.github.io/Latest/2024/07/19/ursula_von_der_leyen_elected_to_second_term_as_european_commission_president 'Ursula von der Leyen elected to second term as European Commission president')
 
 - [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/19/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
-
-- [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/19/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
 
 
 
