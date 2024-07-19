@@ -1,20 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 13:17:30`
+#### Latest Update : `2024-07-19 13:35:55`
 
 ## Latest News Grabbing 
 
 ---
 
-- [WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_convicted_of_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham')
-
 - [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
+
+- [Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancelations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses')
+
+- [WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_convicted_of_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham')
 
 - [Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France](https://new-news.github.io/Latest/2024/07/19/fallout_intensifies_over_soccer_star_enzo_fernández_and_argentina_teammates_singing_racist_chant_about_france 'Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France')
 
 - [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/19/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
-
-- [Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancelations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses')
 
 - [How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate](https://new-news.github.io/Latest/2024/07/19/how_tennessee_based_artist_aaron_lee_tasjan_is_using_his_music_to_combat_hate 'How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate')
 

@@ -1,6 +1,6 @@
 # Yemen’s Houthi rebels claim deadly Tel Aviv drone attack
 
-Published :`2024-07-19 13:17:26`
+Published :`2024-07-19 13:35:52`
 
 ---
 
@@ -67,6 +67,10 @@ Fabian Hinz, a research fellow for defense and military analysis at the Internat
 He said however that the drone used in the Tel Aviv attack is likely to be a Sammad, “the Houthi’s standard long-range strike drone” that has already been used in attacks against Israel, but with a more powerful engine.
 
 For the Houthis, he wrote, an extended drone range would be attractive “as it would allow them to strike targets further away, fly routes evading enemy defenses, and attack from unexpected angles.”
+
+Ahmed Nagi, a senior Yemen analyst at the International Crisis Group, a Brussels-based think tank, told CNN that the Houthis are likely to capitalize on the attack, especially as Israel’s defenses failed to intercept it.
+
+“They will capitalize on it, not just inside Yemen but also outside Yemen,” Nagi said, adding that the attack took place ahead of the rebel group’s weekly rallies, which take place every Friday in support of Gaza in Houthi-controlled Yemeni cities. The attack “gives momentum” to these rallies, he said.
 
 The drone attack Friday in Tel Aviv comes after the Houthis claimed earlier this month that they had targeted ships in the Israeli port of Haifa with a number of drones in joint military operations with Iran-backed militias based in Iraq.
 

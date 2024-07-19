@@ -1,32 +1,34 @@
 # Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses
 
-Published :`2024-07-19 13:17:26`
+Published :`2024-07-19 13:35:52`
 
 ---
 
-All flights from several major US airlines were temporarily grounded Friday morning due to a communication issue – part of a technical disaster impacting businesses worldwide.
+Hundreds of US flights were grounded Friday morning due to a technical disaster impacting businesses worldwide – leading to cancellations, delays and confusion at airports across the country.
 
-A cybersecurity company said the debacle is “not a security incident or cyberattack.” But the ground stop impacted all flights from those airlines, regardless of their destination, the Federal Aviation Administration said.
+A cybersecurity company said the debacle is “not a security incident or cyberattack.” But the crisis has also affected international airlines as well as mass transit in New York and Washington, DC; some 911 operations in the United States; banking in Australia, South Africa, and the United Kingdom; Hong Kong’s Disneyland; and the Israeli health service.
+
+As of Friday morning, more than 1,200 flights into, out of or within the United States had been canceled, according to FlightAware.com. Charlotte Douglas International Airport told passengers to not even come to the airport unless they had confirmed their flights. Travelers at the world’s busiest airport in Atlanta were stranded as they tried to get to funerals or other momentous events.
 
 Live updates: Global tech outages hit airlines, banks and businesses
 
-As of mid-Friday morning, more than 1,000 flights into, out of or within the United States had been canceled, according to FlightAware.com.
+“The FAA is closely monitoring a technical issue impacting IT systems at U.S. airlines,” the Federal Aviation Administration posted on social media. “Several airlines have requested FAA assistance with ground stops until the issue is resolved.”
 
-“The FAA is closely monitoring a technical issue impacting IT systems at U.S. airlines,” the FAA posted on social media. “Several airlines have requested FAA assistance with ground stops until the issue is resolved.”
+CrowdStrike, a cybersecurity firm that has Microsoft among its clients, “is actively working with customers impacted by a defect found in a single content update for Windows hosts,” CEO George Kurtz posted on X. “This is not a security incident or cyberattack.”
 
-The CEO of CrowdStrike, a cybersecurity firm that has Microsoft among its clients, said the IT issue causing a global outage has been identified and a fix has been deployed.
+Kurtz later told NBC, “We’re resolving and have resolved the issue.”
 
-“CrowdStrike is actively working with customers impacted by a defect found in a single content update for Windows hosts,” CEO George Kurtz posted on X. “This is not a security incident or cyberattack.”
-
-The technical crisis also affected international airlines as well as mass transit in New York and Washington, DC; banking in Australia, South Africa, the United Kingdom and elsewhere, Hong Kong Disneyland and the Israeli health service.
+“As systems come back online, as they’re rebooted, they’re coming up and they’re working,” Kurtz said on the “Today” show Friday morning. However, Kurtz said, it could be “some time” for certain systems that won’t just automatically recover.
 
 ### What US airlines are saying
 
-– Delta Air Lines “paused its global flight schedule this morning due to a vendor technology issue that is impacting several airlines and businesses around the world,” it said in a statement Friday morning. The airline apologized to impacted customers and said a travel waiver would be issued.
+– Delta Air Lines “paused its global flight schedule this morning due to a vendor technology issue that is impacting several airlines and businesses around the world,” it said in a statement Friday morning. Delta later said it was resuming some flights. The airline apologized to impacted customers and said a travel waiver would be issued.
 
 – American Airlines said it has resolved the issue affecting its operations Friday. “Earlier this morning, a technical issue with a vendor impacted multiple carriers, including American. As of 5 a.m. ET, we have been able to safely re-establish our operation,” American said in a statement to CNN. “We apologize to our customers for the inconvenience.”
 
 – Spirit Airlines said in a travel advisory Friday morning its reservation system was impacted by the outage. The airline asked passengers to check back for updates and apologized “for any inconvenience this may cause.”
+
+– Southwest Airlines told CNN the outage hasn’t impacted its operations.
 
 – Frontier Airlines and some competitors were brought to a standstill for hours after a significant Microsoft outage Thursday. The ground stop for those airlines has been lifted, and Frontier offered refunds to inconvenienced passengers.
 
