@@ -1,6 +1,6 @@
 # Which airports and airlines have been affected by the outages?
 
-Published :`2024-07-19 15:36:42`
+Published :`2024-07-19 16:18:23`
 
 ---
 
@@ -10,137 +10,91 @@ All flights for US airlines United Airlines, Delta Air Lines, and American Airli
 
 American Airlines has since confirmed that is has resolved the issue affecting its operations, while Delta and United have resumed some flights.
 
-“The FAA is closely monitoring a technical issue impacting IT systems at U.S. airlines,” reads a statement from the FAA posted on social media. “Several airlines have requested FAA assistance with ground stops until the issue is resolved.”
+“The FAA is closely monitoring a technical issue impacting IT systems at U.S. airlines,” reads a statement from the FAA posted early Friday morning on social media. “Several airlines have requested FAA assistance with ground stops until the issue is resolved.”
 
-As of 10 a.m. ET, there were about 2,400 canceled flights globally and about 25,000 delays, according to flight tracking website FlightAware, with chaotic scenes at airports across the world as passengers wait for updates.
+As of 11 a.m. ET, there were 3,861 canceled flights globally (representing 3.61% of flights), according to data from analytics firm Cirium, with chaotic scenes at airports across the world as passengers waited for updates.
 
 Here are some of the major airlines and airports that have been impacted by the tech outage:
 
-### Impacted airlines
+### Impacted airlines and airports
 
-The situation is evolving quickly, and passengers should check flights directly with carriers. The following are some of the carriers with known technology impacts:
+The situation is evolving quickly, and passengers should check flights directly with carriers. The following are some of the carriers and airports with known technology impacts:
 
-American Airlines
+### North America
 
-The US airline grounded all flights on Friday morning, but has since announced that the issue affecting its operations has been resolved. The airline has issued a travel waiver.
+American Airlines, United Airlines and Delta Air Lines were all impacted and issued travel waivers on Friday.
 
-“Earlier this morning, a technical issue with a vendor impacted multiple carriers, including American. As of 5 a.m. ET, we have been able to safely re-establish our operation. We apologize to our customers for the inconvenience,” the American Airlines said in a statement to CNN.
+“Earlier this morning, a technical issue with a vendor impacted multiple carriers, including American. As of 5 a.m. ET, we have been able to safely re-establish our operation. We apologize to our customers for the inconvenience,” American Airlines said in a statement to CNN.
 
-United Airlines
+Delta and United resumed some flights Friday morning and warned of additional disruptions throughout the day.
 
-United Airlines said it’s resuming “some flights” early Friday morning, but cautioned travelers that they may experience disruptions throughout the day. The airline has issued a travel waiver.
+Ultra-low cost airline SunCountry, Allegiant Air, Frontier and Spirit Airlines were experiencing disruptions caused by the outage on Friday.
 
-Delta Air Lines
+Southwest Airlines was not impacted by the outage.
 
-Delta Air Lines has resumed some flight departures, the airline reported Friday morning.
+Toronto-based Porter Airlines announced that it was canceling flights on Friday until noon ET due to “prolonged third-party technology systems outages affecting multiple global industries.
 
-Delta has issued a travel waiver for all customers who have booked flights departing today.
+Two low-cost airlines in Mexico City, Volaris and Viva Aerobus, were also impacted.
 
-Allegiant Air
+Passengers traveling through Los Angeles International Airport are experiencing a “mixed bag” of delays and cancellations due to the tech outage, an airport spokesperson told CNN.
 
-Flights for Allegiant Air, which is headquartered in Las Vegas, Nevada, have also been impacted.
+At Hartsfield-Jackson Atlanta International Airport airside operations are working, although some customer-facing airlines “are dealing with a few challenges,” amid the ongoing global computer outage, Andrew Gobeil, who oversees public affairs outreach at the airport, told CNN.
 
-On Thursday, the airline had said its website was unavailable due to an issue with Microsoft Azure, the tech giant’s cloud software.
+At Dallas Fort Worth International Airport officials “anticipate significant delays and cancellations throughout the day,” the airport said. “We ask customers to verify your flight status with your airline prior to heading to the airport. Longer lines are possible so allow extra time.”
 
-SunCountry
+Chicago O’Hare International Airport advised passengers to check their flight status directly with their carrier due to the tech issues. “Longer lines and wait times are possible, please allow extra time,” it said.
 
-The ultra-low cost US airline reported technical difficulties on Thursday.
+John F. Kennedy International Airport said: “The Port Authority is not affected by the ongoing global network outage, but some airlines are experiencing delays/cancellations. DO NOT head to the airport unless your flight status is confirmed,” according to an airport post on X.
 
-The carrier had resumed some flight operations Friday morning but expected continued disruptions.
+Charlotte Douglas International Airport advised passengers not to come to the airport “unless they have confirmed their flight information with the airline.”
 
-“Due to a global outage at a third party vendor, our booking, check-in, and trip-managing capabilities are temporarily unavailable,” SunCountry said on its site.
+Miami International Airport advised that US Customs and Border Patrol operations are being affected nationwide, “so international passenger arrivals are currently being processed manually at a slower pace.”
 
-Frontier Airlines
+### Around the world
 
-Frontier Airlines confirms that it has been “impacted by a Microsoft outage” and noted disruptions and rebooking options on its website.
+### Asia Pacific
 
-Spirit Airlines
-
-The budget carrier, which operates flights across the US, the Caribbean and Latin America, says its booking system has been impacted. Passengers have been advised to check for updates, and the airline has apologized “for any inconvenience this may cause,” in a travel advisory posted on its site.
-
-Porter Airlines
-
-The Toronto based airline has announced that it is canceling flights on Friday until noon ET due to “prolonged third-party technology systems outages affecting multiple global industries,” according to a statement on its website.
-
-AirAsia
-
-AirAsia has confirmed that its “core reservation and check-in system” have been impacted by the Microsoft tech issues.
-
-Cebu Pacific Air
-
-Cebu Pacific Air said it was forced to handle all processes manually due to the outage.
-
-Qantas
-
-Qantas, the flag carrier of Australia, has also been impacted by IT disruptions, and is still operating, but with delays.
-
-Singapore Airlines
+In the Asia Pacific region, AirAsia’s “core reservation and check-in system” was impacted and Cebu Pacific Air was forced to handle all processes manually.
 
 Singapore Airlines, the flag carrier of Singapore, said none of its flights had been impacted, but it is experiencing technical difficulties.
 
-LATAM Airlines
+Qantas, the flag carrier of Australia, has also been impacted by IT disruptions, and was still operating Friday, but with delays.
+
+Taiwan’s Taoyuan International Airport said several airlines at the airport had been impacted. Jetstar, Hong Kong Express, Jeju Air and Scoot have all resorted to manual check-ins, the airport said.
+
+Delhi’s Indira Gandhi International Airport and six Indian airlines have also reported technical difficulties. Jaipur International Airport said “flights nationwide” have been affected by the outage.
+
+South Korea’s Incheon International Airport said Air Premia, Easter Jet and several other airlines had been affected. Korean Air, the country’s flagship carrier, said it uses Amazon Web Services (AWS) and so had not been affected.
+
+### Middle East
+
+Dubai International Airport said the check-in process for some airlines had been affected, but that it is “now back to operating normally.”
+
+### Europe
+
+London’s Gatwick Airport said it is “affected by the global Microsoft issues” and that passengers may experience delays checking in and going through security.
+
+Germany’s Berlin Airport said it is experiencing delays to check-in due to a “technical fault.”
+
+Amsterdam’s Schiphol Airport said the “global system failure” had affected “flights to and from Schiphol” and the impact is “now being mapped.” KLM Royal Dutch Airlines said the outages are “making flight handling impossible.”
+
+Scotland’s Edinburgh Airport said the outages mean “wait times are longer than usual at the airport.”
+
+Spain’s airport authority, AENA, which supervises airports in Madrid, Barcelona and others across the country said the outage “could cause delays” and that its staff are working to solve the problems. Iberia Airlines, the flag carrier of Spain’s airline, told CNN their systems started working again at 9:30 a.m. local time (3:30 a.m. ET), adding there were still some delays.
+
+Prague Airport said the issues have affected its global check-in system, delaying flights.
+
+Ireland’s Ryanair also confirmed a disruption to the airline’s network, advising passengers to arrive at least three hours before their scheduled departure time.
+
+Air France, the country’s flag carrier, said the IT issue had disrupted its operations — although flights already in the air are not affected.
+
+Turkish Airlines said it was experiencing problems with ticketing, check-in and reservations. “Our teams are working diligently to resolve the issue,” the airline said.
+
+### Central and South America
+
+Panama-based Copa Airlines said it is also one of the global airlines impacted and some flights might be delayed following the large-scale third-party software outage, according to a post on X on Friday. The airline asked passengers to “go to the airport at least 4 hours before your departure.”
 
 LATAM Airlines, the Chilean carrier, announced on Friday that global outages “could be causing delays” for some its flights.
-
-### Impacted airports
-
-Operations in some airports around the world have also been impacted. No matter where you’re traveling, check with you carrier before heading to the airport. Here’s what we know right now about those:
-
-Hartsfield-Jackson Atlanta International Airport
-
-Airside operations are working, although some customer-facing airlines “are dealing with a few challenges,” amid the ongoing global computer outage, Andrew Gobeil, who oversees public affairs outreach at Hartsfield-Jackson Atlanta International Airport, told CNN.
-
-Dallas Fort Worth International Airport
-
-“Due to the global technology issues impacting multiple airlines, we anticipate significant delays and cancellations throughout the day,” reads a statement from Dallas Fort Worth International Airport. “We ask customers to verify your flight status with your airline prior to heading to the airport. Longer lines are possible so allow extra time.”
-
-Chicago O’Hare International Airport
-
-Chicago O’Hare International Airport has urged passengers to check their flight status directly with their carrier due to the issues. “Longer lines and wait times are possible, please allow extra time,” it said.
-
-John F. Kennedy International Airport, New York
-
-“The Port Authority is not affected by the ongoing global network outage, but some airlines are experiencing delays/cancellations. DO NOT head to the airport unless your flight status is confirmed,” the New York airport said.
-
-Charlotte Douglas International Airport, North Carolina
-
-Charlotte Douglas International Airport, one of nine nationwide American Airlines hubs, has urged passengers not to come to the airport “unless they have confirmed their flight information with the airline.”
-
-Miami International Airport
-
-According to officials at Miami International Airport, US Customs and Border Patrol operations are being affected nationwide, “so international passenger arrivals are currently being processed manually at a slower pace.”
-
-Dubai International Airport
-
-Officials at Dubai International Airport say that the check-in process for some airlines had been affected, but that it is “now back to operating normally.”
-
-Indira Gandhi International Airport, Delhi
-
-Delhi’s Indira Gandhi International Airport and six Indian airlines have also reported technical difficulties.
-
-Jaipur International Airport
-
-Jaipur International Airport has confirmed that “flights nationwide” have been affected by the outage.
-
-Incheon International Airport, Seoul
-
-South Korea’s Incheon International Airport said Air Premia, Eastar Jet and several other airlines had been affected.
-
-Taoyuan International Airport, Taiwan
-
-Taiwan’s Taoyuan International Airport said several airlines at the airport had been impacted. Jetstar, Hong Kong Express, Jeju Air and Scoot have resorted to manual check-ins, according to the airport.
-
-London Gatwick Airport
-
-London’s Gatwick Airport has said it is “affected by the global Microsoft issues” and that passengers may experience delays checking in and going through security.
-
-Amsterdam Airport Schiphol
-
-Amsterdam’s Schiphol Airport says that the “global system failure” has affected “flights to and from Schiphol” and the impact is “now being mapped.” KLM Royal Dutch Airlines said the outages are “making flight handling impossible.”
-
-Paris Charles de Gaulle Airport
-
-Paris Charles de Gaulle Airport is experiencing “slowdowns in check-ins, delays, and temporary suspension of certain flight schedules,” according to the body managing the airport.
 
 ---
 

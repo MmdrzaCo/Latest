@@ -1,6 +1,6 @@
 # Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses
 
-Published :`2024-07-19 15:36:42`
+Published :`2024-07-19 16:18:23`
 
 ---
 

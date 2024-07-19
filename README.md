@@ -1,24 +1,32 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 15:36:49`
+#### Latest Update : `2024-07-19 16:18:27`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Nearly 2 dozen families claim owner of Houston surrogacy escrow company stole millions to fund lavish lifestyle](https://new-news.github.io/Latest/2024/07/19/nearly_2_dozen_families_claim_owner_of_houston_surrogacy_escrow_company_stole_millions_to_fund_lavish_lifestyle 'Nearly 2 dozen families claim owner of Houston surrogacy escrow company stole millions to fund lavish lifestyle')
+
 - [Family of another American journalist held in Russia calls on Biden administration to do more to help](https://new-news.github.io/Latest/2024/07/19/family_of_another_american_journalist_held_in_russia_calls_on_biden_administration_to_do_more_to_help 'Family of another American journalist held in Russia calls on Biden administration to do more to help')
+
+- [Which airports and airlines have been affected by the outages?](https://new-news.github.io/Latest/2024/07/19/which_airports_and_airlines_have_been_affected_by_the_outages 'Which airports and airlines have been affected by the outages?')
+
+- [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
+
+- [Thousands of Disneyland workers are expected to authorize a potential strike. It would be the first in 40 years](https://new-news.github.io/Latest/2024/07/19/thousands_of_disneyland_workers_are_expected_to_authorize_a_potential_strike__it_would_be_the_first_in_40_years 'Thousands of Disneyland workers are expected to authorize a potential strike. It would be the first in 40 years')
+
+- [Adidas apologizes for ad campaign linked to 1972 Munich Olympics](https://new-news.github.io/Latest/2024/07/19/adidas_apologizes_for_ad_campaign_linked_to_1972_munich_olympics 'Adidas apologizes for ad campaign linked to 1972 Munich Olympics')
 
 - [Polio detected in Gaza sewage water, threatening new health disaster](https://new-news.github.io/Latest/2024/07/19/polio_detected_in_gaza_sewage_water__threatening_new_health_disaster 'Polio detected in Gaza sewage water, threatening new health disaster')
 
-- [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
+- [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 
 - [Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal](https://new-news.github.io/Latest/2024/07/19/top_un_court_says_israeli_occupation_of_west_bank_and_east_jerusalem_is_illegal 'Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal')
 
 - [Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancellations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses')
 
 - [Spanish town to fine tourists for hogging beach spots](https://new-news.github.io/Latest/2024/07/19/spanish_town_to_fine_tourists_for_hogging_beach_spots 'Spanish town to fine tourists for hogging beach spots')
-
-- [Which airports and airlines have been affected by the outages?](https://new-news.github.io/Latest/2024/07/19/which_airports_and_airlines_have_been_affected_by_the_outages 'Which airports and airlines have been affected by the outages?')
 
 - [Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’](https://new-news.github.io/Latest/2024/07/19/kate_hudson_says_she_could_smell_matthew_mcconaughey_from_a_mile 'Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’')
 
@@ -198,16 +206,8 @@
 
 - [Opinion: Why we can’t give up on capitalism](https://new-news.github.io/Latest/2024/07/19/opinion__why_we_cant_give_up_on_capitalism 'Opinion: Why we can’t give up on capitalism')
 
-- [Shakeups in the 2024 race provide much-needed jolt in interest for news outlets](https://new-news.github.io/Latest/2024/07/19/shakeups_in_the_2024_race_provide_much_needed_jolt_in_interest_for_news_outlets 'Shakeups in the 2024 race provide much-needed jolt in interest for news outlets')
-
-- [Glen Powell will have his nose in the books on his next project](https://new-news.github.io/Latest/2024/07/19/glen_powell_will_have_his_nose_in_the_books_on_his_next_project 'Glen Powell will have his nose in the books on his next project')
-
-- [Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats](https://new-news.github.io/Latest/2024/07/19/ferrari_program_asks_customers_to_rat_out_counterfeit_cars__t_shirts_and_hats 'Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats')
-
-- [We’re in the thick of the ‘dog days of summer.’ We can thank the ancient Greeks for that](https://new-news.github.io/Latest/2024/07/19/were_in_the_thick_of_the_dog_days_of_summer__we_can_thank_the_ancient_greeks_for_that 'We’re in the thick of the ‘dog days of summer.’ We can thank the ancient Greeks for that')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [across](/ 'across')  [activists](/ 'activists')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aileen](/ 'aileen')  [air](/ 'air')  [airlines](/ 'airlines') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [across](/ 'across')  [activists](/ 'activists')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aileen](/ 'aileen') 

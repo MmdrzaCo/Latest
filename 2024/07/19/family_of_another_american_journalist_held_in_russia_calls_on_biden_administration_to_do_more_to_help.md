@@ -1,6 +1,6 @@
 # Family of another American journalist held in Russia calls on Biden administration to do more to help
 
-Published :`2024-07-19 15:36:42`
+Published :`2024-07-19 16:18:23`
 
 ---
 
@@ -28,7 +28,7 @@ On Tuesday, State Department spokesperson Matthew Miller urged Kurmasheva’s �
 
 Another State Department spokesperson said they “are closely following the case of Alsu Kurmasheva, a dedicated journalist who is being targeted by Russian authorities for her uncompromising commitment to speaking the truth and her principled reporting.”
 
-US officials have never been granted access to see Butorin, who is jailed in Kazan, a city in the Tatarstan region in southwest Russia. In late May, her pretrial detention was once again extended until early August.
+US officials have never been granted access to see Kurmasheva, who is jailed in Kazan, a city in the Tatarstan region in southwest Russia. In late May, her pretrial detention was once again extended until early August.
 
 The family has also not been allowed phone calls to Kurmasheva. She has been able to see her mother a few times, Butorin said. He said that video of her in court shows that her imprisonment has taken a toll on her health.
 

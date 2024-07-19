@@ -1,6 +1,6 @@
 # Recovering from the global tech outage could be a long, arduous process
 
-Published :`2024-07-19 15:36:42`
+Published :`2024-07-19 16:18:23`
 
 ---
 
@@ -36,7 +36,37 @@ Recovery will be enormously expensive for Fortune 500 companies with large teams
 
 “It’s a fairly complicated procedure for non-technical people,” White added, “and even a lot of skilled IT professionals will find it difficult to do this at the scale that’s going to be required given the number of machines that are affected.”
 
-This is a developing story. It will be updated.
+### How did the CrowdStrike bug lead to such widespread effects?
+
+Because CrowdStrike’s security software is running on countless individual computers all around the globe, the update that got pushed to those devices caused them all to shut down, virtually simultaneously.
+
+And in today’s networked economy, an outage in one part of a supply chain can cause  domino effects up and down the line. When multiple parts of a supply chain go down, it touches off a cascade of problems.
+
+Imagine a person trying to buy a coffee, said Andrew Peck, a cybersecurity expert at Loughborough University in the UK. What may seem like a simple transaction relies on multiple computers working in tandem, from the coffee shop’s point of sale to the payment processor’s own back-end systems.
+
+“There are a lot of computers in this chain, and usually the larger the business, the larger the chain,” Peck said. “If any one of the computers are down in the chain, the transaction will not complete.”
+
+Now scale that up to something like the massive aviation industry, the critical financial services sector or the life-or-death operations of a health care provider, and the scope of the disaster becomes starkly clear.
+
+### What is Microsoft’s role in all this?
+
+A separate issue earlier, on Thursday, did lead to significant impacts on many of Microsoft’s own cloud customers, but it was resolved overnight and was unrelated to the CrowdStrike issue, multiple cybersecurity experts said.
+
+The CrowdStrike bug may have initially been conflated with the Microsoft issue because CrowdStrike’s error affected only Windows machines.
+
+“Both are Microsoft-related, but Microsoft had nothing to do with the second incident,” White told CNN.
+
+That appears to be supported by Microsoft’s own status account on X, which on Thursday announced an issue affecting “Microsoft 365 apps and services” and a separate announcement Friday addressing the CrowdStrike outage. The two issues are being tracked using different reference numbers.
+
+As of Friday morning, Microsoft said the issue with Microsoft 365 had been resolved and that the situation was improving. Microsoft didn’t immediately respond to a request for comment.
+
+Since the update to CrowdStrike’s software was delivered by the company’s own systems, it appears unlikely that Microsoft bears direct responsibility for Friday’s outages, said Beaumont, who said he reviewed a copy of CrowdStrike’s flawed update.
+
+The problem with CrowdStrike’s update was that it wasn’t formatted correctly “and causes Windows to crash every time,” Beaumont posted on X.
+
+CNN’s Olesya Dmitracova contributed reporting.
+
+This story has been updated with additional context and developments.
 
 ---
 
