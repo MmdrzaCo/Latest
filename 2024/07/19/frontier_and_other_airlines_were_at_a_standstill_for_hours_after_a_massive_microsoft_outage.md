@@ -1,6 +1,6 @@
 # Frontier and other airlines were at a standstill for hours after a massive Microsoft outage
 
-Published :`2024-07-19 19:37:00`
+Published :`2024-07-19 20:17:01`
 
 ---
 

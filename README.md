@@ -1,14 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 19:37:04`
+#### Latest Update : `2024-07-19 20:17:03`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Ten Commandments won’t go in Louisiana classrooms until at least November as lawsuit plays out](https://new-news.github.io/Latest/2024/07/19/ten_commandments_wont_go_in_louisiana_classrooms_until_at_least_november_as_lawsuit_plays_out 'Ten Commandments won’t go in Louisiana classrooms until at least November as lawsuit plays out')
+- [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 
-- [2,400 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_400_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,400 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
+- [2,500 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_500_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,500 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
+
+- [Secret Service boosts and rethinks security for first Trump-Vance rally and campaign](https://new-news.github.io/Latest/2024/07/19/secret_service_boosts_and_rethinks_security_for_first_trump_vance_rally_and_campaign 'Secret Service boosts and rethinks security for first Trump-Vance rally and campaign')
+
+- [Ten Commandments won’t go in Louisiana classrooms until at least November as lawsuit plays out](https://new-news.github.io/Latest/2024/07/19/ten_commandments_wont_go_in_louisiana_classrooms_until_at_least_november_as_lawsuit_plays_out 'Ten Commandments won’t go in Louisiana classrooms until at least November as lawsuit plays out')
 
 - [Opinion: The stunning silence at the heart of ‘Twisters’](https://new-news.github.io/Latest/2024/07/19/opinion__the_stunning_silence_at_the_heart_of_twisters 'Opinion: The stunning silence at the heart of ‘Twisters’')
 
@@ -31,8 +35,6 @@
 - [Israel investigates security failures around deadly Tel Aviv drone strike](https://new-news.github.io/Latest/2024/07/19/israel_investigates_security_failures_around_deadly_tel_aviv_drone_strike 'Israel investigates security failures around deadly Tel Aviv drone strike')
 
 - [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/19/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
-
-- [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 
 - [A closer look at the sexual misconduct lawsuits against Sean ‘Diddy’ Combs](https://new-news.github.io/Latest/2024/07/19/a_closer_look_at_the_sexual_misconduct_lawsuits_against_sean_diddy_combs 'A closer look at the sexual misconduct lawsuits against Sean ‘Diddy’ Combs')
 
@@ -203,8 +205,6 @@
 - [US rock band manager Travis Leake sentenced to 13 years in Russian penal colony, following drug charges](https://new-news.github.io/Latest/2024/07/19/us_rock_band_manager_travis_leake_sentenced_to_13_years_in_russian_penal_colony__following_drug_charges 'US rock band manager Travis Leake sentenced to 13 years in Russian penal colony, following drug charges')
 
 - [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/19/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
-
-- [Simone Biles reflects on Tokyo Olympics in ‘Rising’: ‘I felt like I was in jail with my own brain and body’](https://new-news.github.io/Latest/2024/07/19/simone_biles_reflects_on_tokyo_olympics_in_rising__i_felt_like_i_was_in_jail_with_my_own_brain_and_body 'Simone Biles reflects on Tokyo Olympics in ‘Rising’: ‘I felt like I was in jail with my own brain and body’')
 
 
 

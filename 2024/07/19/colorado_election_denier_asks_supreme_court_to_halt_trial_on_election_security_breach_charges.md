@@ -1,6 +1,6 @@
 # Colorado election denier asks Supreme Court to halt trial on election security breach charges
 
-Published :`2024-07-19 19:36:57`
+Published :`2024-07-19 20:17:00`
 
 ---
 
