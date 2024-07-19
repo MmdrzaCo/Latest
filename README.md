@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 05:15:43`
+#### Latest Update : `2024-07-19 05:36:57`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know](https://new-news.github.io/Latest/2024/07/19/bangladesh_has_erupted_over_jobs_reserved_for_the_children_of_freedom_fighters__heres_what_you_need_to_know 'Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know')
 
 - [Takeaways from the final night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/19/takeaways_from_the_final_night_of_the_republican_national_convention 'Takeaways from the final night of the Republican National Convention')
 
@@ -203,8 +205,6 @@
 - [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/19/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
 
 - [Families release photos of five female Israeli soldiers from their first days of captivity in Gaza](https://new-news.github.io/Latest/2024/07/19/families_release_photos_of_five_female_israeli_soldiers_from_their_first_days_of_captivity_in_gaza 'Families release photos of five female Israeli soldiers from their first days of captivity in Gaza')
-
-- [Menopause retreats are the next big thing in wellness](https://new-news.github.io/Latest/2024/07/19/menopause_retreats_are_the_next_big_thing_in_wellness 'Menopause retreats are the next big thing in wellness')
 
 
 
