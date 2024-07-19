@@ -1,10 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 14:15:23`
+#### Latest Update : `2024-07-19 14:37:07`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’](https://new-news.github.io/Latest/2024/07/19/kate_hudson_says_she_could_smell_matthew_mcconaughey_from_a_mile 'Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’')
+
+- [Starbucks wanted to be the ‘third place.’ Now it’s speeding you out the door](https://new-news.github.io/Latest/2024/07/19/starbucks_wanted_to_be_the_third_place__now_its_speeding_you_out_the_door 'Starbucks wanted to be the ‘third place.’ Now it’s speeding you out the door')
+
+- [WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_sentenced_to_16_years_for_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham')
+
+- [Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation](https://new-news.github.io/Latest/2024/07/19/allen_weisselberg__former_trump_org__cfo__released_from_jail_after_serving_100_days_for_lying_during_investigation 'Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation')
+
+- [Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancellations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses')
+
+- [Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height](https://new-news.github.io/Latest/2024/07/19/journalist_told_to_pay_italian_prime_minister_giorgia_meloni__5_400_for_tweet_mocking_her_height 'Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height')
 
 - [Global tech outage: What to know if you’re traveling this weekend](https://new-news.github.io/Latest/2024/07/19/global_tech_outage__what_to_know_if_youre_traveling_this_weekend 'Global tech outage: What to know if you’re traveling this weekend')
 
@@ -14,11 +26,7 @@
 
 - [Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’](https://new-news.github.io/Latest/2024/07/19/janet_jackson_really__but_politely__dislikes_doing_interviews__please_stop_asking_me_questions 'Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’')
 
-- [WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_convicted_of_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham')
-
 - [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
-
-- [Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancelations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses')
 
 - [Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France](https://new-news.github.io/Latest/2024/07/19/fallout_intensifies_over_soccer_star_enzo_fernández_and_argentina_teammates_singing_racist_chant_about_france 'Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France')
 
@@ -39,8 +47,6 @@
 - [Taylor Casey’s loved ones are keeping hope alive a month after the Chicago woman disappeared in the Bahamas](https://new-news.github.io/Latest/2024/07/19/taylor_caseys_loved_ones_are_keeping_hope_alive_a_month_after_the_chicago_woman_disappeared_in_the_bahamas 'Taylor Casey’s loved ones are keeping hope alive a month after the Chicago woman disappeared in the Bahamas')
 
 - [China economy: Key meeting offers few clues on how to tackle worsening downturn](https://new-news.github.io/Latest/2024/07/19/china_economy__key_meeting_offers_few_clues_on_how_to_tackle_worsening_downturn 'China economy: Key meeting offers few clues on how to tackle worsening downturn')
-
-- [A major shift at Starbucks has changed its personality](https://new-news.github.io/Latest/2024/07/19/a_major_shift_at_starbucks_has_changed_its_personality 'A major shift at Starbucks has changed its personality')
 
 - [This couple’s hobby? Illegally scaling the world’s tallest buildings together](https://new-news.github.io/Latest/2024/07/19/this_couples_hobby_illegally_scaling_the_worlds_tallest_buildings_together 'This couple’s hobby? Illegally scaling the world’s tallest buildings together')
 
@@ -200,14 +206,8 @@
 
 - [Germany to halve military aid for Ukraine despite possible Trump White House](https://new-news.github.io/Latest/2024/07/19/germany_to_halve_military_aid_for_ukraine_despite_possible_trump_white_house 'Germany to halve military aid for Ukraine despite possible Trump White House')
 
-- [Vietnam Communist Party chief hands power to president as he undergoes medical care](https://new-news.github.io/Latest/2024/07/19/vietnam_communist_party_chief_hands_power_to_president_as_he_undergoes_medical_care 'Vietnam Communist Party chief hands power to president as he undergoes medical care')
-
-- [Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe](https://new-news.github.io/Latest/2024/07/19/greece_shuts_acropolis_and_adriatic_sea_hits_record_high_temperature_as_extreme_heat_bakes_europe 'Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe')
-
-- [Justice Department drops some January 6 obstruction charges and retools plea deals after Supreme Court ruling](https://new-news.github.io/Latest/2024/07/19/justice_department_drops_some_january_6_obstruction_charges_and_retools_plea_deals_after_supreme_court_ruling 'Justice Department drops some January 6 obstruction charges and retools plea deals after Supreme Court ruling')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [across](/ 'across')  [activists](/ 'activists')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [across](/ 'across')  [activists](/ 'activists')  [administration](/ 'administration')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen')  [air](/ 'air')  [airlines](/ 'airlines') 

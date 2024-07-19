@@ -1,6 +1,6 @@
 # Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN
 
-Published :`2024-07-19 14:15:20`
+Published :`2024-07-19 14:37:06`
 
 ---
 
