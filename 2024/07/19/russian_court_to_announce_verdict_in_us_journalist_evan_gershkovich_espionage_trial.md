@@ -1,6 +1,6 @@
 # Russian court to announce verdict in US journalist Evan Gershkovich espionage trial
 
-Published :`2024-07-19 10:37:24`
+Published :`2024-07-19 11:13:27`
 
 ---
 
@@ -16,7 +16,7 @@ The state prosecution service has requested 18 years in prison for Gershkovich, 
 
 The trial resumed on Thursday after being brought forward at the request of his defense.
 
-Gershkovich was arrested while reporting for the WSJ, during a reporting trip to Yekaterinburg in March 2023, and later accused of spying for the CIA, making him the first American journalist to be detained on such an allegation since the Cold War.
+Gershkovich was arrested while on a reporting trip to Yekaterinburg in March 2023, and later accused of spying for the CIA, making him the first American journalist to be detained on such an allegation since the Cold War.
 
 Gershkovich, the US government and the WSJ have vehemently denied the charges against him.
 

@@ -1,6 +1,6 @@
 # What is Crowdstrike, the company responsible for the global outage?
 
-Published :`2024-07-19 10:37:23`
+Published :`2024-07-19 11:13:27`
 
 ---
 
