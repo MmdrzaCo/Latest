@@ -1,6 +1,6 @@
 # WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham
 
-Published :`2024-07-19 17:14:39`
+Published :`2024-07-19 17:37:14`
 
 ---
 
@@ -25,6 +25,10 @@ In a statement following Friday’s sentencing, Gershkovich’s employer said: �
 “We will continue to do everything possible to press for Evan’s release and to support his family,” the statement from Dow Jones CEO and Wall Street Journal Publisher Almar Latour and Wall Street Journal Editor in Chief Emma Tucker continued.
 
 “Journalism is not a crime, and we will not rest until he’s released. This must end now,” it added.
+
+At the United Nations Security Council on Friday, US Ambassador to the UN Linda Thomas-Greenfield Ambassador also raised Gershkovich’s case. “Let me begin with the news coming out of Russia this morning. Evan Gershkovich was sentenced to 16 years. He has committed no crime. He is being punished because he is a journalist, and he is an American. Simple as that,” she said.
+
+### 15 days to appeal
 
 The verdict has yet to enter into force, and the defense can appeal the conviction within 15 days, judge Andrey Mineyev said while delivering his verdict. The court also ordered Gershkovich to pay procedural costs of 6,708 rubles ($77), and for some of his personal items, including an iPhone and a notepad, to be destroyed.
 

@@ -1,18 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 17:14:47`
+#### Latest Update : `2024-07-19 17:37:22`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
+
+- [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/19/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
+
+- [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
+
+- [WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_sentenced_to_16_years_for_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham')
+
+- [A closer look at the sexual misconduct lawsuits against Sean ‘Diddy’ Combs](https://new-news.github.io/Latest/2024/07/19/a_closer_look_at_the_sexual_misconduct_lawsuits_against_sean_diddy_combs 'A closer look at the sexual misconduct lawsuits against Sean ‘Diddy’ Combs')
 
 - [Which airports and airlines have been affected by the outages?](https://new-news.github.io/Latest/2024/07/19/which_airports_and_airlines_have_been_affected_by_the_outages 'Which airports and airlines have been affected by the outages?')
 
 - [The ‘first’ post-Covid Olympics are exciting sponsors. Fans? Not so much](https://new-news.github.io/Latest/2024/07/19/the_first_post_covid_olympics_are_exciting_sponsors__fans_not_so_much 'The ‘first’ post-Covid Olympics are exciting sponsors. Fans? Not so much')
 
 - [Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal](https://new-news.github.io/Latest/2024/07/19/top_un_court_says_israeli_occupation_of_west_bank_and_east_jerusalem_is_illegal 'Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal')
-
-- [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
 
 - [Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination](https://new-news.github.io/Latest/2024/07/19/dr__sanjay_gupta__there_are_still_key_questions_about_trumps_injuries_after_attempted_assassination 'Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination')
 
@@ -32,15 +40,11 @@
 
 - [Adidas apologizes for ad campaign linked to 1972 Munich Olympics](https://new-news.github.io/Latest/2024/07/19/adidas_apologizes_for_ad_campaign_linked_to_1972_munich_olympics 'Adidas apologizes for ad campaign linked to 1972 Munich Olympics')
 
-- [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
-
 - [Spanish town to fine tourists for hogging beach spots](https://new-news.github.io/Latest/2024/07/19/spanish_town_to_fine_tourists_for_hogging_beach_spots 'Spanish town to fine tourists for hogging beach spots')
 
 - [Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’](https://new-news.github.io/Latest/2024/07/19/kate_hudson_says_she_could_smell_matthew_mcconaughey_from_a_mile 'Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’')
 
 - [Starbucks wanted to be the ‘third place.’ Now it’s speeding you out the door](https://new-news.github.io/Latest/2024/07/19/starbucks_wanted_to_be_the_third_place__now_its_speeding_you_out_the_door 'Starbucks wanted to be the ‘third place.’ Now it’s speeding you out the door')
-
-- [WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_sentenced_to_16_years_for_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham')
 
 - [Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation](https://new-news.github.io/Latest/2024/07/19/allen_weisselberg__former_trump_org__cfo__released_from_jail_after_serving_100_days_for_lying_during_investigation 'Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation')
 
@@ -119,8 +123,6 @@
 - [Macron’s party wins parliamentary president role despite rebuke from voters](https://new-news.github.io/Latest/2024/07/19/macrons_party_wins_parliamentary_president_role_despite_rebuke_from_voters 'Macron’s party wins parliamentary president role despite rebuke from voters')
 
 - [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/19/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
-
-- [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/19/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
 
 - [Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78](https://new-news.github.io/Latest/2024/07/19/lou_dobbs__veteran_cable_news_anchor_and_trump_booster__dies_at_78 'Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78')
 
@@ -203,8 +205,6 @@
 - [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/19/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
 
 - [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/19/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
-
-- [Team USA earns dominant win over Serbia and NBA MVP Nikola Jokić](https://new-news.github.io/Latest/2024/07/19/team_usa_earns_dominant_win_over_serbia_and_nba_mvp_nikola_jokić 'Team USA earns dominant win over Serbia and NBA MVP Nikola Jokić')
 
 
 

@@ -1,6 +1,6 @@
 # Recovering from the global tech outage could be a long, arduous process
 
-Published :`2024-07-19 17:14:39`
+Published :`2024-07-19 17:37:14`
 
 ---
 
@@ -9,6 +9,8 @@ The company that caused a massive computer outage across the world says a flawed
 The CrowdStrike software issue at the heart of the outage runs at such a deep level in affected computers and systems that getting them up and running just to be fixed will be, in many cases, an enormous challenge.
 
 That’s compounded by the fact that many of the servers that may contain information needed to get these systems working again are themselves caught in a cycle of crashing and rebooting.
+
+And some affected computers might not even be easily accessible, set up in remote locations and intended to run without human intervention.
 
 “I don’t think it’s too early to call it: this will be the largest IT outage in history,” said security expert Troy Hunt in a post on X.
 
@@ -27,6 +29,8 @@ On Friday, a Microsoft status page reported that some Windows Virtual Machine us
 “We have received feedback from customers that several reboots (as many as 15 have been reported) may be required, but overall feedback is that reboots are an effective troubleshooting step at this stage,” Microsoft said on the page. The company did not speculate as to why the technique appears to work.
 
 Affected organizations can also try to restore their machines to an earlier state by reverting to a previous system backup, Microsoft added, though it acknowledged that may not be possible in all cases.
+
+“Companies that haven’t invested in rapid backup solutions are stuck in a catch-22,” said Eric O’Neill, a cybersecurity expert and former FBI counterintelligence official.
 
 It gets worse.
 
@@ -54,9 +58,15 @@ Imagine a person trying to buy a coffee, said Andrew Peck, a cybersecurity exper
 
 Now scale that up to something like the massive aviation industry, the critical financial services sector or the life-or-death operations of a health care provider, and the scope of the disaster becomes starkly clear.
 
+Some affected machines may be rarely serviced by people or located in remote areas. Others may not even have monitors or keyboards plugged in, because they don’t regularly require humans to directly interact with them.
+
+The most extreme examples may include weather monitoring sensors or devices in railway signal boxes, Peck said, which could require technicians to physically visit potentially hundreds of thousands of machines to perform the recovery process.
+
+Recovery will cost the world “thousands of hours and millions, potentially billions of dollars,” Peck said, which quickly adds up to “some very exhausted IT support teams burning budget they didn’t have.”
+
 ### What is Microsoft’s role in all this?
 
-A separate issue earlier, on Thursday, did lead to significant impacts on many of Microsoft’s own cloud customers, but it was resolved overnight and was unrelated to the CrowdStrike issue, Microsoft and multiple cybersecurity experts said told CNN.
+A separate issue earlier, on Thursday, did lead to significant impacts on many of Microsoft’s own cloud customers, but it was resolved overnight and was unrelated to the CrowdStrike issue, Microsoft and multiple cybersecurity experts told CNN.
 
 The CrowdStrike bug may have initially been conflated with the Microsoft issue because CrowdStrike’s error affected only Windows machines.
 
@@ -65,6 +75,8 @@ The CrowdStrike bug may have initially been conflated with the Microsoft issue b
 That appears to be supported by Microsoft’s own status account on X, which on Thursday announced an issue affecting “Microsoft 365 apps and services” and a separate announcement Friday addressing the CrowdStrike outage. The two issues are being tracked using different reference numbers.
 
 As of Friday morning, Microsoft said the issue with Microsoft 365 had been resolved and that the situation was improving.
+
+“The ongoing CrowdStrike issue is unrelated to a previous outage in the South Central US Azure region on July 18, impacting Azure customers using that region as well as some Microsoft 365 services,” Microsoft said.
 
 Microsoft CEO Satya Nadella acknowledged the CrowdStrike issue in a post on X Friday morning, saying Microsoft is “working closely with CrowdStrike and across the industry to provide customers technical guidance and support to safely bring their systems back online.”
 

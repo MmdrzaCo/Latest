@@ -1,6 +1,6 @@
 # Bob Newhart, legendary comedian, dead at 94
 
-Published :`2024-07-19 17:14:43`
+Published :`2024-07-19 17:37:14`
 
 ---
 
@@ -42,7 +42,7 @@ Newhart never really retired, continuing to make television appearances in recen
 
 Other film work from the star included turns in “Horrible Bosses” and “In & Out.”
 
-### A late career Christmas present
+### A late-career Christmas present
 
 His performance as Papa Elf in the 2003 beloved Christmas comedy “Elf,” Newhart believed, “outranks, by far, any role I may have ever played,” he shared in an email interview with CNN last fall on the occasion of the film’s 20th anniversary.
 

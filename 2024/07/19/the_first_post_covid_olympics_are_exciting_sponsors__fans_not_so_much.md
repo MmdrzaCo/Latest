@@ -1,12 +1,12 @@
 # The ‘first’ post-Covid Olympics are exciting sponsors. Fans? Not so much
 
-Published :`2024-07-19 17:14:39`
+Published :`2024-07-19 17:37:14`
 
 ---
 
 The brownish, once-polluted River Seine in Paris isn’t the glitziest or most glamorous, especially in a city filled with iconic landmarks. But for Chase, it’s hoping the waterway will be a showstopper.
 
-At the 2024 Summer Olympics, which officially starts next Friday in the French capital, the bank, along with credit card company Visa, is debuting a floating lounge exclusively for holders of its pricey Chase Sapphire Reserve card. It’s just small sliver of what companies are doing in their takeover during the two-week sporting spectacular.
+At the 2024 Summer Olympics, which officially starts next Friday in the French capital, the bank, along with credit card company Visa, is debuting a floating lounge exclusively for holders of its pricey Chase Sapphire Reserve card. It’s just a small sliver of what companies are doing in their takeover during the two-week sporting spectacular.
 
 Paris 2024 organizers are expected to bring in about $1.3 billion in sponsorship revenue from a mix of domestic partners totaling 60 companies, like Accor and LVMH, and international partners from Coca-Cola to Omega watches. In a first, Anheuser-Bush InBev is the beer sponsor for the Olympic games with a non-alcoholic brew taking the torch.
 

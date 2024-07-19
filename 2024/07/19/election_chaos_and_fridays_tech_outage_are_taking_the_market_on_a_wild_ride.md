@@ -1,18 +1,18 @@
 # Election chaos and Friday’s tech outage are taking the market on a wild ride
 
-Published :`2024-07-19 17:14:39`
+Published :`2024-07-19 17:37:14`
 
 ---
 
 Stocks are soaring this year, but that could soon change as election chaos takes the market on a rollercoaster ride.
 
-The S&P 500 is up more than 16% so far this year and hasn’t fallen by 2% in more than 353 trading sessions. That’s the longest such streak since 2007 (right before the financial collapse).
+The S&P 500 is up more than 16% since January and hasn’t fallen by 2% in more than 353 trading sessions. That’s the longest such streak since 2007 (right before the financial collapse).
 
 But this has been a destabilizing week for US stocks and the market trajectory could be shifting.
 
 Investors have struggled to find their footing in recent days as they contend with an assassination attempt on former President Donald Trump, rising odds that President Joe Biden will drop out of the election, attacks on Big Tech and chipmakers from both sides of the aisle and a global computer outage affecting airports, banks, hospitals and other businesses.
 
-The Dow was down more than 430 points, or 1%, in the morning trading session on Friday as the tech outage continued to rattle investors. The S&P 500 and the Nasdaq Composite were both around 0.6% lower.
+The Dow was down more than 450 points, or 1.1%, in the afternoon trading session on Friday as the tech outage continued to rattle investors. The S&P 500 and the Nasdaq Composite were both almost 1% lower.
 
 It’s the latest session to see stocks oscillating this week, reaching new highs before swinging back down again.
 
