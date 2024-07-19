@@ -1,6 +1,6 @@
 # We’re in the thick of the ‘dog days of summer.’ We can thank the ancient Greeks for that
 
-Published :`2024-07-19 12:54:43`
+Published :`2024-07-19 13:17:29`
 
 ---
 
