@@ -1,14 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 12:28:19`
+#### Latest Update : `2024-07-19 12:54:43`
 
 ## Latest News Grabbing 
 
 ---
 
-- [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/19/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
-
 - [WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_convicted_of_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham')
+
+- [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
+
+- [Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France](https://new-news.github.io/Latest/2024/07/19/fallout_intensifies_over_soccer_star_enzo_fernández_and_argentina_teammates_singing_racist_chant_about_france 'Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France')
+
+- [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/19/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
 
 - [Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancelations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses')
 
@@ -21,8 +25,6 @@
 - [Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78](https://new-news.github.io/Latest/2024/07/19/cheng_pei_pei__queen_of_martial_arts_movies__dead_at_78 'Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78')
 
 - [Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay](https://new-news.github.io/Latest/2024/07/19/lewis_hamilton_praises_ralf_schumacher_after_former_f1_driver_publicly_identifies_as_gay 'Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay')
-
-- [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
 
 - [A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade](https://new-news.github.io/Latest/2024/07/19/a_tale_of_two_presidents_as_trump_claims_his_triumph_and_bidens_hopes_begin_to_fade 'A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade')
 
@@ -204,10 +206,8 @@
 
 - [Angel City FC set to become world’s most valuable pro women’s sports team following new investment](https://new-news.github.io/Latest/2024/07/19/angel_city_fc_set_to_become_worlds_most_valuable_pro_womens_sports_team_following_new_investment 'Angel City FC set to become world’s most valuable pro women’s sports team following new investment')
 
-- [Biden announces additional $1.2 billion in student debt relief for 35,000 public-sector workers](https://new-news.github.io/Latest/2024/07/19/biden_announces_additional__1_2_billion_in_student_debt_relief_for_35_000_public_sector_workers 'Biden announces additional $1.2 billion in student debt relief for 35,000 public-sector workers')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [across](/ 'across')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [across](/ 'across')  [activists](/ 'activists')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 

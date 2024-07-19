@@ -1,6 +1,6 @@
 # Ursula von der Leyen elected to second term as European Commission president
 
-Published :`2024-07-19 12:28:18`
+Published :`2024-07-19 12:54:42`
 
 ---
 
