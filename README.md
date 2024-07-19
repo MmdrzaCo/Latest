@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 20:17:03`
+#### Latest Update : `2024-07-19 20:37:01`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Carol Burnett shares time capsule tribute to Bob Newhart](https://new-news.github.io/Latest/2024/07/19/carol_burnett_shares_time_capsule_tribute_to_bob_newhart 'Carol Burnett shares time capsule tribute to Bob Newhart')
+
+- [How the world’s tech crashed all at once](https://new-news.github.io/Latest/2024/07/19/how_the_worlds_tech_crashed_all_at_once 'How the world’s tech crashed all at once')
 
 - [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 
@@ -201,10 +205,6 @@
 - [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/19/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
 
 - [Donald Glover is retiring Childish Gambino](https://new-news.github.io/Latest/2024/07/19/donald_glover_is_retiring_childish_gambino 'Donald Glover is retiring Childish Gambino')
-
-- [US rock band manager Travis Leake sentenced to 13 years in Russian penal colony, following drug charges](https://new-news.github.io/Latest/2024/07/19/us_rock_band_manager_travis_leake_sentenced_to_13_years_in_russian_penal_colony__following_drug_charges 'US rock band manager Travis Leake sentenced to 13 years in Russian penal colony, following drug charges')
-
-- [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/19/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
 
 
 

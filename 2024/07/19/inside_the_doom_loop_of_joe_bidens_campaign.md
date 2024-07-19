@@ -1,6 +1,6 @@
 # Inside the ‘doom loop’ of Joe Biden’s campaign
 
-Published :`2024-07-19 20:17:01`
+Published :`2024-07-19 20:37:00`
 
 ---
 
