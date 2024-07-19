@@ -1,18 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 06:21:09`
+#### Latest Update : `2024-07-19 06:40:32`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
+
+- [A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade](https://new-news.github.io/Latest/2024/07/19/a_tale_of_two_presidents_as_trump_claims_his_triumph_and_bidens_hopes_begin_to_fade 'A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade')
 
 - [Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know](https://new-news.github.io/Latest/2024/07/19/bangladesh_has_erupted_over_jobs_reserved_for_the_children_of_freedom_fighters__heres_what_you_need_to_know 'Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know')
 
 - [Takeaways from the final night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/19/takeaways_from_the_final_night_of_the_republican_national_convention 'Takeaways from the final night of the Republican National Convention')
 
 - [University of Florida president Ben Sasse is resigning after his wife was diagnosed with epilepsy](https://new-news.github.io/Latest/2024/07/19/university_of_florida_president_ben_sasse_is_resigning_after_his_wife_was_diagnosed_with_epilepsy 'University of Florida president Ben Sasse is resigning after his wife was diagnosed with epilepsy')
-
-- [Blast in Tel Aviv kills at least one in possible drone attack, Israeli officials say](https://new-news.github.io/Latest/2024/07/19/blast_in_tel_aviv_kills_at_least_one_in_possible_drone_attack__israeli_officials_say 'Blast in Tel Aviv kills at least one in possible drone attack, Israeli officials say')
 
 - [Olympic Village welcomes first athletes ahead of 2024 Paris Games](https://new-news.github.io/Latest/2024/07/19/olympic_village_welcomes_first_athletes_ahead_of_2024_paris_games 'Olympic Village welcomes first athletes ahead of 2024 Paris Games')
 
@@ -203,8 +205,6 @@
 - [These are the states that rank highest and lowest for women’s health in new report](https://new-news.github.io/Latest/2024/07/19/these_are_the_states_that_rank_highest_and_lowest_for_womens_health_in_new_report 'These are the states that rank highest and lowest for women’s health in new report')
 
 - [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/19/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
-
-- [Families release photos of five female Israeli soldiers from their first days of captivity in Gaza](https://new-news.github.io/Latest/2024/07/19/families_release_photos_of_five_female_israeli_soldiers_from_their_first_days_of_captivity_in_gaza 'Families release photos of five female Israeli soldiers from their first days of captivity in Gaza')
 
 
 

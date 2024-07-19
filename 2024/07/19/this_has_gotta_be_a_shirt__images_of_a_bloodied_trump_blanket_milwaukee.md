@@ -1,6 +1,6 @@
 # ‘This has gotta be a shirt’: Images of a bloodied Trump blanket Milwaukee
 
-Published :`2024-07-19 06:21:07`
+Published :`2024-07-19 06:40:30`
 
 ---
 
