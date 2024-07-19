@@ -1,14 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 03:19:27`
+#### Latest Update : `2024-07-19 03:38:57`
 
 ## Latest News Grabbing 
 
 ---
 
-- [DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time](https://new-news.github.io/Latest/2024/07/19/doj_says_substantial_progress_made_toward_final_plea_agreement_with_boeing_but_needs_more_time 'DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time')
-
 - [Frontier and other airlines were at a standstill for hours after a massive Microsoft outage](https://new-news.github.io/Latest/2024/07/19/frontier_and_other_airlines_were_at_a_standstill_for_hours_after_a_massive_microsoft_outage 'Frontier and other airlines were at a standstill for hours after a massive Microsoft outage')
+
+- [DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time](https://new-news.github.io/Latest/2024/07/19/doj_says_substantial_progress_made_toward_final_plea_agreement_with_boeing_but_needs_more_time 'DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time')
 
 - [Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says](https://new-news.github.io/Latest/2024/07/19/seattle_officer_fired_for_cruel_comments_and_callous_laughter_following_indian_grad_students_death__police_chief_says 'Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says')
 

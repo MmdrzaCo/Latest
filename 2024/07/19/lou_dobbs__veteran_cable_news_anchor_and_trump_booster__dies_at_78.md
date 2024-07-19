@@ -1,6 +1,6 @@
 # Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78
 
-Published :`2024-07-19 03:19:20`
+Published :`2024-07-19 03:38:50`
 
 ---
 
