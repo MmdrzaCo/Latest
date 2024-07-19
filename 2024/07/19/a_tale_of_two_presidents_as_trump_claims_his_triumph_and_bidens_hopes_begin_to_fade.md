@@ -1,6 +1,6 @@
 # A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade
 
-Published :`2024-07-19 15:16:26`
+Published :`2024-07-19 15:36:43`
 
 ---
 

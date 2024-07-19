@@ -1,6 +1,6 @@
 # Trump triumphant as Biden descends into a deepening crisis
 
-Published :`2024-07-19 15:16:28`
+Published :`2024-07-19 15:36:48`
 
 ---
 

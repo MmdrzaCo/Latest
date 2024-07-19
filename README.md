@@ -1,10 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 15:16:29`
+#### Latest Update : `2024-07-19 15:36:49`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Family of another American journalist held in Russia calls on Biden administration to do more to help](https://new-news.github.io/Latest/2024/07/19/family_of_another_american_journalist_held_in_russia_calls_on_biden_administration_to_do_more_to_help 'Family of another American journalist held in Russia calls on Biden administration to do more to help')
+
+- [Polio detected in Gaza sewage water, threatening new health disaster](https://new-news.github.io/Latest/2024/07/19/polio_detected_in_gaza_sewage_water__threatening_new_health_disaster 'Polio detected in Gaza sewage water, threatening new health disaster')
+
+- [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
+
+- [Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal](https://new-news.github.io/Latest/2024/07/19/top_un_court_says_israeli_occupation_of_west_bank_and_east_jerusalem_is_illegal 'Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal')
+
+- [Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancellations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses')
 
 - [Spanish town to fine tourists for hogging beach spots](https://new-news.github.io/Latest/2024/07/19/spanish_town_to_fine_tourists_for_hogging_beach_spots 'Spanish town to fine tourists for hogging beach spots')
 
@@ -17,8 +27,6 @@
 - [WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_sentenced_to_16_years_for_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham')
 
 - [Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation](https://new-news.github.io/Latest/2024/07/19/allen_weisselberg__former_trump_org__cfo__released_from_jail_after_serving_100_days_for_lying_during_investigation 'Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation')
-
-- [Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancellations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses')
 
 - [Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height](https://new-news.github.io/Latest/2024/07/19/journalist_told_to_pay_italian_prime_minister_giorgia_meloni__5_400_for_tweet_mocking_her_height 'Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height')
 
@@ -197,14 +205,6 @@
 - [Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats](https://new-news.github.io/Latest/2024/07/19/ferrari_program_asks_customers_to_rat_out_counterfeit_cars__t_shirts_and_hats 'Ferrari program asks customers to rat out counterfeit cars, t-shirts and hats')
 
 - [We’re in the thick of the ‘dog days of summer.’ We can thank the ancient Greeks for that](https://new-news.github.io/Latest/2024/07/19/were_in_the_thick_of_the_dog_days_of_summer__we_can_thank_the_ancient_greeks_for_that 'We’re in the thick of the ‘dog days of summer.’ We can thank the ancient Greeks for that')
-
-- [Jerry Ferrara is cruising through the 20th anniversary of ‘Entourage.’ In an Escalade, of course](https://new-news.github.io/Latest/2024/07/19/jerry_ferrara_is_cruising_through_the_20th_anniversary_of_entourage__in_an_escalade__of_course 'Jerry Ferrara is cruising through the 20th anniversary of ‘Entourage.’ In an Escalade, of course')
-
-- [John Deere backs away from diversity and inclusion efforts after a conservative backlash](https://new-news.github.io/Latest/2024/07/19/john_deere_backs_away_from_diversity_and_inclusion_efforts_after_a_conservative_backlash 'John Deere backs away from diversity and inclusion efforts after a conservative backlash')
-
-- [Philadelphia Union’s 14-year-old phenom Cavan Sullivan makes history in MLS debut](https://new-news.github.io/Latest/2024/07/19/philadelphia_unions_14_year_old_phenom_cavan_sullivan_makes_history_in_mls_debut 'Philadelphia Union’s 14-year-old phenom Cavan Sullivan makes history in MLS debut')
-
-- [Supreme Court grants Texas man a stay of execution just before his scheduled lethal injection](https://new-news.github.io/Latest/2024/07/19/supreme_court_grants_texas_man_a_stay_of_execution_just_before_his_scheduled_lethal_injection 'Supreme Court grants Texas man a stay of execution just before his scheduled lethal injection')
 
 
 

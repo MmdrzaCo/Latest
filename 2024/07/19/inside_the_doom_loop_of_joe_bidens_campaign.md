@@ -1,6 +1,6 @@
 # Inside the ‘doom loop’ of Joe Biden’s campaign
 
-Published :`2024-07-19 15:16:26`
+Published :`2024-07-19 15:36:43`
 
 ---
 
@@ -16,7 +16,7 @@ Even several Democrats who want Biden to go acknowledge they’ve created a situ
 
 CNN’s conversations with two dozen Democratic officials, aides in the White House and the campaign reelection headquarters and supportive groups demonstrate just how dark and confused the situation has become even with Trump’s rambling and combative convention speech on Thursday night giving the Biden campaign glimmers of hope for the first time in weeks.
 
-Even among aides in the White House and Wilmington who for long after the debate were ready to stick with him, the weight has started to feel too much. They loved saying in 2020 that Joe Biden won because the party, and not the pundits. Now it feels like the party has decided again, and the president is drawing out the pain, damage to the party and embarrassment for himself with each hour.
+Even among aides in the White House and Wilmington who for long after the debate were ready to stick with him, the weight has started to feel too much. They loved saying in 2020 that Joe Biden won because the party decided, and not the pundits. Now it feels like the party has decided again, and the president is drawing out the pain, damage to the party and embarrassment for himself with each hour.
 
 Some say they’ll quit. Some have already “quiet quit,” going through the motions until Joe Biden gets to the end that many of them now believe is inevitable.
 
