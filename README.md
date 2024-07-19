@@ -1,22 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 11:36:38`
+#### Latest Update : `2024-07-19 12:28:19`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78](https://new-news.github.io/Latest/2024/07/19/cheng_pei_pei__queen_of_martial_arts_movies__dead_at_78 'Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78')
+- [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/19/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
 
-- [Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay](https://new-news.github.io/Latest/2024/07/19/lewis_hamilton_praises_ralf_schumacher_after_former_f1_driver_publicly_identifies_as_gay 'Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay')
+- [WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_convicted_of_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham')
+
+- [Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancelations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses')
+
+- [How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate](https://new-news.github.io/Latest/2024/07/19/how_tennessee_based_artist_aaron_lee_tasjan_is_using_his_music_to_combat_hate 'How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate')
 
 - [What is CrowdStrike, the company linked to the global outage?](https://new-news.github.io/Latest/2024/07/19/what_is_crowdstrike__the_company_linked_to_the_global_outage 'What is CrowdStrike, the company linked to the global outage?')
 
-- [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/19/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
+- [Inside the ‘doom loop’ of Joe Biden’s campaign](https://new-news.github.io/Latest/2024/07/19/inside_the_doom_loop_of_joe_bidens_campaign 'Inside the ‘doom loop’ of Joe Biden’s campaign')
 
-- [Russian court to announce verdict in US journalist Evan Gershkovich espionage trial](https://new-news.github.io/Latest/2024/07/19/russian_court_to_announce_verdict_in_us_journalist_evan_gershkovich_espionage_trial 'Russian court to announce verdict in US journalist Evan Gershkovich espionage trial')
+- [Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78](https://new-news.github.io/Latest/2024/07/19/cheng_pei_pei__queen_of_martial_arts_movies__dead_at_78 'Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78')
 
-- [Delta, United and American Airlines flights grounded due to communication issue, FAA says](https://new-news.github.io/Latest/2024/07/19/delta__united_and_american_airlines_flights_grounded_due_to_communication_issue__faa_says 'Delta, United and American Airlines flights grounded due to communication issue, FAA says')
+- [Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay](https://new-news.github.io/Latest/2024/07/19/lewis_hamilton_praises_ralf_schumacher_after_former_f1_driver_publicly_identifies_as_gay 'Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay')
 
 - [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
 
@@ -27,8 +31,6 @@
 - [China economy: Key meeting offers few clues on how to tackle worsening downturn](https://new-news.github.io/Latest/2024/07/19/china_economy__key_meeting_offers_few_clues_on_how_to_tackle_worsening_downturn 'China economy: Key meeting offers few clues on how to tackle worsening downturn')
 
 - [A major shift at Starbucks has changed its personality](https://new-news.github.io/Latest/2024/07/19/a_major_shift_at_starbucks_has_changed_its_personality 'A major shift at Starbucks has changed its personality')
-
-- [Inside the ‘doom loop’ of Joe Biden’s campaign](https://new-news.github.io/Latest/2024/07/19/inside_the_doom_loop_of_joe_bidens_campaign 'Inside the ‘doom loop’ of Joe Biden’s campaign')
 
 - [This couple’s hobby? Illegally scaling the world’s tallest buildings together](https://new-news.github.io/Latest/2024/07/19/this_couples_hobby_illegally_scaling_the_worlds_tallest_buildings_together 'This couple’s hobby? Illegally scaling the world’s tallest buildings together')
 
@@ -204,10 +206,8 @@
 
 - [Biden announces additional $1.2 billion in student debt relief for 35,000 public-sector workers](https://new-news.github.io/Latest/2024/07/19/biden_announces_additional__1_2_billion_in_student_debt_relief_for_35_000_public_sector_workers 'Biden announces additional $1.2 billion in student debt relief for 35,000 public-sector workers')
 
-- [Former Goldman analyst gets 28-month prison sentence for insider trading](https://new-news.github.io/Latest/2024/07/19/former goldman_analyst_gets_28_month_prison_sentence_for_insider_trading 'Former Goldman analyst gets 28-month prison sentence for insider trading')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen')  [air](/ 'air') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [across](/ 'across')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid') 

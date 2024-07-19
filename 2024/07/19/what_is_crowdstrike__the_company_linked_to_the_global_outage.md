@@ -1,6 +1,6 @@
 # What is CrowdStrike, the company linked to the global outage?
 
-Published :`2024-07-19 11:36:36`
+Published :`2024-07-19 12:28:16`
 
 ---
 
@@ -13,6 +13,8 @@ The company’s engineers took action to address the problem, according to an ad
 CrowdStrike’s cybersecurity software — used by numerous Fortune 500 companies, including  major global banks, healthcare and energy companies — detects and blocks hacking threats. Like other cybersecurity products, the software requires deep-level access to a computer’s operating system to scan for those threats. In this case, computers running Microsoft Windows appear to be crashing because of the faulty way a software code update issued by CrowdStrike is interacting with the Windows system.
 
 The company said the outage was not caused by a security incident or a cyberattack. Kurtz, in his post, said the issue was identified and isolated, and engineers deployed an update to fix the problem.
+
+CrowdStrike’s (CRWD) stock fell 10% in premarket trading.
 
 ### What is CrowdStrike known for?
 

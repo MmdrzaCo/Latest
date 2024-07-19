@@ -1,6 +1,6 @@
 # ‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst
 
-Published :`2024-07-19 11:36:36`
+Published :`2024-07-19 12:28:16`
 
 ---
 
@@ -24,11 +24,7 @@ Neighbors told CNN it was no secret that the family had links to Hamas. “We we
 
 Abdallah had served as a spokesman for Gaza’s Ministry of Labor as recently as 2022, a position entrusted only to Hamas members, according to political analysts. He also showed his support for the group on social media. On Facebook, he posted pictures of his young son dressed in the fatigues of Hamas’ armed wing, the Qassam Brigades, and on October 7 openly praised the group’s attack on Israel. In a 2022 video post, Abdallah commended the Hamas operation to kidnap Israeli soldier Gilad Shalit, who was held in Gaza between 2006 and 2011, and proclaimed: “Brothers, all of us are prepared to die for the resistance.”
 
-Public support for Hamas as a political movement in Gaza has ranged from 34 to “Hamas only trusts Hamas when it comes to those very sensitive issues such as Israeli hostages,” he said.42% over the past seven months, according to polls by the Palestinian Center for Policy and Survey Research. Polling in Gaza faces multiple challenges, including population displacement, people’s reluctance to criticize Hamas publicly and the risks to personal safety in war time. The true level of support for Hamas may be lower, according to Dr. Mkhaimar Abusada, associate professor of Political Science at Al-Azhar University in Gaza, who is now based in the Egyptian capital of Cairo.
-
-There may be other reasons why Hamas chose to house hostages in civilian homes, however.
-
-Hussein Ibish, senior resident scholar at the Arab Gulf States Institute in Washington, said that approach fits Hamas’ strategy to get Israel “bogged down in the urban centers of Gaza and push them into a counterinsurgency that cannot end, which is the perpetual war Hamas says it wants.”
+Public support for Hamas as a political movement in Gaza has ranged from 34 to 42% over the past seven months, according to polls by the Palestinian Center for Policy and Survey Research. Polling in Gaza faces multiple challenges, including population displacement, people’s reluctance to criticize Hamas publicly and the risks to personal safety in war time. The true level of support for Hamas may be lower, according to Dr. Mkhaimar Abusada, associate professor of Political Science at Al-Azhar University in Gaza, who is now based in the Egyptian capital of Cairo.
 
 A higher proportion of Gazans are more broadly supportive of armed resistance, the polling suggests, despite more than nine months of war that has obliterated the strip.
 
@@ -39,6 +35,12 @@ A senior Hamas official last month told CNN the group does not know how many hos
 Despite the level of support in Gaza for Hamas, which has governed the territory since 2007, far fewer people would be accepted into the trusted inner circles of the Islamist movement.
 
 Hostages being held by civilians under the direction of Hamas is unlikely unless they have very strong ties to and are well trusted by the group, according to Abusada.
+
+“Hamas only trusts Hamas when it comes to those very sensitive issues such as Israeli hostages,” he said.
+
+There may be other reasons why Hamas chose to house hostages in civilian homes, however.
+
+Hussein Ibish, senior resident scholar at the Arab Gulf States Institute in Washington, said that approach fits Hamas’ strategy to get Israel “bogged down in the urban centers of Gaza and push them into a counterinsurgency that cannot end, which is the perpetual war Hamas says it wants.”
 
 ### ‘Creative punishment’
 

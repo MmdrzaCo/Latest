@@ -1,6 +1,6 @@
 # Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination
 
-Published :`2024-07-19 11:36:36`
+Published :`2024-07-19 12:28:17`
 
 ---
 

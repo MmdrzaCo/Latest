@@ -1,6 +1,6 @@
 # Inside the ‘doom loop’ of Joe Biden’s campaign
 
-Published :`2024-07-19 11:36:36`
+Published :`2024-07-19 12:28:16`
 
 ---
 
@@ -12,7 +12,7 @@ And for those who were hoping Biden would quit, the public and private pressure,
 
 “His last act will not be getting knocked down,” said one longtime Biden 2020 campaign aide of the family and the inner circle. “They won’t allow it.”
 
-Even several Democrats who want Biden to go acknowledge they’ve created a situation where he will never able to satisfy the “tests” skeptics have said he must pass to stay their nominee. They are buckling down harder, especially when the critiques are more based on vibes, like when Illinois Sen. Dick Durbin suggested in a session between top aides and Senate Democrats last week to “put him in a muscle shirt, like Reagan chopping wood,” according to one person briefed on the discussion.
+Even several Democrats who want Biden to go acknowledge they’ve created a situation where he will never be able to satisfy the “tests” skeptics have said he must pass to stay their nominee. They are buckling down harder, especially when the critiques are more based on vibes, like when Illinois Sen. Dick Durbin suggested in a session between top aides and Senate Democrats last week to “put him in a muscle shirt, like Reagan chopping wood,” according to one person briefed on the discussion.
 
 CNN’s conversations with two dozen Democratic officials, aides in the White House and the campaign reelection headquarters and supportive groups demonstrate just how dark and confused the situation has become even with Trump’s rambling and combative convention speech on Thursday night giving the Biden campaign glimmers of hope for the first time in weeks.
 
