@@ -1,6 +1,6 @@
 # Former Goldman analyst gets 28-month prison sentence for insider trading
 
-Published :`2024-07-19 09:37:25`
+Published :`2024-07-19 10:15:24`
 
 ---
 

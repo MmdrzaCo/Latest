@@ -1,16 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 09:37:25`
+#### Latest Update : `2024-07-19 10:15:24`
 
 ## Latest News Grabbing 
 
 ---
 
+- [A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade](https://new-news.github.io/Latest/2024/07/19/a_tale_of_two_presidents_as_trump_claims_his_triumph_and_bidens_hopes_begin_to_fade 'A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade')
+
+- [Russian court to announce verdict in US journalist Evan Gershkovich espionage trial](https://new-news.github.io/Latest/2024/07/19/russian_court_to_announce_verdict_in_us_journalist_evan_gershkovich_espionage_trial 'Russian court to announce verdict in US journalist Evan Gershkovich espionage trial')
+
+- [Delta, United and American Airlines flights grounded due to communication issue, FAA says](https://new-news.github.io/Latest/2024/07/19/delta__united_and_american_airlines_flights_grounded_due_to_communication_issue__faa_says 'Delta, United and American Airlines flights grounded due to communication issue, FAA says')
+
+- [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
+
+- [Taylor Casey’s loved ones are keeping hope alive a month after the Chicago woman disappeared in the Bahamas](https://new-news.github.io/Latest/2024/07/19/taylor_caseys_loved_ones_are_keeping_hope_alive_a_month_after_the_chicago_woman_disappeared_in_the_bahamas 'Taylor Casey’s loved ones are keeping hope alive a month after the Chicago woman disappeared in the Bahamas')
+
+- [China economy: Key meeting offers few clues on how to tackle worsening downturn](https://new-news.github.io/Latest/2024/07/19/china_economy__key_meeting_offers_few_clues_on_how_to_tackle_worsening_downturn 'China economy: Key meeting offers few clues on how to tackle worsening downturn')
+
 - [A major shift at Starbucks has changed its personality](https://new-news.github.io/Latest/2024/07/19/a_major_shift_at_starbucks_has_changed_its_personality 'A major shift at Starbucks has changed its personality')
 
 - [Inside the ‘doom loop’ of Joe Biden’s campaign](https://new-news.github.io/Latest/2024/07/19/inside_the_doom_loop_of_joe_bidens_campaign 'Inside the ‘doom loop’ of Joe Biden’s campaign')
-
-- [Delta, United and American Airlines flights grounded due to communication issue, FAA says](https://new-news.github.io/Latest/2024/07/19/delta__united_and_american_airlines_flights_grounded_due_to_communication_issue__faa_says 'Delta, United and American Airlines flights grounded due to communication issue, FAA says')
 
 - [This couple’s hobby? Illegally scaling the world’s tallest buildings together](https://new-news.github.io/Latest/2024/07/19/this_couples_hobby_illegally_scaling_the_worlds_tallest_buildings_together 'This couple’s hobby? Illegally scaling the world’s tallest buildings together')
 
@@ -18,11 +28,7 @@
 
 - [Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks](https://new-news.github.io/Latest/2024/07/19/putins_summer_residence_gets_new_air_defenses_as_ukraine_steps_up_drone_attacks 'Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks')
 
-- [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
-
 - [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/19/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
-
-- [A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade](https://new-news.github.io/Latest/2024/07/19/a_tale_of_two_presidents_as_trump_claims_his_triumph_and_bidens_hopes_begin_to_fade 'A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade')
 
 - [Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know](https://new-news.github.io/Latest/2024/07/19/bangladesh_has_erupted_over_jobs_reserved_for_the_children_of_freedom_fighters__heres_what_you_need_to_know 'Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know')
 
@@ -200,14 +206,8 @@
 
 - [India’s ‘godmen’: How a rigid caste system has created a new kind of deity](https://new-news.github.io/Latest/2024/07/19/indias_godmen__how_a_rigid_caste_system_has_created_a_new_kind_of_deity 'India’s ‘godmen’: How a rigid caste system has created a new kind of deity')
 
-- [Man who escaped Oregon prison 30 years ago was found in Georgia with a stolen identity, authorities say](https://new-news.github.io/Latest/2024/07/19/man_who_escaped_oregon_prison_30_years_ago_was_found_in_georgia_with_a_stolen_identity__authorities_say 'Man who escaped Oregon prison 30 years ago was found in Georgia with a stolen identity, authorities say')
-
-- [Emmy nominations 2024: ‘The Bear’ sets new record for comedies](https://new-news.github.io/Latest/2024/07/19/emmy_nominations_2024__the_bear_sets_new_record_for_comedies 'Emmy nominations 2024: ‘The Bear’ sets new record for comedies')
-
-- [Takeaways from the third night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/19/takeaways_from_the_third_night_of_the_republican_national_convention 'Takeaways from the third night of the Republican National Convention')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 
+##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen')  [air](/ 'air') 

@@ -1,16 +1,18 @@
 # Delta, United and American Airlines flights grounded due to communication issue, FAA says
 
-Published :`2024-07-19 09:37:23`
+Published :`2024-07-19 10:15:22`
 
 ---
 
-All flights from several major US airlines – including Delta, United and American Airlines – were grounded Friday morning due to a communication issue, according to the Federal Aviation Administration.
+All flights from several major US airlines – including Delta, United and American Airlines – were grounded Friday morning due to a communication issue, according to the Federal Aviation Administration, though American later said it had resolved the issue affecting its operations.
 
-The ground stop impacts all flights from the airlines, regardless of their destination, said the FAA.
+“Earlier this morning, a technical issue with a vendor impacted multiple carriers, including American. As of 5 a.m. ET, we have been able to safely re-establish our operation. We apologize to our customers for the inconvenience,” the American Airlines said in a statement to CNN.
 
-It’s unclear how long the ground stop will last, though the FAA suggested an update would be available by 5 a.m. ET.
+The ground stop impacted all flights from the airlines, regardless of their destination, said the FAA.
 
-Their grounding comes after a significant Microsoft outage brought Frontier Airlines to a standstill for hours on Thursday – though the ground stop for those airlines has since been lifted.
+It’s unclear how long the ground stop for the other airlines will last.
+
+Their grounding comes after a significant Microsoft outage brought Frontier Airlines and some competitors to a standstill for hours on Thursday – though the ground stop for those airlines has since been lifted.
 
 Earlier Thursday, Frontier said its systems had been impacted by the outage, and offered refunds to inconvenienced passengers.
 
@@ -18,7 +20,7 @@ Other competitors including Allegiant and SunCountry also said they were having 
 
 The FAA also announced Friday morning all Allegiant flights would be grounded.
 
-On the Azure cloud software status report site, Microsoft said that service went down for some customers in the central United States around 6 p.m. ET, “including failures with service management operations and connectivity or availability of services.”
+On the Azure cloud software status report site, Microsoft said service went down for some customers in the central United States around 6 p.m. ET, “including failures with service management operations and connectivity or availability of services.”
 
 The company said it determined the cause and is working to fix it. A company spokesman did not immediately respond to a request for comment.
 

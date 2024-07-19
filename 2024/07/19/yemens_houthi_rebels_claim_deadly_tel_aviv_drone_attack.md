@@ -1,6 +1,6 @@
 # Yemen’s Houthi rebels claim deadly Tel Aviv drone attack
 
-Published :`2024-07-19 09:37:23`
+Published :`2024-07-19 10:15:22`
 
 ---
 
@@ -12,17 +12,15 @@ Houthi spokesperson Yahya Sare’e said the “significant military operation�
 
 “We will continue to strike these targets in response to the enemy’s massacres and daily crimes against our brothers in the Gaza Strip,” Sare’e said. “Our operations will only cease when the aggression stops and the siege on the Palestinian people in the Gaza Strip is lifted.”
 
-CNN cannot independently confirm the Houthi spokesperson’s claim.
+In a televised briefing on Friday, Israel Defense Forces (IDF) spokesman Daniel Hagari said that the military suspects the drone was an Iranian-made Samad-3 model launched from Yemen, which had been upgraded to extend its range.
 
-The drone that caused the explosion was detected by an Israeli aerial defense system, but not intercepted due to “human error,” an Israeli military official said.
+He said another drone was intercepted outside of Israeli territory to the east at the same time as the attack, adding that Israel is now upgrading its air defenses and increasing aerial patrols of its borders.
 
-The drone was armed with a “warhead” and crashed into an apartment building, the official added, without providing further details of the device’s payload.
+An Israeli military official said the drone was detected by an Israeli aerial defense system, but not intercepted due to “human error.” It was armed with a warhead and crashed into an apartment building, the official added, without providing further details of the device’s payload.
 
-The official did not confirm whether the drone was launched by the Houthis.
+The military does not believe further threats are imminent, the official said.
 
-The Israeli military is investigating the attack and does not believe further threats are imminent, the official said.
-
-According to an initial inquiry “no sirens were activated” during the incident, the Israel Defense Forces (IDF) said earlier, adding that the air force had increased air patrols in response to the incident.
+According to an initial inquiry “no sirens were activated” during the incident, the IDF said earlier.
 
 ### Deadly explosion
 
@@ -38,9 +36,15 @@ Emergency crews responded to an “an object” that had exploded on Shalom Alei
 
 At least four of the injured sustained shrapnel wounds, the MDA said.
 
-Police urged local residents “not to touch any rocket remnants that may contain explosives.”
+Israeli far-right National Security Minister Itamar Ben Gvir and opposition leader Yair Lapid  criticized the Israeli government for being unable to protect the country.
 
-“Following the incident of an explosion in the Tel Aviv area, large police forces have arrived at the scene and are working to secure the area and conduct searches for suspicious objects and additional threats,” the Israeli Police spokesperson’s unit said.
+Lapid said on social media that the attack showed the government “cannot give security to the citizens of Israel.”
+
+“There are no policies, no plans, all public relations and discussions are about themselves,” he said.
+
+National Security Minister Ben Gvir said the attack on Tel Aviv and other areas of Israel are “precisely why I insist on being around the table in determining Israel’s policy.”
+
+Israeli Prime Minister Benjamin Netanyahu in June disbanded the country’s war cabinet after former war cabinet member Benny Gantz announced his withdrawal from the body, and Ben Gvir requested to join.
 
 ### Houthi attacks
 
