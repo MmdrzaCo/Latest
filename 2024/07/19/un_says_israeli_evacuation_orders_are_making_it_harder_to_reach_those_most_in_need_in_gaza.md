@@ -1,6 +1,6 @@
 # UN says Israeli evacuation orders are making it harder to reach those most in need in Gaza
 
-Published :`2024-07-19 02:20:45`
+Published :`2024-07-19 02:47:30`
 
 ---
 

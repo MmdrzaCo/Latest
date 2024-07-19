@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 02:20:56`
+#### Latest Update : `2024-07-19 02:47:32`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Frontier and other airlines were at a standstill for hours after a massive Microsoft outage](https://new-news.github.io/Latest/2024/07/19/frontier_and_other_airlines_were_at_a_standstill_for_hours_after_a_massive_microsoft_outage 'Frontier and other airlines were at a standstill for hours after a massive Microsoft outage')
+
+- [Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says](https://new-news.github.io/Latest/2024/07/19/seattle_officer_fired_for_cruel_comments_and_callous_laughter_following_indian_grad_students_death__police_chief_says 'Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says')
 
 - [Europe faces a hostile Russia and the prospect of an isolationist US. Unity is more crucial than ever](https://new-news.github.io/Latest/2024/07/19/europe_faces_a_hostile_russia_and_the_prospect_of_an_isolationist_us__unity_is_more_crucial_than_ever 'Europe faces a hostile Russia and the prospect of an isolationist US. Unity is more crucial than ever')
 
@@ -27,8 +31,6 @@
 - [Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea](https://new-news.github.io/Latest/2024/07/19/japans_top_general_lauds_closer_south_korea_military_ties_as_mutual_concerns_grow_over_china__north_korea 'Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea')
 
 - [Macron’s party wins parliamentary president role despite rebuke from voters](https://new-news.github.io/Latest/2024/07/19/macrons_party_wins_parliamentary_president_role_despite_rebuke_from_voters 'Macron’s party wins parliamentary president role despite rebuke from voters')
-
-- [Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says](https://new-news.github.io/Latest/2024/07/19/seattle_officer_fired_for_cruel_comments_and_callous_laughter_following_indian_grad_students_death__police_chief_says 'Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says')
 
 - [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/19/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
 
@@ -203,8 +205,6 @@
 - [Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident](https://new-news.github.io/Latest/2024/07/19/naomi_pomeroy__renowned_chef_and_top_chef_masters_star__dead_at_49_in_tubing_accident 'Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident')
 
 - [Fire at shopping mall in southwest China kills 16 people](https://new-news.github.io/Latest/2024/07/19/fire_at_shopping_mall_in_southwest_china_kills_16_people 'Fire at shopping mall in southwest China kills 16 people')
-
-- [Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt](https://new-news.github.io/Latest/2024/07/19/jack_blacks_band_cancels_tour_after_backlash_to_bandmates_comment_on_trump_assassination_attempt 'Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt')
 
 
 
