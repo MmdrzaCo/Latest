@@ -1,12 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 06:40:32`
+#### Latest Update : `2024-07-19 07:15:34`
 
 ## Latest News Grabbing 
 
 ---
 
 - [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
+
+- [Delta, United and American Airlines flights grounded due to communication issue, FAA says](https://new-news.github.io/Latest/2024/07/19/delta__united_and_american_airlines_flights_grounded_due_to_communication_issue__faa_says 'Delta, United and American Airlines flights grounded due to communication issue, FAA says')
+
+- [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/19/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
 
 - [A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade](https://new-news.github.io/Latest/2024/07/19/a_tale_of_two_presidents_as_trump_claims_his_triumph_and_bidens_hopes_begin_to_fade 'A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade')
 
@@ -182,8 +186,6 @@
 
 - [Could a Trump-Vance win reshape America’s relationship with China – and Taiwan?](https://new-news.github.io/Latest/2024/07/19/could_a_trump_vance_win_reshape_americas_relationship_with_china_–_and_taiwan 'Could a Trump-Vance win reshape America’s relationship with China – and Taiwan?')
 
-- [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/19/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
-
 - [Shiite Muslims mark holy day of Ashura with mourning and self-flagellation](https://new-news.github.io/Latest/2024/07/19/shiite_muslims_mark_holy_day_of_ashura_with_mourning_and_self_flagellation 'Shiite Muslims mark holy day of Ashura with mourning and self-flagellation')
 
 - [Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing](https://new-news.github.io/Latest/2024/07/19/hong_kong_journalist_says_she_was_fired_by_wsj_after_taking_top_post_at_union_under_attack_by_beijing 'Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing')
@@ -203,8 +205,6 @@
 - [Three former Trump officials say they requested protection from increased Iranian threats in 2023](https://new-news.github.io/Latest/2024/07/19/three_former_trump_officials_say_they_requested_protection_from_increased_iranian_threats_in_2023 'Three former Trump officials say they requested protection from increased Iranian threats in 2023')
 
 - [These are the states that rank highest and lowest for women’s health in new report](https://new-news.github.io/Latest/2024/07/19/these_are_the_states_that_rank_highest_and_lowest_for_womens_health_in_new_report 'These are the states that rank highest and lowest for women’s health in new report')
-
-- [JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight](https://new-news.github.io/Latest/2024/07/19/jd_vance__the_new_heir_to_trumps_maga_movement__steps_into_the_spotlight 'JD Vance, the new heir to Trump’s MAGA movement, steps into the spotlight')
 
 
 

@@ -1,10 +1,10 @@
 # Frontier and other airlines were at a standstill for hours after a massive Microsoft outage
 
-Published :`2024-07-19 06:40:28`
+Published :`2024-07-19 07:15:24`
 
 ---
 
-A significant Microsoft outage brought low-cost carrier Frontier Airlines and some competitors to a standstill for hours after a regulator halted departures. The ground stop was lifted late Wednesday night.
+A significant Microsoft outage brought low-cost carrier Frontier Airlines and some competitors to a standstill for hours after a regulator halted departures. The ground stop was lifted late Thursday night.
 
 “Our systems are currently impacted by a Microsoft outage, which is also affecting other companies,” Frontier said in a statement on its website. “We appreciate your patience.” The company was offering refunds to inconvenienced passengers.
 

@@ -1,6 +1,6 @@
 # Yemen’s Houthi rebels claim deadly Tel Aviv drone attack
 
-Published :`2024-07-19 06:40:28`
+Published :`2024-07-19 07:15:23`
 
 ---
 
@@ -22,7 +22,9 @@ The official did not confirm whether the drone was launched by the Houthis.
 
 The Israeli military is investigating the attack and does not believe further threats are imminent, the official said.
 
-According to an initial inquiry “no sirens were activated” during the incident, the Israel Defense Forces (IDF) said earlier, adding that air force had increased air patrols in response to the incident.
+According to an initial inquiry “no sirens were activated” during the incident, the Israel Defense Forces (IDF) said earlier, adding that the air force had increased air patrols in response to the incident.
+
+### Deadly explosion
 
 The blast occurred about 100 meters (330 feet) from the compound of the US Embassy branch office, according to a CNN analysis of open-source satellite imagery of the scene.
 
@@ -39,6 +41,18 @@ At least four of the injured sustained shrapnel wounds, the MDA said.
 Police urged local residents “not to touch any rocket remnants that may contain explosives.”
 
 “Following the incident of an explosion in the Tel Aviv area, large police forces have arrived at the scene and are working to secure the area and conduct searches for suspicious objects and additional threats,” the Israeli Police spokesperson’s unit said.
+
+### Houthi attacks
+
+The Houthis have been attacking US targets and commercial shipping in the Red Sea since Israel launched its invasion of Gaza following Hamas’ October 7 attack on Israel that killed more than 1,100 people and saw about 250 others kidnapped.
+
+Israel’s air and ground offensive on Gaza has killed more than 38,000 people in the enclave, according to Palestinian authorities. The war has displaced almost all of the strip’s population of more than 2 million people, turned swaths of the territory into rubble and triggered a massive humanitarian crisis.
+
+The war has also raised fears of a wider regional conflict, with the potential consequences of further human suffering and shocks to the global economy. The Houthi attacks in the Red Sea for instance have forced some of the world’s biggest shipping and oil companies to suspend transit through one of the most important maritime trade routes.
+
+The drone attack in Tel Aviv Friday comes after the Houthis claimed earlier this month that they had targeted ships in the Israeli port of Haifa with a number of drones in joint military operations with Iran-backed militias based in Iraq.
+
+The IDF told CNN at the time that it was not aware of such an incident.
 
 This is a developing story and will be updated.
 

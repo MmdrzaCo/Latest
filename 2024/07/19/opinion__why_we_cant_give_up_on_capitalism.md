@@ -1,6 +1,6 @@
 # Opinion: Why we can’t give up on capitalism
 
-Published :`2024-07-19 06:40:30`
+Published :`2024-07-19 07:15:29`
 
 ---
 

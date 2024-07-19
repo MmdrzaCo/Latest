@@ -1,6 +1,6 @@
 # Environmental activists sentenced to years in prison over UK highway protest
 
-Published :`2024-07-19 06:40:29`
+Published :`2024-07-19 07:15:27`
 
 ---
 
@@ -24,19 +24,13 @@ The sentences have drawn criticism from environmental agencies and scientists.
 
 Just Stop Oil described the decision as “an obscene perversion of justice.”
 
-In a statement issued by the activist group, Bill McGuire, a professor at University College London, said that “the trial and verdict were a farce.”
+In a statement issued by the activist group, Bill McGuire, emeritus professor of geophysical and climate hazards at University College London, said that “the trial and verdict were a farce.”called the trial and verdict a “farce.”
 
 “They mark a low point in British justice and they were an assault on free speech. The judge’s characterisation of climate breakdown as a matter of opinion and belief is completely nonsensical and demonstrates extraordinary ignorance. Similarly to suggest that the climate emergency is irrelevant in relation to whether the defendants had a reasonable case for action is crass stupidity.”
 
 Greenpeace UK’s programme director Amy Cameron called the outcome a “dark day for the right to protest, a pillar of our democracy.”
 
 She added: “What sort of country locks people away for years for planning a peaceful demonstration, let alone for talking about it on a Zoom call? We’re giving a free hand to the polluting elite robbing us of a habitable planet while jailing those who’re trying to stop them – it makes no sense.”
-
-Professor Bill McGuire, Emeritus Professor of Geophysical & Climate Hazards at University College London, called the trial and verdict a “farce.”
-
-He continued: “They mark a low point in British justice and they were an assault on free speech. The judge’s characterisation of climate breakdown as a matter of opinion and belief is completely nonsensical and demonstrates extraordinary ignorance.
-
-“Similarly to suggest that the climate emergency is irrelevant in relation to whether the defendants had a reasonable case for action is crass stupidity.”
 
 Sir David King, the government’s former Chief Scientific Adviser, labeled the sentences as “disgraceful.”
 
