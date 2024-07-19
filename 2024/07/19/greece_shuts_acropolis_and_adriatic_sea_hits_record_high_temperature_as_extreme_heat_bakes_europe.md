@@ -1,6 +1,6 @@
 # Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe
 
-Published :`2024-07-19 13:35:55`
+Published :`2024-07-19 14:15:23`
 
 ---
 

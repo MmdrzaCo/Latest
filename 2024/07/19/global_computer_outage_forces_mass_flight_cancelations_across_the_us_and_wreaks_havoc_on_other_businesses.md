@@ -1,14 +1,16 @@
 # Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses
 
-Published :`2024-07-19 13:35:52`
+Published :`2024-07-19 14:15:14`
 
 ---
 
 Hundreds of US flights were grounded Friday morning due to a technical disaster impacting businesses worldwide – leading to cancellations, delays and confusion at airports across the country.
 
-A cybersecurity company said the debacle is “not a security incident or cyberattack.” But the crisis has also affected international airlines as well as mass transit in New York and Washington, DC; some 911 operations in the United States; banking in Australia, South Africa, and the United Kingdom; Hong Kong’s Disneyland; and the Israeli health service.
+A cybersecurity company said the debacle is “not a security incident or cyberattack.” But the technical fiasco has paralyzed airlines, banks, businesses and even emergency services around the world.
 
-As of Friday morning, more than 1,200 flights into, out of or within the United States had been canceled, according to FlightAware.com. Charlotte Douglas International Airport told passengers to not even come to the airport unless they had confirmed their flights. Travelers at the world’s busiest airport in Atlanta were stranded as they tried to get to funerals or other momentous events.
+As of Friday morning, more than 1,400 flights into, out of or within the United States had been canceled, according to FlightAware.com. Charlotte Douglas International Airport told passengers to not even come to the airport unless they had confirmed their flights. Bewildered travelers at the world’s busiest airport in Atlanta were stranded as they tried to get to urgent events.
+
+“So tomorrow, I have a funeral in the afternoon. And then on Sunday, I have my sister’s 50th birthday party,” said Ty Kelley, who was stuck at Hartsfield-Jackson Atlanta International Airport on Friday. “It’s really chaotic. It’s frustrating. And I’ve never experienced anything like this before at this airport.”
 
 Live updates: Global tech outages hit airlines, banks and businesses
 
@@ -38,9 +40,21 @@ Kurtz later told NBC, “We’re resolving and have resolved the issue.”
 
 – Numerous international airlines also reported technical disruptions on Friday, including Virgin Australia and Qantas, along with airports across Europe and Asia-Pacific.
 
-Microsoft said service went down for some customers in the central United States around 6 p.m. ET Thursday, “including failures with service management operations and connectivity or availability of services,” according to the Azure cloud software status report site.
+### 911 and banks are also impacted
 
-The company said it determined the cause and is working to fix it. A company spokesman did not immediately respond to a request for comment.
+In addition to flights, the technical disaster has affected some 911 operations in the United States; mass transit in New York and Washington, DC; banking in Australia, South Africa, and the United Kingdom; Hong Kong’s Disneyland; and the Israeli health service.
+
+In Alaska, many 911 and non-emergency call centers are not working correctly across the state, Alaska State Troopers said in a Facebook post.
+
+Phoenix police said the technical problems impacted the department’s computerized 911 dispatch center. “Our 911 center remains operational. If you need to call 911, stay on the line if you are put on a brief hold,” Phoenix police posted on X Friday morning. Later in the morning, the department said its “systems have been restored.”
+
+In New York City, 911 services are operational, the mayor’s press secretary told CNN.
+
+“FDNY IT and Communication teams implemented our redundancy procedures upon notification of the CrowdStrike outage,” New York fire department spokesperson Jim Long told CNN Friday.
+
+In New Hampshire, some 911 services were down across the state overnight but have since been restored, New Hampshire 911 said in a post.
+
+CNN has reached out to the Federal Communications Commission for more information on nationwide 911 outages.
 
 This is a developing story and will be updated.
 

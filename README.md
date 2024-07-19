@@ -1,16 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 13:35:55`
+#### Latest Update : `2024-07-19 14:15:23`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Global tech outage: What to know if you’re traveling this weekend](https://new-news.github.io/Latest/2024/07/19/global_tech_outage__what_to_know_if_youre_traveling_this_weekend 'Global tech outage: What to know if you’re traveling this weekend')
+
+- [Student loan payments will be paused for 8 million borrowers after appeals court temporarily halts Biden’s repayment plan](https://new-news.github.io/Latest/2024/07/19/student_loan_payments_will_be_paused_for_8_million_borrowers_after_appeals_court_temporarily_halts_bidens_repayment_plan 'Student loan payments will be paused for 8 million borrowers after appeals court temporarily halts Biden’s repayment plan')
+
+- [Kamala Harris turns her attention to JD Vance amid speculation about Biden’s future](https://new-news.github.io/Latest/2024/07/19/kamala_harris_turns_her_attention_to_jd_vance_amid_speculation_about_bidens_future 'Kamala Harris turns her attention to JD Vance amid speculation about Biden’s future')
+
+- [Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’](https://new-news.github.io/Latest/2024/07/19/janet_jackson_really__but_politely__dislikes_doing_interviews__please_stop_asking_me_questions 'Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’')
+
+- [WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_convicted_of_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham')
+
 - [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
 
 - [Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancelations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancelations across the US and wreaks havoc on other businesses')
-
-- [WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_convicted_of_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham')
 
 - [Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France](https://new-news.github.io/Latest/2024/07/19/fallout_intensifies_over_soccer_star_enzo_fernández_and_argentina_teammates_singing_racist_chant_about_france 'Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France')
 
@@ -197,14 +205,6 @@
 - [Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe](https://new-news.github.io/Latest/2024/07/19/greece_shuts_acropolis_and_adriatic_sea_hits_record_high_temperature_as_extreme_heat_bakes_europe 'Greece shuts Acropolis and Adriatic Sea hits record-high temperature as extreme heat bakes Europe')
 
 - [Justice Department drops some January 6 obstruction charges and retools plea deals after Supreme Court ruling](https://new-news.github.io/Latest/2024/07/19/justice_department_drops_some_january_6_obstruction_charges_and_retools_plea_deals_after_supreme_court_ruling 'Justice Department drops some January 6 obstruction charges and retools plea deals after Supreme Court ruling')
-
-- [‘This has gotta be a shirt’: Images of a bloodied Trump blanket Milwaukee](https://new-news.github.io/Latest/2024/07/19/this_has_gotta_be_a_shirt__images_of_a_bloodied_trump_blanket_milwaukee '‘This has gotta be a shirt’: Images of a bloodied Trump blanket Milwaukee')
-
-- [Caitlin Clark sets WNBA record for most assists in a single game](https://new-news.github.io/Latest/2024/07/19/caitlin_clark_sets_wnba_record_for_most_assists_in_a_single_game 'Caitlin Clark sets WNBA record for most assists in a single game')
-
-- [Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say](https://new-news.github.io/Latest/2024/07/19/ski_mask_wearing_man_with_concealed_ak_47_pistol_arrested_monday_near_republican_national_convention__authorities_say 'Ski mask-wearing man with concealed AK-47 pistol arrested Monday near Republican National Convention, authorities say')
-
-- [Angel City FC set to become world’s most valuable pro women’s sports team following new investment](https://new-news.github.io/Latest/2024/07/19/angel_city_fc_set_to_become_worlds_most_valuable_pro_womens_sports_team_following_new_investment 'Angel City FC set to become world’s most valuable pro women’s sports team following new investment')
 
 
 

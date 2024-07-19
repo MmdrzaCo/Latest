@@ -1,6 +1,6 @@
 # WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham
 
-Published :`2024-07-19 13:35:52`
+Published :`2024-07-19 14:15:14`
 
 ---
 
@@ -12,13 +12,19 @@ The court heard closing arguments and Gershkovich, a Wall Street Journal reporte
 
 The case’s rapid conclusion comes just weeks after Gershkovich first appeared in a glass cage with his head recently shaved at the start of his trial on June 26. On that day, Gershkovich stood cross-armed, occasionally smiling and waving to the crowd of reporters.
 
-Gershkovich was arrested while reporting for the Wall Street Journal, during a trip to Yekaterinburg in March 2023, and later accused of spying for the CIA. Russian authorities have never offered any public evidence publicly to support their claims.
+The speed of the trial has raised questions over whether the Kremlin is intending to use him as part of a prisoner swap deal with the United States.
+
+In March, Moscow said that there are “certain” contacts ongoing regarding a potential prisoner exchange deal for Gershkovich, but Kremlin spokesperson Dmitry Peskov insisted that those conversations were to be carried out in “absolute silence” to prevent complications.
+
+Gershkovich was arrested while reporting for the WSJ, during a trip to Yekaterinburg in March 2023, and later accused of spying for the CIA. Russian authorities have never offered any public evidence publicly to support their claims.
 
 Within two weeks of his arrest in March 2023, the US State Department designated him as wrongfully detained and called for his immediate release.
 
-In a statement on Thursday, his employer said he had been unjustly arrested. “Evan’s wrongful detention has been an outrage since his unjust arrest 477 days ago, and it must end now,” WSJ publisher Dow Jones said.
+In a statement following Friday’s sentencing, Gershkovich’s employer said: “This disgraceful, sham conviction comes after Evan has spent 478 days in prison, wrongfully detained, away from his family and friends, prevented from reporting, all for doing his job as a journalist.
 
-“Even as Russia orchestrates its shameful sham trial, we continue to do everything we can to push for Evan’s immediate release and to state unequivocally: Evan was doing his job as a journalist, and journalism is not a crime. Bring him home now.”
+“We will continue to do everything possible to press for Evan’s release and to support his family,” the statement from Dow Jones CEO and Wall Street Journal Publisher Almar Latour and Wall Street Journal Editor in Chief Emma Tucker continued.
+
+“Journalism is not a crime, and we will not rest until he’s released. This must end now,” it added.
 
 Following his arrest, he was held in Moscow’s notorious Lefortovo prison, spending almost every hour of the day in a small cell. He passed the time by writing letters to his friends and family, his parents said in an interview with the WSJ, adding that he was allowed just one hour of walking per day.
 
