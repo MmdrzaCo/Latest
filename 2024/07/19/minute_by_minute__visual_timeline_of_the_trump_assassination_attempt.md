@@ -1,6 +1,6 @@
 # Minute-by-minute: Visual timeline of the Trump assassination attempt
 
-Published :`2024-07-19 21:36:12`
+Published :`2024-07-19 22:15:41`
 
 ---
 

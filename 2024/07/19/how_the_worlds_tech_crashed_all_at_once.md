@@ -1,10 +1,10 @@
 # How the world’s tech crashed all at once
 
-Published :`2024-07-19 21:36:10`
+Published :`2024-07-19 22:15:39`
 
 ---
 
-When computers and tech systems around the world went down Friday, snarling airports, closing Social Security offices and limiting jail operations, many people had one question: How on Earth could this happen in 2024?
+When computers and tech systems around the world went down Friday, snarling airports, closing Social Security offices and limiting jail operations, many people had one question: How on earth could this happen in 2024?
 
 A software update from a single cybersecurity company, US-based CrowdStrike, was the root cause of the chaos, underlining the fragility of the global economy and its dependence on computer systems to which relatively few people give a passing thought.
 

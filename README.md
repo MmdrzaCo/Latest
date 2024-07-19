@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 21:36:13`
+#### Latest Update : `2024-07-19 22:15:42`
 
 ## Latest News Grabbing 
 
 ---
+
+- [How the world’s tech crashed all at once](https://new-news.github.io/Latest/2024/07/19/how_the_worlds_tech_crashed_all_at_once 'How the world’s tech crashed all at once')
+
+- [American Airlines flight attendants reach new contract deal](https://new-news.github.io/Latest/2024/07/19/american_airlines_flight_attendants_reach_new_contract_deal 'American Airlines flight attendants reach new contract deal')
 
 - [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://new-news.github.io/Latest/2024/07/19/two_dead_in_multistate_listeria_outbreak_linked_with_sliced_deli_meat__cdc_says 'Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says')
 
@@ -17,8 +21,6 @@
 - [Blinken says Iran’s nuclear weapon breakout time is probably down to 1-2 weeks](https://new-news.github.io/Latest/2024/07/19/blinken_says_irans_nuclear_weapon_breakout_time_is_probably_down_to_1_2_weeks 'Blinken says Iran’s nuclear weapon breakout time is probably down to 1-2 weeks')
 
 - [2,600 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_600_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,600 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
-
-- [How the world’s tech crashed all at once](https://new-news.github.io/Latest/2024/07/19/how_the_worlds_tech_crashed_all_at_once 'How the world’s tech crashed all at once')
 
 - [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 
@@ -204,10 +206,8 @@
 
 - [19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators](https://new-news.github.io/Latest/2024/07/19/19_lost_minutes__law_enforcement_failed_to_keep_sight_of_trump_shooter__whose_motive_is_still_unclear_to_investigators '19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators')
 
-- [See where abortions are banned and legal — and where it’s still in limbo](https://new-news.github.io/Latest/2024/07/19/see_where_abortions_are_banned_and_legal_—_and_where_its_still_in_limbo 'See where abortions are banned and legal — and where it’s still in limbo')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [accused](/ 'accused')  [activists](/ 'activists')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [activists](/ 'activists')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 
