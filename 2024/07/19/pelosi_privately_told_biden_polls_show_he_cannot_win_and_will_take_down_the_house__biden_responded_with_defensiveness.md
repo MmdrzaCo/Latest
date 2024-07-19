@@ -1,6 +1,6 @@
 # Pelosi privately told Biden polls show he cannot win and will take down the House; Biden responded with defensiveness
 
-Published :`2024-07-19 10:15:23`
+Published :`2024-07-19 10:37:25`
 
 ---
 

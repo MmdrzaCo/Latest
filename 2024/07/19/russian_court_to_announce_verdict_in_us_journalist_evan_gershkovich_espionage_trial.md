@@ -1,6 +1,6 @@
 # Russian court to announce verdict in US journalist Evan Gershkovich espionage trial
 
-Published :`2024-07-19 10:15:22`
+Published :`2024-07-19 10:37:24`
 
 ---
 

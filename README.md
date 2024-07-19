@@ -1,18 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 10:15:24`
+#### Latest Update : `2024-07-19 10:37:27`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Delta, United and American Airlines flights grounded due to communication issue, FAA says](https://new-news.github.io/Latest/2024/07/19/delta__united_and_american_airlines_flights_grounded_due_to_communication_issue__faa_says 'Delta, United and American Airlines flights grounded due to communication issue, FAA says')
+
+- [What is Crowdstrike, the company responsible for the global outage?](https://new-news.github.io/Latest/2024/07/19/what_is_crowdstrike__the_company_responsible_for_the_global_outage 'What is Crowdstrike, the company responsible for the global outage?')
+
+- [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
+
 - [A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade](https://new-news.github.io/Latest/2024/07/19/a_tale_of_two_presidents_as_trump_claims_his_triumph_and_bidens_hopes_begin_to_fade 'A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade')
 
 - [Russian court to announce verdict in US journalist Evan Gershkovich espionage trial](https://new-news.github.io/Latest/2024/07/19/russian_court_to_announce_verdict_in_us_journalist_evan_gershkovich_espionage_trial 'Russian court to announce verdict in US journalist Evan Gershkovich espionage trial')
-
-- [Delta, United and American Airlines flights grounded due to communication issue, FAA says](https://new-news.github.io/Latest/2024/07/19/delta__united_and_american_airlines_flights_grounded_due_to_communication_issue__faa_says 'Delta, United and American Airlines flights grounded due to communication issue, FAA says')
-
-- [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
 
 - [Taylor Casey’s loved ones are keeping hope alive a month after the Chicago woman disappeared in the Bahamas](https://new-news.github.io/Latest/2024/07/19/taylor_caseys_loved_ones_are_keeping_hope_alive_a_month_after_the_chicago_woman_disappeared_in_the_bahamas 'Taylor Casey’s loved ones are keeping hope alive a month after the Chicago woman disappeared in the Bahamas')
 
@@ -203,8 +205,6 @@
 - [Shiite Muslims mark holy day of Ashura with mourning and self-flagellation](https://new-news.github.io/Latest/2024/07/19/shiite_muslims_mark_holy_day_of_ashura_with_mourning_and_self_flagellation 'Shiite Muslims mark holy day of Ashura with mourning and self-flagellation')
 
 - [Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing](https://new-news.github.io/Latest/2024/07/19/hong_kong_journalist_says_she_was_fired_by_wsj_after_taking_top_post_at_union_under_attack_by_beijing 'Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing')
-
-- [India’s ‘godmen’: How a rigid caste system has created a new kind of deity](https://new-news.github.io/Latest/2024/07/19/indias_godmen__how_a_rigid_caste_system_has_created_a_new_kind_of_deity 'India’s ‘godmen’: How a rigid caste system has created a new kind of deity')
 
 
 

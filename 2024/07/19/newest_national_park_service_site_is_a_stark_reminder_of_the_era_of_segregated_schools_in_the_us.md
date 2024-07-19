@@ -1,6 +1,6 @@
 # Newest National Park Service site is a stark reminder of the era of segregated schools in the US
 
-Published :`2024-07-19 10:15:23`
+Published :`2024-07-19 10:37:25`
 
 ---
 

@@ -1,14 +1,18 @@
 # Delta, United and American Airlines flights grounded due to communication issue, FAA says
 
-Published :`2024-07-19 10:15:22`
+Published :`2024-07-19 10:37:23`
 
 ---
 
-All flights from several major US airlines – including Delta, United and American Airlines – were grounded Friday morning due to a communication issue, according to the Federal Aviation Administration, though American later said it had resolved the issue affecting its operations.
+All flights from several major US airlines – including Delta, United and American Airlines – were grounded Friday morning due to a communication issue – part of a massive debacle impacting businesses worldwide.
+
+The ground stop impacted all flights from the airlines, regardless of their destination, the Federal Aviation Administration said. As of mid-Friday morning, more than 600 flights into, out of or within the United States had been canceled, according to FlightAware.com.
+
+Live updates: Global tech outages hit airlines, banks and businesses
+
+American Airlines later said it had resolved the issue affecting its operations.
 
 “Earlier this morning, a technical issue with a vendor impacted multiple carriers, including American. As of 5 a.m. ET, we have been able to safely re-establish our operation. We apologize to our customers for the inconvenience,” the American Airlines said in a statement to CNN.
-
-The ground stop impacted all flights from the airlines, regardless of their destination, said the FAA.
 
 It’s unclear how long the ground stop for the other airlines will last.
 
