@@ -1,20 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 19:13:08`
+#### Latest Update : `2024-07-19 19:37:04`
 
 ## Latest News Grabbing 
 
 ---
 
-- [JD Vance Fast Facts](https://new-news.github.io/Latest/2024/07/19/jd_vance_fast_facts 'JD Vance Fast Facts')
+- [Ten Commandments won’t go in Louisiana classrooms until at least November as lawsuit plays out](https://new-news.github.io/Latest/2024/07/19/ten_commandments_wont_go_in_louisiana_classrooms_until_at_least_november_as_lawsuit_plays_out 'Ten Commandments won’t go in Louisiana classrooms until at least November as lawsuit plays out')
 
-- [40 people killed in migrant boat fire off Haiti’s coast, says aid agency](https://new-news.github.io/Latest/2024/07/19/40_people_killed_in_migrant_boat_fire_off_haitis_coast__says_aid_agency '40 people killed in migrant boat fire off Haiti’s coast, says aid agency')
-
-- [Paul Whelan tells CNN he has ‘sympathy and empathy’ for Evan Gershkovich but expresses hope following sentencing](https://new-news.github.io/Latest/2024/07/19/paul_whelan_tells_cnn_he_has_sympathy_and_empathy_for_evan_gershkovich_but_expresses_hope_following_sentencing 'Paul Whelan tells CNN he has ‘sympathy and empathy’ for Evan Gershkovich but expresses hope following sentencing')
+- [2,400 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_400_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,400 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
 
 - [Opinion: The stunning silence at the heart of ‘Twisters’](https://new-news.github.io/Latest/2024/07/19/opinion__the_stunning_silence_at_the_heart_of_twisters 'Opinion: The stunning silence at the heart of ‘Twisters’')
 
-- [2,400 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_400_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,400 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
+- [40 people killed in migrant boat fire off Haiti’s coast, says aid agency](https://new-news.github.io/Latest/2024/07/19/40_people_killed_in_migrant_boat_fire_off_haitis_coast__says_aid_agency '40 people killed in migrant boat fire off Haiti’s coast, says aid agency')
+
+- [Colorado election denier asks Supreme Court to halt trial on election security breach charges](https://new-news.github.io/Latest/2024/07/19/colorado_election_denier_asks_supreme_court_to_halt_trial_on_election_security_breach_charges 'Colorado election denier asks Supreme Court to halt trial on election security breach charges')
+
+- [JD Vance Fast Facts](https://new-news.github.io/Latest/2024/07/19/jd_vance_fast_facts 'JD Vance Fast Facts')
+
+- [Paul Whelan tells CNN he has ‘sympathy and empathy’ for Evan Gershkovich but expresses hope following sentencing](https://new-news.github.io/Latest/2024/07/19/paul_whelan_tells_cnn_he_has_sympathy_and_empathy_for_evan_gershkovich_but_expresses_hope_following_sentencing 'Paul Whelan tells CNN he has ‘sympathy and empathy’ for Evan Gershkovich but expresses hope following sentencing')
 
 - [First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos](https://new-news.github.io/Latest/2024/07/19/first_lady_dr__jill_biden_to_host_fundraiser_in_paris_amid_campaign_chaos 'First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos')
 
@@ -201,10 +205,6 @@
 - [Trump triumphant as Biden descends into a deepening crisis](https://new-news.github.io/Latest/2024/07/19/trump_triumphant_as_biden_descends_into_a_deepening_crisis 'Trump triumphant as Biden descends into a deepening crisis')
 
 - [Simone Biles reflects on Tokyo Olympics in ‘Rising’: ‘I felt like I was in jail with my own brain and body’](https://new-news.github.io/Latest/2024/07/19/simone_biles_reflects_on_tokyo_olympics_in_rising__i_felt_like_i_was_in_jail_with_my_own_brain_and_body 'Simone Biles reflects on Tokyo Olympics in ‘Rising’: ‘I felt like I was in jail with my own brain and body’')
-
-- [Dubai princess’s Instagram account announces divorce with royal husband](https://new-news.github.io/Latest/2024/07/19/dubai_princesss_instagram_account_announces_divorce_with_royal_husband 'Dubai princess’s Instagram account announces divorce with royal husband')
-
-- [Israeli lawmakers vote overwhelmingly against Palestinian statehood, challenging US policy](https://new-news.github.io/Latest/2024/07/19/israeli_lawmakers_vote_overwhelmingly_against_palestinian_statehood__challenging_us_policy 'Israeli lawmakers vote overwhelmingly against Palestinian statehood, challenging US policy')
 
 
 

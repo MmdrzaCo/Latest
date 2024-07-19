@@ -1,6 +1,6 @@
 # AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T
 
-Published :`2024-07-19 19:13:06`
+Published :`2024-07-19 19:37:02`
 
 ---
 

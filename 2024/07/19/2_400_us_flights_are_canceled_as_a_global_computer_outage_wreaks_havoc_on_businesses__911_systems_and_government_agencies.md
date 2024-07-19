@@ -1,6 +1,6 @@
 # 2,400 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies
 
-Published :`2024-07-19 19:13:00`
+Published :`2024-07-19 19:36:57`
 
 ---
 
@@ -61,6 +61,8 @@ At Harris Health System in Houston, “elective hospital procedures are being ca
 At Mass General Brigham in Boston, “all previously scheduled non-urgent surgeries, procedures, and medical visits are cancelled today,” the health care system told CNN in a statement.
 
 “Mass General Brigham remains open to provide care to patients with urgent health concerns in our clinics and emergency departments, and we continue to care for all patients currently receiving care in our hospitals.”
+
+And in Canada’s British Columbia, the Provincial Health Services Authority announced the health system was affected by the IT outage. “We have implemented contingency plans to ensure that our health care services remain operational, and that patient care is not disrupted to the best of our ability,” said the organization.
 
 The US Department of Justice was searching for workarounds Friday, according to an internal memo viewed by CNN. The memo said the CrowdStrike issue “is significant and there is currently no estimated restoration time.”
 
