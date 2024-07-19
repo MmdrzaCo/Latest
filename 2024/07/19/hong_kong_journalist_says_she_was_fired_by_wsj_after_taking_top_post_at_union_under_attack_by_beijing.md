@@ -1,6 +1,6 @@
 # Hong Kong journalist says she was fired by WSJ after taking top post at union under attack by Beijing
 
-Published :`2024-07-19 07:15:33`
+Published :`2024-07-19 07:36:05`
 
 ---
 

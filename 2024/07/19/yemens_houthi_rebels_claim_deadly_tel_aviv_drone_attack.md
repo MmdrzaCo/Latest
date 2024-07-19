@@ -1,6 +1,6 @@
 # Yemen’s Houthi rebels claim deadly Tel Aviv drone attack
 
-Published :`2024-07-19 07:15:23`
+Published :`2024-07-19 07:36:01`
 
 ---
 
@@ -44,7 +44,7 @@ Police urged local residents “not to touch any rocket remnants that may contai
 
 ### Houthi attacks
 
-The Houthis have been attacking US targets and commercial shipping in the Red Sea since Israel launched its invasion of Gaza following Hamas’ October 7 attack on Israel that killed more than 1,100 people and saw about 250 others kidnapped.
+The Houthis have been attacking US targets and commercial shipping in the Red Sea since Israel launched its invasion of Gaza following Hamas’ October 7 attack on Israel that killed more than 1,200 people and saw more than 250 others kidnapped.
 
 Israel’s air and ground offensive on Gaza has killed more than 38,000 people in the enclave, according to Palestinian authorities. The war has displaced almost all of the strip’s population of more than 2 million people, turned swaths of the territory into rubble and triggered a massive humanitarian crisis.
 
@@ -54,7 +54,7 @@ The drone attack in Tel Aviv Friday comes after the Houthis claimed earlier this
 
 The IDF told CNN at the time that it was not aware of such an incident.
 
-This is a developing story and will be updated.
+This story has been updated with additional developments.
 
 ---
 

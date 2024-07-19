@@ -1,6 +1,6 @@
 # 19 lost minutes: Law enforcement failed to keep sight of Trump shooter, whose motive is still unclear to investigators
 
-Published :`2024-07-19 07:15:27`
+Published :`2024-07-19 07:36:03`
 
 ---
 
