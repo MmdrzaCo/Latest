@@ -1,6 +1,6 @@
 # WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham
 
-Published :`2024-07-19 17:37:14`
+Published :`2024-07-19 18:19:53`
 
 ---
 
@@ -27,6 +27,10 @@ In a statement following Friday’s sentencing, Gershkovich’s employer said: �
 “Journalism is not a crime, and we will not rest until he’s released. This must end now,” it added.
 
 At the United Nations Security Council on Friday, US Ambassador to the UN Linda Thomas-Greenfield Ambassador also raised Gershkovich’s case. “Let me begin with the news coming out of Russia this morning. Evan Gershkovich was sentenced to 16 years. He has committed no crime. He is being punished because he is a journalist, and he is an American. Simple as that,” she said.
+
+Journalist advocacy group, the Committee to Protect Journalists (CPJ), joined the chorus of criticism, pointing out Russia’s current record as the world’s fourth-worst jailer of journalists, with at least 22 currently behind bars.
+
+“Journalists are not pawns in geopolitical games. It’s time to stop hostage diplomacy and free him immediately,” CPJ Director Carlos Martinez de la Serna said in a statement.
 
 ### 15 days to appeal
 

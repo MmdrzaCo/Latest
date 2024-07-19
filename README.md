@@ -1,6 +1,6 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 17:37:22`
+#### Latest Update : `2024-07-19 18:19:56`
 
 ## Latest News Grabbing 
 
@@ -8,15 +8,17 @@
 
 - [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
 
+- [WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_sentenced_to_16_years_for_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham')
+
+- [Which airports and airlines have been affected by the outages?](https://new-news.github.io/Latest/2024/07/19/which_airports_and_airlines_have_been_affected_by_the_outages 'Which airports and airlines have been affected by the outages?')
+
+- [Israel investigates security failures around deadly Tel Aviv drone strike](https://new-news.github.io/Latest/2024/07/19/israel_investigates_security_failures_around_deadly_tel_aviv_drone_strike 'Israel investigates security failures around deadly Tel Aviv drone strike')
+
 - [Bob Newhart, legendary comedian, dead at 94](https://new-news.github.io/Latest/2024/07/19/bob_newhart__legendary_comedian__dead_at_94 'Bob Newhart, legendary comedian, dead at 94')
 
 - [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 
-- [WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham](https://new-news.github.io/Latest/2024/07/19/wsj_reporter_evan_gershkovich_sentenced_to_16_years_for_espionage_by_russian_court_in_case_denounced_by_us_as_a_sham 'WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham')
-
 - [A closer look at the sexual misconduct lawsuits against Sean ‘Diddy’ Combs](https://new-news.github.io/Latest/2024/07/19/a_closer_look_at_the_sexual_misconduct_lawsuits_against_sean_diddy_combs 'A closer look at the sexual misconduct lawsuits against Sean ‘Diddy’ Combs')
-
-- [Which airports and airlines have been affected by the outages?](https://new-news.github.io/Latest/2024/07/19/which_airports_and_airlines_have_been_affected_by_the_outages 'Which airports and airlines have been affected by the outages?')
 
 - [The ‘first’ post-Covid Olympics are exciting sponsors. Fans? Not so much](https://new-news.github.io/Latest/2024/07/19/the_first_post_covid_olympics_are_exciting_sponsors__fans_not_so_much 'The ‘first’ post-Covid Olympics are exciting sponsors. Fans? Not so much')
 
@@ -57,8 +59,6 @@
 - [Kamala Harris turns her attention to JD Vance amid speculation about Biden’s future](https://new-news.github.io/Latest/2024/07/19/kamala_harris_turns_her_attention_to_jd_vance_amid_speculation_about_bidens_future 'Kamala Harris turns her attention to JD Vance amid speculation about Biden’s future')
 
 - [Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’](https://new-news.github.io/Latest/2024/07/19/janet_jackson_really__but_politely__dislikes_doing_interviews__please_stop_asking_me_questions 'Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’')
-
-- [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
 
 - [Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France](https://new-news.github.io/Latest/2024/07/19/fallout_intensifies_over_soccer_star_enzo_fernández_and_argentina_teammates_singing_racist_chant_about_france 'Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France')
 

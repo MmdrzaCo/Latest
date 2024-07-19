@@ -1,6 +1,6 @@
 # Recovering from the global tech outage could be a long, arduous process
 
-Published :`2024-07-19 17:37:14`
+Published :`2024-07-19 18:19:53`
 
 ---
 
@@ -76,7 +76,7 @@ That appears to be supported by Microsoft’s own status account on X, which on 
 
 As of Friday morning, Microsoft said the issue with Microsoft 365 had been resolved and that the situation was improving.
 
-“The ongoing CrowdStrike issue is unrelated to a previous outage in the South Central US Azure region on July 18, impacting Azure customers using that region as well as some Microsoft 365 services,” Microsoft said.
+“The ongoing CrowdStrike issue is unrelated to a previous outage in the Central US Azure region on July 18, impacting Azure customers using that region as well as some Microsoft 365 services,” Microsoft said.
 
 Microsoft CEO Satya Nadella acknowledged the CrowdStrike issue in a post on X Friday morning, saying Microsoft is “working closely with CrowdStrike and across the industry to provide customers technical guidance and support to safely bring their systems back online.”
 

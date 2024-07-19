@@ -1,20 +1,20 @@
 # Which airports and airlines have been affected by the outages?
 
-Published :`2024-07-19 17:37:14`
+Published :`2024-07-19 18:19:53`
 
 ---
 
-Many flights across the world have been delayed or grounded due to a major IT system failure.
+Many flights across the world have been delayed or canceled Friday because of a major IT system failure.
 
-All flights for US carriers United Airlines, Delta Air Lines, and American Airlines were grounded early on Friday.
+All flights for US carriers United Airlines, Delta Air Lines, and American Airlines were grounded early on Friday before operations started ramping up again.
 
-American Airlines has since confirmed that is has resolved the issue affecting its operations, while Delta and United have resumed some flights.
+American Airlines has confirmed that is has resolved the issue affecting its operations, while Delta and United have resumed some flights.
 
 The Federal Aviation Administration provided assistance to airlines with ground stops as the IT issue was being addressed, the agency said early Friday morning on X.
 
 “Currently FAA operations are not impacted by the global IT issue,” the FAA posted later on Friday. “We continue to monitor the situation closely.” The agency also said the IT issue “could continue to affect flights this weekend.”
 
-As of 11 a.m. ET, there were 3,861 canceled flights globally (representing 3.61% of flights), according to data from analytics firm Cirium, with chaotic scenes at airports across the world as passengers waited for updates.
+As of midday Friday, thousands of flights had been canceled globally, with chaotic scenes at airports across the world as passengers waited for updates.
 
 Here are some of the major airlines and airports that have been impacted by the tech outage:
 
@@ -50,7 +50,9 @@ At Dallas Fort Worth International Airport officials “anticipate significant d
 
 Chicago O’Hare International Airport advised passengers to check their flight status directly with their carrier due to the tech issues. “Longer lines and wait times are possible, please allow extra time,” it said.
 
-John F. Kennedy International Airport said: “The Port Authority is not affected by the ongoing global network outage, but some airlines are experiencing delays/cancellations. DO NOT head to the airport unless your flight status is confirmed,” according to an airport post on X.
+John F. Kennedy International Airport said: “The Port Authority is not affected by the ongoing global network outage, but some airlines are experiencing delays/cancellations. DO NOT head to the airport unless your flight status is confirmed,” according to an airport post on X. That guidance applies to LaGuardia and Newark airports as well.
+
+Philadelphia International Airport said passengers should expect delays and cancellations on Friday.
 
 Charlotte Douglas International Airport advised passengers not to come to the airport “unless they have confirmed their flight information with the airline.”
 
