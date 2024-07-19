@@ -1,6 +1,6 @@
 # Recovering from the global tech outage could be a long, arduous process
 
-Published :`2024-07-19 16:18:23`
+Published :`2024-07-19 16:41:07`
 
 ---
 
@@ -21,6 +21,12 @@ The issue appears to be recoverable, CrowdStrike has said, but in many cases it 
 For businesses with hundreds or thousands of laptops, desktops and servers running CrowdStrike’s security software, an individual human may have to perform that process over and over and over again.
 
 “You can’t automate that,” said Kevin Beaumont, a security researcher and former Microsoft threat analyst, in a post on X. “So this is going to be incredibly painful for CrowdStrike customers.”
+
+On Friday, a Microsoft status page reported that some Windows Virtual Machine users have successfully recovered from the issue by repeatedly rebooting, in some situations up to 15 times in a row.
+
+“We have received feedback from customers that several reboots (as many as 15 have been reported) may be required, but overall feedback is that reboots are an effective troubleshooting step at this stage,” Microsoft said on the page. The company did not speculate as to why the technique appears to work.
+
+Affected organizations can also try to restore their machines to an earlier state by reverting to a previous system backup, Microsoft added, though it acknowledged that may not be possible in all cases.
 
 It gets worse.
 

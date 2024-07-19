@@ -1,6 +1,6 @@
 # Polio detected in Gaza sewage water, threatening new health disaster
 
-Published :`2024-07-19 16:18:23`
+Published :`2024-07-19 16:41:07`
 
 ---
 
@@ -27,6 +27,10 @@ The Palestinian Ministry of Health in Gaza called for practices to improve hygie
 Wild polio was eradicated from Gaza more than 25 years ago, with pre-war vaccination coverage reaching 95% in 2022, according to WHO.
 
 Poliovirus can emerge when poor vaccination coverage allows the weakened form of the orally administered vaccine virus strain to mutate into a stronger version capable of causing paralysis, a spokesman from WHO’s global Polio Eradication program said.
+
+Meanwhile, hospitals in central Gaza said more than 20 people were killed after two Israeli air strikes on houses in the Nuseirat area. A CNN stringer on the ground said the majority of the casualties were women and children.
+
+CNN has asked the Israel Defense Forces (IDF) about the reported strikes.
 
 ---
 

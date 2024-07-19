@@ -1,10 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 16:18:27`
+#### Latest Update : `2024-07-19 16:41:10`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Polio detected in Gaza sewage water, threatening new health disaster](https://new-news.github.io/Latest/2024/07/19/polio_detected_in_gaza_sewage_water__threatening_new_health_disaster 'Polio detected in Gaza sewage water, threatening new health disaster')
+
+- [What is CrowdStrike, the company linked to the global outage?](https://new-news.github.io/Latest/2024/07/19/what_is_crowdstrike__the_company_linked_to_the_global_outage 'What is CrowdStrike, the company linked to the global outage?')
+
+- [US sanctions alleged Russian hackers who claimed attacks on US water facilities](https://new-news.github.io/Latest/2024/07/19/us_sanctions_alleged_russian_hackers_who_claimed_attacks_on_us_water_facilities 'US sanctions alleged Russian hackers who claimed attacks on US water facilities')
+
+- [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
+
+- [2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and state agencies](https://new-news.github.io/Latest/2024/07/19/2_000_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_state_agencies '2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and state agencies')
 
 - [Nearly 2 dozen families claim owner of Houston surrogacy escrow company stole millions to fund lavish lifestyle](https://new-news.github.io/Latest/2024/07/19/nearly_2_dozen_families_claim_owner_of_houston_surrogacy_escrow_company_stole_millions_to_fund_lavish_lifestyle 'Nearly 2 dozen families claim owner of Houston surrogacy escrow company stole millions to fund lavish lifestyle')
 
@@ -12,19 +22,13 @@
 
 - [Which airports and airlines have been affected by the outages?](https://new-news.github.io/Latest/2024/07/19/which_airports_and_airlines_have_been_affected_by_the_outages 'Which airports and airlines have been affected by the outages?')
 
-- [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
-
 - [Thousands of Disneyland workers are expected to authorize a potential strike. It would be the first in 40 years](https://new-news.github.io/Latest/2024/07/19/thousands_of_disneyland_workers_are_expected_to_authorize_a_potential_strike__it_would_be_the_first_in_40_years 'Thousands of Disneyland workers are expected to authorize a potential strike. It would be the first in 40 years')
 
 - [Adidas apologizes for ad campaign linked to 1972 Munich Olympics](https://new-news.github.io/Latest/2024/07/19/adidas_apologizes_for_ad_campaign_linked_to_1972_munich_olympics 'Adidas apologizes for ad campaign linked to 1972 Munich Olympics')
 
-- [Polio detected in Gaza sewage water, threatening new health disaster](https://new-news.github.io/Latest/2024/07/19/polio_detected_in_gaza_sewage_water__threatening_new_health_disaster 'Polio detected in Gaza sewage water, threatening new health disaster')
-
 - [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 
 - [Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal](https://new-news.github.io/Latest/2024/07/19/top_un_court_says_israeli_occupation_of_west_bank_and_east_jerusalem_is_illegal 'Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal')
-
-- [Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses](https://new-news.github.io/Latest/2024/07/19/global_computer_outage_forces_mass_flight_cancellations_across_the_us_and_wreaks_havoc_on_other_businesses 'Global computer outage forces mass flight cancellations across the US and wreaks havoc on other businesses')
 
 - [Spanish town to fine tourists for hogging beach spots](https://new-news.github.io/Latest/2024/07/19/spanish_town_to_fine_tourists_for_hogging_beach_spots 'Spanish town to fine tourists for hogging beach spots')
 
@@ -53,8 +57,6 @@
 - [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/19/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
 
 - [How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate](https://new-news.github.io/Latest/2024/07/19/how_tennessee_based_artist_aaron_lee_tasjan_is_using_his_music_to_combat_hate 'How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate')
-
-- [What is CrowdStrike, the company linked to the global outage?](https://new-news.github.io/Latest/2024/07/19/what_is_crowdstrike__the_company_linked_to_the_global_outage 'What is CrowdStrike, the company linked to the global outage?')
 
 - [Inside the ‘doom loop’ of Joe Biden’s campaign](https://new-news.github.io/Latest/2024/07/19/inside_the_doom_loop_of_joe_bidens_campaign 'Inside the ‘doom loop’ of Joe Biden’s campaign')
 
@@ -204,10 +206,8 @@
 
 - [Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’](https://new-news.github.io/Latest/2024/07/19/britney_spears_has_a_message_for_ozzy_osbourne_after_he_called_her_dancing_sad 'Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’')
 
-- [Opinion: Why we can’t give up on capitalism](https://new-news.github.io/Latest/2024/07/19/opinion__why_we_cant_give_up_on_capitalism 'Opinion: Why we can’t give up on capitalism')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [across](/ 'across')  [activists](/ 'activists')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aileen](/ 'aileen') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [activists](/ 'activists')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aileen](/ 'aileen') 

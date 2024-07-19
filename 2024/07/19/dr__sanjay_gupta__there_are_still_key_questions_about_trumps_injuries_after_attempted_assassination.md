@@ -1,10 +1,10 @@
 # Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination
 
-Published :`2024-07-19 16:18:25`
+Published :`2024-07-19 16:41:08`
 
 ---
 
-It’s been five days since gunfire erupted at Republican presidential candidate Donald Trump’s rally in Butler, Pennsylvania, resulting in an injury to the former president, the death of one attendee, Corey Comperatore, and severe injuries to two others.
+It has been nearly a week since gunfire erupted at Republican presidential candidate Donald Trump’s rally in Butler, Pennsylvania, resulting in an injury to the former president, the death of one attendee, Corey Comperatore, and severe injuries to two others.
 
 And although the images we’ve seen of Trump since his attempted assassination have been those of a person who was barely injured and is now in high spirits, what we’ve been told by the campaign offers very little insight into the former president’s condition, what kind of care he received or how his medical team will monitor him in the days and weeks ahead.
 
@@ -14,9 +14,9 @@ A full public assessment of Trump’s injuries is necessary, for both the former
 
 The first official communication about Trump’s health from his campaign came about 40 minutes after the shooting. It simply said Trump was “fine” and was “being checked out at a local medical facility.” It added that more details would follow.
 
-However, the only other official details came about two hours later, in a post by Trump himself on Truth Social, where he wrote: “I was shot with a bullet that pierced the upper part of my right ear. I knew immediately that something was wrong in that I heard a whizzing sound, shots, and immediately felt the bullet ripping through the skin.”
+Two hours later, in a post by Trump himself on Truth Social, he wrote: “I was shot with a bullet that pierced the upper part of my right ear. I knew immediately that something was wrong in that I heard a whizzing sound, shots, and immediately felt the bullet ripping through the skin.”
 
-Beyond that, most of what we know about his injury is based on what we’ve seen in pictures and video, and from secondhand accounts.
+In his speech at the Republican National Convention Thursday night, Trump described the moment of the shooting but didn’t shed new light on his condition or the care he received. Beyond that, most of what we know about his injury is based on what we’ve seen in pictures and video, and from secondhand accounts.
 
 A source familiar with the matter told CNN on Sunday that Trump underwent a number of “routine” tests at the hospital, including a CT scan that came back normal.
 
@@ -42,7 +42,7 @@ Although we were told that Trump had a CT scan and other routine exams, it is no
 
 In the Monday interview, Jackson said Trump’s injury was “dressed up. He’ll be OK. … It’s going to granulate and heal in, and he’s not going to need anything to be done with it.”  On Wednesday, in an interview with CBS News, Eric Trump said that his father had “no stitches but certainly, certainly a nice flesh wound.”
 
-And Trump has been moving around the Republican National Convention in Milwaukee this week, talking and smiling through speeches with a bandage on his ear.
+And Trump has been moving around the RNC in Milwaukee this week, talking and smiling through speeches with a bandage on his ear.
 
 ### What we don’t know
 
