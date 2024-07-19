@@ -1,6 +1,6 @@
 # Blast in Tel Aviv kills at least one in possible drone attack, Israeli officials say
 
-Published :`2024-07-19 05:36:54`
+Published :`2024-07-19 06:21:04`
 
 ---
 
