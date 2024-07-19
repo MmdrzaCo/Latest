@@ -1,6 +1,6 @@
 # Delta, United and American Airlines flights grounded due to communication issue, FAA says
 
-Published :`2024-07-19 08:38:17`
+Published :`2024-07-19 09:15:37`
 
 ---
 
