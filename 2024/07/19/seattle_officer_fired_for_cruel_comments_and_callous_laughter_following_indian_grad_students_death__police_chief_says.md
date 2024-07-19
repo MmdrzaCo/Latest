@@ -1,6 +1,6 @@
 # Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says
 
-Published :`2024-07-19 21:13:30`
+Published :`2024-07-19 21:36:12`
 
 ---
 

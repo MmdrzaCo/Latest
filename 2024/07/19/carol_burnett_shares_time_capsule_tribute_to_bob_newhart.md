@@ -1,12 +1,12 @@
 # Carol Burnett shares time capsule tribute to Bob Newhart
 
-Published :`2024-07-19 21:13:28`
+Published :`2024-07-19 21:36:10`
 
 ---
 
 One comedy giant saluted another this week after the passing of Bob Newhart, who died Thursday morning at the age of 94.
 
-Carol Burnett tweeted a fond farewell to the late star later on Thursday, sharing ablack-and-white photo of the pair on a set in 1964.
+Carol Burnett tweeted a fond farewell to the late star later on Thursday, sharing a black-and-white photo of the pair on a set in 1964.
 
 “I had the great pleasure of working with Bob and being his friend,” Burnett wrote in the caption. “He was as kind and nice as he was funny. He will be missed.”
 
