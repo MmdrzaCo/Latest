@@ -1,6 +1,6 @@
 # Macron’s party wins parliamentary president role despite rebuke from voters
 
-Published :`2024-07-19 18:39:16`
+Published :`2024-07-19 19:13:04`
 
 ---
 

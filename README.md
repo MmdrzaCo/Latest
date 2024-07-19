@@ -1,12 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 18:39:18`
+#### Latest Update : `2024-07-19 19:13:08`
 
 ## Latest News Grabbing 
 
 ---
 
-- [2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_000_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
+- [JD Vance Fast Facts](https://new-news.github.io/Latest/2024/07/19/jd_vance_fast_facts 'JD Vance Fast Facts')
+
+- [40 people killed in migrant boat fire off Haiti’s coast, says aid agency](https://new-news.github.io/Latest/2024/07/19/40_people_killed_in_migrant_boat_fire_off_haitis_coast__says_aid_agency '40 people killed in migrant boat fire off Haiti’s coast, says aid agency')
+
+- [Paul Whelan tells CNN he has ‘sympathy and empathy’ for Evan Gershkovich but expresses hope following sentencing](https://new-news.github.io/Latest/2024/07/19/paul_whelan_tells_cnn_he_has_sympathy_and_empathy_for_evan_gershkovich_but_expresses_hope_following_sentencing 'Paul Whelan tells CNN he has ‘sympathy and empathy’ for Evan Gershkovich but expresses hope following sentencing')
+
+- [Opinion: The stunning silence at the heart of ‘Twisters’](https://new-news.github.io/Latest/2024/07/19/opinion__the_stunning_silence_at_the_heart_of_twisters 'Opinion: The stunning silence at the heart of ‘Twisters’')
+
+- [2,400 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_400_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,400 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
 
 - [First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos](https://new-news.github.io/Latest/2024/07/19/first_lady_dr__jill_biden_to_host_fundraiser_in_paris_amid_campaign_chaos 'First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos')
 
@@ -198,16 +206,8 @@
 
 - [Israeli lawmakers vote overwhelmingly against Palestinian statehood, challenging US policy](https://new-news.github.io/Latest/2024/07/19/israeli_lawmakers_vote_overwhelmingly_against_palestinian_statehood__challenging_us_policy 'Israeli lawmakers vote overwhelmingly against Palestinian statehood, challenging US policy')
 
-- [Bud Light loses more ground, slipping to No. 3 in America](https://new-news.github.io/Latest/2024/07/19/bud_light_loses_more_ground__slipping_to_no__3_in_america 'Bud Light loses more ground, slipping to No. 3 in America')
-
-- [What went wrong with security at Trump’s Pennsylvania rally](https://new-news.github.io/Latest/2024/07/19/what_went_wrong_with_security_at_trumps_pennsylvania_rally 'What went wrong with security at Trump’s Pennsylvania rally')
-
-- [Ursula von der Leyen elected to second term as European Commission president](https://new-news.github.io/Latest/2024/07/19/ursula_von_der_leyen_elected_to_second_term_as_european_commission_president 'Ursula von der Leyen elected to second term as European Commission president')
-
-- [Biden is trying to salvage his campaign. Democrats say things are only getting worse](https://new-news.github.io/Latest/2024/07/19/biden_is_trying_to_salvage_his_campaign__democrats_say_things_are_only_getting_worse 'Biden is trying to salvage his campaign. Democrats say things are only getting worse')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [activists](/ 'activists')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aileen](/ 'aileen') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abortions](/ 'abortions')  [about](/ 'about')  [account](/ 'account')  [accused](/ 'accused')  [activists](/ 'activists')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agents](/ 'agents')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead') 

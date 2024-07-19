@@ -1,6 +1,6 @@
 # Election chaos and Friday’s tech outage are taking the market on a wild ride
 
-Published :`2024-07-19 18:39:15`
+Published :`2024-07-19 19:13:00`
 
 ---
 
