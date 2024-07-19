@@ -1,6 +1,6 @@
 # Recovering from the global tech outage could be a long, arduous process
 
-Published :`2024-07-19 16:41:07`
+Published :`2024-07-19 17:14:39`
 
 ---
 
@@ -56,7 +56,7 @@ Now scale that up to something like the massive aviation industry, the critical 
 
 ### What is Microsoft’s role in all this?
 
-A separate issue earlier, on Thursday, did lead to significant impacts on many of Microsoft’s own cloud customers, but it was resolved overnight and was unrelated to the CrowdStrike issue, multiple cybersecurity experts said.
+A separate issue earlier, on Thursday, did lead to significant impacts on many of Microsoft’s own cloud customers, but it was resolved overnight and was unrelated to the CrowdStrike issue, Microsoft and multiple cybersecurity experts said told CNN.
 
 The CrowdStrike bug may have initially been conflated with the Microsoft issue because CrowdStrike’s error affected only Windows machines.
 
@@ -64,7 +64,9 @@ The CrowdStrike bug may have initially been conflated with the Microsoft issue b
 
 That appears to be supported by Microsoft’s own status account on X, which on Thursday announced an issue affecting “Microsoft 365 apps and services” and a separate announcement Friday addressing the CrowdStrike outage. The two issues are being tracked using different reference numbers.
 
-As of Friday morning, Microsoft said the issue with Microsoft 365 had been resolved and that the situation was improving. Microsoft didn’t immediately respond to a request for comment.
+As of Friday morning, Microsoft said the issue with Microsoft 365 had been resolved and that the situation was improving.
+
+Microsoft CEO Satya Nadella acknowledged the CrowdStrike issue in a post on X Friday morning, saying Microsoft is “working closely with CrowdStrike and across the industry to provide customers technical guidance and support to safely bring their systems back online.”
 
 Since the update to CrowdStrike’s software was delivered by the company’s own systems, it appears unlikely that Microsoft bears direct responsibility for Friday’s outages, said Beaumont, who said he reviewed a copy of CrowdStrike’s flawed update.
 

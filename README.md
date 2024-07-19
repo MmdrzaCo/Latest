@@ -1,10 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 16:41:10`
+#### Latest Update : `2024-07-19 17:14:47`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Which airports and airlines have been affected by the outages?](https://new-news.github.io/Latest/2024/07/19/which_airports_and_airlines_have_been_affected_by_the_outages 'Which airports and airlines have been affected by the outages?')
+
+- [The ‘first’ post-Covid Olympics are exciting sponsors. Fans? Not so much](https://new-news.github.io/Latest/2024/07/19/the_first_post_covid_olympics_are_exciting_sponsors__fans_not_so_much 'The ‘first’ post-Covid Olympics are exciting sponsors. Fans? Not so much')
+
+- [Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal](https://new-news.github.io/Latest/2024/07/19/top_un_court_says_israeli_occupation_of_west_bank_and_east_jerusalem_is_illegal 'Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal')
+
+- [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
+
+- [Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination](https://new-news.github.io/Latest/2024/07/19/dr__sanjay_gupta__there_are_still_key_questions_about_trumps_injuries_after_attempted_assassination 'Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination')
 
 - [Polio detected in Gaza sewage water, threatening new health disaster](https://new-news.github.io/Latest/2024/07/19/polio_detected_in_gaza_sewage_water__threatening_new_health_disaster 'Polio detected in Gaza sewage water, threatening new health disaster')
 
@@ -12,23 +22,17 @@
 
 - [US sanctions alleged Russian hackers who claimed attacks on US water facilities](https://new-news.github.io/Latest/2024/07/19/us_sanctions_alleged_russian_hackers_who_claimed_attacks_on_us_water_facilities 'US sanctions alleged Russian hackers who claimed attacks on US water facilities')
 
-- [Recovering from the global tech outage could be a long, arduous process](https://new-news.github.io/Latest/2024/07/19/recovering_from_the_global_tech_outage_could_be_a_long__arduous_process 'Recovering from the global tech outage could be a long, arduous process')
-
 - [2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and state agencies](https://new-news.github.io/Latest/2024/07/19/2_000_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_state_agencies '2,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and state agencies')
 
 - [Nearly 2 dozen families claim owner of Houston surrogacy escrow company stole millions to fund lavish lifestyle](https://new-news.github.io/Latest/2024/07/19/nearly_2_dozen_families_claim_owner_of_houston_surrogacy_escrow_company_stole_millions_to_fund_lavish_lifestyle 'Nearly 2 dozen families claim owner of Houston surrogacy escrow company stole millions to fund lavish lifestyle')
 
 - [Family of another American journalist held in Russia calls on Biden administration to do more to help](https://new-news.github.io/Latest/2024/07/19/family_of_another_american_journalist_held_in_russia_calls_on_biden_administration_to_do_more_to_help 'Family of another American journalist held in Russia calls on Biden administration to do more to help')
 
-- [Which airports and airlines have been affected by the outages?](https://new-news.github.io/Latest/2024/07/19/which_airports_and_airlines_have_been_affected_by_the_outages 'Which airports and airlines have been affected by the outages?')
-
 - [Thousands of Disneyland workers are expected to authorize a potential strike. It would be the first in 40 years](https://new-news.github.io/Latest/2024/07/19/thousands_of_disneyland_workers_are_expected_to_authorize_a_potential_strike__it_would_be_the_first_in_40_years 'Thousands of Disneyland workers are expected to authorize a potential strike. It would be the first in 40 years')
 
 - [Adidas apologizes for ad campaign linked to 1972 Munich Olympics](https://new-news.github.io/Latest/2024/07/19/adidas_apologizes_for_ad_campaign_linked_to_1972_munich_olympics 'Adidas apologizes for ad campaign linked to 1972 Munich Olympics')
 
 - [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
-
-- [Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal](https://new-news.github.io/Latest/2024/07/19/top_un_court_says_israeli_occupation_of_west_bank_and_east_jerusalem_is_illegal 'Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal')
 
 - [Spanish town to fine tourists for hogging beach spots](https://new-news.github.io/Latest/2024/07/19/spanish_town_to_fine_tourists_for_hogging_beach_spots 'Spanish town to fine tourists for hogging beach spots')
 
@@ -107,8 +111,6 @@
 - [UN says Israeli evacuation orders are making it harder to reach those most in need in Gaza](https://new-news.github.io/Latest/2024/07/19/un_says_israeli_evacuation_orders_are_making_it_harder_to_reach_those_most_in_need_in_gaza 'UN says Israeli evacuation orders are making it harder to reach those most in need in Gaza')
 
 - [Many senior Biden officials believe he must drop out as he becomes increasingly isolated](https://new-news.github.io/Latest/2024/07/19/many_senior biden officials_believe_he_must_drop_out as_he_becomes_increasingly_isolated 'Many senior Biden officials believe he must drop out as he becomes increasingly isolated')
-
-- [Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination](https://new-news.github.io/Latest/2024/07/19/dr__sanjay_gupta__there_are_still_key_questions_about_trumps_injuries_after_attempted_assassination 'Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination')
 
 - [Alabama has executed man convicted of killing delivery driver during a 1998 robbery attempt](https://new-news.github.io/Latest/2024/07/19/alabama_has_executed_man_convicted_of_killing_delivery_driver_during_a_1998_robbery_attempt 'Alabama has executed man convicted of killing delivery driver during a 1998 robbery attempt')
 
@@ -203,8 +205,6 @@
 - [Russian trial of US journalist Evan Gershkovich resumes after being brought forward](https://new-news.github.io/Latest/2024/07/19/russian_trial_of_us_journalist_evan_gershkovich_resumes_after_being_brought_forward 'Russian trial of US journalist Evan Gershkovich resumes after being brought forward')
 
 - [Team USA earns dominant win over Serbia and NBA MVP Nikola Jokić](https://new-news.github.io/Latest/2024/07/19/team_usa_earns_dominant_win_over_serbia_and_nba_mvp_nikola_jokić 'Team USA earns dominant win over Serbia and NBA MVP Nikola Jokić')
-
-- [Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’](https://new-news.github.io/Latest/2024/07/19/britney_spears_has_a_message_for_ozzy_osbourne_after_he_called_her_dancing_sad 'Britney Spears has a message for Ozzy Osbourne after he called her dancing ‘sad’')
 
 
 

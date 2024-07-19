@@ -1,16 +1,18 @@
 # Which airports and airlines have been affected by the outages?
 
-Published :`2024-07-19 16:41:07`
+Published :`2024-07-19 17:14:39`
 
 ---
 
 Many flights across the world have been delayed or grounded due to a major IT system failure.
 
-All flights for US airlines United Airlines, Delta Air Lines, and American Airlines were grounded early on Friday, with the Federal Aviation Administration (FAA), citing communication issues.
+All flights for US carriers United Airlines, Delta Air Lines, and American Airlines were grounded early on Friday.
 
 American Airlines has since confirmed that is has resolved the issue affecting its operations, while Delta and United have resumed some flights.
 
-“The FAA is closely monitoring a technical issue impacting IT systems at U.S. airlines,” reads a statement from the FAA posted early Friday morning on social media. “Several airlines have requested FAA assistance with ground stops until the issue is resolved.”
+The Federal Aviation Administration provided assistance to airlines with ground stops as the IT issue was being addressed, the agency said early Friday morning on X.
+
+“Currently FAA operations are not impacted by the global IT issue,” the FAA posted later on Friday. “We continue to monitor the situation closely.” The agency also said the IT issue “could continue to affect flights this weekend.”
 
 As of 11 a.m. ET, there were 3,861 canceled flights globally (representing 3.61% of flights), according to data from analytics firm Cirium, with chaotic scenes at airports across the world as passengers waited for updates.
 
@@ -28,9 +30,13 @@ American Airlines, United Airlines and Delta Air Lines were all impacted and iss
 
 Delta and United resumed some flights Friday morning and warned of additional disruptions throughout the day.
 
+“The issue affected many separate systems, such as those used for calculating aircraft weight, checking in customers, and phone systems in our call centers,” United Airlines said in a midday update.
+
 Ultra-low cost airline SunCountry, Allegiant Air, Frontier and Spirit Airlines were experiencing disruptions caused by the outage on Friday.
 
-Southwest Airlines was not impacted by the outage.
+Southwest Airlines and JetBlue were not impacted by the outage.
+
+“While our operational systems were not impacted by this outage, customers should monitor their flight status and build in extra time in the event that this outage has impacted specific airports due to outages at other airlines, airport operators, or government agencies,” JetBlue said in a statement.
 
 Toronto-based Porter Airlines announced that it was canceling flights on Friday until noon ET due to “prolonged third-party technology systems outages affecting multiple global industries.
 
