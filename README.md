@@ -1,10 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 01:07:58`
+#### Latest Update : `2024-07-19 02:20:56`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Europe faces a hostile Russia and the prospect of an isolationist US. Unity is more crucial than ever](https://new-news.github.io/Latest/2024/07/19/europe_faces_a_hostile_russia_and_the_prospect_of_an_isolationist_us__unity_is_more_crucial_than_ever 'Europe faces a hostile Russia and the prospect of an isolationist US. Unity is more crucial than ever')
+
+- [Fandango founder identified as man who fell to death from New York City hotel](https://new-news.github.io/Latest/2024/07/19/fandango_founder_identified_as_man_who_fell_to_death_from_new_york_city_hotel 'Fandango founder identified as man who fell to death from New York City hotel')
+
+- [Instant ramen and influencers: Inside the world of South Korean convenience stores](https://new-news.github.io/Latest/2024/07/19/instant_ramen_and_influencers__inside_the_world_of_south_korean_convenience_stores 'Instant ramen and influencers: Inside the world of South Korean convenience stores')
+
+- [Sen. Jon Tester of Montana, vulnerable Democrat up for reelection, calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/19/sen__jon_tester_of_montana__vulnerable_democrat_up_for_reelection__calls_on_biden_to_drop_out_of_the_race 'Sen. Jon Tester of Montana, vulnerable Democrat up for reelection, calls on Biden to drop out of the race')
+
+- [A highly unusual ruling to dismiss a case against 2 White nationalists is put on hold by a federal appeals court](https://new-news.github.io/Latest/2024/07/19/a_highly unusual ruling to_dismiss a_case against_2 white nationalists is_put_on hold_by_a_federal_appeals_court 'A highly unusual ruling to dismiss a case against 2 White nationalists is put on hold by a federal appeals court')
+
+- [UN says Israeli evacuation orders are making it harder to reach those most in need in Gaza](https://new-news.github.io/Latest/2024/07/19/un_says_israeli_evacuation_orders_are_making_it_harder_to_reach_those_most_in_need_in_gaza 'UN says Israeli evacuation orders are making it harder to reach those most in need in Gaza')
 
 - [Many senior Biden officials believe he must drop out as he becomes increasingly isolated](https://new-news.github.io/Latest/2024/07/19/many_senior biden officials_believe_he_must_drop_out as_he_becomes_increasingly_isolated 'Many senior Biden officials believe he must drop out as he becomes increasingly isolated')
 
@@ -29,8 +41,6 @@
 - [If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove](https://new-news.github.io/Latest/2024/07/19/if_the_trump_classified_documents_case_is_reinstated__judge_aileen_cannon_would_be_difficult_to_remove 'If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove')
 
 - [Hunter Biden says Aileen Cannon’s ruling that ended Trump’s classified documents case should help him as well](https://new-news.github.io/Latest/2024/07/19/hunter_biden_says_aileen_cannons_ruling_that_ended_trumps_classified_documents_case_should_help_him_as_well 'Hunter Biden says Aileen Cannon’s ruling that ended Trump’s classified documents case should help him as well')
-
-- [Fandango founder identified as man who fell to death from New York City hotel](https://new-news.github.io/Latest/2024/07/19/fandango_founder_identified_as_man_who_fell_to_death_from_new_york_city_hotel 'Fandango founder identified as man who fell to death from New York City hotel')
 
 - [Netflix is axing its cheapest, ad-free plan in the US](https://new-news.github.io/Latest/2024/07/19/netflix_is_axing_its_cheapest__ad_free_plan_in_the_us 'Netflix is axing its cheapest, ad-free plan in the US')
 
@@ -195,16 +205,6 @@
 - [Fire at shopping mall in southwest China kills 16 people](https://new-news.github.io/Latest/2024/07/19/fire_at_shopping_mall_in_southwest_china_kills_16_people 'Fire at shopping mall in southwest China kills 16 people')
 
 - [Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt](https://new-news.github.io/Latest/2024/07/19/jack_blacks_band_cancels_tour_after_backlash_to_bandmates_comment_on_trump_assassination_attempt 'Jack Black’s band cancels tour after backlash to bandmate’s comment on Trump assassination attempt')
-
-- [A new moment for Biden? One Democratic adviser says: ‘He’s being receptive’](https://new-news.github.io/Latest/2024/07/19/a_new_moment_for_biden_one_democratic_adviser_says__hes_being_receptive 'A new moment for Biden? One Democratic adviser says: ‘He’s being receptive’')
-
-- [Japan’s prime minister apologizes to people forcibly sterilized under former  eugenics law](https://new-news.github.io/Latest/2024/07/19/japans_prime_minister_apologizes_to_people_forcibly_sterilized_under_former__eugenics_law 'Japan’s prime minister apologizes to people forcibly sterilized under former  eugenics law')
-
-- [Right-wing media figures blame women in Secret Service and ‘DEI’ for security failure in Trump shooting](https://new-news.github.io/Latest/2024/07/19/right_wing_media_figures_blame women_in_secret_service_and_dei_for_security_failure_in_trump_shooting 'Right-wing media figures blame women in Secret Service and ‘DEI’ for security failure in Trump shooting')
-
-- [President Joe Biden tests positive for Covid-19 at pivotal moment in reelection campaign](https://new-news.github.io/Latest/2024/07/19/president_joe_biden_tests_positive_for_covid_19_at_pivotal_moment_in_reelection_campaign 'President Joe Biden tests positive for Covid-19 at pivotal moment in reelection campaign')
-
-- [The Indian villages with rooftop sculptures of planes, tanks and cars](https://new-news.github.io/Latest/2024/07/19/the_indian_villages_with_rooftop_sculptures_of_planes__tanks_and_cars 'The Indian villages with rooftop sculptures of planes, tanks and cars')
 
 
 

@@ -1,6 +1,6 @@
 # Justice Department drops some January 6 obstruction charges and retools plea deals after Supreme Court ruling
 
-Published :`2024-07-19 01:07:57`
+Published :`2024-07-19 02:20:52`
 
 ---
 
