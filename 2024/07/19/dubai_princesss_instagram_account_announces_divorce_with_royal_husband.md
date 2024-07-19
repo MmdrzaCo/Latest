@@ -1,6 +1,6 @@
 # Dubai princess’s Instagram account announces divorce with royal husband
 
-Published :`2024-07-19 08:18:37`
+Published :`2024-07-19 08:38:19`
 
 ---
 

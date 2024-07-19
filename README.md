@@ -1,18 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 08:18:38`
+#### Latest Update : `2024-07-19 08:38:20`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Delta, United and American Airlines flights grounded due to communication issue, FAA says](https://new-news.github.io/Latest/2024/07/19/delta__united_and_american_airlines_flights_grounded_due_to_communication_issue__faa_says 'Delta, United and American Airlines flights grounded due to communication issue, FAA says')
+
+- [This couple’s hobby? Illegally scaling the world’s tallest buildings together](https://new-news.github.io/Latest/2024/07/19/this_couples_hobby_illegally_scaling_the_worlds_tallest_buildings_together 'This couple’s hobby? Illegally scaling the world’s tallest buildings together')
 
 - [Trump’s would-be assassin researched previous mass shooter Ethan Crumbley and his family before attack](https://new-news.github.io/Latest/2024/07/19/trumps_would_be_assassin_researched_previous_mass_shooter_ethan_crumbley_and_his_family_before_attack 'Trump’s would-be assassin researched previous mass shooter Ethan Crumbley and his family before attack')
 
 - [Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks](https://new-news.github.io/Latest/2024/07/19/putins_summer_residence_gets_new_air_defenses_as_ukraine_steps_up_drone_attacks 'Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks')
 
 - [Yemen’s Houthi rebels claim deadly Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/19/yemens_houthi_rebels_claim_deadly_tel_aviv_drone_attack 'Yemen’s Houthi rebels claim deadly Tel Aviv drone attack')
-
-- [Delta, United and American Airlines flights grounded due to communication issue, FAA says](https://new-news.github.io/Latest/2024/07/19/delta__united_and_american_airlines_flights_grounded_due_to_communication_issue__faa_says 'Delta, United and American Airlines flights grounded due to communication issue, FAA says')
 
 - [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/19/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
 
@@ -203,8 +205,6 @@
 - [US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’](https://new-news.github.io/Latest/2024/07/19/us_urges_venezuela_to_free_opposition_figures_as_maduro_says_he_must_win_reelection_to_avoid_a_bloodbath 'US urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’')
 
 - [Remains of ancient Papal palace believed to have been found in Rome](https://new-news.github.io/Latest/2024/07/19/remains_of_ancient_papal_palace_believed_to_have_been_found_in_rome 'Remains of ancient Papal palace believed to have been found in Rome')
-
-- [Three former Trump officials say they requested protection from increased Iranian threats in 2023](https://new-news.github.io/Latest/2024/07/19/three_former_trump_officials_say_they_requested_protection_from_increased_iranian_threats_in_2023 'Three former Trump officials say they requested protection from increased Iranian threats in 2023')
 
 
 

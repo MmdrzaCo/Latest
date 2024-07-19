@@ -1,6 +1,6 @@
 # Tiger Woods says he lost sleep over Trump assassination attempt
 
-Published :`2024-07-19 08:18:37`
+Published :`2024-07-19 08:38:18`
 
 ---
 
