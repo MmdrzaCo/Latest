@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 02:47:32`
+#### Latest Update : `2024-07-19 03:19:27`
 
 ## Latest News Grabbing 
 
 ---
+
+- [DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time](https://new-news.github.io/Latest/2024/07/19/doj_says_substantial_progress_made_toward_final_plea_agreement_with_boeing_but_needs_more_time 'DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time')
 
 - [Frontier and other airlines were at a standstill for hours after a massive Microsoft outage](https://new-news.github.io/Latest/2024/07/19/frontier_and_other_airlines_were_at_a_standstill_for_hours_after_a_massive_microsoft_outage 'Frontier and other airlines were at a standstill for hours after a massive Microsoft outage')
 
@@ -204,10 +206,8 @@
 
 - [Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident](https://new-news.github.io/Latest/2024/07/19/naomi_pomeroy__renowned_chef_and_top_chef_masters_star__dead_at_49_in_tubing_accident 'Naomi Pomeroy, renowned chef and ‘Top Chef Masters’ star, dead at 49 in tubing accident')
 
-- [Fire at shopping mall in southwest China kills 16 people](https://new-news.github.io/Latest/2024/07/19/fire_at_shopping_mall_in_southwest_china_kills_16_people 'Fire at shopping mall in southwest China kills 16 people')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agrees](/ 'agrees')  [ahead](/ 'ahead')  [aid](/ 'aid') 
+##### Tags: [a](/ 'a')  [abortions](/ 'abortions')  [about](/ 'about')  [accident](/ 'accident')  [account](/ 'account')  [accused](/ 'accused')  [acropolis](/ 'acropolis')  [activists](/ 'activists')  [additional](/ 'additional')  [administration](/ 'administration')  [adriatic](/ 'adriatic')  [adviser](/ 'adviser')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agents](/ 'agents')  [ago](/ 'ago')  [agreement](/ 'agreement')  [agrees](/ 'agrees')  [ahead](/ 'ahead') 
