@@ -1,18 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-19 20:37:01`
+#### Latest Update : `2024-07-19 21:13:32`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Carol Burnett shares time capsule tribute to Bob Newhart](https://new-news.github.io/Latest/2024/07/19/carol_burnett_shares_time_capsule_tribute_to_bob_newhart 'Carol Burnett shares time capsule tribute to Bob Newhart')
+- [Blinken says Iran’s nuclear weapon breakout time is probably down to 1-2 weeks](https://new-news.github.io/Latest/2024/07/19/blinken_says_irans_nuclear_weapon_breakout_time_is_probably_down_to_1_2_weeks 'Blinken says Iran’s nuclear weapon breakout time is probably down to 1-2 weeks')
+
+- [2,600 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_600_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,600 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
 
 - [How the world’s tech crashed all at once](https://new-news.github.io/Latest/2024/07/19/how_the_worlds_tech_crashed_all_at_once 'How the world’s tech crashed all at once')
 
-- [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
+- [Biden faces fresh wave of Democratic defections as campaign tries to press forward](https://new-news.github.io/Latest/2024/07/19/biden_faces_fresh_wave_of_democratic_defections_as_campaign_tries_to_press_forward 'Biden faces fresh wave of Democratic defections as campaign tries to press forward')
 
-- [2,500 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/19/2_500_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,500 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
+- [Carol Burnett shares time capsule tribute to Bob Newhart](https://new-news.github.io/Latest/2024/07/19/carol_burnett_shares_time_capsule_tribute_to_bob_newhart 'Carol Burnett shares time capsule tribute to Bob Newhart')
+
+- [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/19/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 
 - [Secret Service boosts and rethinks security for first Trump-Vance rally and campaign](https://new-news.github.io/Latest/2024/07/19/secret_service_boosts_and_rethinks_security_for_first_trump_vance_rally_and_campaign 'Secret Service boosts and rethinks security for first Trump-Vance rally and campaign')
 
@@ -201,10 +205,6 @@
 - [Pentagon leaker Jack Teixeira to face military court martial charges](https://new-news.github.io/Latest/2024/07/19/pentagon_leaker_jack_teixeira_to_face_military_court_martial_charges 'Pentagon leaker Jack Teixeira to face military court martial charges')
 
 - [Investigators now believe account on gaming site in would-be assassin’s name is fake](https://new-news.github.io/Latest/2024/07/19/investigators_now_believe_account_on_gaming_site_in_would_be_assassins_name_is_fake 'Investigators now believe account on gaming site in would-be assassin’s name is fake')
-
-- [Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN](https://new-news.github.io/Latest/2024/07/19/secret_service_solely_responsible_for_implementation_and_execution_of security_at the_trump_rally_site_ director_tells_cnn 'Secret Service ‘solely responsible’ for implementation and execution of security at the Trump rally site, director tells CNN')
-
-- [Donald Glover is retiring Childish Gambino](https://new-news.github.io/Latest/2024/07/19/donald_glover_is_retiring_childish_gambino 'Donald Glover is retiring Childish Gambino')
 
 
 

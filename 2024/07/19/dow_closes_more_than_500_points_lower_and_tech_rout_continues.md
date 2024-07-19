@@ -1,6 +1,6 @@
 # Dow closes more than 500 points lower and tech rout continues
 
-Published :`2024-07-19 20:37:01`
+Published :`2024-07-19 21:13:32`
 
 ---
 

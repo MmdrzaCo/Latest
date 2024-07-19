@@ -1,6 +1,6 @@
 # Senators confront Secret Service director on Republican convention floor
 
-Published :`2024-07-19 20:37:01`
+Published :`2024-07-19 21:13:32`
 
 ---
 

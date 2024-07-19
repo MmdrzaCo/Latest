@@ -1,6 +1,6 @@
 # How the world’s tech crashed all at once
 
-Published :`2024-07-19 20:36:59`
+Published :`2024-07-19 21:13:28`
 
 ---
 
@@ -14,11 +14,11 @@ Software updates are a critical function in society to keep computers protected 
 
 ### CrowdStrike is everywhere
 
-Numerous Fortune 500 companies use CrowdStrike’s cybersecurity software to detect and block hacking threats. Computers running Microsoft Windows — one of the most popular software programs in the world — crashed because of the faulty way a code update issued by CrowdStrike interacting with Windows.
+Numerous Fortune 500 companies use CrowdStrike’s cybersecurity software to detect and block hacking threats. Computers running Microsoft Windows — one of the most popular software programs in the world — crashed because of the faulty way a code update issued by CrowdStrike is interacting with Windows.
 
 CrowdStrike, a multibillion-dollar firm, has expanded its footprint around the world in its more than decade of doing business. Many more businesses and governments are now protected from cyberthreats because of this, but the dominance of a handful of firms in the anti-virus and threat-detection marketplace creates its own risks, according to experts.
 
-“We trust cybersecurity providers widely but without diversity; we’ve created fragility in our technology ecosystem,” Munish Walther-Puri, the former director of cyber risk for the City of New York told CNN.
+“We trust cybersecurity providers widely but without diversity; we’ve created fragility in our technology ecosystem,” Munish Walther-Puri, the former director of cyber risk for the city of New York, told CNN.
 
 “‘Winning’ in the marketplace can aggregate risk, and then we all — consumers and companies alike — bear the costs,” Walther-Puri said.
 
