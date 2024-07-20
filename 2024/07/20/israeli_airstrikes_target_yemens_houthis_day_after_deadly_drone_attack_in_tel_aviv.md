@@ -1,22 +1,24 @@
 # Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv
 
-Published :`2024-07-20 18:38:38`
+Published :`2024-07-20 19:11:03`
 
 ---
 
 Israeli airstrikes targeted Houthi rebels in Yemen a day after the Iran-backed group claimed a deadly attack on the Israeli city of Tel Aviv.
 
-“A short while ago, IDF fighter jets struck military targets of the Houthi terrorist regime in the area of Hodeidah Port in Yemen in response to the hundreds of attacks carried out against the state of Israel in recent months,” the Israel Defence Forces (IDF) said in a statement.
+The Israel Defense Forces said its fighter jets struck “military targets of the Houthi terrorist regime” in the area of Yemen’s Hodeidah Port, with spokesperson Daniel Haggari saying the strikes were in response to both the death of a 50-year-old Israeli in the attack on Tel Aviv and the roughly 200 projectiles the rebel group has fired towards Israel since October.
 
-The statement came soon after the Houthi-run Al Masirah TV reported airstrikes targeting oil facilities in the western port of Hodeidah, adding that there had been deaths and injuries.
+The Houthi-run Al Masirah TV said the Israeli strikes targeted oil facilities in the port on Yemen’s west coast, adding that there had been deaths and injuries.
 
-Houthi spokesperson Mohammed Abdulsalam said the Israeli strikes hit civilian targets, oil tanks and a power station. He slammed what he said was “brutal Israeli aggression” aimed at increasing the “suffering of the people of Yemen” and pressuring it to stop its support of Gaza.
+Houthi spokesperson Mohammed Abdulsalam said the strikes had also hit civilian targets and a power station. He slammed what he said was “brutal Israeli aggression” aimed at increasing the “suffering of the people of Yemen” and pressuring it to stop its support of Gaza.
+
+The Houthi Supreme Political Council vowed to retaliate with “more impactful strikes on the enemy” and reiterated its solidarity with the Palestinian people, according to Al Masirah TV.
 
 The Israeli strikes came a day after a Houthi drone attack in Tel Aviv killed one man and injured at least 10 others.
 
 The Houthis said the drone attack on Tel Aviv was a response to Israel’s war in Gaza, claiming the operation was performed by a new drone capable of “bypassing the enemy’s interception systems.”
 
-Israeli officials said that they decided to respond because of the death of the Israeli citizen and that Hodeidah had been targeted because it was the main supply route of Iranian weapons to Yemen. A spokesperson for the IDF said the targets were dual use infrastructure that were also being used for terrorist activity.
+Israeli officials said Hodeidah had been targeted because it was the main supply route of Iranian weapons to Yemen. A spokesperson for the IDF said the targets were dual use infrastructure that were also being used for terrorist activity.
 
 Israeli Defense Minister Yoav Gallant said “the blood of Israeli citizens has a price,” and that if Israelis are attacked, the “result will be identical” to that in Lebanon and Gaza.
 

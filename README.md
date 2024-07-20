@@ -1,20 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 18:38:42`
+#### Latest Update : `2024-07-20 19:11:13`
 
 ## Latest News Grabbing 
 
 ---
 
+- [A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened](https://new-news.github.io/Latest/2024/07/20/a_global_tech_outage_brought_many_computer_systems_and_businesses_to_a_screeching_halt__heres_what_happened 'A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened')
+
+- [The broken wind turbine near Nantucket was ‘highly unusual and rare.’ But it wasn’t the first](https://new-news.github.io/Latest/2024/07/20/the_broken_wind_turbine_near_nantucket_was_highly_unusual_and_rare__but_it_wasnt_the_first 'The broken wind turbine near Nantucket was ‘highly unusual and rare.’ But it wasn’t the first')
+
+- [Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting](https://new-news.github.io/Latest/2024/07/20/investigators_believe_trumps_would_be_assassin_flew_a_drone_over_rally_site_on_the_day_of_the_shooting 'Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting')
+
 - [Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv](https://new-news.github.io/Latest/2024/07/20/israeli_airstrikes_target_yemens_houthis_day_after_deadly_drone_attack_in_tel_aviv 'Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv')
+
+- [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/20/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
 - [Glen Powell pays tribute to late ‘Twister’ star Bill Paxton as sequel releases](https://new-news.github.io/Latest/2024/07/20/glen_powell_pays_tribute_to_late_twister_star_bill_paxton_as_sequel_releases 'Glen Powell pays tribute to late ‘Twister’ star Bill Paxton as sequel releases')
 
 - [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/20/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
 
 - [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
-
-- [Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting](https://new-news.github.io/Latest/2024/07/20/investigators_believe_trumps_would_be_assassin_flew_a_drone_over_rally_site_on_the_day_of_the_shooting 'Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting')
 
 - [A 72-year-old was alone picking huckleberries in a Montana forest. Then, a grizzly bear attacked him](https://new-news.github.io/Latest/2024/07/20/a_72_year_old_was_alone_picking_huckleberries_in_a_montana_forest__then__a_grizzly_bear_attacked_him 'A 72-year-old was alone picking huckleberries in a Montana forest. Then, a grizzly bear attacked him')
 
@@ -31,8 +37,6 @@
 - [Adidas apologizes for ad campaign linked to 1972 Munich Olympics](https://new-news.github.io/Latest/2024/07/20/adidas_apologizes_for_ad_campaign_linked_to_1972_munich_olympics 'Adidas apologizes for ad campaign linked to 1972 Munich Olympics')
 
 - [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
-
-- [A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened](https://new-news.github.io/Latest/2024/07/20/a_global_tech_outage_brought_many_computer_systems_and_businesses_to_a_screeching_halt__heres_what_happened 'A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened')
 
 - [Greeks grieve, Turks celebrate as Cyprus marks 50 years of division](https://new-news.github.io/Latest/2024/07/20/greeks_grieve__turks_celebrate_as_cyprus_marks_50_years_of_division 'Greeks grieve, Turks celebrate as Cyprus marks 50 years of division')
 
@@ -202,12 +206,8 @@
 
 - [Frontier and other airlines were at a standstill for hours after a massive Microsoft outage](https://new-news.github.io/Latest/2024/07/20/frontier_and_other_airlines_were_at_a_standstill_for_hours_after_a_massive_microsoft_outage 'Frontier and other airlines were at a standstill for hours after a massive Microsoft outage')
 
-- [Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says](https://new-news.github.io/Latest/2024/07/20/seattle_officer_fired_for_cruel_comments_and_callous_laughter_following_indian_grad_students_death__police_chief_says 'Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says')
-
-- [Europe faces a hostile Russia and the prospect of an isolationist US. Unity is more crucial than ever](https://new-news.github.io/Latest/2024/07/20/europe_faces_a_hostile_russia_and_the_prospect_of_an_isolationist_us__unity_is_more_crucial_than_ever 'Europe faces a hostile Russia and the prospect of an isolationist US. Unity is more crucial than ever')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abandoned](/ 'abandoned')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement') 

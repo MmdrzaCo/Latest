@@ -1,6 +1,6 @@
 # What is CrowdStrike, the company linked to the global outage?
 
-Published :`2024-07-20 18:38:40`
+Published :`2024-07-20 19:11:10`
 
 ---
 
