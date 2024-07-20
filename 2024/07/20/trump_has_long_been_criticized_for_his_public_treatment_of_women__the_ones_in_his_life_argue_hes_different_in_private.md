@@ -1,6 +1,6 @@
 # Trump has long been criticized for his public treatment of women. The ones in his life argue he’s different in private
 
-Published :`2024-07-20 20:36:34`
+Published :`2024-07-20 21:13:10`
 
 ---
 
@@ -34,7 +34,7 @@ Family members, from his granddaughter – who said the former president bragged
 
 “I know what you hear out there about Donald Trump,” Lara Trump, the former president’s daughter-in-law and the co-chair of the Republican National Committee, said in her speech. “But when I look at Donald Trump, I see a wonderful father, father-in-law and, of course, grandfather to my two young children, Luke and Carolina.”
 
-### History of locker room talk
+### History of sexism and misconduct allegations
 
 The effort to reframe Trump’s treatment of women was part of a larger push to soften the former president’s image in the wake of the assassination attempt last weekend.
 

@@ -1,18 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 20:36:45`
+#### Latest Update : `2024-07-20 21:13:14`
 
 ## Latest News Grabbing 
 
 ---
 
+- [German citizen sentenced to death in Belarus, charged with terrorism, mercenary activities](https://new-news.github.io/Latest/2024/07/20/german_citizen_sentenced_to_death_in_belarus__charged_with_terrorism__mercenary_activities 'German citizen sentenced to death in Belarus, charged with terrorism, mercenary activities')
+
+- [Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee](https://new-news.github.io/Latest/2024/07/20/clintons_privately_urge_donors_to_keep_giving_to_biden_as_long_as_he_remains_presumptive_nominee 'Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee')
+
+- [At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/20/at_least_80_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
+
+- [Opinion: The freedom embedded in my family’s dreams became real 60 years ago](https://new-news.github.io/Latest/2024/07/20/opinion__the_freedom_embedded_in_my_familys_dreams_became_real_60_years_ago 'Opinion: The freedom embedded in my family’s dreams became real 60 years ago')
+
+- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_public_services 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services')
+
+- [Residents stage rare protest over power cuts in Russia’s Krasnodar](https://new-news.github.io/Latest/2024/07/20/residents_stage_rare_protest_over_power_cuts_in_russias_krasnodar 'Residents stage rare protest over power cuts in Russia’s Krasnodar')
+
 - [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/20/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
-- [Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv](https://new-news.github.io/Latest/2024/07/20/israeli_airstrikes_target_yemens_houthis_day_after_deadly_drone_attack_in_tel_aviv 'Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv')
-
 - [Trump has long been criticized for his public treatment of women. The ones in his life argue he’s different in private](https://new-news.github.io/Latest/2024/07/20/trump_has_long_been_criticized_for_his_public_treatment_of_women__the_ones_in_his_life_argue_hes_different_in_private 'Trump has long been criticized for his public treatment of women. The ones in his life argue he’s different in private')
-
-- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
 - [A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened](https://new-news.github.io/Latest/2024/07/20/a_global_tech_outage_brought_many_computer_systems_and_businesses_to_a_screeching_halt__heres_what_happened 'A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened')
 
@@ -198,16 +206,8 @@
 
 - [Takeaways from the final night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/20/takeaways_from_the_final_night_of_the_republican_national_convention 'Takeaways from the final night of the Republican National Convention')
 
-- [University of Florida president Ben Sasse is resigning after his wife was diagnosed with epilepsy](https://new-news.github.io/Latest/2024/07/20/university_of_florida_president_ben_sasse_is_resigning_after_his_wife_was_diagnosed_with_epilepsy 'University of Florida president Ben Sasse is resigning after his wife was diagnosed with epilepsy')
-
-- [Olympic Village welcomes first athletes ahead of 2024 Paris Games](https://new-news.github.io/Latest/2024/07/20/olympic_village_welcomes_first_athletes_ahead_of_2024_paris_games 'Olympic Village welcomes first athletes ahead of 2024 Paris Games')
-
-- [Largest housing provider for migrant children engaged in pervasive sexual abuse, US says](https://new-news.github.io/Latest/2024/07/20/largest_housing_provider_for_migrant_children_engaged_in_pervasive_sexual_abuse__us_says 'Largest housing provider for migrant children engaged in pervasive sexual abuse, US says')
-
-- [DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time](https://new-news.github.io/Latest/2024/07/20/doj_says_substantial_progress_made_toward_final_plea_agreement_with_boeing_but_needs_more_time 'DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abandoned](/ 'abandoned')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abandoned](/ 'abandoned')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [activities](/ 'activities')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency') 
