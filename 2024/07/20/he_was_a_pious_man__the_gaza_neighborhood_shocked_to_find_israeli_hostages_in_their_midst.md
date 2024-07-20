@@ -1,6 +1,6 @@
 # ‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst
 
-Published :`2024-07-20 09:15:09`
+Published :`2024-07-20 09:35:42`
 
 ---
 

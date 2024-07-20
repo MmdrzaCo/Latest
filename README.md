@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 09:15:13`
+#### Latest Update : `2024-07-20 09:35:44`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_underway_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
 - [3 alleged gang members and an associate charged in the fatal shooting of an off-duty LAPD officer](https://new-news.github.io/Latest/2024/07/20/3_alleged_gang_members_and_an_associate_charged_in_the_fatal_shooting_of_an_off_duty_lapd_officer '3 alleged gang members and an associate charged in the fatal shooting of an off-duty LAPD officer')
 
@@ -15,8 +17,6 @@
 - [Federal class action lawsuit is seeking refunds on behalf of ticketed fans after chaos at Copa América final](https://new-news.github.io/Latest/2024/07/20/federal class_action_lawsuit_is_seeking_refunds_on_behalf_of_ticketed_fans_after_chaos_at_copa_américa_final 'Federal class action lawsuit is seeking refunds on behalf of ticketed fans after chaos at Copa América final')
 
 - [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/20/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
-
-- [Global tech outage leaves thousands stranded at airports amid disruptions at hospitals, government agencies and 911 systems](https://new-news.github.io/Latest/2024/07/20/global_tech_outage_leaves_thousands_stranded_at_airports_amid_disruptions_at_hospitals__government_agencies_and_911_systems 'Global tech outage leaves thousands stranded at airports amid disruptions at hospitals, government agencies and 911 systems')
 
 - [Trump’s epic week began with cheating death](https://new-news.github.io/Latest/2024/07/20/trumps_epic_week_began_with_cheating_death 'Trump’s epic week began with cheating death')
 
