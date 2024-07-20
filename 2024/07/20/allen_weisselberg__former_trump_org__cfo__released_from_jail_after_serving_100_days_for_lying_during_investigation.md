@@ -1,6 +1,6 @@
 # Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation
 
-Published :`2024-07-20 04:38:31`
+Published :`2024-07-20 05:15:06`
 
 ---
 
