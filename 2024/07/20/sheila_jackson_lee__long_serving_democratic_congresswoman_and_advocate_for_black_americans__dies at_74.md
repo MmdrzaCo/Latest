@@ -1,6 +1,6 @@
 # Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74
 
-Published :`2024-07-20 03:37:47`
+Published :`2024-07-20 04:19:24`
 
 ---
 
@@ -14,7 +14,7 @@ Her family remembered her as “a fierce champion of the people,” saying that 
 
 Born on January 12, 1950, in Queens, New York, Jackson Lee was among the first women to graduate from Yale University and served as a Houston municipal judge and a city councilwoman before she was first elected to represent Texas’ 18th Congressional District in 1994, unseating a Democratic incumbent in the primary for the Houston-area seat.
 
-During her congressional tenure, she was an outspoken advocate for progressive interests and Black Americans. She was one of the sponsors of legislation to establish Juneteenth as a national holiday, frequently spoke out against police brutality and advocated federal legislation to prosecute police misconduct.
+During her congressional tenure, Jackson Lee was an outspoken advocate for progressive interests and Black Americans. She was one of the sponsors of legislation to establish Juneteenth as a national holiday, frequently spoke out against police brutality and advocated federal legislation to prosecute police misconduct.
 
 She was widely admired among progressives for her opposition to the Iraq War and was a fierce critic of former President Donald Trump. She opposed the tallying of electoral votes certifying Trump as the winner of the 2016 election, citing an unfounded claim about “massive voter suppression,” and occasionally used her position on the House Judiciary Committee to excoriate members of Trump’s circle.
 
@@ -34,7 +34,17 @@ Last year, Lee sought the Houston mayorship, earning endorsements from former Ho
 
 Following that loss, Jackson Lee filed to seek a 16th term in Congress, and in March, she won a competitive Democratic primary over former Houston City Council Member Amanda Edwards, a former intern.
 
-In Congress, she developed a reputation for grabbing a seat close to the entranceway in the House chamber for the president’s annual State of the Union address so she could engage with the commander in chief. It wasn’t for the photo opportunities, she insisted to The Huffington Post in 2016 – it was also an opportunity to quickly conduct business with presidents.
+House Democratic Leader Hakeem Jeffries said in a statement that House Democrats and the city of Houston “mourn a giant,” remembering the congresswoman as “an accomplished legislator, passionate public servant, loving mentor and wonderful friend to so many of us in the Congressional Black Caucus and House Democratic Caucus family.”
+
+“I am grateful for her fearless advocacy, fierce determination, formidable service and legacy of leadership,” Jeffries said.
+
+Calling her death a “tremendous loss,” Senate Majority Leader Chuck Schumer wrote on X that the congresswoman “fought so hard throughout her life to make our country a better place for all.”
+
+“I have never known a harder-working political leader than Rep. Sheila Jackson Lee, who studied every bill and every amendment with exactitude and then told Texas and America exactly where she stood,” Maryland Rep. Jamie Raskin said on X.
+
+On CNN’s “Laura Coates Live,” fellow Texas Rep. Al Green remembered Jackson Lee as “someone in Congress that was always, always working to bring about a just resolution to any problem,” adding that she helped him become a better congressman.
+
+In Congress, she developed a reputation for grabbing a seat close to the entranceway in the House chamber for the president’s annual State of the Union address so she could engage with the commander in chief. It wasn’t for the photo opportunities, she insisted to The Huffington Post in 2016, it was also an opportunity to quickly conduct business with presidents.
 
 As to why she was able to gain regular access to such a prized perch, she said, “Because of so many good friends, I am welcomed in that seat.”
 

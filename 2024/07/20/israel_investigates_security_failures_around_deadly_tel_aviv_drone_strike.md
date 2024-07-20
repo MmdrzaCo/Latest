@@ -1,6 +1,6 @@
 # Israel investigates security failures around deadly Tel Aviv drone strike
 
-Published :`2024-07-20 03:37:48`
+Published :`2024-07-20 04:19:25`
 
 ---
 

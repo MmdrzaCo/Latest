@@ -1,6 +1,6 @@
 # Opinion: We’re neglecting pets in disasters — with tragic consequences
 
-Published :`2024-07-20 03:37:51`
+Published :`2024-07-20 04:19:27`
 
 ---
 

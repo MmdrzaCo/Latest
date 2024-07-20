@@ -1,12 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 03:37:51`
+#### Latest Update : `2024-07-20 04:19:27`
 
 ## Latest News Grabbing 
 
 ---
 
 - [Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74](https://new-news.github.io/Latest/2024/07/20/sheila_jackson_lee__long_serving_democratic_congresswoman_and_advocate_for_black_americans__dies at_74 'Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74')
+
+- [Missouri woman who served 43 years in prison is free after her murder conviction was overturned](https://new-news.github.io/Latest/2024/07/20/missouri_woman_who_served_43_years_in_prison_is_free_after_her_murder_conviction_was_overturned 'Missouri woman who served 43 years in prison is free after her murder conviction was overturned')
 
 - [3,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/20/3_000_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '3,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
 
@@ -203,8 +205,6 @@
 - [Dow closes more than 500 points lower and tech rout continues](https://new-news.github.io/Latest/2024/07/20/dow_closes_more_than_500_points_lower_and_tech_rout_continues 'Dow closes more than 500 points lower and tech rout continues')
 
 - [An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals](https://new-news.github.io/Latest/2024/07/20/an_unusual_and_rare_wind_turbine_failure_is_littering_nantucket_beaches_with_debris__angering_locals 'An ‘unusual and rare’ wind turbine failure is littering Nantucket beaches with debris, angering locals')
-
-- [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/20/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
 
 
 
