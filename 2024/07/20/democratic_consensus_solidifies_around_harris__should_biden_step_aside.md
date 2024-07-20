@@ -1,6 +1,6 @@
 # Democratic consensus solidifies around Harris, should Biden step aside
 
-Published :`2024-07-20 09:35:40`
+Published :`2024-07-20 10:14:56`
 
 ---
 
@@ -12,7 +12,7 @@ The informal conversations about how a fight to replace Biden at the top of the 
 
 It’s not that everyone has suddenly coalesced – but exhaustion is gelling into consensus.
 
-Internal polls that show arris would at least be more helpful to boosting Democratic enthusiasm and aiding down ballot races are getting passed around. Arguments that she would be fastest to put together a campaign are landing harder. Daydreams of her making a more active and vigorous case against Donald Trump are taking root.
+Internal polls that show Harris would at least be more helpful to boosting Democratic enthusiasm and aiding down ballot races are getting passed around. Arguments that she would be fastest to put together a campaign are landing harder. Daydreams of her making a more active and vigorous case against Donald Trump are taking root.
 
 Many are deliberately holding off talking about hypotheticals as Biden aides say he plans to get back on the campaign trail next week once he recovers from Covid-19. But if that suddenly changes, two dozen leading Democratic politicians and operatives told CNN, they can’t realistically see this ending any other way.
 

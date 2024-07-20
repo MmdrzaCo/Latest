@@ -1,6 +1,6 @@
 # Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll
 
-Published :`2024-07-20 09:35:44`
+Published :`2024-07-20 10:15:02`
 
 ---
 

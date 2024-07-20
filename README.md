@@ -1,12 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 09:35:44`
+#### Latest Update : `2024-07-20 10:15:02`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/20/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
+
+- [Paris adds an unusual museum to its illustrious roster](https://new-news.github.io/Latest/2024/07/20/paris_adds_an_unusual_museum_to_its_illustrious_roster 'Paris adds an unusual museum to its illustrious roster')
+
 - [Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_underway_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies')
+
+- [Bridge collapses in China killing 12 and leaving more than 30 missing](https://new-news.github.io/Latest/2024/07/20/bridge_collapses_in_china_killing_12_and_leaving_more_than_30_missing 'Bridge collapses in China killing 12 and leaving more than 30 missing')
 
 - [3 alleged gang members and an associate charged in the fatal shooting of an off-duty LAPD officer](https://new-news.github.io/Latest/2024/07/20/3_alleged_gang_members_and_an_associate_charged_in_the_fatal_shooting_of_an_off_duty_lapd_officer '3 alleged gang members and an associate charged in the fatal shooting of an off-duty LAPD officer')
 
@@ -15,8 +21,6 @@
 - [Facing difficult frontline reality and the prospect of Trump in the White House, Zelensky hints at negotiations with Russia](https://new-news.github.io/Latest/2024/07/20/facing_difficult_frontline_reality_and_the_prospect_of_trump_in_the_white_house__zelensky_hints_at_negotiations_with_russia 'Facing difficult frontline reality and the prospect of Trump in the White House, Zelensky hints at negotiations with Russia')
 
 - [Federal class action lawsuit is seeking refunds on behalf of ticketed fans after chaos at Copa América final](https://new-news.github.io/Latest/2024/07/20/federal class_action_lawsuit_is_seeking_refunds_on_behalf_of_ticketed_fans_after_chaos_at_copa_américa_final 'Federal class action lawsuit is seeking refunds on behalf of ticketed fans after chaos at Copa América final')
-
-- [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/20/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
 
 - [Trump’s epic week began with cheating death](https://new-news.github.io/Latest/2024/07/20/trumps_epic_week_began_with_cheating_death 'Trump’s epic week began with cheating death')
 
@@ -202,12 +206,8 @@
 
 - [Hunter Biden says Aileen Cannon’s ruling that ended Trump’s classified documents case should help him as well](https://new-news.github.io/Latest/2024/07/20/hunter_biden_says_aileen_cannons_ruling_that_ended_trumps_classified_documents_case_should_help_him_as_well 'Hunter Biden says Aileen Cannon’s ruling that ended Trump’s classified documents case should help him as well')
 
-- [Netflix is axing its cheapest, ad-free plan in the US](https://new-news.github.io/Latest/2024/07/20/netflix_is_axing_its_cheapest__ad_free_plan_in_the_us 'Netflix is axing its cheapest, ad-free plan in the US')
-
-- [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/20/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [action](/ 'action')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 
