@@ -1,12 +1,12 @@
 # Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv
 
-Published :`2024-07-20 17:12:58`
+Published :`2024-07-20 17:35:46`
 
 ---
 
 Israeli airstrikes targeted Houthi rebels in Yemen a day after the Iran-backed group claimed a deadly attack on the Israeli city of Tel Aviv.
 
-“A short while ago, IDF fighter jets struck military targets of the Houthi terrorist regime in the area of the Al Hudaydah [Hodeidah] Port in Yemen in response to the hundreds of attacks carried out against the state of Israel in recent months,” the Israel Defence Forces (IDF) said in a statement.
+“A short while ago, IDF fighter jets struck military targets of the Houthi terrorist regime in the area of the Al Hudaydah (Hodeidah) Port in Yemen in response to the hundreds of attacks carried out against the state of Israel in recent months,” the Israel Defence Forces (IDF) said in a statement.
 
 The statement came soon after the Houthi-run Al Masirah TV reported airstrikes targeting oil facilities in the western port of Hodeidah, adding that there had been deaths and injuries.
 
@@ -23,6 +23,8 @@ The Houthis said that attack was a response to Israel’s war in Gaza, with a sp
 While the Houthis have carried out numerous strikes targeting shipping in solidarity with Gaza, this is the first time Israel has struck Yemen.
 
 Two Israeli officials said Israel had notified the US ahead of its airstrikes in Yemen on Saturday.
+
+A White House official said US President Joe Biden had been briefed on “developments” in the Middle East.
 
 Both the UK and the US have carried out strikes on Houthi targets in Yemen in response to the attacks on shipping.
 
