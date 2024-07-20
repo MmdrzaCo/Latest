@@ -1,6 +1,6 @@
 # Democratic consensus solidifies around Harris, should Biden step aside
 
-Published :`2024-07-20 15:36:15`
+Published :`2024-07-20 16:18:39`
 
 ---
 
@@ -58,7 +58,7 @@ People who have long disliked Harris haven’t suddenly changed their minds. 
 
 Texas Rep. Vicente Gonzalez, who is running for reelection in a tough race, told CNN he was surprised by how quickly the conversation had moved from people saying just a few months ago that Harris would be a drag on the ticket and Biden might consider replacing her.
 
-“I just don’t understand how we go from that to the idea that she should be leading the ticket,” Gonzalez said. “I have nothing against her, but the facts are just the facts. Not everything changed, right? How did how did we go from that to this? I mean, nowhere else in the world but this town, right?”
+“I just don’t understand how we go from that to the idea that she should be leading the ticket,” Gonzalez said. “I have nothing against her, but the facts are just the facts. Not everything changed, right? How did we go from that to this? I mean, nowhere else in the world but this town, right?”
 
 Republican operatives tell CNN they are salivating – not just at going back through the old attacks and the videos of her word-salad answers but asking her over and over about what she knew and when she knew it about Biden’s health and effects of aging. They’ll push for Biden to resign, to create more chaos and take her off the trail more.
 

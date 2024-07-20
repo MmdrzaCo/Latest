@@ -1,6 +1,6 @@
 # Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies
 
-Published :`2024-07-20 15:36:15`
+Published :`2024-07-20 16:18:39`
 
 ---
 
@@ -9,6 +9,8 @@ Operations are gradually being restored but delays are expected after “the lar
 Airlines, businesses, government agencies, health and emergency services, banks and schools and universities around the world ground to a halt or saw services disrupted due to a flawed software update for Microsoft Windows operating systems issued by the cybersecurity firm CrowdStrike, experts told CNN.
 
 CrowdStrike’s CEO said a fix has been deployed, but experts say getting systems back in order will be a lengthy process.
+
+The outage affected an estimated 8.5 million Windows devices, less than 1 percent of all Windows machines, according to a Saturday blog post from Microsoft. “While the percentage was small, the broad economic and societal impacts reflect the use of CrowdStrike by enterprises that run many critical services,” Microsoft said.
 
 According to the tracking website FlightAware, over 1,000 flights into, out of, or within the US have been cancelled and over 2,000 delayed, as of Saturday morning.
 

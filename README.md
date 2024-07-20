@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 15:36:18`
+#### Latest Update : `2024-07-20 16:18:42`
 
 ## Latest News Grabbing 
 
 ---
+
+- [A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case](https://new-news.github.io/Latest/2024/07/20/a_florida_woman_was_killed_24_years_ago__dna_evidence_just_helped_police_make_an_arrest_in_the_cold_case 'A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case')
+
+- [Houthis blame Israel for strikes on Yemen a day after Tel Aviv attack](https://new-news.github.io/Latest/2024/07/20/houthis_blame_israel_for_strikes_on_yemen_a_day_after_tel_aviv_attack 'Houthis blame Israel for strikes on Yemen a day after Tel Aviv attack')
+
+- [4 big questions couples who want to live together should ask each other, especially if they’re over 50](https://new-news.github.io/Latest/2024/07/20/4_big_questions_couples_who_want_to_live_together_should_ask_each_other__especially_if_theyre_over_50 '4 big questions couples who want to live together should ask each other, especially if they’re over 50')
 
 - [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
@@ -199,12 +205,6 @@
 - [A highly unusual ruling to dismiss a case against 2 White nationalists is put on hold by a federal appeals court](https://new-news.github.io/Latest/2024/07/20/a_highly unusual ruling to_dismiss a_case against_2 white nationalists is_put_on hold_by_a_federal_appeals_court 'A highly unusual ruling to dismiss a case against 2 White nationalists is put on hold by a federal appeals court')
 
 - [UN says Israeli evacuation orders are making it harder to reach those most in need in Gaza](https://new-news.github.io/Latest/2024/07/20/un_says_israeli_evacuation_orders_are_making_it_harder_to_reach_those_most_in_need_in_gaza 'UN says Israeli evacuation orders are making it harder to reach those most in need in Gaza')
-
-- [Many senior Biden officials believe he must drop out as he becomes increasingly isolated](https://new-news.github.io/Latest/2024/07/20/many_senior biden officials_believe_he_must_drop_out as_he_becomes_increasingly_isolated 'Many senior Biden officials believe he must drop out as he becomes increasingly isolated')
-
-- [Alabama has executed man convicted of killing delivery driver during a 1998 robbery attempt](https://new-news.github.io/Latest/2024/07/20/alabama_has_executed_man_convicted_of_killing_delivery_driver_during_a_1998_robbery_attempt 'Alabama has executed man convicted of killing delivery driver during a 1998 robbery attempt')
-
-- [Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea](https://new-news.github.io/Latest/2024/07/20/japans_top_general_lauds_closer_south_korea_military_ties_as_mutual_concerns_grow_over_china__north_korea 'Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea')
 
 
 
