@@ -1,18 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 19:11:13`
+#### Latest Update : `2024-07-20 19:36:03`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv](https://new-news.github.io/Latest/2024/07/20/israeli_airstrikes_target_yemens_houthis_day_after_deadly_drone_attack_in_tel_aviv 'Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv')
 
 - [A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened](https://new-news.github.io/Latest/2024/07/20/a_global_tech_outage_brought_many_computer_systems_and_businesses_to_a_screeching_halt__heres_what_happened 'A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened')
 
 - [The broken wind turbine near Nantucket was ‘highly unusual and rare.’ But it wasn’t the first](https://new-news.github.io/Latest/2024/07/20/the_broken_wind_turbine_near_nantucket_was_highly_unusual_and_rare__but_it_wasnt_the_first 'The broken wind turbine near Nantucket was ‘highly unusual and rare.’ But it wasn’t the first')
 
 - [Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting](https://new-news.github.io/Latest/2024/07/20/investigators_believe_trumps_would_be_assassin_flew_a_drone_over_rally_site_on_the_day_of_the_shooting 'Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting')
-
-- [Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv](https://new-news.github.io/Latest/2024/07/20/israeli_airstrikes_target_yemens_houthis_day_after_deadly_drone_attack_in_tel_aviv 'Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv')
 
 - [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/20/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 

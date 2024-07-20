@@ -1,6 +1,6 @@
 # Which airports and airlines have been affected by the outages?
 
-Published :`2024-07-20 19:11:08`
+Published :`2024-07-20 19:36:02`
 
 ---
 
