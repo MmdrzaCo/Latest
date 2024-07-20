@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 08:36:35`
+#### Latest Update : `2024-07-20 09:15:13`
 
 ## Latest News Grabbing 
 
 ---
+
+- [3 alleged gang members and an associate charged in the fatal shooting of an off-duty LAPD officer](https://new-news.github.io/Latest/2024/07/20/3_alleged_gang_members_and_an_associate_charged_in_the_fatal_shooting_of_an_off_duty_lapd_officer '3 alleged gang members and an associate charged in the fatal shooting of an off-duty LAPD officer')
+
+- [NASA’s Curiosity rover makes its ‘most unexpected’ find on Mars](https://new-news.github.io/Latest/2024/07/20/nasas_curiosity_rover_makes_its_most_unexpected_find_on_mars 'NASA’s Curiosity rover makes its ‘most unexpected’ find on Mars')
 
 - [Facing difficult frontline reality and the prospect of Trump in the White House, Zelensky hints at negotiations with Russia](https://new-news.github.io/Latest/2024/07/20/facing_difficult_frontline_reality_and_the_prospect_of_trump_in_the_white_house__zelensky_hints_at_negotiations_with_russia 'Facing difficult frontline reality and the prospect of Trump in the White House, Zelensky hints at negotiations with Russia')
 
@@ -201,10 +205,6 @@
 - [Netflix is axing its cheapest, ad-free plan in the US](https://new-news.github.io/Latest/2024/07/20/netflix_is_axing_its_cheapest__ad_free_plan_in_the_us 'Netflix is axing its cheapest, ad-free plan in the US')
 
 - [Biden’s health and age under even further scrutiny amid questions over his political future](https://new-news.github.io/Latest/2024/07/20/bidens_health_and_age_under_even_further_scrutiny_amid_questions_over_his_political_future 'Biden’s health and age under even further scrutiny amid questions over his political future')
-
-- [A popular #CleanTok tool is recalled for burn hazards](https://new-news.github.io/Latest/2024/07/20/a_popular__cleantok_tool_is_recalled_for_burn_hazards 'A popular #CleanTok tool is recalled for burn hazards')
-
-- [READ: Raskin’s letter encouraging Biden to reconsider reelection campaign](https://new-news.github.io/Latest/2024/07/20/read__raskins_letter_encouraging_biden_to_reconsider_reelection_campaign 'READ: Raskin’s letter encouraging Biden to reconsider reelection campaign')
 
 
 

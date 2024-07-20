@@ -1,6 +1,6 @@
 # Global tech outage leaves thousands stranded at airports amid disruptions at hospitals, government agencies and 911 systems
 
-Published :`2024-07-20 08:36:31`
+Published :`2024-07-20 09:15:03`
 
 ---
 

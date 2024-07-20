@@ -1,6 +1,6 @@
 # Many senior Biden officials believe he must drop out as he becomes increasingly isolated
 
-Published :`2024-07-20 08:36:34`
+Published :`2024-07-20 09:15:12`
 
 ---
 
