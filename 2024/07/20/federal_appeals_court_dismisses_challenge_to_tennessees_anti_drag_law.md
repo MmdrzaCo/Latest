@@ -1,6 +1,6 @@
 # Federal appeals court dismisses challenge to Tennessee’s anti-drag law
 
-Published :`2024-07-20 05:36:48`
+Published :`2024-07-20 06:21:21`
 
 ---
 
