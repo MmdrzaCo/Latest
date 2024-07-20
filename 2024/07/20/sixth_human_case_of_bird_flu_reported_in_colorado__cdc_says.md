@@ -1,6 +1,6 @@
 # Sixth human case of bird flu reported in Colorado, CDC says
 
-Published :`2024-07-20 08:17:24`
+Published :`2024-07-20 08:36:32`
 
 ---
 
