@@ -1,6 +1,6 @@
 # Timeline: How the CrowdStrike outage unfolded
 
-Published :`2024-07-20 16:39:08`
+Published :`2024-07-20 17:12:59`
 
 ---
 
@@ -91,6 +91,16 @@ Blood Assurance, which provides blood to hospitals in a number of Southeast sta
 Meanwhile, CrowdStrike CEO Kurtz takes to social media again and promises customers “full transparency” on how the global IT outage involving the company’s software occurred.
 
 CrowdStrike would take steps “to prevent anything like this from happening again,” according to a statement on the company’s website.
+
+### Saturday morning: massive flight delays
+
+In a statement Saturday morning, Microsoft estimates the outage affected 8.5 million Windows devices.
+
+That’s less 1% of all Windows machines, according to Microsoft, but the company adds that “the broad economic and societal impacts reflect the use of CrowdStrike by enterprises that run many critical services.”
+
+Various sectors are still feeling the aftershocks of the outage. Although airlines have largely resumed services, many tell customers that they expect disruptions in schedules to continue.
+
+As of noon on Saturday, at least 3,375 flights across the United States have been delayed and more than 1,200 canceled, according to data from flight tracker FlightAware. Atlanta’s Hartsfield-Jackson International Airport, the nation’s busiest airport, remains the most affected. Delta Air Lines has canceled more than 500 flights, while United Airlines has canceled almost 300, according to FlightAware.
 
 ---
 

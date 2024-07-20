@@ -1,14 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 16:39:13`
+#### Latest Update : `2024-07-20 17:13:00`
 
 ## Latest News Grabbing 
 
 ---
 
-- [South African police discover multimillion-dollar meth lab on farm](https://new-news.github.io/Latest/2024/07/20/south_african_police_discover_multimillion_dollar_meth_lab_on_farm 'South African police discover multimillion-dollar meth lab on farm')
+- [The 10 Senate seats most likely to flip in 2024](https://new-news.github.io/Latest/2024/07/20/the_10_senate_seats_most_likely_to_flip_in_2024 'The 10 Senate seats most likely to flip in 2024')
 
-- [Houthis blame Israel for strikes on Yemen a day after Tel Aviv attack](https://new-news.github.io/Latest/2024/07/20/houthis_blame_israel_for_strikes_on_yemen_a_day_after_tel_aviv_attack 'Houthis blame Israel for strikes on Yemen a day after Tel Aviv attack')
+- [Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv](https://new-news.github.io/Latest/2024/07/20/israeli_airstrikes_target_yemens_houthis_day_after_deadly_drone_attack_in_tel_aviv 'Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv')
+
+- [Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74](https://new-news.github.io/Latest/2024/07/20/sheila_jackson_lee__long_serving_democratic_congresswoman_and_advocate_for_black_americans__dies at_74 'Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74')
+
+- [South African police discover multimillion-dollar meth lab on farm](https://new-news.github.io/Latest/2024/07/20/south_african_police_discover_multimillion_dollar_meth_lab_on_farm 'South African police discover multimillion-dollar meth lab on farm')
 
 - [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
@@ -51,8 +55,6 @@
 - [Why your Mediterranean beach vacation might be bad for your health](https://new-news.github.io/Latest/2024/07/20/why_your_mediterranean_beach_vacation_might_be_bad_for_your_health 'Why your Mediterranean beach vacation might be bad for your health')
 
 - [Thousands of Disneyland workers vote to authorize a potential strike. It would be the first in 40 years](https://new-news.github.io/Latest/2024/07/20/thousands_of_disneyland_workers_vote_to_authorize_a_potential_strike__it_would_be_the_first_in_40_years 'Thousands of Disneyland workers vote to authorize a potential strike. It would be the first in 40 years')
-
-- [Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74](https://new-news.github.io/Latest/2024/07/20/sheila_jackson_lee__long_serving_democratic_congresswoman_and_advocate_for_black_americans__dies at_74 'Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74')
 
 - [Missouri woman who served 43 years in prison is free after her murder conviction was overturned](https://new-news.github.io/Latest/2024/07/20/missouri_woman_who_served_43_years_in_prison_is_free_after_her_murder_conviction_was_overturned 'Missouri woman who served 43 years in prison is free after her murder conviction was overturned')
 
@@ -203,8 +205,6 @@
 - [Instant ramen and influencers: Inside the world of South Korean convenience stores](https://new-news.github.io/Latest/2024/07/20/instant_ramen_and_influencers__inside_the_world_of_south_korean_convenience_stores 'Instant ramen and influencers: Inside the world of South Korean convenience stores')
 
 - [Sen. Jon Tester of Montana, vulnerable Democrat up for reelection, calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/20/sen__jon_tester_of_montana__vulnerable_democrat_up_for_reelection__calls_on_biden_to_drop_out_of_the_race 'Sen. Jon Tester of Montana, vulnerable Democrat up for reelection, calls on Biden to drop out of the race')
-
-- [A highly unusual ruling to dismiss a case against 2 White nationalists is put on hold by a federal appeals court](https://new-news.github.io/Latest/2024/07/20/a_highly unusual ruling to_dismiss a_case against_2 white nationalists is_put_on hold_by_a_federal_appeals_court 'A highly unusual ruling to dismiss a case against 2 White nationalists is put on hold by a federal appeals court')
 
 
 

@@ -1,6 +1,6 @@
 # Instant ramen and influencers: Inside the world of South Korean convenience stores
 
-Published :`2024-07-20 16:39:13`
+Published :`2024-07-20 17:13:00`
 
 ---
 

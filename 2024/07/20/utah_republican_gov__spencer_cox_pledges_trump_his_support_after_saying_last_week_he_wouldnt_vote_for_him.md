@@ -1,6 +1,6 @@
 # Utah Republican Gov. Spencer Cox pledges Trump his support after saying last week he wouldn’t vote for him
 
-Published :`2024-07-20 16:39:09`
+Published :`2024-07-20 17:12:59`
 
 ---
 

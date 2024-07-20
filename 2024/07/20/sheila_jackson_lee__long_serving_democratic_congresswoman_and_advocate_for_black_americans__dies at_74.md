@@ -1,6 +1,6 @@
 # Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74
 
-Published :`2024-07-20 16:39:08`
+Published :`2024-07-20 17:12:58`
 
 ---
 
@@ -24,15 +24,17 @@ Although she was unsuccessful in some of her most ambitious aims, Jackson Lee re
 
 At the time of her death, she was a chief deputy whip for House Democrats and a vice chair of the Congressional Progressive Caucus. She formerly served as whip of the Congressional Black Caucus.
 
-“Congresswoman Jackson Lee was a patriot and a fighter to the very end. Words cannot express the sense of loss our Caucus feels for our beloved friend. She will be deeply missed by all who knew her,” Congressional Black Caucus Chairman Steven Horsford and members of the Congressional Black Caucus said in a statement following her death.
+“Congresswoman Jackson Lee was a patriot and a fighter to the very end. Words cannot express the sense of loss our Caucus feels for our beloved friend. She will be deeply missed by all who knew her,” Congressional Black Caucus Chairman Steven Horsford and members of the caucus said in a statement following her death.
 
-Jackson Lee’s tenure in Congress was not without controversy. Her ties to Enron – her district included the corporation’s headquarters and it was a major contributor to her early congressional campaigns, The New York Times reported – were scrutinized in the aftermath of the company’s failure in the early 2000s, though she denied taking it easy on the company.
+Jackson Lee’s tenure in Congress was not without controversy. Her ties to Enron – her district included the corporation’s headquarters and it was a major contributor to her early congressional campaigns, The New York Times reported – were scrutinized in the aftermath of its failure in the early 2000s, though she denied taking it easy on the company.
 
 And in 2019, she resigned as chairwoman of the nonprofit Congressional Black Caucus Foundation and stepped down from a House Judiciary subcommittee chairmanship after a lawsuit that alleged she fired a staffer who reported sexual assault by a supervisor at the foundation. At the time, Jackson Lee declined to “discuss specific details about internal personnel matters” but otherwise denied the allegations, and the lawsuit was ultimately dismissed by a federal judge in February 2020.
 
 Last year, Lee sought the Houston mayorship, earning endorsements from former House Speaker Nancy Pelosi, former President Bill Clinton, former Secretary of State Hillary Clinton and Harris County Judge Lina Hidalgo. She lost in a runoff to Texas state Sen. John Whitmire, a fellow Democrat.
 
 Following that loss, Jackson Lee filed to seek a 16th term in Congress, and in March, she won a competitive Democratic primary over former Houston City Council Member Amanda Edwards, a former intern.
+
+President Joe Biden on Saturday remembered Jackson Lee as a “great American,” writing in a statement, “Sheila Jackson Lee is part of a long line of patriots who delivered the promise of America to all Americans. Jill and I send our love and condolences to her family, her constituents, and beloved colleagues of the Congressional Black Caucus.”
 
 House Democratic Leader Hakeem Jeffries said in a statement that House Democrats and the city of Houston “mourn a giant,” remembering the congresswoman as “an accomplished legislator, passionate public servant, loving mentor and wonderful friend to so many of us in the Congressional Black Caucus and House Democratic Caucus family.”
 
