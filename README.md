@@ -1,18 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 14:35:42`
+#### Latest Update : `2024-07-20 15:14:10`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
 - [Adidas apologizes for ad campaign linked to 1972 Munich Olympics](https://new-news.github.io/Latest/2024/07/20/adidas_apologizes_for_ad_campaign_linked_to_1972_munich_olympics 'Adidas apologizes for ad campaign linked to 1972 Munich Olympics')
 
 - [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
 
 - [Timeline: How the CrowdStrike outage unfolded](https://new-news.github.io/Latest/2024/07/20/timeline__how_the_crowdstrike_outage_unfolded 'Timeline: How the CrowdStrike outage unfolded')
-
-- [Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_underway_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
 - [Greeks grieve, Turks celebrate as Cyprus marks 50 years of division](https://new-news.github.io/Latest/2024/07/20/greeks_grieve__turks_celebrate_as_cyprus_marks_50_years_of_division 'Greeks grieve, Turks celebrate as Cyprus marks 50 years of division')
 

@@ -1,6 +1,6 @@
 # Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea
 
-Published :`2024-07-20 14:35:41`
+Published :`2024-07-20 15:14:10`
 
 ---
 
