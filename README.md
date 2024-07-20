@@ -1,18 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 11:36:39`
+#### Latest Update : `2024-07-20 12:26:42`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Look of the Week: The surprising — and sticky — material taking over summer](https://new-news.github.io/Latest/2024/07/20/look_of_the_week__the_surprising_—_and_sticky_—_material_taking_over_summer 'Look of the Week: The surprising — and sticky — material taking over summer')
+- [F1 history-maker Zhou Guanyu achieved the ‘impossible’ by becoming the sport’s first Chinese driver](https://new-news.github.io/Latest/2024/07/20/f1_history_maker_zhou_guanyu_achieved_the_impossible_by_becoming_the_sports_first_chinese_driver 'F1 history-maker Zhou Guanyu achieved the ‘impossible’ by becoming the sport’s first Chinese driver')
+
+- [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/20/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
 
 - [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
 
-- [As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election](https://new-news.github.io/Latest/2024/07/20/as_the_rnc_ends__swing_states_efforts_to_fight_misinformation_ramp_up_ahead_of_the_election 'As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election')
+- [Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say](https://new-news.github.io/Latest/2024/07/20/accidentally_exposed_yellowish_green_crystals_reveal_mind_blowing_finding_on_mars__scientists_say 'Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say')
 
-- [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/20/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
+- [How the world’s tech crashed all at once](https://new-news.github.io/Latest/2024/07/20/how_the_worlds_tech_crashed_all_at_once 'How the world’s tech crashed all at once')
+
+- [Look of the Week: The surprising — and sticky — material taking over summer](https://new-news.github.io/Latest/2024/07/20/look_of_the_week__the_surprising_—_and_sticky_—_material_taking_over_summer 'Look of the Week: The surprising — and sticky — material taking over summer')
+
+- [As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election](https://new-news.github.io/Latest/2024/07/20/as_the_rnc_ends__swing_states_efforts_to_fight_misinformation_ramp_up_ahead_of_the_election 'As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election')
 
 - [Paris adds an unusual museum to its illustrious roster](https://new-news.github.io/Latest/2024/07/20/paris_adds_an_unusual_museum_to_its_illustrious_roster 'Paris adds an unusual museum to its illustrious roster')
 
@@ -21,8 +27,6 @@
 - [Bridge collapses in China killing 12 and leaving more than 30 missing](https://new-news.github.io/Latest/2024/07/20/bridge_collapses_in_china_killing_12_and_leaving_more_than_30_missing 'Bridge collapses in China killing 12 and leaving more than 30 missing')
 
 - [3 alleged gang members and an associate charged in the fatal shooting of an off-duty LAPD officer](https://new-news.github.io/Latest/2024/07/20/3_alleged_gang_members_and_an_associate_charged_in_the_fatal_shooting_of_an_off_duty_lapd_officer '3 alleged gang members and an associate charged in the fatal shooting of an off-duty LAPD officer')
-
-- [NASA’s Curiosity rover makes its ‘most unexpected’ find on Mars](https://new-news.github.io/Latest/2024/07/20/nasas_curiosity_rover_makes_its_most_unexpected_find_on_mars 'NASA’s Curiosity rover makes its ‘most unexpected’ find on Mars')
 
 - [Facing difficult frontline reality and the prospect of Trump in the White House, Zelensky hints at negotiations with Russia](https://new-news.github.io/Latest/2024/07/20/facing_difficult_frontline_reality_and_the_prospect_of_trump_in_the_white_house__zelensky_hints_at_negotiations_with_russia 'Facing difficult frontline reality and the prospect of Trump in the White House, Zelensky hints at negotiations with Russia')
 
@@ -73,8 +77,6 @@
 - [Utah Republican Gov. Spencer Cox pledges Trump his support after saying last week he wouldn’t vote for him](https://new-news.github.io/Latest/2024/07/20/utah_republican_gov__spencer_cox_pledges_trump_his_support_after_saying_last_week_he_wouldnt_vote_for_him 'Utah Republican Gov. Spencer Cox pledges Trump his support after saying last week he wouldn’t vote for him')
 
 - [July’s full moon coincides with the anniversary of a special lunar event](https://new-news.github.io/Latest/2024/07/20/julys_full_moon_coincides_with_the_anniversary_of_a_special_lunar_event 'July’s full moon coincides with the anniversary of a special lunar event')
-
-- [How the world’s tech crashed all at once](https://new-news.github.io/Latest/2024/07/20/how_the_worlds_tech_crashed_all_at_once 'How the world’s tech crashed all at once')
 
 - [American Airlines flight attendants reach new contract deal](https://new-news.github.io/Latest/2024/07/20/american_airlines_flight_attendants_reach_new_contract_deal 'American Airlines flight attendants reach new contract deal')
 
@@ -204,10 +206,8 @@
 
 - [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/20/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
 
-- [Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78](https://new-news.github.io/Latest/2024/07/20/lou_dobbs__veteran_cable_news_anchor_and_trump_booster__dies_at_78 'Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid')  [air](/ 'air') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accidentally](/ 'accidentally')  [accused](/ 'accused')  [achieved](/ 'achieved')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead') 

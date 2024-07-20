@@ -1,6 +1,6 @@
 # Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height
 
-Published :`2024-07-20 11:36:36`
+Published :`2024-07-20 12:26:40`
 
 ---
 
