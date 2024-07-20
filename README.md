@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 07:13:33`
+#### Latest Update : `2024-07-20 07:37:01`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Global tech outage leaves thousands stranded at airports amid disruptions at hospitals, government agencies and 911 systems](https://new-news.github.io/Latest/2024/07/20/global_tech_outage_leaves_thousands_stranded_at_airports_amid_disruptions_at_hospitals__government_agencies_and_911_systems 'Global tech outage leaves thousands stranded at airports amid disruptions at hospitals, government agencies and 911 systems')
 
 - [Trump’s epic week began with cheating death](https://new-news.github.io/Latest/2024/07/20/trumps_epic_week_began_with_cheating_death 'Trump’s epic week began with cheating death')
 
@@ -203,8 +205,6 @@
 - [Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign](https://new-news.github.io/Latest/2024/07/20/top_democrat_raskin_privately_encouraged_biden_to_reconsider_reelection_campaign 'Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign')
 
 - [Opinion: We’re neglecting pets in disasters — with tragic consequences](https://new-news.github.io/Latest/2024/07/20/opinion__were_neglecting_pets_in_disasters_—_with_tragic_consequences 'Opinion: We’re neglecting pets in disasters — with tragic consequences')
-
-- [Newest National Park Service site is a stark reminder of the era of segregated schools in the US](https://new-news.github.io/Latest/2024/07/20/newest_national_park_service_site_is_a_stark_reminder_of_the_era_of_segregated_schools_in_the_us 'Newest National Park Service site is a stark reminder of the era of segregated schools in the US')
 
 
 
