@@ -1,18 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 16:18:42`
+#### Latest Update : `2024-07-20 16:39:13`
 
 ## Latest News Grabbing 
 
 ---
 
-- [A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case](https://new-news.github.io/Latest/2024/07/20/a_florida_woman_was_killed_24_years_ago__dna_evidence_just_helped_police_make_an_arrest_in_the_cold_case 'A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case')
+- [South African police discover multimillion-dollar meth lab on farm](https://new-news.github.io/Latest/2024/07/20/south_african_police_discover_multimillion_dollar_meth_lab_on_farm 'South African police discover multimillion-dollar meth lab on farm')
 
 - [Houthis blame Israel for strikes on Yemen a day after Tel Aviv attack](https://new-news.github.io/Latest/2024/07/20/houthis_blame_israel_for_strikes_on_yemen_a_day_after_tel_aviv_attack 'Houthis blame Israel for strikes on Yemen a day after Tel Aviv attack')
 
-- [4 big questions couples who want to live together should ask each other, especially if they’re over 50](https://new-news.github.io/Latest/2024/07/20/4_big_questions_couples_who_want_to_live_together_should_ask_each_other__especially_if_theyre_over_50 '4 big questions couples who want to live together should ask each other, especially if they’re over 50')
-
 - [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
+
+- [A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case](https://new-news.github.io/Latest/2024/07/20/a_florida_woman_was_killed_24_years_ago__dna_evidence_just_helped_police_make_an_arrest_in_the_cold_case 'A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case')
+
+- [4 big questions couples who want to live together should ask each other, especially if they’re over 50](https://new-news.github.io/Latest/2024/07/20/4_big_questions_couples_who_want_to_live_together_should_ask_each_other__especially_if_theyre_over_50 '4 big questions couples who want to live together should ask each other, especially if they’re over 50')
 
 - [Adidas apologizes for ad campaign linked to 1972 Munich Olympics](https://new-news.github.io/Latest/2024/07/20/adidas_apologizes_for_ad_campaign_linked_to_1972_munich_olympics 'Adidas apologizes for ad campaign linked to 1972 Munich Olympics')
 
@@ -204,10 +206,8 @@
 
 - [A highly unusual ruling to dismiss a case against 2 White nationalists is put on hold by a federal appeals court](https://new-news.github.io/Latest/2024/07/20/a_highly unusual ruling to_dismiss a_case against_2 white nationalists is_put_on hold_by_a_federal_appeals_court 'A highly unusual ruling to dismiss a case against 2 White nationalists is put on hold by a federal appeals court')
 
-- [UN says Israeli evacuation orders are making it harder to reach those most in need in Gaza](https://new-news.github.io/Latest/2024/07/20/un_says_israeli_evacuation_orders_are_making_it_harder_to_reach_those_most_in_need_in_gaza 'UN says Israeli evacuation orders are making it harder to reach those most in need in Gaza')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead') 
