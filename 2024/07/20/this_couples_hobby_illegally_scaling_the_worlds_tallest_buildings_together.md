@@ -1,6 +1,6 @@
 # This couple’s hobby? Illegally scaling the world’s tallest buildings together
 
-Published :`2024-07-20 12:50:50`
+Published :`2024-07-20 13:15:16`
 
 ---
 
