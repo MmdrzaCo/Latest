@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 02:44:22`
+#### Latest Update : `2024-07-20 03:17:09`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74](https://new-news.github.io/Latest/2024/07/20/sheila_jackson_lee__long_serving_democratic_congresswoman_and_advocate_for_black_americans__dies at_74 'Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74')
 
 - [3,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/20/3_000_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '3,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
 
@@ -204,10 +206,8 @@
 
 - [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/20/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
 
-- [AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T](https://new-news.github.io/Latest/2024/07/20/at_t_is_telling_customers_they_were_hacked__protecting_data_has_been_a_big_fight_–_from_companies_like_at_t 'AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen')  [air](/ 'air')  [airlines](/ 'airlines') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen')  [air](/ 'air') 
