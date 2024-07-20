@@ -1,6 +1,6 @@
 # How the world’s tech crashed all at once
 
-Published :`2024-07-20 04:19:24`
+Published :`2024-07-20 04:38:31`
 
 ---
 

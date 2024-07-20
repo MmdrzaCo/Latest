@@ -1,6 +1,6 @@
 # Sen. Jon Tester of Montana, vulnerable Democrat up for reelection, calls on Biden to drop out of the race
 
-Published :`2024-07-20 04:19:26`
+Published :`2024-07-20 04:38:32`
 
 ---
 
