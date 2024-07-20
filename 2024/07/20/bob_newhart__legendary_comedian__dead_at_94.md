@@ -1,6 +1,6 @@
 # Bob Newhart, legendary comedian, dead at 94
 
-Published :`2024-07-20 03:17:04`
+Published :`2024-07-20 03:37:48`
 
 ---
 
