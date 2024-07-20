@@ -1,12 +1,12 @@
 # Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv
 
-Published :`2024-07-20 18:19:50`
+Published :`2024-07-20 18:38:38`
 
 ---
 
 Israeli airstrikes targeted Houthi rebels in Yemen a day after the Iran-backed group claimed a deadly attack on the Israeli city of Tel Aviv.
 
-“A short while ago, IDF fighter jets struck military targets of the Houthi terrorist regime in the area of the Al Hudaydah (Hodeidah) Port in Yemen in response to the hundreds of attacks carried out against the state of Israel in recent months,” the Israel Defence Forces (IDF) said in a statement.
+“A short while ago, IDF fighter jets struck military targets of the Houthi terrorist regime in the area of Hodeidah Port in Yemen in response to the hundreds of attacks carried out against the state of Israel in recent months,” the Israel Defence Forces (IDF) said in a statement.
 
 The statement came soon after the Houthi-run Al Masirah TV reported airstrikes targeting oil facilities in the western port of Hodeidah, adding that there had been deaths and injuries.
 
@@ -14,9 +14,9 @@ Houthi spokesperson Mohammed Abdulsalam said the Israeli strikes hit civilian ta
 
 The Israeli strikes came a day after a Houthi drone attack in Tel Aviv killed one man and injured at least 10 others.
 
-The Houthis said the drone attack on Tel Aviv was a response to Israel’s war in Gaza, with a spokesperson saying the operation was performed by a new drone capable of “bypassing the enemy’s interception systems.”
+The Houthis said the drone attack on Tel Aviv was a response to Israel’s war in Gaza, claiming the operation was performed by a new drone capable of “bypassing the enemy’s interception systems.”
 
-Israeli officials said they decided to respond because of the death of the Israeli citizen.
+Israeli officials said that they decided to respond because of the death of the Israeli citizen and that Hodeidah had been targeted because it was the main supply route of Iranian weapons to Yemen. A spokesperson for the IDF said the targets were dual use infrastructure that were also being used for terrorist activity.
 
 Israeli Defense Minister Yoav Gallant said “the blood of Israeli citizens has a price,” and that if Israelis are attacked, the “result will be identical” to that in Lebanon and Gaza.
 
@@ -28,11 +28,19 @@ Both the UK and the US have responded to the attacks on shipping by carrying out
 
 An Israeli defense official told CNN that this was a 100% Israeli strike. The official said Israel had previously let the US and UK take the lead on responding to Houthi attacks but decided to respond itself this time because of the death of the Israeli citizen in Tel Aviv.
 
-According to the official, Israeli Defense Minister Yoav Gallant informed US Secretary of Defense Lloyd Austin before the strike was carried out.
+According to the official, Gallant informed US Secretary of Defense Lloyd Austin before the strike was carried out.
 
 The defense official added that Israel was able to strike so quickly because it had been preparing for this scenario for months.
 
-A White House official said US President Joe Biden had been briefed on “developments” in the Middle East. A spokesperson for the White House National Security Council said the US had not coordinated with Israel on the airstrikes, adding that the US fully recognizes “Israel’s right to self-defense.”
+Israeli Minister of Foreign Affairs Israel Katz said Israel had “delivered a severe blow to the Iranian-backed terror organization in Yemen today” and warned it would “strike anyone who strikes us.”
+
+He also called on the international community to “maximize sanctions on Iran.”
+
+“Iran supports, trains, and finances the Houthi terror organization as part of its regional network of terror organizations aimed at attacking Israel,” he said.
+
+“Iran is the head of the snake - it must be stopped now,” Katz added.
+
+A White House official said US President Joe Biden had been briefed on “developments” in the Middle East. A spokesperson for the White House National Security Council said the US had not coordinated with Israel on the airstrikes, but added that the US fully recognizes “Israel’s right to self-defense.”
 
 In May, at least 16 people were killed and a further 35 wounded by US-UK airstrikes in Hodeidah targeting Houthi rebels.
 
