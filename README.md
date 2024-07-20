@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 07:37:01`
+#### Latest Update : `2024-07-20 08:17:27`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Federal class action lawsuit is seeking refunds on behalf of ticketed fans after chaos at Copa América final](https://new-news.github.io/Latest/2024/07/20/federal class_action_lawsuit_is_seeking_refunds_on_behalf_of_ticketed_fans_after_chaos_at_copa_américa_final 'Federal class action lawsuit is seeking refunds on behalf of ticketed fans after chaos at Copa América final')
+
+- [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/20/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
 
 - [Global tech outage leaves thousands stranded at airports amid disruptions at hospitals, government agencies and 911 systems](https://new-news.github.io/Latest/2024/07/20/global_tech_outage_leaves_thousands_stranded_at_airports_amid_disruptions_at_hospitals__government_agencies_and_911_systems 'Global tech outage leaves thousands stranded at airports amid disruptions at hospitals, government agencies and 911 systems')
 
@@ -202,12 +206,8 @@
 
 - [Federal appeals court dismisses challenge to Tennessee’s anti-drag law](https://new-news.github.io/Latest/2024/07/20/federal_appeals_court_dismisses_challenge_to_tennessees_anti_drag_law 'Federal appeals court dismisses challenge to Tennessee’s anti-drag law')
 
-- [Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign](https://new-news.github.io/Latest/2024/07/20/top_democrat_raskin_privately_encouraged_biden_to_reconsider_reelection_campaign 'Top Democrat Raskin privately encouraged Biden to reconsider reelection campaign')
-
-- [Opinion: We’re neglecting pets in disasters — with tragic consequences](https://new-news.github.io/Latest/2024/07/20/opinion__were_neglecting_pets_in_disasters_—_with_tragic_consequences 'Opinion: We’re neglecting pets in disasters — with tragic consequences')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen')  [air](/ 'air') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [action](/ 'action')  [ad](/ 'ad')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [age](/ 'age')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 

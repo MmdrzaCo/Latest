@@ -1,6 +1,6 @@
 # Global tech outage leaves thousands stranded at airports amid disruptions at hospitals, government agencies and 911 systems
 
-Published :`2024-07-20 07:36:57`
+Published :`2024-07-20 08:17:23`
 
 ---
 
@@ -10,7 +10,7 @@ Airlines, businesses, government agencies, health and emergency services, banks 
 
 As of early Saturday, hundreds of flights flights into, out of or within the United States were  canceled or delayed. The day before, more than 3,000 flights had been canceled and more than 11,000 delayed, according to FlightAware.com.
 
-All flights were grounded for United Airlines, Delta Air Lines, American Airlines and Allegiant Airlines on Friday. Airlines later announced they were resolving issues or resuming flights.
+All flights were grounded for United Airlines, Delta Air Lines, American Airlines and Allegiant Airlines on Friday. Airlines later announced they were resolving issues and resuming flights.
 
 Frustrated passengers lined up at airports backed up with flight cancellations and delays, missing life events like funerals and birthdays.
 
@@ -44,7 +44,7 @@ Cybercriminals are already capitalizing on the chaos by promoting fake websites 
 
 Former McAfee CEO Dave DeWalt told CNN that a group of private sector and government agencies worked overnight to “ascertain the threat” and find a solution to the global outage. The call included the Cybersecurity and Infrastructure Security Agency and other private and government organizations.
 
-CrowdStrike CEO Kurtz apologized to customers Friday for the outage and said the company is working with those affected.
+CrowdStrike CEO George Kurtz apologized to customers Friday for the outage and said the company is working with those affected.
 
 “We understand the gravity of the situation and are deeply sorry for the inconvenience and disruption,” Kurtz posted on X. “We are working with all impacted customers to ensure that systems are back up and they can deliver the services their customers are counting on.”
 

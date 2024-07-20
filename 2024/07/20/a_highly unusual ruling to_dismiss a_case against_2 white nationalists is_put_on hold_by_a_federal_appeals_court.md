@@ -1,6 +1,6 @@
 # A highly unusual ruling to dismiss a case against 2 White nationalists is put on hold by a federal appeals court
 
-Published :`2024-07-20 07:37:00`
+Published :`2024-07-20 08:17:26`
 
 ---
 
