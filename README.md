@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 22:13:58`
+#### Latest Update : `2024-07-20 22:35:54`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_public_services 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services')
 
 - [At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/20/at_least_80_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
@@ -17,8 +19,6 @@
 - [German citizen sentenced to death in Belarus, charged with terrorism, mercenary activities](https://new-news.github.io/Latest/2024/07/20/german_citizen_sentenced_to_death_in_belarus__charged_with_terrorism__mercenary_activities 'German citizen sentenced to death in Belarus, charged with terrorism, mercenary activities')
 
 - [Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee](https://new-news.github.io/Latest/2024/07/20/clintons_privately_urge_donors_to_keep_giving_to_biden_as_long_as_he_remains_presumptive_nominee 'Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee')
-
-- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_public_services 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services')
 
 - [Residents stage rare protest over power cuts in Russia’s Krasnodar](https://new-news.github.io/Latest/2024/07/20/residents_stage_rare_protest_over_power_cuts_in_russias_krasnodar 'Residents stage rare protest over power cuts in Russia’s Krasnodar')
 

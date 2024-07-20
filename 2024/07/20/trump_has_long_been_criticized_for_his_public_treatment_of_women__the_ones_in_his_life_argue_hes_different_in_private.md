@@ -1,6 +1,6 @@
 # Trump has long been criticized for his public treatment of women. The ones in his life argue he’s different in private
 
-Published :`2024-07-20 22:13:49`
+Published :`2024-07-20 22:35:50`
 
 ---
 
@@ -15,6 +15,8 @@ A common theme rang through speeches from women at this year’s Republican Nati
 In speech after speech in Milwaukee this week, women spoke of quiet moments when they said Trump comforted them in the wake of Democratic attacks or media criticism, advocated for them professionally or showed compassion or familial care. They described him as a friend and a loving father and grandfather in the moments people don’t see.
 
 Trump has long been known for the brash, even vulgar way he sometimes speaks about women. He has also been dogged by allegations about sexual misconduct and extramarital affairs. Accusations of sexism plagued his 2016 presidential campaign, a race he won despite the October release of a video in which he bragged about being able to grab women by their genitals because he’s a celebrity.
+
+In 2023, a civil court found Trump liable of sexually abusing writer E. Jean Carroll in the 1990s. The former president was later ordered to pay millions of dollars in damages for his defamatory statements disparaging Carroll and denying her rape allegations.
 
 Speeches from women, including his family members and people who have worked for him, fit into a broader effort at the convention to soften his public image.
 
@@ -58,7 +60,7 @@ Former Secretary of State Hillary Clinton, his 2016 Democratic opponent, argued 
 
 Clinton’s loss, and fears over what a Trump presidency would entail, prompted global Women’s March protests.
 
-Since then, other parts of his background have been scrutinized. Earlier this year, Trump was found guilty of 34 felony counts of falsifying business records to cover up an alleged extramarital affair with a porn star. In 2023, a civil court found Trump liable of sexually abusing writer E. Jean Carroll in the 1990s. The former president was later ordered to pay millions of dollars in damages for his defamatory statements disparaging Carroll and denying her rape allegations.
+Since then, other parts of his background have been scrutinized. Earlier this year, Trump was found guilty of 34 felony counts of falsifying business records to cover up an alleged extramarital affair with a porn star. And then there is Carroll’s allegation that Trump sexually abused her in a luxury department store dressing room in the spring of 1996. Trump faced no jail time in the civil trial, but he was ordered to pay $88 million total for defamation.
 
 Trump has denied the affair at the center of the hush money case and denied assaulting Carroll.
 

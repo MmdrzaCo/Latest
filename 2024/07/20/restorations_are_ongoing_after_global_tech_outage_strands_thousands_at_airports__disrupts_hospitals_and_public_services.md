@@ -1,6 +1,6 @@
 # Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services
 
-Published :`2024-07-20 22:13:48`
+Published :`2024-07-20 22:35:50`
 
 ---
 
@@ -12,7 +12,7 @@ CrowdStrike’s CEO said a fix has been deployed, but experts say getting system
 
 The outage affected an estimated 8.5 million Windows devices, less than 1 percent of all Windows machines, according to a Saturday blog post from Microsoft. “While the percentage was small, the broad economic and societal impacts reflect the use of CrowdStrike by enterprises that run many critical services,” Microsoft said.
 
-According to the tracking website FlightAware, over 1,600 flights into, out of, or within the US have been canceled and almost 5,000 delayed, as of Saturday afternoon.
+According to the tracking website FlightAware, more than 2,300 flights into, out of, or within the US have been canceled and more than 6,000 delayed, as of Saturday afternoon.
 
 On Friday, more than 3,000 flights were canceled and more than 11,000 were delayed, according to FlightAware.com.
 
@@ -28,32 +28,6 @@ Delta Air Lines is “continuing its operational recovery” after the outage pr
 
 Jetstar Japan, Hong Kong Express and Cebu Pacific airlines said Saturday their operations are gradually being restored too.
 
-Frustrated passengers lined up at airports backed up with flight cancellations and delays, some missing life events like funerals and birthdays. At Atlanta’s Hartsfield-Jackson International Airport, long lines of passengers waited for assistance Saturday, with many flights still canceled or delayed.
-
-After spending more than 19 hours at Atlanta’s Hartsfield-Jackson International Airport, one passenger won’t be getting home to Los Angeles anytime soon.
-
-“I couldn’t get another flight rebooked because the system is down, so I couldn’t get any vouchers for food, hotel, nothing,” Kiah Hampton told CNN on Friday afternoon.
-
-Hampton described sleeping on the floor at the airport after a previous flight was canceled Thursday night, adding, “It seems like I am going to have to sleep here tonight.”
-
-New Jersey resident Jennifer Small likewise slept at the airport overnight and had her flight canceled twice.
-
-“I want to get home to my son. I want to get home to Jersey,” Small said, adding she didn’t believe she would be able to travel home until Saturday.
-
-Thousands of people crammed together in airports across the country, waiting for answers. Passenger Ty Kelley, who was traveling to Philadelphia to attend a funeral, described it as a chaotic scene.
-
-“It’s wild, it’s crazy, it’s crowded — I have anxiety right now,” she said. “I’m going to wait in this long line and try and get to Philadelphia today.”
-
-Another passenger told CNN she had been traveling with her toddler to Boston for a birthday party. “It has been frustrating to say the least,” Spirit Airlines customer Miya Haney said.
-
-The issues didn’t just plague airports. Americans felt the impacts of the outage in various facets of their everyday lives, including while trying to call 911 during emergencies in some areas, getting or renewing their driver’s licenses or shipping or receiving packages.
-
-There were reports of 911 outages in various states, like Alaska, and cities, like Phoenix, where the system was down for hours but has since been restored.
-
-Driver’s license offices were closed or had limited services in Texas, Tennessee, North Carolina and Georgia.
-
-Meanwhile, thousands of companies around the world struggled with payment processing after the outage brought down systems across a wide range of businesses. Major hotels, including Marriott International and some Hiltons, were impacted both in regard to payment processing and delays to check in-processes.
-
 Cybercriminals capitalized on the chaos by promoting fake websites filled with malicious software designed to compromise unsuspecting victims, according to warnings from the US government and multiple cybersecurity professionals.
 
 Former McAfee CEO Dave DeWalt told CNN a group of private sector and government agencies worked overnight to “ascertain the threat” and find a solution to the global outage. The call included the Cybersecurity and Infrastructure Security Agency and other private and government organizations.
@@ -62,9 +36,35 @@ CrowdStrike CEO George Kurtz apologized to customers Friday for the outage and s
 
 “We understand the gravity of the situation and are deeply sorry for the inconvenience and disruption,” Kurtz posted on X. “We are working with all impacted customers to ensure that systems are back up and they can deliver the services their customers are counting on.”
 
-But it could be easier said than done: Manual restarts of individual systems take time and expertise some customers don’t have, which is why companies were slow to recover from the outage.
+But it could be easier said than done: Manual restarts of individual systems take time and expertise some customers don’t have, which is why companies have been slow to recover from the outage.
 
-CrowdStrike promised customers “full transparency” on how the outage occurred and it would “prevent anything like this from happening again.”
+### Chaos continues for travelers
+
+Frustrated passengers lined up at airports backed up with flight cancellations and delays, some missing life events like funerals and birthdays. At Atlanta’s Hartsfield-Jackson International Airport, long lines of passengers waited for assistance Saturday, with many flights still canceled or delayed.
+
+“I was supposed to be in California for my mom’s wedding,” Richard Whitfield of Pasco County, FL told CNN’s Isabel Rosales Saturday. Whitfield and his partner, Jonathan Shade, left Tampa on Thursday and missed their connecting flight in Atlanta due to poor weather conditions, delaying their landing and forcing the plane to refuel in Tallahassee.
+
+After their rescheduled flight on Friday was delayed many times, the couple decided to cancel the trip and just head home. But with no available flights back to Tampa, Friday night, they spent their second night in an airport hotel. They were unable to get a voucher from Delta for either of their stays.
+
+“(Richard has) been on hold for 24 hours,” Shade told CNN. “When he eventually got his number in line, it was 2,001.”
+
+Two hours later, Richard’s place in Delta Air Lines’ virtual customer service queue was 2,300 in line, Shade said. Delta Air Lines has reported the most cancellations, with more than 850 Delta and Delta Connection flights unable to depart.
+
+“If we can’t do the flight, we will try for the car and if we can’t do the car, it’s just another night in a hotel and we will see what happens,” Shade said.
+
+At last check, a rental car back to Tampa would cost the pair $600, Shade and Whitfield said. Amtrak is charging $1,000 for a one-way ticket to Tampa, they added.
+
+Whitfield tells CNN the whole ordeal has had an impact on him. “For me, it’s been the domino effect that it has on humanity and everything that we need to survive: food, sleep, or water, housing,” he said.
+
+After spending 48 hours in Atlanta, they found a Saturday evening flight back to Tampa they say they can only hope is not delayed or canceled. For now, there is nothing the couple can do but wait and “get a good stiff drink,” Shade and Whitfield said.
+
+In addition to the problems at airports, the outage has also caused delays at hotels and rental car companies. Major hotels, including Marriott International and some Hiltons, were impacted both in regard to payment processing and delays to check in-processes.
+
+Even Americans not traveling felt the effects of the outage in various facets of their everyday lives, including while trying to call 911 during emergencies in some areas, getting or renewing their driver’s licenses or shipping or receiving packages.
+
+There were reports of 911 outages in various states, like Alaska, and cities, like Phoenix, where the system was down for hours but has since been restored.
+
+Driver’s license offices were closed or had limited services in Texas, Tennessee, North Carolina and Georgia.
 
 ### Some hospitals had to cancel appointments and surgeries
 
