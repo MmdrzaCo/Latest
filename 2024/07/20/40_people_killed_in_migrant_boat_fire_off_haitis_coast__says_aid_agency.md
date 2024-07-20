@@ -1,6 +1,6 @@
 # 40 people killed in migrant boat fire off Haiti’s coast, says aid agency
 
-Published :`2024-07-20 06:39:46`
+Published :`2024-07-20 07:13:29`
 
 ---
 

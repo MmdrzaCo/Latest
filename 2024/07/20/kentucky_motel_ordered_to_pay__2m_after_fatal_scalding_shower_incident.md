@@ -1,6 +1,6 @@
 # Kentucky motel ordered to pay $2M after fatal scalding shower incident
 
-Published :`2024-07-20 06:39:45`
+Published :`2024-07-20 07:13:28`
 
 ---
 
