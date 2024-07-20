@@ -1,14 +1,16 @@
 # At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza
 
-Published :`2024-07-20 12:26:39`
+Published :`2024-07-20 12:50:48`
 
 ---
 
 At least 13 people were killed in Israeli airstrikes on homes in the Nuseirat camp in central Gaza on Saturday, according to hospital officials and Gaza’s Civil Defense.
 
-The toll came from two separate strikes in the camp, the officials said. CNN has reached out to the Israeli military about the latest strikes.
+The toll came from two separate strikes in the camp, the officials said. In response to CNN’s question about about the latest strikes, the Israel Defence Source (IDF) said: “Overnight, the IDF struck terror targets throughout the Gaza Strip, including terrorists and terrorist infrastructure sites in the area of Nuseirat.
 
-The Civil Defense also said a residential block was hit south of Nuseirat, with hospital officials saying they received three bodies.
+“The IDF is making significant efforts to mitigate harm to uninvolved civilians and is operating in accordance with international law against the Hamas and Islamic Jihad terrorist organizations in the Gaza Strip that are systematically and cynically operating from within civilian infrastructure.”
+
+Gaza’s Civil Defense also said a residential block was hit south of Nuseirat, with hospital officials saying they received three bodies.
 
 “A short while ago, one tower [block] was bombed,” Mahdi Abdullah, a man from northern Gaza displaced in Nuseirat, told CNN. “The situation is difficult here, and I am waiting for things to calm down so that I can return to my place.”
 

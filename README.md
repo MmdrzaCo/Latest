@@ -1,16 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 12:26:42`
+#### Latest Update : `2024-07-20 12:50:51`
 
 ## Latest News Grabbing 
 
 ---
 
+- [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
+
+- [Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_underway_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies')
+
 - [F1 history-maker Zhou Guanyu achieved the ‘impossible’ by becoming the sport’s first Chinese driver](https://new-news.github.io/Latest/2024/07/20/f1_history_maker_zhou_guanyu_achieved_the_impossible_by_becoming_the_sports_first_chinese_driver 'F1 history-maker Zhou Guanyu achieved the ‘impossible’ by becoming the sport’s first Chinese driver')
 
 - [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/20/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
-
-- [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
 
 - [Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say](https://new-news.github.io/Latest/2024/07/20/accidentally_exposed_yellowish_green_crystals_reveal_mind_blowing_finding_on_mars__scientists_say 'Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say')
 
@@ -21,8 +23,6 @@
 - [As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election](https://new-news.github.io/Latest/2024/07/20/as_the_rnc_ends__swing_states_efforts_to_fight_misinformation_ramp_up_ahead_of_the_election 'As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election')
 
 - [Paris adds an unusual museum to its illustrious roster](https://new-news.github.io/Latest/2024/07/20/paris_adds_an_unusual_museum_to_its_illustrious_roster 'Paris adds an unusual museum to its illustrious roster')
-
-- [Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_underway_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
 - [Bridge collapses in China killing 12 and leaving more than 30 missing](https://new-news.github.io/Latest/2024/07/20/bridge_collapses_in_china_killing_12_and_leaving_more_than_30_missing 'Bridge collapses in China killing 12 and leaving more than 30 missing')
 
