@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 11:12:18`
+#### Latest Update : `2024-07-20 11:36:39`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Look of the Week: The surprising — and sticky — material taking over summer](https://new-news.github.io/Latest/2024/07/20/look_of_the_week__the_surprising_—_and_sticky_—_material_taking_over_summer 'Look of the Week: The surprising — and sticky — material taking over summer')
+
+- [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
 
 - [As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election](https://new-news.github.io/Latest/2024/07/20/as_the_rnc_ends__swing_states_efforts_to_fight_misinformation_ramp_up_ahead_of_the_election 'As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election')
 
@@ -202,12 +206,8 @@
 
 - [Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78](https://new-news.github.io/Latest/2024/07/20/lou_dobbs__veteran_cable_news_anchor_and_trump_booster__dies_at_78 'Lou Dobbs, veteran cable news anchor and Trump booster, dies at 78')
 
-- [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/20/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
-
-- [If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove](https://new-news.github.io/Latest/2024/07/20/if_the_trump_classified_documents_case_is_reinstated__judge_aileen_cannon_would_be_difficult_to_remove 'If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid')  [aileen](/ 'aileen') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accused](/ 'accused')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid')  [air](/ 'air') 

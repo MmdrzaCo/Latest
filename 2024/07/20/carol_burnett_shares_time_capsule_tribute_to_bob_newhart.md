@@ -1,6 +1,6 @@
 # Carol Burnett shares time capsule tribute to Bob Newhart
 
-Published :`2024-07-20 11:12:10`
+Published :`2024-07-20 11:36:34`
 
 ---
 
