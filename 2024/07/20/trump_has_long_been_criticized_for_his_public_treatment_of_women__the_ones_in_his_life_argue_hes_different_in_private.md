@@ -1,6 +1,6 @@
 # Trump has long been criticized for his public treatment of women. The ones in his life argue he’s different in private
 
-Published :`2024-07-20 21:35:50`
+Published :`2024-07-20 22:13:49`
 
 ---
 

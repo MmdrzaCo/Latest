@@ -1,6 +1,6 @@
 # At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack
 
-Published :`2024-07-20 21:35:49`
+Published :`2024-07-20 22:13:48`
 
 ---
 
@@ -57,6 +57,8 @@ Israeli Finance Minister Bezalel Smotrich and Defense Minister Yoav Gallant echo
 “The fire that is currently burning in Hodeidah, is seen across the Middle East and the significance is clear,” Gallant said.
 
 Hezbollah in Lebanon condemned the attack on Yemen and said “we stand firmly with the Yemeni people in defending themselves, their sovereignty, and their heroic and historic stance alongside Palestine.”
+
+Hamas also condemned the attack, calling it a “dangerous escalation.”
 
 Meanwhile, Israeli Minister of Foreign Affairs Israel Katz called on the international community to “maximize sanctions on Iran.”
 

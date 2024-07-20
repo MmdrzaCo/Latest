@@ -1,14 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 21:35:59`
+#### Latest Update : `2024-07-20 22:13:58`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://new-news.github.io/Latest/2024/07/20/two_dead_in_multistate_listeria_outbreak_linked_with_sliced_deli_meat__cdc_says 'Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says')
-
 - [At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/20/at_least_80_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
+
+- [South African police discover multimillion-dollar meth lab on farm](https://new-news.github.io/Latest/2024/07/20/south_african_police_discover_multimillion_dollar_meth_lab_on_farm 'South African police discover multimillion-dollar meth lab on farm')
+
+- [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://new-news.github.io/Latest/2024/07/20/two_dead_in_multistate_listeria_outbreak_linked_with_sliced_deli_meat__cdc_says 'Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says')
 
 - [Opinion: The freedom embedded in my family’s dreams became real 60 years ago](https://new-news.github.io/Latest/2024/07/20/opinion__the_freedom_embedded_in_my_familys_dreams_became_real_60_years_ago 'Opinion: The freedom embedded in my family’s dreams became real 60 years ago')
 
@@ -39,8 +41,6 @@
 - [The 10 Senate seats most likely to flip in 2024](https://new-news.github.io/Latest/2024/07/20/the_10_senate_seats_most_likely_to_flip_in_2024 'The 10 Senate seats most likely to flip in 2024')
 
 - [Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74](https://new-news.github.io/Latest/2024/07/20/sheila_jackson_lee__long_serving_democratic_congresswoman_and_advocate_for_black_americans__dies at_74 'Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74')
-
-- [South African police discover multimillion-dollar meth lab on farm](https://new-news.github.io/Latest/2024/07/20/south_african_police_discover_multimillion_dollar_meth_lab_on_farm 'South African police discover multimillion-dollar meth lab on farm')
 
 - [A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case](https://new-news.github.io/Latest/2024/07/20/a_florida_woman_was_killed_24_years_ago__dna_evidence_just_helped_police_make_an_arrest_in_the_cold_case 'A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case')
 

@@ -1,6 +1,6 @@
 # The ‘first’ post-Covid Olympics are exciting sponsors. Fans? Not so much
 
-Published :`2024-07-20 21:35:56`
+Published :`2024-07-20 22:13:54`
 
 ---
 

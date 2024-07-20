@@ -1,6 +1,6 @@
 # Spanish town to fine tourists for hogging beach spots
 
-Published :`2024-07-20 21:35:56`
+Published :`2024-07-20 22:13:56`
 
 ---
 
