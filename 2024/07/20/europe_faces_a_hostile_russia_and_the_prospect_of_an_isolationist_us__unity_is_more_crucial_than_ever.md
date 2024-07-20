@@ -1,6 +1,6 @@
 # Europe faces a hostile Russia and the prospect of an isolationist US. Unity is more crucial than ever
 
-Published :`2024-07-20 17:35:55`
+Published :`2024-07-20 18:19:53`
 
 ---
 

@@ -1,6 +1,6 @@
 # Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies
 
-Published :`2024-07-20 17:35:46`
+Published :`2024-07-20 18:19:50`
 
 ---
 
@@ -12,7 +12,7 @@ CrowdStrike’s CEO said a fix has been deployed, but experts say getting system
 
 The outage affected an estimated 8.5 million Windows devices, less than 1 percent of all Windows machines, according to a Saturday blog post from Microsoft. “While the percentage was small, the broad economic and societal impacts reflect the use of CrowdStrike by enterprises that run many critical services,” Microsoft said.
 
-According to the tracking website FlightAware, over 1,000 flights into, out of, or within the US have been cancelled and over 2,000 delayed, as of Saturday morning.
+According to the tracking website FlightAware, over 1,000 flights into, out of, or within the US have been canceled and over 2,000 delayed, as of Saturday morning.
 
 On Friday, more than 3,000 flights were canceled and more than 11,000 delayed, according to FlightAware.com.
 
@@ -22,7 +22,7 @@ A majority of United Airlines systems have recovered from Friday’s outag
 
 “While most of our systems have recovered from the worldwide third-party software outage, we may continue to experience some disruption to our operation, including flight delays and cancellations,” United said.
 
-Delta Airlines is “continuing its operational recovery” after the outage prompted the airline to pause flying on Friday, according to a Saturday morning update. Still, over 600 Delta flights have been cancelled Saturday.
+Delta Airlines is “continuing its operational recovery” after the outage prompted the airline to pause flying on Friday, according to a Saturday morning update. Still, over 600 Delta flights have been canceled Saturday.
 
 “Additional cancelations are expected as some of Delta’s technology continues to recover from Friday morning’s vendor-caused issue,” the update said.
 

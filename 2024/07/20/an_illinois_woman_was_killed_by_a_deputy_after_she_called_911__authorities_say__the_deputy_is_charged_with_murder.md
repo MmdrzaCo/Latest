@@ -1,6 +1,6 @@
 # An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder
 
-Published :`2024-07-20 17:35:54`
+Published :`2024-07-20 18:19:50`
 
 ---
 
@@ -16,9 +16,9 @@ An Illinois State Police investigation of the case did “not support a finding 
 
 A Sangamon County grand jury on Wednesday indicted Grayson on three counts of first-degree murder and a count each of aggravated battery with a firearm and official misconduct, Milhiser said.
 
-At his arraignment Thursday, Grayson entered a not guilty plea and was denied pretrial release, according to CNN affiliate WICS. A pretrial hearing is scheduled for August 26, WICS reported.
+At his arraignment Thursday, Grayson entered a not guilty plea and was denied pretrial release, according to court records. A pretrial hearing is scheduled for August 26.
 
-CNN sought comment Thursday from Grayson’s attorney and Milhiser’s office.
+CNN reached out Saturday to Grayson’s attorney, who declined to comment.
 
 The sheriff’s department has fired Grayson, the office said Wednesday.
 
@@ -60,7 +60,7 @@ The court document does not explain how prosecutors got details of the incident,
 
 Massey’s family saw body camera footage of the incident during a meeting with prosecutors and state police on Wednesday, Milhiser said that day.
 
-After consulting with the family, officials decided the footage will be released publicly on Monday morning, the prosecutor said. Nothing has been redacted “except for the blurring of certain images” out of respect, Milhiser said.
+After consulting with the family, officials decided the footage will be released publicly on Monday afternoon, the prosecutor said. Nothing has been redacted “except for the blurring of certain images” out of respect, Milhiser said.
 
 Illinois Gov. JB Pritzker expressed gratitude Wednesday to prosecutors for bringing the “appropriate charges” in this case.
 
@@ -72,7 +72,7 @@ The sheriff’s office said Wednesday that Grayson’s actions “do not reflect
 
 “Good law enforcement officers stand with our community in condemning actions that undermine the trust and safety we strive to uphold. In times like these, it is crucial for leadership across all sides and spectrums to come together to heal our community,” the office said in an online post.
 
-CNN’s Jamiel Lynch contributed to this report
+CNN’s Jamiel Lynch and Rebekah Riess contributed to this report.
 
 ---
 

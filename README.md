@@ -1,6 +1,6 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 17:35:55`
+#### Latest Update : `2024-07-20 18:19:53`
 
 ## Latest News Grabbing 
 
@@ -8,13 +8,21 @@
 
 - [Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv](https://new-news.github.io/Latest/2024/07/20/israeli_airstrikes_target_yemens_houthis_day_after_deadly_drone_attack_in_tel_aviv 'Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv')
 
+- [Glen Powell pays tribute to late ‘Twister’ star Bill Paxton as sequel releases](https://new-news.github.io/Latest/2024/07/20/glen_powell_pays_tribute_to_late_twister_star_bill_paxton_as_sequel_releases 'Glen Powell pays tribute to late ‘Twister’ star Bill Paxton as sequel releases')
+
+- [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/20/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
+
+- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
+
+- [Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting](https://new-news.github.io/Latest/2024/07/20/investigators_believe_trumps_would_be_assassin_flew_a_drone_over_rally_site_on_the_day_of_the_shooting 'Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting')
+
+- [A 72-year-old was alone picking huckleberries in a Montana forest. Then, a grizzly bear attacked him](https://new-news.github.io/Latest/2024/07/20/a_72_year_old_was_alone_picking_huckleberries_in_a_montana_forest__then__a_grizzly_bear_attacked_him 'A 72-year-old was alone picking huckleberries in a Montana forest. Then, a grizzly bear attacked him')
+
 - [The 10 Senate seats most likely to flip in 2024](https://new-news.github.io/Latest/2024/07/20/the_10_senate_seats_most_likely_to_flip_in_2024 'The 10 Senate seats most likely to flip in 2024')
 
 - [Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74](https://new-news.github.io/Latest/2024/07/20/sheila_jackson_lee__long_serving_democratic_congresswoman_and_advocate_for_black_americans__dies at_74 'Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74')
 
 - [South African police discover multimillion-dollar meth lab on farm](https://new-news.github.io/Latest/2024/07/20/south_african_police_discover_multimillion_dollar_meth_lab_on_farm 'South African police discover multimillion-dollar meth lab on farm')
-
-- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
 - [A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case](https://new-news.github.io/Latest/2024/07/20/a_florida_woman_was_killed_24_years_ago__dna_evidence_just_helped_police_make_an_arrest_in_the_cold_case 'A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case')
 
@@ -24,7 +32,7 @@
 
 - [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
 
-- [Timeline: How the CrowdStrike outage unfolded](https://new-news.github.io/Latest/2024/07/20/timeline__how_the_crowdstrike_outage_unfolded 'Timeline: How the CrowdStrike outage unfolded')
+- [A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened](https://new-news.github.io/Latest/2024/07/20/a_global_tech_outage_brought_many_computer_systems_and_businesses_to_a_screeching_halt__heres_what_happened 'A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened')
 
 - [Greeks grieve, Turks celebrate as Cyprus marks 50 years of division](https://new-news.github.io/Latest/2024/07/20/greeks_grieve__turks_celebrate_as_cyprus_marks_50_years_of_division 'Greeks grieve, Turks celebrate as Cyprus marks 50 years of division')
 
@@ -180,8 +188,6 @@
 
 - [Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks](https://new-news.github.io/Latest/2024/07/20/putins_summer_residence_gets_new_air_defenses_as_ukraine_steps_up_drone_attacks 'Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks')
 
-- [An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder](https://new-news.github.io/Latest/2024/07/20/an_illinois_woman_was_killed_by_a_deputy_after_she_called_911__authorities_say__the_deputy_is_charged_with_murder 'An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder')
-
 - [Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know](https://new-news.github.io/Latest/2024/07/20/bangladesh_has_erupted_over_jobs_reserved_for_the_children_of_freedom_fighters__heres_what_you_need_to_know 'Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know')
 
 - [Takeaways from the final night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/20/takeaways_from_the_final_night_of_the_republican_national_convention 'Takeaways from the final night of the Republican National Convention')
@@ -199,12 +205,6 @@
 - [Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says](https://new-news.github.io/Latest/2024/07/20/seattle_officer_fired_for_cruel_comments_and_callous_laughter_following_indian_grad_students_death__police_chief_says 'Seattle officer fired for ‘cruel comments and callous laughter’ following Indian grad student’s death, police chief says')
 
 - [Europe faces a hostile Russia and the prospect of an isolationist US. Unity is more crucial than ever](https://new-news.github.io/Latest/2024/07/20/europe_faces_a_hostile_russia_and_the_prospect_of_an_isolationist_us__unity_is_more_crucial_than_ever 'Europe faces a hostile Russia and the prospect of an isolationist US. Unity is more crucial than ever')
-
-- [Fandango founder identified as man who fell to death from New York City hotel](https://new-news.github.io/Latest/2024/07/20/fandango_founder_identified_as_man_who_fell_to_death_from_new_york_city_hotel 'Fandango founder identified as man who fell to death from New York City hotel')
-
-- [Instant ramen and influencers: Inside the world of South Korean convenience stores](https://new-news.github.io/Latest/2024/07/20/instant_ramen_and_influencers__inside_the_world_of_south_korean_convenience_stores 'Instant ramen and influencers: Inside the world of South Korean convenience stores')
-
-- [Sen. Jon Tester of Montana, vulnerable Democrat up for reelection, calls on Biden to drop out of the race](https://new-news.github.io/Latest/2024/07/20/sen__jon_tester_of_montana__vulnerable_democrat_up_for_reelection__calls_on_biden_to_drop_out_of_the_race 'Sen. Jon Tester of Montana, vulnerable Democrat up for reelection, calls on Biden to drop out of the race')
 
 
 
