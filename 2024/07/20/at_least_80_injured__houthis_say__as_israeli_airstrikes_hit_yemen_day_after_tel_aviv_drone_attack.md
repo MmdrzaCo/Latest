@@ -1,6 +1,6 @@
 # At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack
 
-Published :`2024-07-20 21:13:10`
+Published :`2024-07-20 21:35:49`
 
 ---
 
@@ -44,13 +44,17 @@ The defense official added that Israel was able to strike so quickly because it 
 
 A White House official said US President Joe Biden had been briefed on “developments” in the Middle East. A spokesperson for the White House National Security Council said the US had not coordinated with Israel on the airstrikes, but added that the US fully recognizes “Israel’s right to self-defense.”
 
-### ‘Iran is the head of the snake’
+### Regional tensions rise
 
-Israel’s Minister of National Security Itamar Ben Gvir congratulated Netanyahu on the operation and said Israel should “adopt the same policy against Hezbollah in Lebanon.”
+The strike on Hodeidah comes amid rising tensions in the region.
 
 In recent weeks the Lebanese Iran-backed Islamist group has been ramping up cross-border attacks with Israel after months of low-intensity fighting, prompting the Israeli military to warn that it is prepared to launch a large-scale attack on its northern border.
 
+Following the Hodeidah strike, Israel’s Minister of National Security Itamar Ben Gvir congratulated Netanyahu on the operation and said Israel should “adopt the same policy against Hezbollah in Lebanon.”
+
 Israeli Finance Minister Bezalel Smotrich and Defense Minister Yoav Gallant echoed Gvir’s sentiment. Smotrich said Israel must continue to attack “with all its might even in distant places,” while Gallant said “the blood of Israeli citizens has a price,” and that anywhere Israelis are attacked the “result will be identical.”
+
+“The fire that is currently burning in Hodeidah, is seen across the Middle East and the significance is clear,” Gallant said.
 
 Hezbollah in Lebanon condemned the attack on Yemen and said “we stand firmly with the Yemeni people in defending themselves, their sovereignty, and their heroic and historic stance alongside Palestine.”
 
@@ -59,6 +63,10 @@ Meanwhile, Israeli Minister of Foreign Affairs Israel Katz called on the interna
 “Iran supports, trains, and finances the Houthi terror organization as part of its regional network of terror organizations aimed at attacking Israel,” he said.
 
 “Iran is the head of the snake – it must be stopped now,” Katz added.
+
+Iran condemned the Israeli strike on Hodeidah. Ministry of Foreign Affairs spokesperson Nasser Kanaani warned of the risk of war in the region, saying Israel’s actions in Gaza were the “root” of the escalating tensions.
+
+“The oppressed but powerful people of Yemen are paying the price for their honorable support of the innocent citizens, women and children of Gaza,” Kanaani said.
 
 This is a developing story and will be updated.
 

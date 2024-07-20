@@ -1,6 +1,6 @@
 # German citizen sentenced to death in Belarus, charged with terrorism, mercenary activities
 
-Published :`2024-07-20 21:13:10`
+Published :`2024-07-20 21:35:49`
 
 ---
 

@@ -1,18 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 21:13:14`
+#### Latest Update : `2024-07-20 21:35:59`
 
 ## Latest News Grabbing 
 
 ---
 
-- [German citizen sentenced to death in Belarus, charged with terrorism, mercenary activities](https://new-news.github.io/Latest/2024/07/20/german_citizen_sentenced_to_death_in_belarus__charged_with_terrorism__mercenary_activities 'German citizen sentenced to death in Belarus, charged with terrorism, mercenary activities')
-
-- [Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee](https://new-news.github.io/Latest/2024/07/20/clintons_privately_urge_donors_to_keep_giving_to_biden_as_long_as_he_remains_presumptive_nominee 'Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee')
+- [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://new-news.github.io/Latest/2024/07/20/two_dead_in_multistate_listeria_outbreak_linked_with_sliced_deli_meat__cdc_says 'Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says')
 
 - [At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/20/at_least_80_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
 - [Opinion: The freedom embedded in my family’s dreams became real 60 years ago](https://new-news.github.io/Latest/2024/07/20/opinion__the_freedom_embedded_in_my_familys_dreams_became_real_60_years_ago 'Opinion: The freedom embedded in my family’s dreams became real 60 years ago')
+
+- [German citizen sentenced to death in Belarus, charged with terrorism, mercenary activities](https://new-news.github.io/Latest/2024/07/20/german_citizen_sentenced_to_death_in_belarus__charged_with_terrorism__mercenary_activities 'German citizen sentenced to death in Belarus, charged with terrorism, mercenary activities')
+
+- [Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee](https://new-news.github.io/Latest/2024/07/20/clintons_privately_urge_donors_to_keep_giving_to_biden_as_long_as_he_remains_presumptive_nominee 'Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee')
 
 - [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_public_services 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services')
 
@@ -117,8 +119,6 @@
 - [July’s full moon coincides with the anniversary of a special lunar event](https://new-news.github.io/Latest/2024/07/20/julys_full_moon_coincides_with_the_anniversary_of_a_special_lunar_event 'July’s full moon coincides with the anniversary of a special lunar event')
 
 - [American Airlines flight attendants reach new contract deal](https://new-news.github.io/Latest/2024/07/20/american_airlines_flight_attendants_reach_new_contract_deal 'American Airlines flight attendants reach new contract deal')
-
-- [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://new-news.github.io/Latest/2024/07/20/two_dead_in_multistate_listeria_outbreak_linked_with_sliced_deli_meat__cdc_says 'Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says')
 
 - [Carol Burnett shares time capsule tribute to Bob Newhart](https://new-news.github.io/Latest/2024/07/20/carol_burnett_shares_time_capsule_tribute_to_bob_newhart 'Carol Burnett shares time capsule tribute to Bob Newhart')
 

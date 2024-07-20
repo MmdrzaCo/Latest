@@ -1,6 +1,6 @@
 # Opinion: The freedom embedded in my family’s dreams became real 60 years ago
 
-Published :`2024-07-20 21:13:10`
+Published :`2024-07-20 21:35:49`
 
 ---
 
@@ -12,7 +12,7 @@ My father kept an eye out for Esso gas stations because they were the only pla
 
 One trip in 1965 stands out, though. It was one of the first times we used the recently opened I-95. We stopped at the Maryland House rest stop in Aberdeen, Maryland, a new colonial-style brick building that provided food and relaxation for weary travelers. I don’t know why my parents took a risk and stopped at an unfamiliar place. It could be that they tired of egg salad sandwiches, or maybe they simply felt enough was enough and that we had the right to stop there just like everyone else.
 
-We were trepidatious about the reception a Black family might receive here. As we sat down, we saw some stares, but there was no confrontation. We had a relieved smile as we slowly realized there would be no indignities served with our meals. It was my first experience in a post-segregation South. I did not recognize it at the time, but that day my family became a direct beneficiary of the Civil Rights Act of 1964, which had passed the summer before. The moment was as transformative for me as it was long overdue for the country.
+We were trepidatious about the reception a Black family might receive there. As we sat down, we saw some stares, but there was no confrontation. We had relieved smiles as we slowly realized there would be no indignities served with our meals. It was my first experience in a post-segregation South. I did not recognize it at the time, but that day my family had become a direct beneficiary of the Civil Rights Act of 1964, which had passed the summer before. The moment was as transformative for me as it was long overdue for the country.
 
 July 2, 2024, marked the 60th anniversary of the passage of the Civil Rights Act, a historic anniversary that has come and gone this year with relatively little fanfare. President Lyndon B. Johnson signed it into law that same day.
 

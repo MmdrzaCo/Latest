@@ -1,12 +1,14 @@
 # Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says
 
-Published :`2024-07-20 21:13:12`
+Published :`2024-07-20 21:35:49`
 
 ---
 
 The US Centers for Disease Control and Prevention issued a warning Friday about a deadly multistate listeria outbreak connected to deli meat.
 
 Two people have died, the agency said in an investigation notice, and at least 28 have had to be hospitalized. However, the CDC says the true number of people who are sick is probably higher than what’s been reported because some may have had a milder form of the illness and not been tested for listeria. There’s also a lag time between when an illness happens and when scientists can connect it with an ongoing investigation.
+
+Seven illnesses have been reported in New York; six in Maryland; two each in Georgia, Massachusetts, Missouri, New Jersey and Virginia; and one each in Illinois, Minnesota, North Carolina, Pennsylvania and Wisconsin. The deaths were reported in Illinois and New Jersey.
 
 Of the 18 people whom state and local public health experts were able to interview, 16 reported eating meats sliced at a deli in the month before they got sick. There are no reports of people getting sick after eating packaged deli meat.
 

@@ -1,6 +1,6 @@
 # South African police discover multimillion-dollar meth lab on farm
 
-Published :`2024-07-20 21:13:11`
+Published :`2024-07-20 21:35:50`
 
 ---
 
@@ -15,6 +15,8 @@ The four suspects detained on Friday include the farm owner and two Mexican nati
 “What makes this different from other [seizures] is the involvement of Mexican citizens,” Katlego Mogale, national spokesperson for the Hawks told Reuters, adding: “It means that our task has just become very difficult.”
 
 It is not clear if the drugs seized were intended for South African market or overseas.
+
+The Mexican Ministry of Foreign Affairs said its embassy in South Africa had “not received the respective consular notification and is in contact with local authorities to find out the details of the case and the alleged Mexicans involved.”
 
 The suspects will appear at Groblersdal Magistrate’s court on Monday on charges of manufacturing, dealing and possessing illicit drugs, according to the police service.
 
