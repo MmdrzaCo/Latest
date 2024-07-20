@@ -1,14 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 22:35:54`
+#### Latest Update : `2024-07-20 23:14:27`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_public_services 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services')
+- [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/20/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
-- [At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/20/at_least_80_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 80 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
+- [The global software outage affected this forecaster’s broadcast. He took the weather report into his own hands – literally](https://new-news.github.io/Latest/2024/07/20/the_global_software_outage_affected_this_forecasters_broadcast__he_took_the_weather_report_into_his_own_hands_–_literally 'The global software outage affected this forecaster’s broadcast. He took the weather report into his own hands – literally')
+
+- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_public_services 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services')
 
 - [South African police discover multimillion-dollar meth lab on farm](https://new-news.github.io/Latest/2024/07/20/south_african_police_discover_multimillion_dollar_meth_lab_on_farm 'South African police discover multimillion-dollar meth lab on farm')
 
@@ -203,8 +205,6 @@
 - [Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks](https://new-news.github.io/Latest/2024/07/20/putins_summer_residence_gets_new_air_defenses_as_ukraine_steps_up_drone_attacks 'Putin’s summer residence gets new air defenses as Ukraine steps up drone attacks')
 
 - [Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know](https://new-news.github.io/Latest/2024/07/20/bangladesh_has_erupted_over_jobs_reserved_for_the_children_of_freedom_fighters__heres_what_you_need_to_know 'Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know')
-
-- [Takeaways from the final night of the Republican National Convention](https://new-news.github.io/Latest/2024/07/20/takeaways_from_the_final_night_of_the_republican_national_convention 'Takeaways from the final night of the Republican National Convention')
 
 
 
