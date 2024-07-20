@@ -1,6 +1,6 @@
 # Timeline: How the CrowdStrike outage unfolded
 
-Published :`2024-07-20 15:14:04`
+Published :`2024-07-20 15:36:15`
 
 ---
 

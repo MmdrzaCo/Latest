@@ -1,6 +1,6 @@
 # Thousands of Disneyland workers vote to authorize a potential strike. It would be the first in 40 years
 
-Published :`2024-07-20 15:14:04`
+Published :`2024-07-20 15:36:16`
 
 ---
 
@@ -14,7 +14,9 @@ Now that the vote has passed, it’s up to union leadership to decide whether to
 
 “Today Disneyland Park cast members made their voices heard by voting to authorize the Disney Workers Rising bargaining committee to call for a strike to protest unfair labor practices by 99%,” UFCW Local 324 said in a statement. “We stood up and showed Disney that we won’t sit by and allow them to intimidate, surveil and unlawfully discipline cast members for exercising their rights.”
 
-CNN has reached out to the Walt Disney Company for comment on the vote.
+Disneyland Resort spokesperson Jessica Good told CNN in an email late Friday that it remains committed to reaching an agreement.
+
+“We greatly appreciate the important roles our cast members play in creating memorable experiences for our guests, and we remain committed to reaching an agreement that focuses on what matters most to them while positioning Disneyland Resort for growth and job creation,” Good said. “Master Services Council’s strike authorization is not unusual as part of a negotiations process, and we look forward to continuing discussions at upcoming meetings on Monday, July 22 and Tuesday, July 23. A strike date has not been scheduled, and Disneyland Resort continues to welcome guests.”
 
 Disneyland officials previously said that there are plans in place that would allow the parks to continue operating with the same expected level of service, in the event of a strike.
 
