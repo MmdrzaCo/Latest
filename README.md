@@ -1,16 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 14:12:56`
+#### Latest Update : `2024-07-20 14:35:42`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Adidas apologizes for ad campaign linked to 1972 Munich Olympics](https://new-news.github.io/Latest/2024/07/20/adidas_apologizes_for_ad_campaign_linked_to_1972_munich_olympics 'Adidas apologizes for ad campaign linked to 1972 Munich Olympics')
+
+- [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
+
+- [Timeline: How the CrowdStrike outage unfolded](https://new-news.github.io/Latest/2024/07/20/timeline__how_the_crowdstrike_outage_unfolded 'Timeline: How the CrowdStrike outage unfolded')
+
 - [Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_underway_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
 - [Greeks grieve, Turks celebrate as Cyprus marks 50 years of division](https://new-news.github.io/Latest/2024/07/20/greeks_grieve__turks_celebrate_as_cyprus_marks_50_years_of_division 'Greeks grieve, Turks celebrate as Cyprus marks 50 years of division')
-
-- [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
 
 - [F1 history-maker Zhou Guanyu achieved the ‘impossible’ by becoming the sport’s first Chinese driver](https://new-news.github.io/Latest/2024/07/20/f1_history_maker_zhou_guanyu_achieved_the_impossible_by_becoming_the_sports_first_chinese_driver 'F1 history-maker Zhou Guanyu achieved the ‘impossible’ by becoming the sport’s first Chinese driver')
 
@@ -126,13 +130,11 @@
 
 - [Family of another American journalist held in Russia calls on Biden administration to do more to help](https://new-news.github.io/Latest/2024/07/20/family_of_another_american_journalist_held_in_russia_calls_on_biden_administration_to_do_more_to_help 'Family of another American journalist held in Russia calls on Biden administration to do more to help')
 
-- [Adidas apologizes for ad campaign linked to 1972 Munich Olympics](https://new-news.github.io/Latest/2024/07/20/adidas_apologizes_for_ad_campaign_linked_to_1972_munich_olympics 'Adidas apologizes for ad campaign linked to 1972 Munich Olympics')
-
 - [Spanish town to fine tourists for hogging beach spots](https://new-news.github.io/Latest/2024/07/20/spanish_town_to_fine_tourists_for_hogging_beach_spots 'Spanish town to fine tourists for hogging beach spots')
 
 - [Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’](https://new-news.github.io/Latest/2024/07/20/kate_hudson_says_she_could_smell_matthew_mcconaughey_from_a_mile 'Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’')
 
-- [Starbucks wanted to be the ‘third place.’ Now it’s speeding you out the door](https://new-news.github.io/Latest/2024/07/20/starbucks_wanted_to_be_the_third_place__now_its_speeding_you_out_the_door 'Starbucks wanted to be the ‘third place.’ Now it’s speeding you out the door')
+- [A major shift at Starbucks is changing its personality](https://new-news.github.io/Latest/2024/07/20/a_major_shift_at_starbucks_is_changing_its_personality 'A major shift at Starbucks is changing its personality')
 
 - [Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation](https://new-news.github.io/Latest/2024/07/20/allen_weisselberg__former_trump_org__cfo__released_from_jail_after_serving_100_days_for_lying_during_investigation 'Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation')
 
@@ -203,8 +205,6 @@
 - [Alabama has executed man convicted of killing delivery driver during a 1998 robbery attempt](https://new-news.github.io/Latest/2024/07/20/alabama_has_executed_man_convicted_of_killing_delivery_driver_during_a_1998_robbery_attempt 'Alabama has executed man convicted of killing delivery driver during a 1998 robbery attempt')
 
 - [Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea](https://new-news.github.io/Latest/2024/07/20/japans_top_general_lauds_closer_south_korea_military_ties_as_mutual_concerns_grow_over_china__north_korea 'Japan’s top general lauds closer South Korea military ties as mutual concerns grow over China, North Korea')
-
-- [Macron’s party wins parliamentary president role despite rebuke from voters](https://new-news.github.io/Latest/2024/07/20/macrons_party_wins_parliamentary_president_role_despite_rebuke_from_voters 'Macron’s party wins parliamentary president role despite rebuke from voters')
 
 
 

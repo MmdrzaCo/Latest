@@ -1,6 +1,6 @@
 # Adidas apologizes for ad campaign linked to 1972 Munich Olympics
 
-Published :`2024-07-20 14:12:52`
+Published :`2024-07-20 14:35:32`
 
 ---
 
@@ -39,6 +39,8 @@ However, journalist Mehdi Hasan took issue with this line of criticism against A
 “Blaming people for the crimes of others who share their race or ethnicity is pure racism & bigotry,” he added.
 
 When contacted by CNN to respond to this critique, an AJC spokesperson said its “criticism of Adidas making Bella Hadid one of the faces of this campaign has nothing to do with her ethnicity but her history of anti-Israel and antisemitic comments,” without providing evidence for these allegations.
+
+The ADL disagreed with Hasan and reinforced its criticism of Hadid in a statement sent to CNN.
 
 The Adidas controversy comes a week before the opening ceremony for the Paris Olympics.
 
