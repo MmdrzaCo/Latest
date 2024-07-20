@@ -1,6 +1,6 @@
 # Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv
 
-Published :`2024-07-20 19:36:00`
+Published :`2024-07-20 20:14:39`
 
 ---
 
@@ -14,7 +14,9 @@ The Houthi-run Al Masirah TV said the Israeli strikes targeted oil facilities in
 
 Houthi spokesperson Mohammed Abdulsalam said the strikes had also hit civilian targets and a power station. He slammed what he said was “brutal Israeli aggression” aimed at increasing the “suffering of the people of Yemen” and pressuring it to stop its support of Gaza.
 
-The Houthi Supreme Political Council vowed to retaliate with “more impactful strikes on the enemy” and reiterated its solidarity with the Palestinian people, according to Al Masirah TV.
+Houthi army spokesperson Yehya Saree vowed to respond to the strike, saying the Houthis would not hesitate to strike Israel’s “vital targets” and warning that Tel Aviv was still not safe.
+
+“We have prepared for a long war with this enemy until the aggression stops and the blockade on the Palestinian people is lifted,” Saree said.
 
 Israeli officials said Hodeidah had been targeted because it was the main supply route of Iranian weapons to Yemen. A spokesperson for the IDF said the targets were dual use infrastructure that were also being used for terrorist activity.
 

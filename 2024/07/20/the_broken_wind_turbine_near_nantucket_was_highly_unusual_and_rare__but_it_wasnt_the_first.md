@@ -1,6 +1,6 @@
 # The broken wind turbine near Nantucket was ‘highly unusual and rare.’ But it wasn’t the first
 
-Published :`2024-07-20 19:36:00`
+Published :`2024-07-20 20:14:39`
 
 ---
 

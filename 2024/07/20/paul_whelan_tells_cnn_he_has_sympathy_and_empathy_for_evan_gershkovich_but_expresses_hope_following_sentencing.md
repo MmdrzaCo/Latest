@@ -1,6 +1,6 @@
 # Paul Whelan tells CNN he has ‘sympathy and empathy’ for Evan Gershkovich but expresses hope following sentencing
 
-Published :`2024-07-20 19:36:01`
+Published :`2024-07-20 20:14:41`
 
 ---
 

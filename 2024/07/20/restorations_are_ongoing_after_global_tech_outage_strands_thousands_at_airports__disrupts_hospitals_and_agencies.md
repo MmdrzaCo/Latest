@@ -1,10 +1,10 @@
 # Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies
 
-Published :`2024-07-20 19:36:00`
+Published :`2024-07-20 20:14:39`
 
 ---
 
-Operations are gradually being restored but delays are expected after “the largest IT outage in history” disrupted sectors across the globe, leaving thousands of passengers stranded at airports, emergency communication services down and blood donation centers without vital shipments.
+Operations are gradually being restored but delays continue for a second day after “the largest IT outage in history” disrupted sectors across the globe, leaving thousands of passengers stranded at airports, emergency communication services down and blood donation centers without vital shipments.
 
 Airlines, businesses, government agencies, health and emergency services, banks and schools and universities around the world ground to a halt or saw services disrupted due to a flawed software update for Microsoft Windows operating systems issued by the cybersecurity firm CrowdStrike, experts told CNN.
 
@@ -12,9 +12,9 @@ CrowdStrike’s CEO said a fix has been deployed, but experts say getting system
 
 The outage affected an estimated 8.5 million Windows devices, less than 1 percent of all Windows machines, according to a Saturday blog post from Microsoft. “While the percentage was small, the broad economic and societal impacts reflect the use of CrowdStrike by enterprises that run many critical services,” Microsoft said.
 
-According to the tracking website FlightAware, over 1,000 flights into, out of, or within the US have been canceled and over 2,000 delayed, as of Saturday morning.
+According to the tracking website FlightAware, over 1,600 flights into, out of, or within the US have been canceled and almost 5,000 delayed, as of Saturday afternoon.
 
-On Friday, more than 3,000 flights were canceled and more than 11,000 delayed, according to FlightAware.com.
+On Friday, more than 3,000 flights were canceled and more than 11,000 were delayed, according to FlightAware.com.
 
 Worldwide, major airlines have said that services are being restored.
 
@@ -40,7 +40,7 @@ New Jersey resident Jennifer Small likewise slept at the airport overnight and h
 
 “I want to get home to my son. I want to get home to Jersey,” Small said, adding she didn’t believe she would be able to travel home until Saturday.
 
-Thousands of people crammed together in airports across the country, waiting for answers. Passengers Ty Kelley, who was traveling to Philadelphia to attend a funeral, described it as a chaotic scene.
+Thousands of people crammed together in airports across the country, waiting for answers. Passenger Ty Kelley, who was traveling to Philadelphia to attend a funeral, described it as a chaotic scene.
 
 “It’s wild, it’s crazy, it’s crowded — I have anxiety right now,” she said. “I’m going to wait in this long line and try and get to Philadelphia today.”
 
@@ -64,7 +64,7 @@ CrowdStrike CEO George Kurtz apologized to customers Friday for the outage and s
 
 But that could be easier said than done: Manual restarts of individual systems take time and expertise that some customers don’t have, which is why companies were slow to recover from the outage.
 
-CrowdStrike promised customers “full transparency” on how the outage occurred and that it will “prevent anything like this from happening again.”
+CrowdStrike promised customers “full transparency” on how the outage occurred and that it would “prevent anything like this from happening again.”
 
 ### Some hospitals had to cancel appointments and surgeries
 
