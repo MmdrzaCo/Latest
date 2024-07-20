@@ -1,6 +1,6 @@
 # Alabama has executed man convicted of killing delivery driver during a 1998 robbery attempt
 
-Published :`2024-07-20 10:39:11`
+Published :`2024-07-20 11:12:17`
 
 ---
 

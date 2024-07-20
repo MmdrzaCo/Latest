@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 10:39:12`
+#### Latest Update : `2024-07-20 11:12:18`
 
 ## Latest News Grabbing 
 
 ---
+
+- [As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election](https://new-news.github.io/Latest/2024/07/20/as_the_rnc_ends__swing_states_efforts_to_fight_misinformation_ramp_up_ahead_of_the_election 'As the RNC ends, swing states’ efforts to fight misinformation ramp up ahead of the election')
 
 - [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/20/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
 
@@ -203,8 +205,6 @@
 - [Minute-by-minute: Visual timeline of the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/20/minute_by_minute__visual_timeline_of_the_trump_assassination_attempt 'Minute-by-minute: Visual timeline of the Trump assassination attempt')
 
 - [If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove](https://new-news.github.io/Latest/2024/07/20/if_the_trump_classified_documents_case_is_reinstated__judge_aileen_cannon_would_be_difficult_to_remove 'If the Trump classified documents case is reinstated, Judge Aileen Cannon would be difficult to remove')
-
-- [Hunter Biden says Aileen Cannon’s ruling that ended Trump’s classified documents case should help him as well](https://new-news.github.io/Latest/2024/07/20/hunter_biden_says_aileen_cannons_ruling_that_ended_trumps_classified_documents_case_should_help_him_as_well 'Hunter Biden says Aileen Cannon’s ruling that ended Trump’s classified documents case should help him as well')
 
 
 

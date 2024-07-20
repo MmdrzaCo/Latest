@@ -1,6 +1,6 @@
 # Trump’s would-be assassin researched previous mass shooter Ethan Crumbley and his family before attack
 
-Published :`2024-07-20 10:39:08`
+Published :`2024-07-20 11:12:14`
 
 ---
 

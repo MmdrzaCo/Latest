@@ -1,6 +1,6 @@
 # July’s full moon coincides with the anniversary of a special lunar event
 
-Published :`2024-07-20 10:39:02`
+Published :`2024-07-20 11:12:10`
 
 ---
 

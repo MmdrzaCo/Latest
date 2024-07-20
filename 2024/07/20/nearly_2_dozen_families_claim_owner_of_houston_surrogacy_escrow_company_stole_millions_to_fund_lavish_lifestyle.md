@@ -1,6 +1,6 @@
 # Nearly 2 dozen families claim owner of Houston surrogacy escrow company stole millions to fund lavish lifestyle
 
-Published :`2024-07-20 10:39:00`
+Published :`2024-07-20 11:12:09`
 
 ---
 
