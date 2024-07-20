@@ -1,6 +1,6 @@
 # Thousands of Disneyland workers vote to authorize a potential strike. It would be the first in 40 years
 
-Published :`2024-07-20 10:14:57`
+Published :`2024-07-20 10:39:00`
 
 ---
 
