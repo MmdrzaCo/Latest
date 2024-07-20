@@ -1,22 +1,24 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 20:14:43`
+#### Latest Update : `2024-07-20 20:36:45`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
+- [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/20/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
 - [Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv](https://new-news.github.io/Latest/2024/07/20/israeli_airstrikes_target_yemens_houthis_day_after_deadly_drone_attack_in_tel_aviv 'Israeli airstrikes target Yemen’s Houthis day after deadly drone attack in Tel Aviv')
+
+- [Trump has long been criticized for his public treatment of women. The ones in his life argue he’s different in private](https://new-news.github.io/Latest/2024/07/20/trump_has_long_been_criticized_for_his_public_treatment_of_women__the_ones_in_his_life_argue_hes_different_in_private 'Trump has long been criticized for his public treatment of women. The ones in his life argue he’s different in private')
+
+- [Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_are_ongoing_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and agencies')
 
 - [A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened](https://new-news.github.io/Latest/2024/07/20/a_global_tech_outage_brought_many_computer_systems_and_businesses_to_a_screeching_halt__heres_what_happened 'A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened')
 
 - [The broken wind turbine near Nantucket was ‘highly unusual and rare.’ But it wasn’t the first](https://new-news.github.io/Latest/2024/07/20/the_broken_wind_turbine_near_nantucket_was_highly_unusual_and_rare__but_it_wasnt_the_first 'The broken wind turbine near Nantucket was ‘highly unusual and rare.’ But it wasn’t the first')
 
 - [Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting](https://new-news.github.io/Latest/2024/07/20/investigators_believe_trumps_would_be_assassin_flew_a_drone_over_rally_site_on_the_day_of_the_shooting 'Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting')
-
-- [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/20/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
 - [Glen Powell pays tribute to late ‘Twister’ star Bill Paxton as sequel releases](https://new-news.github.io/Latest/2024/07/20/glen_powell_pays_tribute_to_late_twister_star_bill_paxton_as_sequel_releases 'Glen Powell pays tribute to late ‘Twister’ star Bill Paxton as sequel releases')
 
@@ -203,8 +205,6 @@
 - [Largest housing provider for migrant children engaged in pervasive sexual abuse, US says](https://new-news.github.io/Latest/2024/07/20/largest_housing_provider_for_migrant_children_engaged_in_pervasive_sexual_abuse__us_says 'Largest housing provider for migrant children engaged in pervasive sexual abuse, US says')
 
 - [DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time](https://new-news.github.io/Latest/2024/07/20/doj_says_substantial_progress_made_toward_final_plea_agreement_with_boeing_but_needs_more_time 'DOJ says ‘substantial progress’ made toward final plea agreement with Boeing but needs more time')
-
-- [Frontier and other airlines were at a standstill for hours after a massive Microsoft outage](https://new-news.github.io/Latest/2024/07/20/frontier_and_other_airlines_were_at_a_standstill_for_hours_after_a_massive_microsoft_outage 'Frontier and other airlines were at a standstill for hours after a massive Microsoft outage')
 
 
 

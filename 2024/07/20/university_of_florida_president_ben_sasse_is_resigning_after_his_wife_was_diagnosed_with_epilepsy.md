@@ -1,6 +1,6 @@
 # University of Florida president Ben Sasse is resigning after his wife was diagnosed with epilepsy
 
-Published :`2024-07-20 20:14:43`
+Published :`2024-07-20 20:36:45`
 
 ---
 

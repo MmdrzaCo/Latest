@@ -1,6 +1,6 @@
 # ‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned
 
-Published :`2024-07-20 20:14:39`
+Published :`2024-07-20 20:36:34`
 
 ---
 
@@ -50,7 +50,7 @@ In the city of Humble, about 20 miles north of Houston, Christina Bourgeois, her
 
 The children later stayed with relatives and Bourgeois, 32, spent every night in the car until power was restored on Wednesday.
 
-“I would wake up every two or three hours or so to turn the air and then turn it off,” she said of the nights she spent alone in the Dodge. “I hadn’t slept. I was exhausted. I was starting to swell. I had bags under my eyes. Any little noise would wake me up because I have the windows down, you know … Any kind of rustle of the leaves or, you know, even cars passing by, I would just wake up.”
+“I would wake up every two or three hours or so to turn the air on and then turn it off,” she said of the nights she spent alone in the Dodge. “I hadn’t slept. I was exhausted. I was starting to swell. I had bags under my eyes. Any little noise would wake me up because I have the windows down, you know … Any kind of rustle of the leaves or, you know, even cars passing by, I would just wake up.”
 
 Texas Gov. Greg Abbott last Sunday threatened executive action if CenterPoint Energy did not address concerns over the prolonged outage. And the Public Utilities Commission of Texas said it would investigate the company’s response to the power outages, according to Chairman Thomas Gleason. He told reporters Monday the utility’s ability to maintain its infrastructure and its communication with customers has been called into question.
 

@@ -1,6 +1,6 @@
 # Bridge collapses in China killing 12 and leaving more than 30 missing
 
-Published :`2024-07-20 20:14:40`
+Published :`2024-07-20 20:36:36`
 
 ---
 
