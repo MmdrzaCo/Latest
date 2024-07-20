@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 01:06:43`
+#### Latest Update : `2024-07-20 02:12:33`
 
 ## Latest News Grabbing 
 
 ---
+
+- [3,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/20/3_000_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '3,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
+
+- [Biden faces fresh wave of Democratic defections as campaign tries to press forward](https://new-news.github.io/Latest/2024/07/20/biden_faces_fresh_wave_of_democratic_defections_as_campaign_tries_to_press_forward 'Biden faces fresh wave of Democratic defections as campaign tries to press forward')
+
+- [Israel’s invitation to this year’s atomic bomb commemorations in Japan has sparked a controversy over double standards](https://new-news.github.io/Latest/2024/07/20/israels_invitation_to_this_years_atomic_bomb_commemorations_in_japan_has_sparked_a_controversy_over_double_standards 'Israel’s invitation to this year’s atomic bomb commemorations in Japan has sparked a controversy over double standards')
 
 - [Prosecutors ask judge for trial date for man charged with attempting to kill Justice Kavanaugh in 2022](https://new-news.github.io/Latest/2024/07/20/prosecutors_ask_judge_for_trial_date_for_man_charged_with_attempting_to_kill_justice_kavanaugh_in_2022 'Prosecutors ask judge for trial date for man charged with attempting to kill Justice Kavanaugh in 2022')
 
@@ -28,8 +34,6 @@
 
 - [Sixth human case of bird flu reported in Colorado, CDC says](https://new-news.github.io/Latest/2024/07/20/sixth_human_case_of_bird_flu_reported_in_colorado__cdc_says 'Sixth human case of bird flu reported in Colorado, CDC says')
 
-- [2,800 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies](https://new-news.github.io/Latest/2024/07/20/2_800_us_flights_are_canceled_as_a_global_computer_outage_wreaks_havoc_on_businesses__911_systems_and_government_agencies '2,800 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies')
-
 - [Global tech outage: What to know if you’re traveling this weekend](https://new-news.github.io/Latest/2024/07/20/global_tech_outage__what_to_know_if_youre_traveling_this_weekend 'Global tech outage: What to know if you’re traveling this weekend')
 
 - [First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos](https://new-news.github.io/Latest/2024/07/20/first_lady_dr__jill_biden_to_host_fundraiser_in_paris_amid_campaign_chaos 'First lady Dr. Jill Biden to host fundraiser in Paris amid campaign chaos')
@@ -45,8 +49,6 @@
 - [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://new-news.github.io/Latest/2024/07/20/two_dead_in_multistate_listeria_outbreak_linked_with_sliced_deli_meat__cdc_says 'Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says')
 
 - [Carol Burnett shares time capsule tribute to Bob Newhart](https://new-news.github.io/Latest/2024/07/20/carol_burnett_shares_time_capsule_tribute_to_bob_newhart 'Carol Burnett shares time capsule tribute to Bob Newhart')
-
-- [Biden faces fresh wave of Democratic defections as campaign tries to press forward](https://new-news.github.io/Latest/2024/07/20/biden_faces_fresh_wave_of_democratic_defections_as_campaign_tries_to_press_forward 'Biden faces fresh wave of Democratic defections as campaign tries to press forward')
 
 - [Election chaos and Friday’s tech outage are taking the market on a wild ride](https://new-news.github.io/Latest/2024/07/20/election_chaos_and_fridays_tech_outage_are_taking_the_market_on_a_wild_ride 'Election chaos and Friday’s tech outage are taking the market on a wild ride')
 
@@ -203,8 +205,6 @@
 - [Stegosaurus skeleton sets auction record, selling for $44.6 million](https://new-news.github.io/Latest/2024/07/20/stegosaurus_skeleton_sets_auction_record__selling_for__44_6_million 'Stegosaurus skeleton sets auction record, selling for $44.6 million')
 
 - [AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T](https://new-news.github.io/Latest/2024/07/20/at_t_is_telling_customers_they_were_hacked__protecting_data_has_been_a_big_fight_–_from_companies_like_at_t 'AT&T is telling customers they were hacked. Protecting data has been a big fight – from companies like AT&T')
-
-- [Appeals court halts fresh Biden administration efforts to cancel some student debt](https://new-news.github.io/Latest/2024/07/20/appeals_court_halts_fresh_biden_administration_efforts_to_cancel_some_student_debt 'Appeals court halts fresh Biden administration efforts to cancel some student debt')
 
 
 

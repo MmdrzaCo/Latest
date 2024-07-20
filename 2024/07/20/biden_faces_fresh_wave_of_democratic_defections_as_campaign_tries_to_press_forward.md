@@ -1,12 +1,12 @@
 # Biden faces fresh wave of Democratic defections as campaign tries to press forward
 
-Published :`2024-07-20 01:06:39`
+Published :`2024-07-20 02:12:28`
 
 ---
 
 President Joe Biden faced a new round of defections Friday from Democratic lawmakers publicly calling on him to leave the presidential race, even as his campaign sought to project a message that he isn’t going anywhere.
 
-One day after the Republican National Convention, new public calls for Biden to drop out from nearly a dozen lawmakers – including Democratic Sen. Martin Heinrich of New Mexico and California Rep. Zoe Lofgren, a close ally to former Speaker Nancy Pelosi – grew the list of congressional Democrats to more than 30.
+One day after the Republican National Convention, new public calls for Biden to drop out from a dozen lawmakers – including Democratic Sen. Martin Heinrich of New Mexico and California Rep. Zoe Lofgren, a close ally to former Speaker Nancy Pelosi – grew the list of congressional Democrats to more than 30.
 
 Two House Democrats close to Pelosi, speaking on condition of anonymity given the sensitivity and rawness in the party right now, attributed Friday’s new statements – especially Lofgren’s letter to Biden – to the former speaker and her belief that it is critical for the president and his allies to understand the effort to push him aside is not going away after the Republican convention, despite the campaign’s efforts to quash it.
 
