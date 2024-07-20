@@ -1,6 +1,6 @@
 # Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies
 
-Published :`2024-07-20 13:36:47`
+Published :`2024-07-20 14:12:48`
 
 ---
 
@@ -10,11 +10,13 @@ Airlines, businesses, government agencies, health and emergency services, banks 
 
 CrowdStrike’s CEO said a fix has been deployed, but experts say getting systems back in order will be a lengthy process.
 
-As of early Saturday, hundreds of flights into, out of or within the United States were canceled or delayed. The day before, more than 3,000 flights had been canceled and more than 11,000 delayed, according to FlightAware.com.
+According to the tracking website FlightAware, at least 1,014 flights into, out of, or within the US have been cancelled for Saturday, as of this writing.
 
-All flights were grounded for United Airlines, Delta Air Lines, American Airlines and Allegiant Airlines on Friday. Airlines later announced they were resolving issues and resuming flights.
+The day before, more than 3,000 flights were canceled and more than 11,000 delayed, according to FlightAware.com.
 
-Major airlines have said that services are being restored. A majority of United Airlines systems have recovered from a worldwide software outage, the airline said in a statement.
+Worldwide, major airlines have said that services are being restored.
+
+A majority of United Airlines systems have recovered from a worldwide software outage, the airline said in a statement.
 
 “While most of our systems have recovered from the worldwide third-party software outage, we may continue to experience some disruption to our operation, including flight delays and cancellations,” United said.
 

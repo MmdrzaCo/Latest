@@ -1,14 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-20 13:36:49`
+#### Latest Update : `2024-07-20 14:12:56`
 
 ## Latest News Grabbing 
 
 ---
 
-- [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
-
 - [Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies](https://new-news.github.io/Latest/2024/07/20/restorations_underway_after_global_tech_outage_strands_thousands_at_airports__disrupts_hospitals_and_agencies 'Restorations underway after global tech outage strands thousands at airports, disrupts hospitals and agencies')
+
+- [Greeks grieve, Turks celebrate as Cyprus marks 50 years of division](https://new-news.github.io/Latest/2024/07/20/greeks_grieve__turks_celebrate_as_cyprus_marks_50_years_of_division 'Greeks grieve, Turks celebrate as Cyprus marks 50 years of division')
+
+- [At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza](https://new-news.github.io/Latest/2024/07/20/at_least_13_killed_in_israeli_airstrikes_on nuseirat camp_in_central_gaza 'At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza')
 
 - [F1 history-maker Zhou Guanyu achieved the ‘impossible’ by becoming the sport’s first Chinese driver](https://new-news.github.io/Latest/2024/07/20/f1_history_maker_zhou_guanyu_achieved_the_impossible_by_becoming_the_sports_first_chinese_driver 'F1 history-maker Zhou Guanyu achieved the ‘impossible’ by becoming the sport’s first Chinese driver')
 
@@ -204,10 +206,8 @@
 
 - [Macron’s party wins parliamentary president role despite rebuke from voters](https://new-news.github.io/Latest/2024/07/20/macrons_party_wins_parliamentary_president_role_despite_rebuke_from_voters 'Macron’s party wins parliamentary president role despite rebuke from voters')
 
-- [Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll](https://new-news.github.io/Latest/2024/07/20/jury_delivers_mixed_verdicts_for_the_man_accused_of_killing_detroit_synagogue_president_samantha_woll 'Jury delivers mixed verdicts for the man accused of killing Detroit synagogue president Samantha Woll')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accidentally](/ 'accidentally')  [accused](/ 'accused')  [achieved](/ 'achieved')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead') 
+##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [ad](/ 'ad')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency')  [agreement](/ 'agreement')  [ahead](/ 'ahead')  [aid](/ 'aid') 
