@@ -1,6 +1,6 @@
 # Legal experts are dubious of any court challenge to Democrats’ move to put forward new nominee
 
-Published :`2024-07-21 23:15:03`
+Published :`2024-07-21 23:38:16`
 
 ---
 
@@ -42,7 +42,7 @@ Whoever gets the backing of a majority of convention delegates — whether it’
 
 “The way that the rules work are they’re pretty loose on the Democratic side,” election law Rick Hasen told Abby Phillip on CNN’s “NewsNight” last month, noting that even if Biden stayed in, the party delegates could have legally voted for someone else.
 
-“The delegates would have the ability to choose a nominee and because this is happening before the convention there would be enough time” for other candidates to campaign to be the nominee, said Hasen, who is a law professor at University of California, Irvine.
+“The delegates would have the ability to choose a nominee and because this is happening before the convention there would be enough time” for other candidates to campaign to be the nominee, said Hasen, who is a law professor at University of California, Los Angeles.
 
 If Republicans wanted to sue over the swap-out of Biden for someone else, they’d likely wait until after someone else was formally nominated by the Democratic Party, Muller said.
 

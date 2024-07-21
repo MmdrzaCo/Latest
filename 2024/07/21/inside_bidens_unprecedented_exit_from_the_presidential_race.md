@@ -1,6 +1,6 @@
 # Inside Biden’s unprecedented exit from the presidential race
 
-Published :`2024-07-21 23:15:03`
+Published :`2024-07-21 23:38:16`
 
 ---
 
@@ -36,9 +36,13 @@ Still recovering from a Covid diagnosis, Biden remained at his home in Rehoboth 
 
 But Biden consulted only a very small number of close aides on the decision. Some members of his inner circle were left in the dark until minutes before he posted his announcement on social media, including one of his closest communications advisers, Anita Dunn.
 
-Multiple sources told CNN that Dunn and a small group of senior aides became aware of Biden’s announcement in the minutes before the post. Many rank-and-file staff found out when the post came out. Dunn and her husband, Bob Bauer, were among Biden’s debate prep team and had faced the ire of the president’s family in the aftermath of the debate.
+Multiple sources told CNN that Dunn and a small group of senior aides became aware of Biden’s announcement in the minutes before the post. Many rank-and-file staff found out when the post came out. Dunn and her husband, Bob Bauer, were among Biden’s debate prep team and had faced the ire of the president’s family in the aftermath of the debate. A Biden aide disputed that her exclusion had anything to do with the debate, telling CNN that she, along with other top aides, was not in Rehoboth Beach, and that “the president told his aides that neither he or his family blame them for debate performance.”
 
-Biden and Harris spoke multiple times Sunday ahead of his announcement, according to a source familiar with the matter. But even his vice president and pick to succeed him, didn’t find out until the day he announced his decision.
+Biden and Harris spoke multiple times Sunday ahead of his announcement, according to a source familiar with the matter. Biden also held separate calls with chief of staff Jeff Zients and campaign co-chair Jen O’Malley Dillon informing each of his decision.
+
+In Washington on Sunday, Zients led a White House senior staff call with all assistants to the president in the mid-afternoon, as well as a call with members of Biden’s Cabinet. Zients is expected to hold an all-White House staff call Monday morning, and speak with political appointees across the executive branch.
+
+But even his vice president and pick to succeed him, didn’t find out until the day he announced his decision.
 
 ### A ‘bad night’ changes the race
 

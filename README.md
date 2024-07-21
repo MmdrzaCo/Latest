@@ -1,18 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 23:15:13`
+#### Latest Update : `2024-07-21 23:38:20`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Inside Biden’s unprecedented exit from the presidential race](https://new-news.github.io/Latest/2024/07/21/inside_bidens_unprecedented_exit_from_the_presidential_race 'Inside Biden’s unprecedented exit from the presidential race')
 
 - [Legal experts are dubious of any court challenge to Democrats’ move to put forward new nominee](https://new-news.github.io/Latest/2024/07/21/legal_experts_are_dubious_of_any_court_challenge_to_democrats_move_to_put_forward_new_nominee 'Legal experts are dubious of any court challenge to Democrats’ move to put forward new nominee')
 
 - [More than 1,500 US flights canceled for the third day straight as airlines slowly recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_than_1_500_us_flights_canceled_for_the_third_day_straight_as_airlines_slowly_recover_from_global_tech_outage 'More than 1,500 US flights canceled for the third day straight as airlines slowly recover from global tech outage')
 
 - [Kamala Harris formally takes over Biden-Harris campaign account – she’s the only one who could](https://new-news.github.io/Latest/2024/07/21/kamala_harris_formally_takes_over_biden_harris_campaign_account_–_shes_the_only_one_who_could 'Kamala Harris formally takes over Biden-Harris campaign account – she’s the only one who could')
-
-- [Inside Biden’s unprecedented exit from the presidential race](https://new-news.github.io/Latest/2024/07/21/inside_bidens_unprecedented_exit_from_the_presidential_race 'Inside Biden’s unprecedented exit from the presidential race')
 
 - [Biden will not seek reelection; endorses Harris](https://new-news.github.io/Latest/2024/07/21/biden_will_not_seek_reelection__endorses_harris 'Biden will not seek reelection; endorses Harris')
 
