@@ -1,6 +1,6 @@
 # Biden will not seek reelection; endorses Harris
 
-Published :`2024-07-21 21:36:02`
+Published :`2024-07-21 22:13:39`
 
 ---
 
@@ -21,6 +21,8 @@ Many prominent Democrats, including former President Bill Clinton and former Sec
 An adviser said Obama is taking the same approach as he did in the 2020 Democratic primary, watching closely with the intent of being able to help unify the party when a nominee is chosen – whether it is Harris or someone else.
 
 Others explicitly called for an open process to determine who should replace Biden at the top of the ticket.
+
+Harris’ ascension to the top of the ticket isn’t a certainty .The nominee will now be determined by the delegates to the Democratic National Convention. While Biden won an overwhelming majority of the delegates during the primary process earlier this year, they are now free to choose a candidate of their choice and he cannot simply transfer them to Harris.
 
 Biden’s departure capped off weeks of concern about the 81-year-old president’s stamina and mental capabilities and skepticism of his ability to effectively campaign against former President Donald Trump and govern the country for another four years. While Biden said he is committed to serving out the remainder of his term, his decision sparked immediate calls from Republicans for him to step down as president. Trump said Biden “is not fit to serve” in a post on Truth Social.
 
@@ -76,7 +78,7 @@ Those conversation accelerated as Biden isolated at his beach home with Covid ov
 
 Many rank-and-file staff found out about Biden’s decision when the post came out.
 
-CNN’s Jeff Zeleny, Betsy Klein and Phil Mattingly contributed to this report.
+CNN’s Jeff Zeleny, Betsy Klein, Ethan Cohen and Phil Mattingly contributed to this report.
 
 This story and headline have been updated with additional developments.
 

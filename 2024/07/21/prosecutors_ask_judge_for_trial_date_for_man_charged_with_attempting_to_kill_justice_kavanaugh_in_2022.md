@@ -1,6 +1,6 @@
 # Prosecutors ask judge for trial date for man charged with attempting to kill Justice Kavanaugh in 2022
 
-Published :`2024-07-21 21:36:03`
+Published :`2024-07-21 22:13:42`
 
 ---
 

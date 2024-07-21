@@ -1,6 +1,6 @@
 # Harris will seek Democratic nomination and could be the first Black woman and Asian American to lead a major party ticket
 
-Published :`2024-07-21 21:36:02`
+Published :`2024-07-21 22:13:39`
 
 ---
 
@@ -12,11 +12,19 @@ Biden’s historic endorsement — and Harris’s pledge to unite the party behi
 
 “My fellow Democrats, I have decided not to accept the nomination and to focus all my energies on my duties as President for the remainder of my term. My very first decision as the party nominee in 2020 was to pick Kamala Harris as my Vice President. And it’s been the best decision I’ve made. Today I want to offer my full support and endorsement for Kamala to be the nominee,” Biden said.
 
-Still, despite the president’s backing, it remains unclear if Harris will become the nominee, or what process the Democratic Party would take to select an alternative. While Harris allies have sought to secure her path to the nomination, some Democrats have stopped short of backing her or explicitly called for an open nomination process.
+Still, despite the president’s backing, it remains unclear if Harris will become the nominee, or what process the Democratic Party would take to select an alternative. It will now be up to the delegates to the party’s national convention to choose their candidate. While Harris allies have sought to secure her path to the nomination, some Democrats have stopped short of backing her or explicitly called for an open nomination process.
 
 Democratic National Committee chairman Jaime Harrison said in a statement that in the coming days the party will “undertake a transparent and orderly process to move forward as a united Democratic Party with a candidate who can defeat Donald Trump in November.”
 
-Logistically, Harris is the natural heir to the ticket as Biden’s running mate. She would inherit the Biden campaign’s massive political operation and war chest. Recent polling has also shown her performing better against former President Donald Trump, the Republican nominee, than Biden and other potential Democratic contenders.
+Logistically, Harris is the natural heir to the ticket as Biden’s running mate.
+
+The Biden-Harris campaign on Sunday formally amended filings with the Federal Election Commission to rename its principal committee “Harris for President,” saying that the committee name is “different than previously reported.”
+
+The committee also filed a letter with the commission stating that “Vice President Harris is now a candidate for United States President in the 2024 election and will henceforth be conducting campaign activities only in pursuit of that office.”
+
+Control of the campaign war chest, however – totaling $95.9 million at the end of June – depends on whether Harris remains on Democrats’ 2024 ticket.
+
+Recent polling has also shown her performing better against former President Donald Trump, the Republican nominee, than Biden and other potential Democratic contenders.
 
 Should there be efforts to pass over Harris in favor of Democrats seen as likely to run in 2028, there may be backlash from the vice president’s supporters and prominent Black Democrats. But Harris has also experienced something of a renaissance within her party, as Democrats showered her with praise in the days following the debate.
 
