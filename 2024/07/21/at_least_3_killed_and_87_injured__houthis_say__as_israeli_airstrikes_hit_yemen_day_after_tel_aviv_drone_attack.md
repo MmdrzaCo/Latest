@@ -1,6 +1,6 @@
 # At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack
 
-Published :`2024-07-21 11:35:45`
+Published :`2024-07-21 12:27:30`
 
 ---
 

@@ -1,20 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 11:35:49`
+#### Latest Update : `2024-07-21 12:27:32`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100](https://new-news.github.io/Latest/2024/07/21/team_usa_survives_scare_in_olympic_warmup__scraping_past_south_sudan_101_100 'Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100')
+- [Bangladesh’s top court rolls back most government job quotas after violent protests](https://new-news.github.io/Latest/2024/07/21/bangladeshs_top_court_rolls_back_most_government_job_quotas_after_violent_protests 'Bangladesh’s top court rolls back most government job quotas after violent protests')
 
-- [Secret Service says it denied Trump additional resources even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_even_as_his_team_complained 'Secret Service says it denied Trump additional resources even as his team complained')
+- [Secret Service says it denied Trump additional resources in recent years even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_in_recent_years_even_as_his_team_complained 'Secret Service says it denied Trump additional resources in recent years even as his team complained')
+
+- [Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100](https://new-news.github.io/Latest/2024/07/21/team_usa_survives_scare_in_olympic_warmup__scraping_past_south_sudan_101_100 'Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100')
 
 - [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
 - [A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington](https://new-news.github.io/Latest/2024/07/21/a_history_buff_bought_a_piece_of_a_tent_from_goodwill_for__1_700__it_really_did_belong_to_george_washington 'A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington')
-
-- [Bangladesh’s top court rolls back some job quotas after deadly protests, local media report](https://new-news.github.io/Latest/2024/07/21/bangladeshs_top_court_rolls_back_some_job_quotas_after_deadly_protests__local_media_report 'Bangladesh’s top court rolls back some job quotas after deadly protests, local media report')
 
 - [She felt lost when she became a widow in her 20s. Then she signed up to grief camp](https://new-news.github.io/Latest/2024/07/21/she_felt_lost_when_she_became_a_widow_in_her_20s__then_she_signed_up_to_grief_camp 'She felt lost when she became a widow in her 20s. Then she signed up to grief camp')
 
