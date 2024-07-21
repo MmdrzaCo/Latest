@@ -1,6 +1,6 @@
 # I watched ‘Barbie’ 10 times in theaters last year. This is what I miss most about our ‘Barbie’ summer
 
-Published :`2024-07-21 14:13:31`
+Published :`2024-07-21 14:35:42`
 
 ---
 

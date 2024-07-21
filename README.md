@@ -1,18 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 14:13:41`
+#### Latest Update : `2024-07-21 14:35:44`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Secret Service says it denied Trump additional resources in recent years even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_in_recent_years_even_as_his_team_complained 'Secret Service says it denied Trump additional resources in recent years even as his team complained')
 
 - [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/21/israel_strikes_yemen_for_the_first_time_following_deadly_houthi_drone_attack__heres_what_we_know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
 
 - [I watched ‘Barbie’ 10 times in theaters last year. This is what I miss most about our ‘Barbie’ summer](https://new-news.github.io/Latest/2024/07/21/i_watched_barbie_10_times_in_theaters_last_year__this_is_what_i_miss_most_about_our_barbie_summer 'I watched ‘Barbie’ 10 times in theaters last year. This is what I miss most about our ‘Barbie’ summer')
 
 - [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/21/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
-
-- [Secret Service says it denied Trump additional resources in recent years even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_in_recent_years_even_as_his_team_complained 'Secret Service says it denied Trump additional resources in recent years even as his team complained')
 
 - [One person was critically injured in a stabbing at Miami International Airport, police say](https://new-news.github.io/Latest/2024/07/21/one_person_was_critically_injured_in_a_stabbing_at_miami_international_airport__police_say 'One person was critically injured in a stabbing at Miami International Airport, police say')
 

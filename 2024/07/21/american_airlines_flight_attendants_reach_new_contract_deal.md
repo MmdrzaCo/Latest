@@ -1,6 +1,6 @@
 # American Airlines flight attendants reach new contract deal
 
-Published :`2024-07-21 14:13:38`
+Published :`2024-07-21 14:35:43`
 
 ---
 
