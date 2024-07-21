@@ -1,10 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 13:35:55`
+#### Latest Update : `2024-07-21 14:13:41`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/21/israel_strikes_yemen_for_the_first_time_following_deadly_houthi_drone_attack__heres_what_we_know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
+
+- [I watched ‘Barbie’ 10 times in theaters last year. This is what I miss most about our ‘Barbie’ summer](https://new-news.github.io/Latest/2024/07/21/i_watched_barbie_10_times_in_theaters_last_year__this_is_what_i_miss_most_about_our_barbie_summer 'I watched ‘Barbie’ 10 times in theaters last year. This is what I miss most about our ‘Barbie’ summer')
+
+- [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/21/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
 - [Secret Service says it denied Trump additional resources in recent years even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_in_recent_years_even_as_his_team_complained 'Secret Service says it denied Trump additional resources in recent years even as his team complained')
 
@@ -53,8 +59,6 @@
 - [Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee](https://new-news.github.io/Latest/2024/07/21/clintons_privately_urge_donors_to_keep_giving_to_biden_as_long_as_he_remains_presumptive_nominee 'Clintons privately urge donors to keep giving to Biden as long as he remains presumptive nominee')
 
 - [Residents stage rare protest over power cuts in Russia’s Krasnodar](https://new-news.github.io/Latest/2024/07/21/residents_stage_rare_protest_over_power_cuts_in_russias_krasnodar 'Residents stage rare protest over power cuts in Russia’s Krasnodar')
-
-- [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/21/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
 - [A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened](https://new-news.github.io/Latest/2024/07/21/a_global_tech_outage_brought_many_computer_systems_and_businesses_to_a_screeching_halt__heres_what_happened 'A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened')
 
@@ -201,10 +205,6 @@
 - [Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height](https://new-news.github.io/Latest/2024/07/21/journalist_told_to_pay_italian_prime_minister_giorgia_meloni__5_400_for_tweet_mocking_her_height 'Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height')
 
 - [Student loan payments will be paused for 8 million borrowers after appeals court temporarily halts Biden’s repayment plan](https://new-news.github.io/Latest/2024/07/21/student_loan_payments_will_be_paused_for_8_million_borrowers_after_appeals_court_temporarily_halts_bidens_repayment_plan 'Student loan payments will be paused for 8 million borrowers after appeals court temporarily halts Biden’s repayment plan')
-
-- [Kamala Harris turns her attention to JD Vance amid speculation about Biden’s future](https://new-news.github.io/Latest/2024/07/21/kamala_harris_turns_her_attention_to_jd_vance_amid_speculation_about_bidens_future 'Kamala Harris turns her attention to JD Vance amid speculation about Biden’s future')
-
-- [Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’](https://new-news.github.io/Latest/2024/07/21/janet_jackson_really__but_politely__dislikes_doing_interviews__please_stop_asking_me_questions 'Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’')
 
 
 

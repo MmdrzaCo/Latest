@@ -1,6 +1,6 @@
 # Biden faces fresh wave of Democratic defections as campaign tries to press forward
 
-Published :`2024-07-21 13:35:54`
+Published :`2024-07-21 14:13:36`
 
 ---
 
