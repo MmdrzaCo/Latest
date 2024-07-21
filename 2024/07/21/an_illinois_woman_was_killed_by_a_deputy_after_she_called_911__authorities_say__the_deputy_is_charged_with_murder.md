@@ -1,6 +1,6 @@
 # An Illinois woman was killed by a deputy after she called 911, authorities say. The deputy is charged with murder
 
-Published :`2024-07-21 07:12:24`
+Published :`2024-07-21 07:37:24`
 
 ---
 
