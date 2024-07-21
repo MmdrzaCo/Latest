@@ -1,12 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 18:37:42`
+#### Latest Update : `2024-07-21 19:11:18`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Biden will not seek reelection](https://new-news.github.io/Latest/2024/07/21/biden_will_not_seek_reelection 'Biden will not seek reelection')
+- [Biden endorses Harris to be the next Democratic presidential nominee](https://new-news.github.io/Latest/2024/07/21/biden_endorses_harris to_be_the_next_democratic_presidential_nominee 'Biden endorses Harris to be the next Democratic presidential nominee')
+
+- [More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_than_1_000_us_flights_canceled_for_the_third_day_straight_as_airlines_slowly_recover_from_global_tech_outage 'More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage')
+
+- [READ: Joe Biden’s statement dropping out of 2024 presidential race](https://new-news.github.io/Latest/2024/07/21/read__joe_bidens_statement_dropping_out_of_2024_presidential_race 'READ: Joe Biden’s statement dropping out of 2024 presidential race')
+
+- [Biden will not seek reelection; endorses Harris](https://new-news.github.io/Latest/2024/07/21/biden_will_not_seek_reelection__endorses_harris 'Biden will not seek reelection; endorses Harris')
 
 - [Tadej Pogačar completes dominant Tour de France victory](https://new-news.github.io/Latest/2024/07/21/tadej_pogačar_completes_dominant_tour_de_france_victory 'Tadej Pogačar completes dominant Tour de France victory')
 
@@ -17,8 +23,6 @@
 - [Opinion: The downside of raising the minimum wage](https://new-news.github.io/Latest/2024/07/21/opinion__the_downside_of_raising_the_minimum_wage 'Opinion: The downside of raising the minimum wage')
 
 - [Richard Simmons’ final social media post was quintessentially him](https://new-news.github.io/Latest/2024/07/21/richard_simmons_final_social_media_post_was_quintessentially_him 'Richard Simmons’ final social media post was quintessentially him')
-
-- [More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_than_1_000_us_flights_canceled_for_the_third_day_straight_as_airlines_slowly_recover_from_global_tech_outage 'More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage')
 
 - [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/21/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
@@ -202,12 +206,8 @@
 
 - [What is CrowdStrike, the company linked to the global outage?](https://new-news.github.io/Latest/2024/07/21/what_is_crowdstrike__the_company_linked_to_the_global_outage 'What is CrowdStrike, the company linked to the global outage?')
 
-- [US sanctions alleged Russian hackers who claimed attacks on US water facilities](https://new-news.github.io/Latest/2024/07/21/us_sanctions_alleged_russian_hackers_who_claimed_attacks_on_us_water_facilities 'US sanctions alleged Russian hackers who claimed attacks on US water facilities')
-
-- [Family of another American journalist held in Russia calls on Biden administration to do more to help](https://new-news.github.io/Latest/2024/07/21/family_of_another_american_journalist_held_in_russia_calls_on_biden_administration_to_do_more_to_help 'Family of another American journalist held in Russia calls on Biden administration to do more to help')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [abandoned](/ 'abandoned')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [activities](/ 'activities')  [actually](/ 'actually')  [ad](/ 'ad')  [additional](/ 'additional')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies') 
+##### Tags: [a](/ 'a')  [abandoned](/ 'abandoned')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [activities](/ 'activities')  [actually](/ 'actually')  [ad](/ 'ad')  [additional](/ 'additional')  [adds](/ 'adds')  [adidas](/ 'adidas')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies')  [agency](/ 'agency') 

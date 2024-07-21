@@ -1,6 +1,6 @@
 # Opinion: The downside of raising the minimum wage
 
-Published :`2024-07-21 18:37:31`
+Published :`2024-07-21 19:11:14`
 
 ---
 
