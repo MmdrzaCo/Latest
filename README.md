@@ -1,24 +1,26 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 10:36:49`
+#### Latest Update : `2024-07-21 11:12:08`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Secret Service says it denied Trump additional resources even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_even_as_his_team_complained 'Secret Service says it denied Trump additional resources even as his team complained')
+
+- [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
+
+- [A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington](https://new-news.github.io/Latest/2024/07/21/a_history_buff_bought_a_piece_of_a_tent_from_goodwill_for__1_700__it_really_did_belong_to_george_washington 'A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington')
+
 - [Bangladesh’s top court rolls back some job quotas after deadly protests, local media report](https://new-news.github.io/Latest/2024/07/21/bangladeshs_top_court_rolls_back_some_job_quotas_after_deadly_protests__local_media_report 'Bangladesh’s top court rolls back some job quotas after deadly protests, local media report')
 
 - [She felt lost when she became a widow in her 20s. Then she signed up to grief camp](https://new-news.github.io/Latest/2024/07/21/she_felt_lost_when_she_became_a_widow_in_her_20s__then_she_signed_up_to_grief_camp 'She felt lost when she became a widow in her 20s. Then she signed up to grief camp')
-
-- [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
 - [You’re not going crazy — you may actually be paying higher prices than other people](https://new-news.github.io/Latest/2024/07/21/youre_not_going_crazy_—_you_may_actually_be_paying_higher_prices_than_other_people 'You’re not going crazy — you may actually be paying higher prices than other people')
 
 - [More flight cancellations are expected as airlines gradually recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_flight_cancellations_are_expected_as_airlines_gradually_recover_from_global_tech_outage 'More flight cancellations are expected as airlines gradually recover from global tech outage')
 
 - [Biden outraises and outspends Trump in June as questions loom about the president’s political future](https://new-news.github.io/Latest/2024/07/21/biden_outraises_and_outspends_trump_in_june_as_questions_loom_about_the_presidents_political_future 'Biden outraises and outspends Trump in June as questions loom about the president’s political future')
-
-- [Secret Service says it denied Trump additional resources even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_even_as_his_team_complained 'Secret Service says it denied Trump additional resources even as his team complained')
 
 - [Europe turns to conscription as threat of wider war with Russia grows](https://new-news.github.io/Latest/2024/07/21/europe_turns_to_conscription_as_threat_of_wider_war_with_russia_grows 'Europe turns to conscription as threat of wider war with Russia grows')
 
@@ -203,8 +205,6 @@
 - [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/21/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
 
 - [How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate](https://new-news.github.io/Latest/2024/07/21/how_tennessee_based_artist_aaron_lee_tasjan_is_using_his_music_to_combat_hate 'How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate')
-
-- [Inside the ‘doom loop’ of Joe Biden’s campaign](https://new-news.github.io/Latest/2024/07/21/inside_the_doom_loop_of_joe_bidens_campaign 'Inside the ‘doom loop’ of Joe Biden’s campaign')
 
 
 

@@ -1,6 +1,6 @@
 # Glen Powell pays tribute to late ‘Twister’ star Bill Paxton as sequel releases
 
-Published :`2024-07-21 10:36:45`
+Published :`2024-07-21 11:12:03`
 
 ---
 

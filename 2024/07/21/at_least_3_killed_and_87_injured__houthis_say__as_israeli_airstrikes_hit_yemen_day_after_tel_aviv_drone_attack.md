@@ -1,6 +1,6 @@
 # At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack
 
-Published :`2024-07-21 10:36:43`
+Published :`2024-07-21 11:12:03`
 
 ---
 
@@ -18,6 +18,8 @@ Houthi army spokesperson Yehya Saree vowed to respond to the strike, saying the 
 
 “We have prepared for a long war with this enemy until the aggression stops and the blockade on the Palestinian people is lifted,” Saree said.
 
+On Sunday Israel said it intercepted a missile launched from Yemen. “The projectile did not cross into Israeli territory. Rocket and missile sirens were sounded following the possibility of falling shrapnel. The incident has concluded,” the IDF said.
+
 ### ‘Not an innocent port’
 
 Netanyahu said in a statement on Saturday that Hodeidah was “not an innocent port.”
@@ -27,12 +29,6 @@ Netanyahu said in a statement on Saturday that Hodeidah was “not an innocent p
 Netanyahu also said the operation, which hit targets 1,800 km (1,118 miles) from Israel’s borders, shows the enemy Israel is serious about responding to threats.
 
 “It makes it clear to our enemies that there is no place that the long arm of the state of Israel will not reach,” Netanyahu said.
-
-The Israeli military said Sunday that its air defense system had subsequently intercepted a surface-to-surface missile that approached from Yemen. “The projectile did not cross into Israeli territory,” the IDF said in a statement, though sirens were sounded over the possibility of falling shrapnel.
-
-In a statement on Sunday, Houthi rebels said they launched “a number of ballistic missiles” towards Israel, adding that the volley “achieved its goals successfully.”
-
-The group said it carried out the operation on “important targets” in the Umm al-Rashrash area, also called Eilat, an Israeli city on the coast of the Gulf of Aqaba in the Red Sea.
 
 United Nations Secretary-General Antonio Guterres said in a UN statement he was “deeply concerned” by reports of the strikes.
 
