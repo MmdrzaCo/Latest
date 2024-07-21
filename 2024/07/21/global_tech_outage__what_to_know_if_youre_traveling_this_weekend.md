@@ -1,6 +1,6 @@
 # Global tech outage: What to know if you’re traveling this weekend
 
-Published :`2024-07-21 18:18:28`
+Published :`2024-07-21 18:37:39`
 
 ---
 

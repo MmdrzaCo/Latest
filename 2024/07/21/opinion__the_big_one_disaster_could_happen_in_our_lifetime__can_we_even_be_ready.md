@@ -1,6 +1,6 @@
 # Opinion: ‘The big one’ disaster could happen in our lifetime. Can we even be ready?
 
-Published :`2024-07-21 18:18:28`
+Published :`2024-07-21 18:37:39`
 
 ---
 
