@@ -45,11 +45,6 @@ jobs:
     - name: Remove Python Script
       run: rm -r news_grabber.py
 
-    - name: Generate the sitemap
-      uses: cicirello/generate-sitemap@v1.10.1
-      with:
-        base-url-path: https://new-news.github.io/Latest/
-      
     - name: Commit changes
       run: |
         git config --global user.name '${{ secrets.GIT_NAME }}'
