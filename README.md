@@ -1,6 +1,6 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 19:12:30`
+#### Latest Update : `2024-07-21 19:36:01`
 
 ## Latest News Grabbing 
 
@@ -8,11 +8,11 @@
 
 - [Biden endorses Harris to be the next Democratic presidential nominee](https://new-news.github.io/Latest/2024/07/21/biden_endorses_harris to_be_the_next_democratic_presidential_nominee 'Biden endorses Harris to be the next Democratic presidential nominee')
 
+- [Biden will not seek reelection; endorses Harris](https://new-news.github.io/Latest/2024/07/21/biden_will_not_seek_reelection__endorses_harris 'Biden will not seek reelection; endorses Harris')
+
 - [More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_than_1_000_us_flights_canceled_for_the_third_day_straight_as_airlines_slowly_recover_from_global_tech_outage 'More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage')
 
 - [READ: Joe Biden’s statement dropping out of 2024 presidential race](https://new-news.github.io/Latest/2024/07/21/read__joe_bidens_statement_dropping_out_of_2024_presidential_race 'READ: Joe Biden’s statement dropping out of 2024 presidential race')
-
-- [Biden will not seek reelection; endorses Harris](https://new-news.github.io/Latest/2024/07/21/biden_will_not_seek_reelection__endorses_harris 'Biden will not seek reelection; endorses Harris')
 
 - [Tadej Pogačar completes dominant Tour de France victory](https://new-news.github.io/Latest/2024/07/21/tadej_pogačar_completes_dominant_tour_de_france_victory 'Tadej Pogačar completes dominant Tour de France victory')
 

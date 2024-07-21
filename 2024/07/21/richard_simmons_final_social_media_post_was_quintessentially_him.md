@@ -1,6 +1,6 @@
 # Richard Simmons’ final social media post was quintessentially him
 
-Published :`2024-07-21 19:12:28`
+Published :`2024-07-21 19:35:58`
 
 ---
 
