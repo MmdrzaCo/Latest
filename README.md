@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 11:12:08`
+#### Latest Update : `2024-07-21 11:35:49`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100](https://new-news.github.io/Latest/2024/07/21/team_usa_survives_scare_in_olympic_warmup__scraping_past_south_sudan_101_100 'Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100')
 
 - [Secret Service says it denied Trump additional resources even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_even_as_his_team_complained 'Secret Service says it denied Trump additional resources even as his team complained')
 
@@ -204,10 +206,8 @@
 
 - [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/21/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
 
-- [How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate](https://new-news.github.io/Latest/2024/07/21/how_tennessee_based_artist_aaron_lee_tasjan_is_using_his_music_to_combat_hate 'How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate')
-
 
 
 ---
 
-##### Tags: [a](/ 'a')  [aaron](/ 'aaron')  [abandoned](/ 'abandoned')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [activities](/ 'activities')  [actually](/ 'actually')  [ad](/ 'ad')  [additional](/ 'additional')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against') 
+##### Tags: [a](/ 'a')  [abandoned](/ 'abandoned')  [about](/ 'about')  [accidentally](/ 'accidentally')  [achieved](/ 'achieved')  [action](/ 'action')  [activities](/ 'activities')  [actually](/ 'actually')  [ad](/ 'ad')  [additional](/ 'additional')  [adds](/ 'adds')  [adidas](/ 'adidas')  [administration](/ 'administration')  [admits](/ 'admits')  [advocate](/ 'advocate')  [affected](/ 'affected')  [african](/ 'african')  [after](/ 'after')  [against](/ 'against')  [agencies](/ 'agencies') 
