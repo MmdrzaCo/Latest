@@ -1,6 +1,6 @@
 # At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack
 
-Published :`2024-07-21 08:36:24`
+Published :`2024-07-21 09:14:29`
 
 ---
 
@@ -40,7 +40,7 @@ United Nations Secretary-General Antonio Guterres said in a UN statement he was 
 
 “The Secretary-General calls on all concerned to avoid attacks that could harm civilians and damage civilian infrastructure,” the statement read.
 
-IDF spokesperson Daniel Hagari said the strikes were also in response to the roughly 200 projectiles the rebel group has fired towards Israel since October, when Israel’s war with Hamas in Gaza began.
+IDF spokesperson Daniel Hagari said the strikes were also in response to the roughly 200 missiles and drones the rebel group has launched towards Israel since October, when Israel’s war with Hamas in Gaza began.
 
 Since the start of the war, the Yemeni rebels have regularly targeted the country with drones and missiles, most of which have been intercepted by Israel’s defenses or those of its allies. However, the Houthis have claimed their drone attack in Tel Aviv Friday – which also injured 10 people – was performed by a new drone capable of “bypassing the enemy’s interception systems.”
 

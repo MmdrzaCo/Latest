@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 08:36:26`
+#### Latest Update : `2024-07-21 09:14:38`
 
 ## Latest News Grabbing 
 
 ---
+
+- [She felt lost when she became a widow in her 20s. Then she signed up to grief camp](https://new-news.github.io/Latest/2024/07/21/she_felt_lost_when_she_became_a_widow_in_her_20s__then_she_signed_up_to_grief_camp 'She felt lost when she became a widow in her 20s. Then she signed up to grief camp')
 
 - [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
@@ -203,8 +205,6 @@
 - [Inside the ‘doom loop’ of Joe Biden’s campaign](https://new-news.github.io/Latest/2024/07/21/inside_the_doom_loop_of_joe_bidens_campaign 'Inside the ‘doom loop’ of Joe Biden’s campaign')
 
 - [Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78](https://new-news.github.io/Latest/2024/07/21/cheng_pei_pei__queen_of_martial_arts_movies__dead_at_78 'Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78')
-
-- [Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay](https://new-news.github.io/Latest/2024/07/21/lewis_hamilton_praises_ralf_schumacher_after_former_f1_driver_publicly_identifies_as_gay 'Lewis Hamilton praises Ralf Schumacher after former F1 driver publicly identifies as gay')
 
 
 

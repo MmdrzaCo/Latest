@@ -1,6 +1,6 @@
 # Residents stage rare protest over power cuts in Russia’s Krasnodar
 
-Published :`2024-07-21 08:36:24`
+Published :`2024-07-21 09:14:30`
 
 ---
 
