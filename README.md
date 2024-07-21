@@ -1,14 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 19:36:01`
+#### Latest Update : `2024-07-21 20:17:11`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Biden endorses Harris to be the next Democratic presidential nominee](https://new-news.github.io/Latest/2024/07/21/biden_endorses_harris to_be_the_next_democratic_presidential_nominee 'Biden endorses Harris to be the next Democratic presidential nominee')
-
 - [Biden will not seek reelection; endorses Harris](https://new-news.github.io/Latest/2024/07/21/biden_will_not_seek_reelection__endorses_harris 'Biden will not seek reelection; endorses Harris')
+
+- [What to expect in Venezuela’s presidential election as strongman Maduro faces his biggest test yet](https://new-news.github.io/Latest/2024/07/21/what_to_expect_in_venezuelas_presidential_election_as_strongman_maduro_faces_his_biggest_test_yet 'What to expect in Venezuela’s presidential election as strongman Maduro faces his biggest test yet')
+
+- [Opinion: Increasing the minimum wage comes at too high a price for workers](https://new-news.github.io/Latest/2024/07/21/opinion__increasing_the_minimum_wage_comes_at_too_high_a_price_for_workers 'Opinion: Increasing the minimum wage comes at too high a price for workers')
+
+- [Biden endorses Harris to be the next Democratic presidential nominee](https://new-news.github.io/Latest/2024/07/21/biden_endorses_harris to_be_the_next_democratic_presidential_nominee 'Biden endorses Harris to be the next Democratic presidential nominee')
 
 - [More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_than_1_000_us_flights_canceled_for_the_third_day_straight_as_airlines_slowly_recover_from_global_tech_outage 'More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage')
 
@@ -19,8 +23,6 @@
 - [Secret Service director to testify Monday on Trump shooting: What to know](https://new-news.github.io/Latest/2024/07/21/secret_service_director_to_testify_monday_on_trump_shooting__what_to_know 'Secret Service director to testify Monday on Trump shooting: What to know')
 
 - [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/21/israel_strikes_yemen_for_the_first_time_following_deadly_houthi_drone_attack__heres_what_we_know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
-
-- [Opinion: The downside of raising the minimum wage](https://new-news.github.io/Latest/2024/07/21/opinion__the_downside_of_raising_the_minimum_wage 'Opinion: The downside of raising the minimum wage')
 
 - [Richard Simmons’ final social media post was quintessentially him](https://new-news.github.io/Latest/2024/07/21/richard_simmons_final_social_media_post_was_quintessentially_him 'Richard Simmons’ final social media post was quintessentially him')
 
@@ -203,8 +205,6 @@
 - [Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination](https://new-news.github.io/Latest/2024/07/21/dr__sanjay_gupta__there_are_still_key_questions_about_trumps_injuries_after_attempted_assassination 'Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination')
 
 - [Polio detected in Gaza sewage water, threatening new health disaster](https://new-news.github.io/Latest/2024/07/21/polio_detected_in_gaza_sewage_water__threatening_new_health_disaster 'Polio detected in Gaza sewage water, threatening new health disaster')
-
-- [What is CrowdStrike, the company linked to the global outage?](https://new-news.github.io/Latest/2024/07/21/what_is_crowdstrike__the_company_linked_to_the_global_outage 'What is CrowdStrike, the company linked to the global outage?')
 
 
 

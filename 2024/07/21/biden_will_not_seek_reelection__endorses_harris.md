@@ -1,16 +1,18 @@
 # Biden will not seek reelection; endorses Harris
 
-Published :`2024-07-21 19:35:57`
+Published :`2024-07-21 20:17:03`
 
 ---
 
-President Joe Biden is not seeking reelection and is endorsing Vice President Kamala Harris to succeed him, he announced on Sunday.
+President Joe Biden ended his reelection bid and endorsed Vice President Kamala Harris to succeed him on Sunday.
 
 “It has been the greatest honor of my life to serve as your President,” Biden wrote in a letter posted to his official account on X. “And while it has been my intention to seek reelection, I believe it is in the best interest of my party and the country for me to stand down and to focus solely on fulfilling my duties as President for the remainder of my term.”
 
 Biden said he will speak to the nation later this week in more detail.
 
 In a follow-up post, Biden praised Harris and urged Democrats to unite behind her. “My very first decision as the party nominee in 2020 was to pick Kamala Harris as my Vice President,” Biden wrote. “And it’s been the best decision I’ve made. Today I want to offer my full support and endorsement for Kamala to be the nominee of our party this year.”
+
+Many prominent Democrats, including former President Bill Clinton and former Secretary of State Hillary Clinton, quickly came out in support of Harris, although some who released statements reacting to Biden’s decision did not mention the vice president.
 
 Biden’s departure capped off weeks of concern about the 81-year-old president’s stamina and mental capabilities and skepticism of his ability to effectively campaign against former President Donald Trump and govern the country for another four years. Biden’s decision sparked immediate calls from Republicans for him to step step down as president. Trump said Biden “is not fit to serve” in a post on Truth Social.
 

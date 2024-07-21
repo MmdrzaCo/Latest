@@ -1,6 +1,6 @@
 # Biden endorses Harris to be the next Democratic presidential nominee
 
-Published :`2024-07-21 19:35:57`
+Published :`2024-07-21 20:17:03`
 
 ---
 
