@@ -1,14 +1,14 @@
 # Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know
 
-Published :`2024-07-21 17:35:38`
+Published :`2024-07-21 18:18:26`
 
 ---
 
 For the first time, Israel has struck inside Yemen, following a deadly drone attack launched by Houthi rebels on Tel Aviv.
 
-Since the October 7 attacks by Hamas on Israel, the Houthis have been targeting shipping in the Red Sea in solidarity - they say - with Gaza. But these direct attacks on each other’s soil between the Israeli military and an Iranian-backed rebel group risk creating a new front in a conflict that already threatened to spill over into the region.
+Since the October 7 attacks by Hamas on Israel, the Houthis have been targeting shipping in the Red Sea in solidarity - they say - with Gaza. After Israel struck back on Saturday, the Houthis said they launched a fresh barrage of missiles towards Israel, promising a response that will be “huge and great.”
 
-Soon after the Israeli attack, the Houthis said they launched a fresh barrage of missiles towards Israel, promising a response that will be “huge and great.”
+Direct attacks on each other’s soil between the Israeli military and the Iran-backed rebel group now risk creating a new front in a conflict that already threatened to spill over into the region, with Houthi spokesperson Mohammed Abdulsalam on Sunday describing the situation as “open war.”
 
 Here’s what we know.
 
@@ -66,7 +66,11 @@ On Sunday, Israeli military said it had intercepted a missile approaching Israel
 
 The war in Gaza has already been accompanied by significantly heightened tensions between Israel and the Lebanese militant group Hezbollah. The two sides have been trading cross-border fire since October 8, when Hezbollah fired at three Israeli border posts “in solidarity” with Palestinians.
 
-But while raised tensions with the Houthis undoubtedly creates fresh challenges for Israel, Hezbollah remains the bigger threat given its extensive arsenal and proximity to Israel.
+Houthi leader Abdul Malik al-Houthi said on Sunday in a televised address on Houthi-run Al-Masirah TV that the group intended to continue “the fifth stage of escalation in support of Gaza.”
+
+Friday’s drone attack on Tel Aviv signaled the beginning of that stage, he also said.
+
+But while rising tensions with the Houthis undoubtedly creates fresh challenges for Israel, Hezbollah remains the bigger threat given its extensive arsenal and proximity to Israel.
 
 Yoel Guzansky, a senior fellow at the Tel Aviv-based Institute for National Security Studies (INSS) who has served on Israel’s National Security Council, told CNN he believes Israel has until now been restrained in its response.
 

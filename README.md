@@ -1,10 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 17:35:42`
+#### Latest Update : `2024-07-21 18:18:29`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Biden will not seek reelection](https://new-news.github.io/Latest/2024/07/21/biden_will_not_seek_reelection 'Biden will not seek reelection')
+
+- [Tadej Pogačar completes dominant Tour de France victory](https://new-news.github.io/Latest/2024/07/21/tadej_pogačar_completes_dominant_tour_de_france_victory 'Tadej Pogačar completes dominant Tour de France victory')
+
+- [Secret Service director to testify Monday on Trump shooting: What to know](https://new-news.github.io/Latest/2024/07/21/secret_service_director_to_testify_monday_on_trump_shooting__what_to_know 'Secret Service director to testify Monday on Trump shooting: What to know')
+
+- [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/21/israel_strikes_yemen_for_the_first_time_following_deadly_houthi_drone_attack__heres_what_we_know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
 
 - [Opinion: The downside of raising the minimum wage](https://new-news.github.io/Latest/2024/07/21/opinion__the_downside_of_raising_the_minimum_wage 'Opinion: The downside of raising the minimum wage')
 
@@ -23,8 +31,6 @@
 - [‘Barbie’ was important to me. This summer has melted her](https://new-news.github.io/Latest/2024/07/21/barbie_was_important_to_me__this_summer_has_melted_her '‘Barbie’ was important to me. This summer has melted her')
 
 - [Secret Service says it denied Trump additional resources in recent years even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_in_recent_years_even_as_his_team_complained 'Secret Service says it denied Trump additional resources in recent years even as his team complained')
-
-- [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/21/israel_strikes_yemen_for_the_first_time_following_deadly_houthi_drone_attack__heres_what_we_know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
 
 - [One person was critically injured in a stabbing at Miami International Airport, police say](https://new-news.github.io/Latest/2024/07/21/one_person_was_critically_injured_in_a_stabbing_at_miami_international_airport__police_say 'One person was critically injured in a stabbing at Miami International Airport, police say')
 
@@ -199,12 +205,6 @@
 - [US sanctions alleged Russian hackers who claimed attacks on US water facilities](https://new-news.github.io/Latest/2024/07/21/us_sanctions_alleged_russian_hackers_who_claimed_attacks_on_us_water_facilities 'US sanctions alleged Russian hackers who claimed attacks on US water facilities')
 
 - [Family of another American journalist held in Russia calls on Biden administration to do more to help](https://new-news.github.io/Latest/2024/07/21/family_of_another_american_journalist_held_in_russia_calls_on_biden_administration_to_do_more_to_help 'Family of another American journalist held in Russia calls on Biden administration to do more to help')
-
-- [Spanish town to fine tourists for hogging beach spots](https://new-news.github.io/Latest/2024/07/21/spanish_town_to_fine_tourists_for_hogging_beach_spots 'Spanish town to fine tourists for hogging beach spots')
-
-- [Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’](https://new-news.github.io/Latest/2024/07/21/kate_hudson_says_she_could_smell_matthew_mcconaughey_from_a_mile 'Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’')
-
-- [A major shift at Starbucks is changing its personality](https://new-news.github.io/Latest/2024/07/21/a_major_shift_at_starbucks_is_changing_its_personality 'A major shift at Starbucks is changing its personality')
 
 
 
