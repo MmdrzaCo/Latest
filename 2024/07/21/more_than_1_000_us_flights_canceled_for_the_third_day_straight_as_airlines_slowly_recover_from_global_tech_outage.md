@@ -1,6 +1,6 @@
 # More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage
 
-Published :`2024-07-21 21:12:48`
+Published :`2024-07-21 21:14:21`
 
 ---
 
