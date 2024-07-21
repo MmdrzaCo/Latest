@@ -1,6 +1,6 @@
 # ‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned
 
-Published :`2024-07-21 16:41:13`
+Published :`2024-07-21 17:12:13`
 
 ---
 
@@ -14,7 +14,7 @@ During the outage, a generator powered one elevator and a large, air-conditioned
 
 “A friend just turned 95 about a month ago,” Doyle said. “Another friend of mine is over 90 and quite a few of us are all over 80. It’s tough. You’re not as spry as you used to be.”
 
-By Sunday morning, about 1,200 customers of Houston’s main utility, CenterPoint Energy, were without power, according to PowerOutage.us. It’s unclear if those customers have been without power since Beryl hit the Golf Coast July 8 as a hurricane, leaving more than 2 million customers in the dark, mostly in the Houston area. More than 135,000 CenterPoint customers had no power on Monday night.
+By Sunday afternoon, about 1,200 customers of Houston’s main utility, CenterPoint Energy, were without power, according to PowerOutage.us. It’s unclear if those customers have been without power since Beryl hit the Golf Coast July 8 as a hurricane, leaving more than 2 million customers in the dark, mostly in the Houston area. More than 135,000 CenterPoint customers had no power on Monday night.
 
 The embattled utility said in a statement that customers without power were “predominantly isolated instances,” where homes or equipment sustained severe damage from the storm. CenterPoint, which has 2.8 million customers in the Houston area, said some current outages could be related to thunderstorms Saturday morning. “For safety reasons, our crews pause their work when there is lightning,” the statement said.
 
@@ -22,7 +22,7 @@ At least 14 Houston-area deaths were confirmed to be hurricane-related, includin
 
 For more than a week, some residents of the nation’s fourth largest city were left to sleep in their cars, shuffle perilously with canes and walkers across dark rooms and corridors, and watch food and medications spoil and critical medical equipment become inoperable. At times, they cried in desperation after discovering the bodies of neighbors who succumbed to the heat following a comparatively mild Category 1 hurricane.
 
-“It is unimaginable this is happening in 2024,” Denise Furlough, who delivered food, batteries and ice to her 86-year-old father during the more than a week without power in his Alameda Plaza home, told CNN Saturday. “I was just frightened I might go over there and he wouldn’t be alive.”
+“It is unimaginable this is happening in 2024,” Denise Furlough, who delivered food, batteries and ice to her 86-year-old father during the more than a week without power in his Almeda Plaza home, told CNN Saturday. “I was just frightened I might go over there and he wouldn’t be alive.”
 
 ### ‘She didn’t have to die’
 

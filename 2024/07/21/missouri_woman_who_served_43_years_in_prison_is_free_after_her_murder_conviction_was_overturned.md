@@ -1,6 +1,6 @@
 # Missouri woman who served 43 years in prison is free after her murder conviction was overturned
 
-Published :`2024-07-21 16:41:18`
+Published :`2024-07-21 17:12:14`
 
 ---
 

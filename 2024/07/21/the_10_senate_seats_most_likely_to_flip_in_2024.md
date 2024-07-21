@@ -1,6 +1,6 @@
 # The 10 Senate seats most likely to flip in 2024
 
-Published :`2024-07-21 16:41:15`
+Published :`2024-07-21 17:12:14`
 
 ---
 

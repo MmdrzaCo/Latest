@@ -1,6 +1,6 @@
 # Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says
 
-Published :`2024-07-21 16:41:14`
+Published :`2024-07-21 17:12:13`
 
 ---
 

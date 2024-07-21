@@ -1,6 +1,6 @@
 # Why your Mediterranean beach vacation might be bad for your health
 
-Published :`2024-07-21 16:41:18`
+Published :`2024-07-21 17:12:14`
 
 ---
 

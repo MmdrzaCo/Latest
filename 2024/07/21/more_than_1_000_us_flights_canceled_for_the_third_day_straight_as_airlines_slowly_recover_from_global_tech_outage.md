@@ -1,14 +1,14 @@
 # More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage
 
-Published :`2024-07-21 16:41:13`
+Published :`2024-07-21 17:12:12`
 
 ---
 
-More than 1,000 US flights have been canceled for the third day straight, as airlines slowly recover from a global tech outage that left thousands of passengers stranded at airports.
+More than 1,000 US flights have been canceled for the third day straight, as airlines struggle to recover from a global tech outage that left thousands of passengers stranded at airports.
 
-More than 1,500 flights into, within or out of the US were canceled before 11 a.m. Sunday, according to the tracking website FlightAware.com.
+More than 1,100 flights into, within or out of the United States were canceled by early Sunday afternoon, while more than 3,300 US flights were delayed, according to the tracking website FlightAware.com.
 
-Nearly half of Sunday’s cancelations were from Delta Air Lines, with at least 500 flights affected.
+More than 600 of those cancellations were from Delta Airlines, the website shows.
 
 “Additional cancellations are expected as some of Delta’s technology continues to recover from Friday morning’s vendor-caused issue,” the airline said in a statement Saturday morning.
 
@@ -46,11 +46,11 @@ Transportation Secretary Pete Buttigieg in a social media post Saturday said he 
 
 ### Travelers upset as summer travel plans are thwarted
 
-Frustrated passengers lined up at airports backed up with flight cancellations and delays, some missing life events like weddings, funerals and birthdays.
+Flight cancellations persist at the world’s busiest airport, Atlanta’s Hartsfield-Jackson International Airport, where officials have implemented a “concessions crisis plan, ensuring concessions availability while all flights are operating.”
 
-At Atlanta’s Hartsfield-Jackson International Airport, long lines of passengers waited for assistance Saturday, with many flights still canceled or delayed.
+“We’ve provided assistance and guidance to passengers spending the night in the airport, and we’re collaborating with our airlines to create space for luggage reunification areas,” an airport spokesperson told CNN on Sunday.
 
-Delta passenger Catalina Villareal described the scene: “Mayhem. Chaos. Frustration. Hunger.”
+Long lines of passengers waited for assistance at the airport Saturday. Delta passenger Catalina Villareal described the scene: “Mayhem. Chaos. Frustration. Hunger.”
 
 Villareal expressed frustration with what she says is a lack of information from airlines.
 

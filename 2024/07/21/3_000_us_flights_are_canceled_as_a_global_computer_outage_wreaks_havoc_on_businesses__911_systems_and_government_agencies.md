@@ -1,6 +1,6 @@
 # 3,000 US flights are canceled as a global computer outage wreaks havoc on businesses, 911 systems and government agencies
 
-Published :`2024-07-21 16:41:18`
+Published :`2024-07-21 17:12:14`
 
 ---
 
