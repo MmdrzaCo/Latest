@@ -1,6 +1,6 @@
 # Biden will not seek reelection; endorses Harris
 
-Published :`2024-07-21 20:17:03`
+Published :`2024-07-21 20:35:58`
 
 ---
 
@@ -12,15 +12,21 @@ Biden said he will speak to the nation later this week in more detail.
 
 In a follow-up post, Biden praised Harris and urged Democrats to unite behind her. “My very first decision as the party nominee in 2020 was to pick Kamala Harris as my Vice President,” Biden wrote. “And it’s been the best decision I’ve made. Today I want to offer my full support and endorsement for Kamala to be the nominee of our party this year.”
 
-Many prominent Democrats, including former President Bill Clinton and former Secretary of State Hillary Clinton, quickly came out in support of Harris, although some who released statements reacting to Biden’s decision did not mention the vice president.
+Harris thanked Biden for his service and said he was “putting the American people and our country above everything else” in a statement later Sunday. “I am honored to have the President’s endorsement and my intention is to earn and win this nomination,” she said.
 
-Biden’s departure capped off weeks of concern about the 81-year-old president’s stamina and mental capabilities and skepticism of his ability to effectively campaign against former President Donald Trump and govern the country for another four years. Biden’s decision sparked immediate calls from Republicans for him to step step down as president. Trump said Biden “is not fit to serve” in a post on Truth Social.
+Many prominent Democrats, including former President Bill Clinton and former Secretary of State Hillary Clinton, quickly came out in support of Harris, although some who released statements reacting to Biden’s decision did not mention the vice president, including former President Barack Obama.
+
+“I have extraordinary confidence that the leaders of our party will be able to create a process from which an outstanding nominee emerges,” Obama said in a statement.
+
+Others explicitly called for an open process to determine who should replace Biden at the top of the ticket.
+
+Biden’s departure capped off weeks of concern about the 81-year-old president’s stamina and mental capabilities and skepticism of his ability to effectively campaign against former President Donald Trump and govern the country for another four years. While Biden said he is committed to serving out the remainder of his term, his decision sparked immediate calls from Republicans for him to step down as president. Trump said Biden “is not fit to serve” in a post on Truth Social.
 
 “If Joe Biden is not fit to run for President, he is not fit to serve as President,” House Speaker Mike Johnson said in a statement. “He must resign the office immediately.”
 
-It’s the first time a US president has dropped out of a reelection run in decades and recalls President Lyndon Johnson’s decision not to seek a second full term in 1968 – though Biden’s decision comes months later in the campaign than Johnson’s. It’s also the latest shocking development in a highly charged political campaign that has included an attempt on Trump’s life.
+It’s the first time a one-term US president has dropped out of a reelection run in decades and recalls President Lyndon Johnson’s decision not to seek a second full term in 1968 – though Biden’s decision comes months later in the campaign than Johnson’s. It’s also the latest shocking development in a highly charged political campaign that has included an attempt on Trump’s life.
 
-But not even the attempted assassination on Trump and its tumultuous effect on the race could pause the loss of support Biden was facing among congressional Democrats who became increasingly convinced that a wipeout in November would also drown their down-ballot contests as well.
+But not even the attempted assassination on Trump and its tumultuous effect on the race would pause the drain of support Biden was facing among congressional Democrats who became increasingly convinced that a wipeout in November would also drown their down-ballot contests as well.
 
 Biden’s final decision to leave the race was reached in the last 48 hours, a senior campaign adviser said, as he consulted family and top advisers by telephone. He did not have a final in-person meeting with his top campaign or White House advisers as he recovered from Covid-19 at his beach home in Rehoboth Beach, Delaware.
 
@@ -59,6 +65,8 @@ The attempt on Trump’s life on July 13 briefly stemmed the flow of congression
 Biden’s evolution on his future as the party’s nominee tracked closely with efforts among his biggest allies to convince him the path to victory was narrow. Former House Speaker Nancy Pelosi told Biden weeks after his debate that polls showed he could not win.
 
 A senior Democratic adviser told CNN the president was becoming “receptive” to conversations about him stepping aside: “He’s gone from saying, ‘Kamala can’t win,’ to ‘Do you think Kamala can win?”
+
+CNN’s Jeff Zeleny contributed to this report.
 
 This story and headline have been updated with additional developments.
 

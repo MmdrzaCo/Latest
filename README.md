@@ -1,18 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 20:17:11`
+#### Latest Update : `2024-07-21 20:36:01`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Esta TerBlanche, ‘All My Children’ actress, dead at 51](https://new-news.github.io/Latest/2024/07/21/esta_terblanche__all_my_children_actress__dead_at_51 'Esta TerBlanche, ‘All My Children’ actress, dead at 51')
+
+- [Harris could be the first Black woman and Asian American to lead a major party ticket](https://new-news.github.io/Latest/2024/07/21/harris could_be_the_first_black_woman_and_asian_american_to_lead_a_major_party_ticket 'Harris could be the first Black woman and Asian American to lead a major party ticket')
 
 - [Biden will not seek reelection; endorses Harris](https://new-news.github.io/Latest/2024/07/21/biden_will_not_seek_reelection__endorses_harris 'Biden will not seek reelection; endorses Harris')
 
 - [What to expect in Venezuela’s presidential election as strongman Maduro faces his biggest test yet](https://new-news.github.io/Latest/2024/07/21/what_to_expect_in_venezuelas_presidential_election_as_strongman_maduro_faces_his_biggest_test_yet 'What to expect in Venezuela’s presidential election as strongman Maduro faces his biggest test yet')
 
 - [Opinion: Increasing the minimum wage comes at too high a price for workers](https://new-news.github.io/Latest/2024/07/21/opinion__increasing_the_minimum_wage_comes_at_too_high_a_price_for_workers 'Opinion: Increasing the minimum wage comes at too high a price for workers')
-
-- [Biden endorses Harris to be the next Democratic presidential nominee](https://new-news.github.io/Latest/2024/07/21/biden_endorses_harris to_be_the_next_democratic_presidential_nominee 'Biden endorses Harris to be the next Democratic presidential nominee')
 
 - [More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_than_1_000_us_flights_canceled_for_the_third_day_straight_as_airlines_slowly_recover_from_global_tech_outage 'More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage')
 
@@ -203,8 +205,6 @@
 - [Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal](https://new-news.github.io/Latest/2024/07/21/top_un_court_says_israeli_occupation_of_west_bank_and_east_jerusalem_is_illegal 'Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal')
 
 - [Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination](https://new-news.github.io/Latest/2024/07/21/dr__sanjay_gupta__there_are_still_key_questions_about_trumps_injuries_after_attempted_assassination 'Dr. Sanjay Gupta: There are still key questions about Trump’s injuries after attempted assassination')
-
-- [Polio detected in Gaza sewage water, threatening new health disaster](https://new-news.github.io/Latest/2024/07/21/polio_detected_in_gaza_sewage_water__threatening_new_health_disaster 'Polio detected in Gaza sewage water, threatening new health disaster')
 
 
 
