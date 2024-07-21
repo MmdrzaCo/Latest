@@ -1,6 +1,6 @@
 # Rapper Sean Kingston and his mother face federal wire fraud charges
 
-Published :`2024-07-21 09:14:35`
+Published :`2024-07-21 09:36:10`
 
 ---
 

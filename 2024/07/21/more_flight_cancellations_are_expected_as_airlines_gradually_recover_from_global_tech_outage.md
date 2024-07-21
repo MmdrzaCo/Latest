@@ -1,6 +1,6 @@
 # More flight cancellations are expected as airlines gradually recover from global tech outage
 
-Published :`2024-07-21 09:14:29`
+Published :`2024-07-21 09:36:06`
 
 ---
 

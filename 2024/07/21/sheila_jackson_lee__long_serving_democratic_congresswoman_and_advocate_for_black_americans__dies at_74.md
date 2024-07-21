@@ -1,6 +1,6 @@
 # Sheila Jackson Lee, long-serving Democratic congresswoman and advocate for Black Americans, dies at 74
 
-Published :`2024-07-21 09:14:31`
+Published :`2024-07-21 09:36:08`
 
 ---
 

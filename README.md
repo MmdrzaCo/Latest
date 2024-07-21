@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 09:14:38`
+#### Latest Update : `2024-07-21 09:36:12`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Bangladesh’s top court rolls back some job quotas after deadly protests, local media report](https://new-news.github.io/Latest/2024/07/21/bangladeshs_top_court_rolls_back_some_job_quotas_after_deadly_protests__local_media_report 'Bangladesh’s top court rolls back some job quotas after deadly protests, local media report')
 
 - [She felt lost when she became a widow in her 20s. Then she signed up to grief camp](https://new-news.github.io/Latest/2024/07/21/she_felt_lost_when_she_became_a_widow_in_her_20s__then_she_signed_up_to_grief_camp 'She felt lost when she became a widow in her 20s. Then she signed up to grief camp')
 
@@ -203,8 +205,6 @@
 - [How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate](https://new-news.github.io/Latest/2024/07/21/how_tennessee_based_artist_aaron_lee_tasjan_is_using_his_music_to_combat_hate 'How Tennessee-based artist Aaron Lee Tasjan is using his music to combat hate')
 
 - [Inside the ‘doom loop’ of Joe Biden’s campaign](https://new-news.github.io/Latest/2024/07/21/inside_the_doom_loop_of_joe_bidens_campaign 'Inside the ‘doom loop’ of Joe Biden’s campaign')
-
-- [Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78](https://new-news.github.io/Latest/2024/07/21/cheng_pei_pei__queen_of_martial_arts_movies__dead_at_78 'Cheng Pei-pei, ‘queen of martial arts’ movies, dead at 78')
 
 
 

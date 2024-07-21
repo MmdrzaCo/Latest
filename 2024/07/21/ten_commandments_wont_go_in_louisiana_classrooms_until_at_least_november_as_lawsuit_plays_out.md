@@ -1,6 +1,6 @@
 # Ten Commandments won’t go in Louisiana classrooms until at least November as lawsuit plays out
 
-Published :`2024-07-21 09:14:35`
+Published :`2024-07-21 09:36:11`
 
 ---
 
