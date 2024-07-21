@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 05:36:20`
+#### Latest Update : `2024-07-21 06:19:33`
 
 ## Latest News Grabbing 
 
 ---
+
+- [More flight cancellations are expected as airlines gradually recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_flight_cancellations_are_expected_as_airlines_gradually_recover_from_global_tech_outage 'More flight cancellations are expected as airlines gradually recover from global tech outage')
 
 - [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
@@ -203,8 +205,6 @@
 - [A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade](https://new-news.github.io/Latest/2024/07/21/a_tale_of_two_presidents_as_trump_claims_his_triumph_and_bidens_hopes_begin_to_fade 'A tale of two presidents as Trump claims his triumph and Biden’s hopes begin to fade')
 
 - [Taylor Casey’s loved ones are keeping hope alive a month after the Chicago woman disappeared in the Bahamas](https://new-news.github.io/Latest/2024/07/21/taylor_caseys_loved_ones_are_keeping_hope_alive_a_month_after_the_chicago_woman_disappeared_in_the_bahamas 'Taylor Casey’s loved ones are keeping hope alive a month after the Chicago woman disappeared in the Bahamas')
-
-- [China economy: Key meeting offers few clues on how to tackle worsening downturn](https://new-news.github.io/Latest/2024/07/21/china_economy__key_meeting_offers_few_clues_on_how_to_tackle_worsening_downturn 'China economy: Key meeting offers few clues on how to tackle worsening downturn')
 
 
 

@@ -1,6 +1,6 @@
 # JD Vance Fast Facts
 
-Published :`2024-07-21 05:36:19`
+Published :`2024-07-21 06:19:32`
 
 ---
 
