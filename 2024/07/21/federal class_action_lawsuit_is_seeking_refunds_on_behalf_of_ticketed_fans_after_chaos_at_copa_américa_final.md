@@ -1,6 +1,6 @@
 # Federal class action lawsuit is seeking refunds on behalf of ticketed fans after chaos at Copa América final
 
-Published :`2024-07-21 15:15:49`
+Published :`2024-07-21 15:35:32`
 
 ---
 
