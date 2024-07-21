@@ -1,6 +1,6 @@
 # Opinion: Increasing the minimum wage comes at too high a price for workers
 
-Published :`2024-07-21 21:14:21`
+Published :`2024-07-21 21:36:02`
 
 ---
 
