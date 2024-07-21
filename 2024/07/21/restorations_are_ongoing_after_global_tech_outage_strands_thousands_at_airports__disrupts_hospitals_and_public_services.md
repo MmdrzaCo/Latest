@@ -1,6 +1,6 @@
 # Restorations are ongoing after global tech outage strands thousands at airports, disrupts hospitals and public services
 
-Published :`2024-07-21 06:19:30`
+Published :`2024-07-21 06:40:23`
 
 ---
 
