@@ -1,6 +1,6 @@
 # Biden will not seek reelection; endorses Harris
 
-Published :`2024-07-21 20:35:58`
+Published :`2024-07-21 21:10:41`
 
 ---
 
@@ -16,13 +16,19 @@ Harris thanked Biden for his service and said he was “putting the American peo
 
 Many prominent Democrats, including former President Bill Clinton and former Secretary of State Hillary Clinton, quickly came out in support of Harris, although some who released statements reacting to Biden’s decision did not mention the vice president, including former President Barack Obama.
 
-“I have extraordinary confidence that the leaders of our party will be able to create a process from which an outstanding nominee emerges,” Obama said in a statement.
+“I have extraordinary confidence that the leaders of our party will be able to create a process from which an outstanding nominee emerges,” Obama said in a statement that kept the focus on Biden.
+
+An adviser said Obama is taking the same approach as he did in the 2020 Democratic primary, watching closely with the intent of being able to help unify the party when a nominee is chosen – whether it is Harris or someone else.
 
 Others explicitly called for an open process to determine who should replace Biden at the top of the ticket.
 
 Biden’s departure capped off weeks of concern about the 81-year-old president’s stamina and mental capabilities and skepticism of his ability to effectively campaign against former President Donald Trump and govern the country for another four years. While Biden said he is committed to serving out the remainder of his term, his decision sparked immediate calls from Republicans for him to step down as president. Trump said Biden “is not fit to serve” in a post on Truth Social.
 
-“If Joe Biden is not fit to run for President, he is not fit to serve as President,” House Speaker Mike Johnson said in a statement. “He must resign the office immediately.”
+In a phone call with CNN after Biden’s announcement, Trump said Biden would go down “as the single worst president by far in the history of our country” and said he thought Harris would be easier to defeat than Biden.
+
+Other leading Republicans, including House Speaker Mike Johnson, called on Biden to “resign the office immediately.”
+
+“If Joe Biden is not fit to run for President, he is not fit to serve as President,” Johnson said in a statement.
 
 It’s the first time a one-term US president has dropped out of a reelection run in decades and recalls President Lyndon Johnson’s decision not to seek a second full term in 1968 – though Biden’s decision comes months later in the campaign than Johnson’s. It’s also the latest shocking development in a highly charged political campaign that has included an attempt on Trump’s life.
 
@@ -66,7 +72,11 @@ Biden’s evolution on his future as the party’s nominee tracked closely with 
 
 A senior Democratic adviser told CNN the president was becoming “receptive” to conversations about him stepping aside: “He’s gone from saying, ‘Kamala can’t win,’ to ‘Do you think Kamala can win?”
 
-CNN’s Jeff Zeleny contributed to this report.
+Those conversation accelerated as Biden isolated at his beach home with Covid over the last few days. Saturday night, Biden asked two of his closest advisers to start drafting the letter, according to a person familiar with the matter.
+
+Many rank-and-file staff found out about Biden’s decision when the post came out.
+
+CNN’s Jeff Zeleny, Betsy Klein and Phil Mattingly contributed to this report.
 
 This story and headline have been updated with additional developments.
 
