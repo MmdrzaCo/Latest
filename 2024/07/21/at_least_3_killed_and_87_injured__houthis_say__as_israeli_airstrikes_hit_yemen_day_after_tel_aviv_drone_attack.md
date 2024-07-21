@@ -1,6 +1,6 @@
 # At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack
 
-Published :`2024-07-21 04:17:18`
+Published :`2024-07-21 04:37:11`
 
 ---
 
@@ -27,6 +27,8 @@ Netanyahu said in a statement on Saturday that Hodeidah was “not an innocent p
 Netanyahu also said the operation, which hit targets 1,800 km (1,118 miles) from Israel’s borders, shows the enemy Israel is serious about responding to threats.
 
 “It makes it clear to our enemies that there is no place that the long arm of the state of Israel will not reach,” Netanyahu said.
+
+The Israeli military said Sunday that its air defense system had subsequently intercepted a surface-to-surface missile that approached from Yemen. “The projectile did not cross into Israeli territory,” the IDF said in a statement, though sirens were sounded over the possibility of falling shrapnel.
 
 United Nations Secretary-General Antonio Guterres said in a UN statement he was “deeply concerned” by reports of the strikes.
 
