@@ -1,6 +1,6 @@
 # Democratic consensus solidifies around Harris, should Biden step aside
 
-Published :`2024-07-21 21:10:42`
+Published :`2024-07-21 21:12:48`
 
 ---
 
