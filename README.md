@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 03:17:46`
+#### Latest Update : `2024-07-21 03:36:51`
 
 ## Latest News Grabbing 
 
 ---
+
+- [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
 - [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/21/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
 
@@ -13,8 +15,6 @@
 - [Trump has long been criticized for his treatment of women. Some of his closest allies seek to present a different vision](https://new-news.github.io/Latest/2024/07/21/trump_has_long_been_criticized_for_his_treatment_of_women__some_of_his_closest_allies_seek_to_present_a_different_vision 'Trump has long been criticized for his treatment of women. Some of his closest allies seek to present a different vision')
 
 - [Energized crowd greets Harris at Provincetown fundraiser](https://new-news.github.io/Latest/2024/07/21/energized_crowd_greets_harris_at_provincetown_fundraiser 'Energized crowd greets Harris at Provincetown fundraiser')
-
-- [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
 - [The global software outage affected this forecaster’s broadcast. He took the weather report into his own hands – literally](https://new-news.github.io/Latest/2024/07/21/the_global_software_outage_affected_this_forecasters_broadcast__he_took_the_weather_report_into_his_own_hands_–_literally 'The global software outage affected this forecaster’s broadcast. He took the weather report into his own hands – literally')
 

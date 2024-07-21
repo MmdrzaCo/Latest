@@ -1,6 +1,6 @@
 # Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France
 
-Published :`2024-07-21 03:17:45`
+Published :`2024-07-21 03:36:50`
 
 ---
 
