@@ -1,16 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 14:35:44`
+#### Latest Update : `2024-07-21 15:15:53`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Bangladesh’s top court rolls back most government job quotas after violent protests](https://new-news.github.io/Latest/2024/07/21/bangladeshs_top_court_rolls_back_most_government_job_quotas_after_violent_protests 'Bangladesh’s top court rolls back most government job quotas after violent protests')
+
+- [Costs from the global outage could top $1 billion – but who pays the bill is harder to understand](https://new-news.github.io/Latest/2024/07/21/costs_from_the_global_outage_could_top__1_billion_–_but_who_pays_the_bill_is_harder_to_understand 'Costs from the global outage could top $1 billion – but who pays the bill is harder to understand')
+
+- [‘Barbie’ was important to me. This summer has melted her](https://new-news.github.io/Latest/2024/07/21/barbie_was_important_to_me__this_summer_has_melted_her '‘Barbie’ was important to me. This summer has melted her')
+
 - [Secret Service says it denied Trump additional resources in recent years even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_in_recent_years_even_as_his_team_complained 'Secret Service says it denied Trump additional resources in recent years even as his team complained')
 
 - [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/21/israel_strikes_yemen_for_the_first_time_following_deadly_houthi_drone_attack__heres_what_we_know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
-
-- [I watched ‘Barbie’ 10 times in theaters last year. This is what I miss most about our ‘Barbie’ summer](https://new-news.github.io/Latest/2024/07/21/i_watched_barbie_10_times_in_theaters_last_year__this_is_what_i_miss_most_about_our_barbie_summer 'I watched ‘Barbie’ 10 times in theaters last year. This is what I miss most about our ‘Barbie’ summer')
 
 - [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/21/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
@@ -19,8 +23,6 @@
 - [At least 6 killed, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_6_killed__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 6 killed, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
 - [Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA](https://new-news.github.io/Latest/2024/07/21/arike_ogunbowale_sets_wnba_all_star_record_while_angel_reese_and_caitlin_clark_set_rookie_records_in_win_over_team_usa 'Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA')
-
-- [Bangladesh’s top court rolls back most government job quotas after violent protests](https://new-news.github.io/Latest/2024/07/21/bangladeshs_top_court_rolls_back_most_government_job_quotas_after_violent_protests 'Bangladesh’s top court rolls back most government job quotas after violent protests')
 
 - [Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100](https://new-news.github.io/Latest/2024/07/21/team_usa_survives_scare_in_olympic_warmup__scraping_past_south_sudan_101_100 'Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100')
 
@@ -203,8 +205,6 @@
 - [Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation](https://new-news.github.io/Latest/2024/07/21/allen_weisselberg__former_trump_org__cfo__released_from_jail_after_serving_100_days_for_lying_during_investigation 'Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation')
 
 - [Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height](https://new-news.github.io/Latest/2024/07/21/journalist_told_to_pay_italian_prime_minister_giorgia_meloni__5_400_for_tweet_mocking_her_height 'Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height')
-
-- [Student loan payments will be paused for 8 million borrowers after appeals court temporarily halts Biden’s repayment plan](https://new-news.github.io/Latest/2024/07/21/student_loan_payments_will_be_paused_for_8_million_borrowers_after_appeals_court_temporarily_halts_bidens_repayment_plan 'Student loan payments will be paused for 8 million borrowers after appeals court temporarily halts Biden’s repayment plan')
 
 
 

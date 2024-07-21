@@ -1,6 +1,6 @@
 # Bangladesh’s top court rolls back most government job quotas after violent protests
 
-Published :`2024-07-21 14:35:42`
+Published :`2024-07-21 15:15:47`
 
 ---
 
@@ -19,6 +19,10 @@ On Sunday, the country’s top court dismissed the earlier ruling that brought b
 Speaking to local media in Dhaka following the announcement, Shah Monjurul Hoque, a lawyer representing students said that the Supreme Court “gave a final solution to this quota system.”
 
 “That is 93% quota for general people, 5% quota for freedom fighters and their kin, 1% for ethnic minority community, and 1% for third gender and physically disabled,” he said.
+
+Bangladesh Attorney General A.M. Amin Uddin told Reuters, “I am hoping normalcy will return after today’s ruling and people with ulterior motives will stop instigating people,” noting that students “have clearly said they are in no way part of the violence and arson that have taken place in Bangladesh since Monday.”
+
+“I will ask the government to find out the culprits behind the violence and take strict action against them,” he added.
 
 Ahead of the ruling, Bangladesh on Sunday extended a curfew imposed on Friday to try to quell the violence and deployed soldiers to patrol the streets of the capital Dhaka, according to Reuters.
 
