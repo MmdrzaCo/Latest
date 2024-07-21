@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 03:36:51`
+#### Latest Update : `2024-07-21 04:17:24`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Europe turns to conscription as threat of wider war with Russia grows](https://new-news.github.io/Latest/2024/07/21/europe_turns_to_conscription_as_threat_of_wider_war_with_russia_grows 'Europe turns to conscription as threat of wider war with Russia grows')
 
 - [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
@@ -203,8 +205,6 @@
 - [China economy: Key meeting offers few clues on how to tackle worsening downturn](https://new-news.github.io/Latest/2024/07/21/china_economy__key_meeting_offers_few_clues_on_how_to_tackle_worsening_downturn 'China economy: Key meeting offers few clues on how to tackle worsening downturn')
 
 - [This couple’s hobby? Illegally scaling the world’s tallest buildings together](https://new-news.github.io/Latest/2024/07/21/this_couples_hobby_illegally_scaling_the_worlds_tallest_buildings_together 'This couple’s hobby? Illegally scaling the world’s tallest buildings together')
-
-- [Trump’s would-be assassin researched previous mass shooter Ethan Crumbley and his family before attack](https://new-news.github.io/Latest/2024/07/21/trumps_would_be_assassin_researched_previous_mass_shooter_ethan_crumbley_and_his_family_before_attack 'Trump’s would-be assassin researched previous mass shooter Ethan Crumbley and his family before attack')
 
 
 
