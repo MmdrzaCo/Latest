@@ -1,6 +1,6 @@
 # Kamala Harris turns her attention to JD Vance amid speculation about Biden’s future
 
-Published :`2024-07-21 05:15:31`
+Published :`2024-07-21 05:36:20`
 
 ---
 

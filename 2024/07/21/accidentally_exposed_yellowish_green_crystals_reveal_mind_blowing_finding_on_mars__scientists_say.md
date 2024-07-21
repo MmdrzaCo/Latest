@@ -1,6 +1,6 @@
 # Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say
 
-Published :`2024-07-21 05:15:28`
+Published :`2024-07-21 05:36:17`
 
 ---
 

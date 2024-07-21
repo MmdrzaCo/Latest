@@ -1,6 +1,6 @@
 # Secret Service boosts and rethinks security for first Trump-Vance rally and campaign
 
-Published :`2024-07-21 05:15:30`
+Published :`2024-07-21 05:36:19`
 
 ---
 

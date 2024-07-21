@@ -1,6 +1,6 @@
 # Trump has long been criticized for his treatment of women. Some of his closest allies seek to present a different vision
 
-Published :`2024-07-21 05:15:27`
+Published :`2024-07-21 05:36:16`
 
 ---
 

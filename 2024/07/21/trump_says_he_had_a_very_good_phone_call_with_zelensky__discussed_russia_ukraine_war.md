@@ -1,6 +1,6 @@
 # Trump says he had ‘a very good phone call’ with Zelensky, discussed Russia-Ukraine war
 
-Published :`2024-07-21 05:15:29`
+Published :`2024-07-21 05:36:18`
 
 ---
 
