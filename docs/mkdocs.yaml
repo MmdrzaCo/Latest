@@ -1,8 +1,0 @@
-site_name: New News
-site_description: "Latest and New News Grabber and Scrap News all World"
-site_url: https://new-news.github.io/Latest
-theme: readthedocs
-plugins:
-  - search:
-      indexing: 'full'
-include_sidebar: false
