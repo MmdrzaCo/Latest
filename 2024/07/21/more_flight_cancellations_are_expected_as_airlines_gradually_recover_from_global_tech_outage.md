@@ -1,6 +1,6 @@
 # More flight cancellations are expected as airlines gradually recover from global tech outage
 
-Published :`2024-07-21 06:40:22`
+Published :`2024-07-21 07:12:23`
 
 ---
 
@@ -27,6 +27,8 @@ A majority of United Airlines systems have recovered from Friday’s outag
 Delta Air Lines is “continuing its operational recovery” after the outage prompted the airline to pause flying on Friday, according to a Saturday morning update. Still, over 1,000 Delta flights were canceled Saturday and more than 200 were canceled Sunday.
 
 “Additional cancelations are expected as some of Delta’s technology continues to recover from Friday morning’s vendor-caused issue,” the update said.
+
+Delta has paused unaccompanied minor travel until Monday due to the outage, the airline announced over the weekend. Unaccompanied children who are already booked on a Delta flight will not be able to travel, and the airline has asked that no new flights be booked for them.
 
 Also impacted was American Airlines, which said in a statement  Friday that “we were able to safely reestablish our operation” and that it “issued a travel waiver for our customers impacted by the vendor technology issue earlier this morning.” Allegiant Air said in a statement Saturday that, while “normal operations have resumed” after the outage, they’re processing a backlog of customer messages and troubleshooting their programs and platforms.
 

@@ -1,6 +1,6 @@
 # A 72-year-old was alone picking huckleberries in a Montana forest. Then, a grizzly bear attacked him
 
-Published :`2024-07-21 06:40:23`
+Published :`2024-07-21 07:12:24`
 
 ---
 
