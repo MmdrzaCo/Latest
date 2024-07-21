@@ -1,18 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 12:52:06`
+#### Latest Update : `2024-07-21 13:15:25`
 
 ## Latest News Grabbing 
 
 ---
+
+- [At least 6 killed, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_6_killed__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 6 killed, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
+
+- [Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA](https://new-news.github.io/Latest/2024/07/21/arike_ogunbowale_sets_wnba_all_star_record_while_angel_reese_and_caitlin_clark_set_rookie_records_in_win_over_team_usa 'Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA')
 
 - [Bangladesh’s top court rolls back most government job quotas after violent protests](https://new-news.github.io/Latest/2024/07/21/bangladeshs_top_court_rolls_back_most_government_job_quotas_after_violent_protests 'Bangladesh’s top court rolls back most government job quotas after violent protests')
 
 - [Secret Service says it denied Trump additional resources in recent years even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_in_recent_years_even_as_his_team_complained 'Secret Service says it denied Trump additional resources in recent years even as his team complained')
 
 - [Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100](https://new-news.github.io/Latest/2024/07/21/team_usa_survives_scare_in_olympic_warmup__scraping_past_south_sudan_101_100 'Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100')
-
-- [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
 - [A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington](https://new-news.github.io/Latest/2024/07/21/a_history_buff_bought_a_piece_of_a_tent_from_goodwill_for__1_700__it_really_did_belong_to_george_washington 'A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington')
 
@@ -203,8 +205,6 @@
 - [Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’](https://new-news.github.io/Latest/2024/07/21/janet_jackson_really__but_politely__dislikes_doing_interviews__please_stop_asking_me_questions 'Janet Jackson really, but politely, dislikes doing interviews: ‘Please stop asking me questions’')
 
 - [Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France](https://new-news.github.io/Latest/2024/07/21/fallout_intensifies_over_soccer_star_enzo_fernández_and_argentina_teammates_singing_racist_chant_about_france 'Fallout intensifies over soccer star Enzo Fernández and Argentina teammates singing racist chant about France')
-
-- [‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst](https://new-news.github.io/Latest/2024/07/21/he_was_a_pious_man__the_gaza_neighborhood_shocked_to_find_israeli_hostages_in_their_midst '‘He was a pious man’: The Gaza neighborhood shocked to find Israeli hostages in their midst')
 
 
 

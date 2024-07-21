@@ -1,6 +1,6 @@
 # Opinion: The stunning silence at the heart of ‘Twisters’
 
-Published :`2024-07-21 12:52:05`
+Published :`2024-07-21 13:15:24`
 
 ---
 

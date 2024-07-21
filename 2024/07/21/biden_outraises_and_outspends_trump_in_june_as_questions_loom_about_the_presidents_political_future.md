@@ -1,6 +1,6 @@
 # Biden outraises and outspends Trump in June as questions loom about the president’s political future
 
-Published :`2024-07-21 12:52:03`
+Published :`2024-07-21 13:15:22`
 
 ---
 
@@ -50,7 +50,7 @@ The lion’s share of its expenditures in June went to direct mail expenses, acc
 
 Saturday’s filings show that the leading pro-Biden super PAC, known as Future Forward or FF PAC, ended June with nearly $122 million in its coffers. Nearly half the $32.8 million the PAC took in last month came from the group’s nonprofit arm, which does not disclose its donors.
 
-Other large donors in June included LinkedIn co-founder Reid Hoffman ($3 million), Google ex-chief executive Eric Schmidt ($1.6 million), and James Murdoch, the son of Fox News mogul Rupert Murdoch, and his wife Kathryn ($1,00,000 total for the couple).
+Other large donors in June included LinkedIn co-founder Reid Hoffman ($3 million), Google ex-chief executive Eric Schmidt ($1.6 million), and James Murdoch, the son of Fox News mogul Rupert Murdoch, and his wife Kathryn ($1 million total for the couple).
 
 A super PAC backing Trump’s candidacy, MAGA Inc., meanwhile, entered July with nearly $114 million in available cash.
 
