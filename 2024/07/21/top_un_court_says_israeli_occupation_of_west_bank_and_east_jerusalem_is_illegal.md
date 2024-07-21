@@ -1,6 +1,6 @@
 # Top UN court says Israeli occupation of West Bank and East Jerusalem is illegal
 
-Published :`2024-07-21 13:15:24`
+Published :`2024-07-21 13:35:55`
 
 ---
 
