@@ -1,6 +1,6 @@
 # Tadej Pogačar completes dominant Tour de France victory
 
-Published :`2024-07-21 22:35:46`
+Published :`2024-07-21 23:15:04`
 
 ---
 

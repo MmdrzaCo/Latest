@@ -1,6 +1,6 @@
 # More than 1,500 US flights canceled for the third day straight as airlines slowly recover from global tech outage
 
-Published :`2024-07-21 22:35:46`
+Published :`2024-07-21 23:15:03`
 
 ---
 
@@ -12,7 +12,11 @@ More than 600 of those cancelations were from Delta Air Lines, the website shows
 
 The airline is continuing its recovery efforts following “an outside vendor technology issue” resulting in delays and cancelations, Delta said Sunday. The airline is communicating directly with some impacted customers, offering travel vouchers, waivers and SkyMiles Program miles, it said.
 
-On Saturday, 2,136 US flights were canceled, and more than 21,300 flights were delayed, according to FlightAware.
+In an update to Delta customers Sunday afternoon, Delta Air Lines CEO Ed Bastian said the airline’s teams are still working to recover their system and restore operations.
+
+“Canceling a flight is always a last resort, and something we don’t take lightly,” Bastian said.
+
+On Saturday, 2,136 flights among multiple carriers were canceled, and more than 21,300 flights were delayed, according to FlightAware.
 
 The issue extended beyond airports, with businesses, government agencies, health and emergency services, banks, schools and universities around the world grinding to a halt or seeing services disrupted due to a flawed software update for Microsoft Windows operating systems issued by the cybersecurity firm CrowdStrike, experts told CNN.
 
