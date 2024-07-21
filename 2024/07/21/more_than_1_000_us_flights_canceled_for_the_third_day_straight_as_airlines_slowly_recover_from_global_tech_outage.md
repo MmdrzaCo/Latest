@@ -1,16 +1,16 @@
 # More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage
 
-Published :`2024-07-21 17:12:12`
+Published :`2024-07-21 17:35:38`
 
 ---
 
 More than 1,000 US flights have been canceled for the third day straight, as airlines struggle to recover from a global tech outage that left thousands of passengers stranded at airports.
 
-More than 1,100 flights into, within or out of the United States were canceled by early Sunday afternoon, while more than 3,300 US flights were delayed, according to the tracking website FlightAware.com.
+More than 1,200 flights into, within or out of the United States were canceled by early Sunday afternoon, while more than 4,000 US flights were delayed, according to the tracking website FlightAware.com.
 
 More than 600 of those cancellations were from Delta Airlines, the website shows.
 
-“Additional cancellations are expected as some of Delta’s technology continues to recover from Friday morning’s vendor-caused issue,” the airline said in a statement Saturday morning.
+The airline is continuing its recovery efforts following “an outside vendor technology issue” resulting in delays and cancelations, Delta said Sunday. The airline is communicating directly with some impacted customers, offering travel vouchers, waivers and SkyMiles Program miles, it said.
 
 On Saturday, 2,136 US flights were canceled, and more than 21,300 flights were delayed, according to FlightAware.
 

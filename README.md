@@ -1,12 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 17:12:17`
+#### Latest Update : `2024-07-21 17:35:42`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Opinion: The downside of raising the minimum wage](https://new-news.github.io/Latest/2024/07/21/opinion__the_downside_of_raising_the_minimum_wage 'Opinion: The downside of raising the minimum wage')
+
+- [Richard Simmons’ final social media post was quintessentially him](https://new-news.github.io/Latest/2024/07/21/richard_simmons_final_social_media_post_was_quintessentially_him 'Richard Simmons’ final social media post was quintessentially him')
+
 - [More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_than_1_000_us_flights_canceled_for_the_third_day_straight_as_airlines_slowly_recover_from_global_tech_outage 'More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage')
+
+- [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/21/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
 - [Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA](https://new-news.github.io/Latest/2024/07/21/arike_ogunbowale_sets_wnba_all_star_record_while_angel_reese_and_caitlin_clark_set_rookie_records_in_win_over_team_usa 'Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA')
 
@@ -19,8 +25,6 @@
 - [Secret Service says it denied Trump additional resources in recent years even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_in_recent_years_even_as_his_team_complained 'Secret Service says it denied Trump additional resources in recent years even as his team complained')
 
 - [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/21/israel_strikes_yemen_for_the_first_time_following_deadly_houthi_drone_attack__heres_what_we_know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
-
-- [‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned](https://new-news.github.io/Latest/2024/07/21/im_just_sick_of_it__more_than_a_week_without_power_leaves_some_houston_area_residents_feeling_hopeless_and_abandoned '‘I’m just sick of it’: More than a week without power leaves some Houston-area residents feeling hopeless and abandoned')
 
 - [One person was critically injured in a stabbing at Miami International Airport, police say](https://new-news.github.io/Latest/2024/07/21/one_person_was_critically_injured_in_a_stabbing_at_miami_international_airport__police_say 'One person was critically injured in a stabbing at Miami International Airport, police say')
 
@@ -201,10 +205,6 @@
 - [Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’](https://new-news.github.io/Latest/2024/07/21/kate_hudson_says_she_could_smell_matthew_mcconaughey_from_a_mile 'Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’')
 
 - [A major shift at Starbucks is changing its personality](https://new-news.github.io/Latest/2024/07/21/a_major_shift_at_starbucks_is_changing_its_personality 'A major shift at Starbucks is changing its personality')
-
-- [Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation](https://new-news.github.io/Latest/2024/07/21/allen_weisselberg__former_trump_org__cfo__released_from_jail_after_serving_100_days_for_lying_during_investigation 'Allen Weisselberg, former Trump Org. CFO, released from jail after serving 100 days for lying during investigation')
-
-- [Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height](https://new-news.github.io/Latest/2024/07/21/journalist_told_to_pay_italian_prime_minister_giorgia_meloni__5_400_for_tweet_mocking_her_height 'Journalist told to pay Italian Prime Minister Giorgia Meloni $5,400 for Tweet mocking her height')
 
 
 
