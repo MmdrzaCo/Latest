@@ -1,12 +1,12 @@
 # Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA
 
-Published :`2024-07-21 15:35:31`
+Published :`2024-07-21 16:19:34`
 
 ---
 
 Dallas Wings guard Arike Ogunbowale set a new WNBA All-Star game record of 34 points while Caitlin Clark and Angel Reese set rookie records as they helped lead Team WNBA to a 117-109 win over Team USA on Saturday in Phoenix.
 
-All Ogunbowale’s 34 points came in the second half, with 21 in the third quarter, as Team WNBA overturned a four-point deficit at half time to defeat Team USA as it prepares for the upcoming Paris Olympics.
+All Ogunbowale’s 34 points came in the second half, with 21 in the third quarter, as Team WNBA turned a two-point halftime deficit into a win as Team USA prepares for the upcoming Paris Olympics.
 
 Ogunbowale’s scoring exploits earned her a second All-Star MVP award in front of 16,407 fans at Footprint Center.
 

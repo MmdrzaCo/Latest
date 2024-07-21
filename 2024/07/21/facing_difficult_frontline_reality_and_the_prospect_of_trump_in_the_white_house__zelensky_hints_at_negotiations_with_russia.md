@@ -1,6 +1,6 @@
 # Facing difficult frontline reality and the prospect of Trump in the White House, Zelensky hints at negotiations with Russia
 
-Published :`2024-07-21 15:35:32`
+Published :`2024-07-21 16:19:35`
 
 ---
 

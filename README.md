@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 15:35:34`
+#### Latest Update : `2024-07-21 16:19:37`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA](https://new-news.github.io/Latest/2024/07/21/arike_ogunbowale_sets_wnba_all_star_record_while_angel_reese_and_caitlin_clark_set_rookie_records_in_win_over_team_usa 'Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA')
+
+- [More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_than_1_000_us_flights_canceled_for_the_third_day_straight_as_airlines_slowly_recover_from_global_tech_outage 'More than 1,000 US flights canceled for the third day straight as airlines slowly recover from global tech outage')
 
 - [Bangladesh’s top court rolls back most government job quotas after violent protests](https://new-news.github.io/Latest/2024/07/21/bangladeshs_top_court_rolls_back_most_government_job_quotas_after_violent_protests 'Bangladesh’s top court rolls back most government job quotas after violent protests')
 
@@ -22,8 +26,6 @@
 
 - [At least 6 killed, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_6_killed__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 6 killed, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
-- [Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA](https://new-news.github.io/Latest/2024/07/21/arike_ogunbowale_sets_wnba_all_star_record_while_angel_reese_and_caitlin_clark_set_rookie_records_in_win_over_team_usa 'Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA')
-
 - [Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100](https://new-news.github.io/Latest/2024/07/21/team_usa_survives_scare_in_olympic_warmup__scraping_past_south_sudan_101_100 'Team USA survives scare in Olympic warmup, scraping past South Sudan 101-100')
 
 - [A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington](https://new-news.github.io/Latest/2024/07/21/a_history_buff_bought_a_piece_of_a_tent_from_goodwill_for__1_700__it_really_did_belong_to_george_washington 'A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington')
@@ -31,8 +33,6 @@
 - [She felt lost when she became a widow in her 20s. Then she signed up to grief camp](https://new-news.github.io/Latest/2024/07/21/she_felt_lost_when_she_became_a_widow_in_her_20s__then_she_signed_up_to_grief_camp 'She felt lost when she became a widow in her 20s. Then she signed up to grief camp')
 
 - [You’re not going crazy — you may actually be paying higher prices than other people](https://new-news.github.io/Latest/2024/07/21/youre_not_going_crazy_—_you_may_actually_be_paying_higher_prices_than_other_people 'You’re not going crazy — you may actually be paying higher prices than other people')
-
-- [More flight cancellations are expected as airlines gradually recover from global tech outage](https://new-news.github.io/Latest/2024/07/21/more_flight_cancellations_are_expected_as_airlines_gradually_recover_from_global_tech_outage 'More flight cancellations are expected as airlines gradually recover from global tech outage')
 
 - [Biden outraises and outspends Trump in June as questions loom about the president’s political future](https://new-news.github.io/Latest/2024/07/21/biden_outraises_and_outspends_trump_in_june_as_questions_loom_about_the_presidents_political_future 'Biden outraises and outspends Trump in June as questions loom about the president’s political future')
 
