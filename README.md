@@ -1,16 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-21 04:37:19`
+#### Latest Update : `2024-07-21 05:15:31`
 
 ## Latest News Grabbing 
 
 ---
 
+- [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
+
 - [Secret Service says it denied Trump additional resources even as his team complained](https://new-news.github.io/Latest/2024/07/21/secret_service_says_it_denied_trump_additional_resources_even_as_his_team_complained 'Secret Service says it denied Trump additional resources even as his team complained')
 
 - [Europe turns to conscription as threat of wider war with Russia grows](https://new-news.github.io/Latest/2024/07/21/europe_turns_to_conscription_as_threat_of_wider_war_with_russia_grows 'Europe turns to conscription as threat of wider war with Russia grows')
-
-- [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://new-news.github.io/Latest/2024/07/21/at_least_3_killed_and_87_injured__houthis_say__as_israeli_airstrikes_hit_yemen_day_after_tel_aviv_drone_attack 'At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack')
 
 - [Democratic consensus solidifies around Harris, should Biden step aside](https://new-news.github.io/Latest/2024/07/21/democratic_consensus_solidifies_around_harris__should_biden_step_aside 'Democratic consensus solidifies around Harris, should Biden step aside')
 
