@@ -1,6 +1,6 @@
 # Biden will not seek reelection; endorses Harris
 
-Published :`2024-07-21 22:13:39`
+Published :`2024-07-21 22:35:46`
 
 ---
 
@@ -12,7 +12,7 @@ Biden said he will speak to the nation later this week in more detail.
 
 In a follow-up post, Biden praised Harris and urged Democrats to unite behind her. “My very first decision as the party nominee in 2020 was to pick Kamala Harris as my Vice President,” Biden wrote. “And it’s been the best decision I’ve made. Today I want to offer my full support and endorsement for Kamala to be the nominee of our party this year.”
 
-Harris thanked Biden for his service and said he was “putting the American people and our country above everything else” in a statement later Sunday. “I am honored to have the President’s endorsement and my intention is to earn and win this nomination,” she said.
+Harris, who was informed of Biden’s decision Sunday, said in a statement that she was “honored to have the President’s endorsement and my intention is to earn and win this nomination.” She is spending the day reaching out to lawmakers, outside organizations and donors, and was slated to make up to 200 calls on Sunday alone, a top Democratic source close to her told CNN.
 
 Many prominent Democrats, including former President Bill Clinton and former Secretary of State Hillary Clinton, quickly came out in support of Harris, although some who released statements reacting to Biden’s decision did not mention the vice president, including former President Barack Obama.
 
@@ -22,7 +22,7 @@ An adviser said Obama is taking the same approach as he did in the 2020 Democrat
 
 Others explicitly called for an open process to determine who should replace Biden at the top of the ticket.
 
-Harris’ ascension to the top of the ticket isn’t a certainty .The nominee will now be determined by the delegates to the Democratic National Convention. While Biden won an overwhelming majority of the delegates during the primary process earlier this year, they are now free to choose a candidate of their choice and he cannot simply transfer them to Harris.
+Later Sunday, the Biden-Harris campaign formally amended its filings with the Federal Election Commission to rename its principal committee “Harris for President.” But Harris’ ascension to the top of the ticket isn’t a certainty. The nominee will now be determined by the delegates to the Democratic National Convention. While Biden won an overwhelming majority of the delegates during the primary process earlier this year, they are now free to choose a candidate of their choice and he cannot simply transfer them to Harris.
 
 Biden’s departure capped off weeks of concern about the 81-year-old president’s stamina and mental capabilities and skepticism of his ability to effectively campaign against former President Donald Trump and govern the country for another four years. While Biden said he is committed to serving out the remainder of his term, his decision sparked immediate calls from Republicans for him to step down as president. Trump said Biden “is not fit to serve” in a post on Truth Social.
 
@@ -78,7 +78,7 @@ Those conversation accelerated as Biden isolated at his beach home with Covid ov
 
 Many rank-and-file staff found out about Biden’s decision when the post came out.
 
-CNN’s Jeff Zeleny, Betsy Klein, Ethan Cohen and Phil Mattingly contributed to this report.
+CNN’s Jeff Zeleny, Betsy Klein, Ethan Cohen, Abby Phillip and Phil Mattingly contributed to this report.
 
 This story and headline have been updated with additional developments.
 
