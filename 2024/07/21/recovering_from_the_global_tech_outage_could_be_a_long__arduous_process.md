@@ -1,6 +1,6 @@
 # Recovering from the global tech outage could be a long, arduous process
 
-Published :`2024-07-21 07:37:26`
+Published :`2024-07-21 08:17:38`
 
 ---
 

@@ -1,6 +1,6 @@
 # Churchill Downs lifts Hall of Fame trainer Bob Baffert’s suspension after he admits wrongdoing
 
-Published :`2024-07-21 07:37:25`
+Published :`2024-07-21 08:17:37`
 
 ---
 
