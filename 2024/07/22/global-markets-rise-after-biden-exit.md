@@ -1,6 +1,6 @@
 # Global markets rise after Biden exit
 
-Published :`2024-07-22 14:14:50`
+Published :`2024-07-22 14:37:18`
 
 ---
 

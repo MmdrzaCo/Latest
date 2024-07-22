@@ -1,6 +1,6 @@
 # Secret Service says it denied Trump additional resources in recent years even as his team complained
 
-Published :`2024-07-22 14:14:52`
+Published :`2024-07-22 14:37:22`
 
 ---
 
