@@ -1,6 +1,6 @@
 # Harris will seek Democratic nomination and could be the first Black woman and Asian American to lead a major party ticket
 
-Published :`2024-07-22 18:19:58`
+Published :`2024-07-22 18:39:59`
 
 ---
 

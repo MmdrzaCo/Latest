@@ -1,6 +1,6 @@
 # Al Sharpton describes call from Harris on Sunday – and how different this was from the last time they spoke
 
-Published :`2024-07-22 18:19:57`
+Published :`2024-07-22 18:39:57`
 
 ---
 

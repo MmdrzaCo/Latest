@@ -1,6 +1,6 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-22 18:19:59`
+#### Latest Update : `2024-07-22 18:40:01`
 
 ## Latest News Grabbing 
 
@@ -9,6 +9,8 @@
 - [Jeffries and Schumer set to endorse Harris as soon as Monday as Pelosi throws her support behind the vice president](https://new-news.github.io/Latest/2024/07/22/jeffries-and-schumer-set-to-endorse-harris-as-soon-as-monday-as-pelosi-throws-her-support-behind-the-vice-president 'Jeffries and Schumer set to endorse Harris as soon as Monday as Pelosi throws her support behind the vice president')
 
 - [Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage](https://new-news.github.io/Latest/2024/07/22/hundreds-of-us-flights-are-canceled-for-the-4th-straight-day-heres-the-latest-on-the-global-tech-outage 'Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage')
+
+- [Charli XCX called Kamala Harris ‘brat.’ Here’s why that’s a strong endorsement for the candidate whose meme stock is bullish](https://new-news.github.io/Latest/2024/07/22/charli-xcx-called-kamala-harris-brat-heres-why-thats-a-strong-endorsement-for-the-candidate-whose-meme-stock-is-bullish 'Charli XCX called Kamala Harris ‘brat.’ Here’s why that’s a strong endorsement for the candidate whose meme stock is bullish')
 
 - [Takeaways from the House hearing with Secret Service Director Cheatle on the Trump assassination attempt](https://new-news.github.io/Latest/2024/07/22/takeaways-from-the-house-hearing-with-secret-service-director-cheatle-on-the-trump-assassination-attempt 'Takeaways from the House hearing with Secret Service Director Cheatle on the Trump assassination attempt')
 
@@ -33,8 +35,6 @@
 - [Six killed after gunman opens fire in Croatian care home, local media reports](https://new-news.github.io/Latest/2024/07/22/six-killed-after-gunman-opens-fire-in-croatian-care-home-local-media-reports 'Six killed after gunman opens fire in Croatian care home, local media reports')
 
 - [McDonald’s $5 value meal is staying on menus for a little while longer](https://new-news.github.io/Latest/2024/07/22/mcdonalds-5-value-meal-is-staying-on-menus-for-a-little-while-longer 'McDonald’s $5 value meal is staying on menus for a little while longer')
-
-- [Charli XCX called Kamala Harris ‘brat.’ Here’s why that’s a strong endorsement for the candidate whose meme stock is bullish](https://new-news.github.io/Latest/2024/07/22/charli-xcx-called-kamala-harris-brat-heres-why-thats-a-strong-endorsement-for-the-candidate-whose-meme-stock-is-bullish 'Charli XCX called Kamala Harris ‘brat.’ Here’s why that’s a strong endorsement for the candidate whose meme stock is bullish')
 
 - [Scientists discover ‘dark’ oxygen being produced more than 13,000 feet below the ocean surface](https://new-news.github.io/Latest/2024/07/22/scientists-discover-dark-oxygen-being-produced-more-than-13-000-feet-below-the-ocean-surface 'Scientists discover ‘dark’ oxygen being produced more than 13,000 feet below the ocean surface')
 

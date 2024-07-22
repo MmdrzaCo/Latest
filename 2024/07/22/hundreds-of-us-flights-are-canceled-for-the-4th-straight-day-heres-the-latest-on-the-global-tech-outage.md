@@ -1,6 +1,6 @@
 # Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage
 
-Published :`2024-07-22 18:19:57`
+Published :`2024-07-22 18:39:57`
 
 ---
 
@@ -22,7 +22,7 @@ While Delta says it plans to cover hotel, meal or ground transportation for affe
 
 DaSilva and Levine managed to find extended care for their dog back in Tucson only to have the air conditioning go out. Tucson is expected to hit a high of 104 degrees Monday. Now the couple is scrambling to find care for their dog somewhere out of the extreme heat.
 
-Denlinger said she believes the airline was not prepared for this situation, “and we’re justå kind of the guinea pigs to something truly catastrophic.”
+Denlinger said she believes the airline was not prepared for this situation, “and we’re just kind of the guinea pigs to something truly catastrophic.”
 
 The “largest IT outage in history” – prompted by a software update for Microsoft devices late Thursday into the early hours of Friday – impacted an estimated 8.5 million Windows devices worldwide, causing disorder at airports, outages for 911 services and challenges at health care facilities.
 
