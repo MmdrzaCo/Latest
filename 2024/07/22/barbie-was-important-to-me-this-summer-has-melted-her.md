@@ -1,6 +1,6 @@
 # ‘Barbie’ was important to me. This summer has melted her
 
-Published :`2024-07-22 07:14:46`
+Published :`2024-07-22 07:37:09`
 
 ---
 

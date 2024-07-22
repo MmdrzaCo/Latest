@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-22 07:14:54`
+#### Latest Update : `2024-07-22 07:37:12`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/22/israel-strikes-yemen-for-the-first-time-following-deadly-houthi-drone-attack-heres-what-we-know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
 
 - [World leaders react to Biden’s exit from the 2024 US presidential race](https://new-news.github.io/Latest/2024/07/22/world-leaders-react-to-bidens-exit-from-the-2024-us-presidential-race 'World leaders react to Biden’s exit from the 2024 US presidential race')
 
@@ -73,8 +75,6 @@
 - [Tadej Pogačar completes dominant Tour de France victory](https://new-news.github.io/Latest/2024/07/22/tadej-pogačar-completes-dominant-tour-de-france-victory 'Tadej Pogačar completes dominant Tour de France victory')
 
 - [Secret Service director to testify Monday on Trump shooting: What to know](https://new-news.github.io/Latest/2024/07/22/secret-service-director-to-testify-monday-on-trump-shooting-what-to-know 'Secret Service director to testify Monday on Trump shooting: What to know')
-
-- [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/22/israel-strikes-yemen-for-the-first-time-following-deadly-houthi-drone-attack-heres-what-we-know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
 
 - [Richard Simmons’ final social media post was quintessentially him](https://new-news.github.io/Latest/2024/07/22/richard-simmons-final-social-media-post-was-quintessentially-him 'Richard Simmons’ final social media post was quintessentially him')
 
