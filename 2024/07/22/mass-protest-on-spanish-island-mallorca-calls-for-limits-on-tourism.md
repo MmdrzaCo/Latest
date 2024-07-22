@@ -1,6 +1,6 @@
 # Mass protest on Spanish island Mallorca calls for ‘limits on tourism’
 
-Published :`2024-07-22 15:17:09`
+Published :`2024-07-22 15:37:14`
 
 ---
 
