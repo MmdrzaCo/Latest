@@ -1,6 +1,6 @@
 # Investigators believe Trump’s would-be assassin flew a drone over rally site on the day of the shooting
 
-Published :`2024-07-22 06:21:52`
+Published :`2024-07-22 06:41:15`
 
 ---
 
