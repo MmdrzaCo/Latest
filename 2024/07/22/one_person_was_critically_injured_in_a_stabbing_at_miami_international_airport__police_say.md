@@ -1,6 +1,6 @@
 # One person was critically injured in a stabbing at Miami International Airport, police say
 
-Published :`2024-07-22 03:37:39`
+Published :`2024-07-22 03:40:17`
 
 ---
 

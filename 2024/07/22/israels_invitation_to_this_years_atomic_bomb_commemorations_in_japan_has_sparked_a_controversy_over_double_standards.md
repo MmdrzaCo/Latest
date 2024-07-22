@@ -1,6 +1,6 @@
 # Israel’s invitation to this year’s atomic bomb commemorations in Japan has sparked a controversy over double standards
 
-Published :`2024-07-22 03:37:41`
+Published :`2024-07-22 03:40:19`
 
 ---
 
