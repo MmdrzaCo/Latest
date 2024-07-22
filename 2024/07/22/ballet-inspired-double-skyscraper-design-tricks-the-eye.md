@@ -1,6 +1,6 @@
 # Ballet-inspired double skyscraper design tricks the eye
 
-Published :`2024-07-22 21:36:32`
+Published :`2024-07-22 22:14:13`
 
 ---
 

@@ -1,6 +1,6 @@
 # Illinois Police release bodycam video of fatal shooting of Black woman in her home
 
-Published :`2024-07-22 21:36:31`
+Published :`2024-07-22 22:14:11`
 
 ---
 
@@ -30,17 +30,25 @@ Three shots are heard. After a few seconds of silence, one deputy says “shots 
 
 “Dude, I’m not taking f**king boiling water to the f**king head. And look, it came right to our feet, too,” Grayson says.
 
-Minutes after the shooting, Grayson speaks off-camera to another law enforcement figure. “She had boiling water and came at me with boiling water,” he says in the video. “She said she was going to rebuke me in the name of Jesus and came at me with boiling water.”
+Minutes after the shooting, Grayson speaks off-camera to another law enforcement figure. “She had boiling water and came at me with boiling water,” he says in the video. “She said she was going to rebuke me in the name of Jesus and came at (me) with boiling water.”
 
 CNN has reached out to Grayson’s attorney for comment.
 
 The release of the video comes about two weeks after the fatal shooting and just days after Grayson was charged in her death.
 
-Grayson, 30, was indicted by a grand jury last week on three counts of first-degree murder and one count each of aggravated battery with a firearm and official misconduct.
+Grayson, 30, was indicted by a grand jury last week on three counts of first-degree murder and one count each of aggravated battery with a firearm and official misconduct. He has entered a not guilty plea and was denied pretrial release, according to court records.
 
-He has entered a not guilty plea and was denied pretrial release, according to court records.
+Massey is one of a number of Black women who have been killed by police in their own homes in recent years, including Breonna Taylor and Atatiana Jefferson. In a news conference Monday afternoon, civil rights attorney Ben Crump, who represents Massey’s family, connected her death to other cases of police violence against Black people across the US.
+
+“Until we get justice for Sonya Massey, we rebuke this discriminatory criminal justice system in the name of Jesus,” he said.
+
+Crump said she had mental health challenges but was not aggressive toward the deputies.
+
+“She needed a helping hand,” he said. “She didn’t need a bullet to the face.”
 
 ### Officials criticize deputy’s actions
+
+Grayson did not activate his body camera until after he fatally shot Massey, according to charging documents. The other deputy had activated his body camera when he first arrived at the scene, the documents state.
 
 Since the shooting, local and state officials have criticized the deputy’s actions as an unjustified use of deadly force.
 
@@ -52,17 +60,25 @@ In a court document filed by the state last week, prosecutors said a “use-of-f
 
 The sheriff’s office said it has fired Grayson. “It is clear that the deputy did not act as trained or in accordance with our standards,” the office said.
 
+CNN experts offered similar analysis.
+
+“Effective policing comes down to good judgment in highly stressful situations,” said Josh Campbell, CNN security correspondent and former federal agent. “Although being doused with scalding water could warrant the use of deadly force by an officer to stop a threat, in this video we certainly don’t see officers attempting alternative options, such as moving away and creating distance between themselves and Massey.”
+
+“There were a number of ways to avoid this starting with better tactics from the outset,” said CNN Chief Law Enforcement and Intelligence Analyst John Miller, “but even if you forgive that and limit the observations to the last few seconds, there were still options of a calmer dialogue, more distance between the subject and them, a taser rather than a firearm.”
+
+### President Biden says family ‘deserves justice’
+
+President Joe Biden said in a statement Monday, Massey’s family “deserves justice.”
+
+“I am heartbroken for her children and her entire family as they face this unthinkable and senseless loss. Jill and I mourn with the rest of the country and our prayers are with Sonya’s family, loved ones, and community during this devastating time,” Biden said in a written statement.
+
+“I commend the swift actions that were taken by the Springfield State’s Attorney’s office. While we wait for the case to be prosecuted, let us pray to comfort the grieving. Congress must pass the George Floyd Justice in Policing Act now. Our fundamental commitment to justice is at stake,” the president added.
+
 Illinois Attorney General Kwame Raoul issued a statement Monday saying the footage was “horrific” and offering his sympathy to Massey’s family.
 
 “As the community reacts to the release of the footage, I urge calm as this matter works its way through the criminal justice system,” he said.
 
 “In Illinois we have made sure that the law mandates independent investigations after officer involved shootings. In this matter it appears that the investigation by the Illinois State Police and the subsequent referral to the Sangamon County State’s Attorney’s office have complied with the letter and spirit of the law by providing the appropriate transparency and moving toward accountability,” Raoul added.
-
-Civil rights attorney Ben Crump, who is representing Massey’s family, said she was unarmed and called for police to release all body-camera footage of the shooting.
-
-“While nothing can undo the heinous actions of this officer, we hope the scales of justice will continue to hold him accountable and we will demand transparency at every step,” he said in a statement last week.
-
-Grayson did not activate his body camera until after he fatally shot Massey, according to charging documents. The other deputy had activated his body camera when he first arrived at the scene, the documents state.
 
 This is a developing story and will be updated.
 

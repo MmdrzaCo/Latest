@@ -1,6 +1,6 @@
 # Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage
 
-Published :`2024-07-22 21:36:31`
+Published :`2024-07-22 22:14:11`
 
 ---
 
@@ -8,7 +8,7 @@ Hundreds of US flights were canceled Monday as carriers, particularly Delta Air 
 
 Delta is facing mounting pressure to get passengers back in the air, as it continues to rack up the majority of canceled US flights. US Transportation Secretary Pete Buttigieg has expressed frustration with the pace of Delta’s recovery and its CEO has apologized to affected travelers.
 
-Over 1,000 flights into, within or out of the United States were canceled by Monday afternoon, and over 5,500 were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by more than 4,400 cancellations since Friday, including more than 800 on Monday, by far the most of any airline.
+Over 1,000 flights into, within or out of the United States were canceled by Monday afternoon, and over 8,000 were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by more than 4,400 cancellations since Friday, including more than 850 on Monday, by far the most of any airline.
 
 Delta declined to comment on the numbers, but in an update to customers Sunday afternoon, CEO Ed Bas﻿tian said the company is working to restore operations for its customers.
 
@@ -26,7 +26,15 @@ While Delta says it plans to cover hotel, meal or ground transportation for affe
 
 DaSilva and Levine managed to find extended care for their dog back in Tucson only to have the air conditioning go out. Tucson is expected to hit a high of 104 degrees Monday. Now the couple is scrambling to find care for their dog somewhere out of the extreme heat.
 
-Denlinger said she believes the airline was not prepared for this situation, “and we’re just kind of the guinea pigs to something truly catastrophic.”
+Denlinger said she believes the airline was not prepared for this situation “and we’re just kind of the guinea pigs to something truly catastrophic.”
+
+Many stranded passengers are feeling the strain from days without access to their usual resources.
+
+Melissa Vestal, a North Carolina resident, told CNN affiliate WCCO on Monday she was running out of her prescription medicines after being stuck at the Minneapolis-St. Paul International Airport for the past three days.
+
+“I prepared for an extra day with my medications but then I quickly saw that there’s a possibility that I was going to be here a few days, so I’ve been rationing out my medicines,” Vestal said. “Actually, I don’t have any for today, so I’m hoping that we can find some luck today.”
+
+Vestal told WCCO she was flying home on Delta after a trip to Alaska when the outage hit, and she was running on little sleep after waiting for hours in lines for flights over the weekend. Regardless, Vestal praised Delta’s employees, calling them “angels,” and said she had a flight home booked for later Monday.
 
 The “largest IT outage in history” – prompted by a software update for Microsoft devices late Thursday into the early hours of Friday – impacted an estimated 8.5 million Windows devices worldwide, causing disorder at airports, outages for 911 services and challenges at health care facilities.
 
