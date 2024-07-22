@@ -1,6 +1,6 @@
 # At least 6 killed, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack
 
-Published :`2024-07-22 20:35:57`
+Published :`2024-07-22 21:14:41`
 
 ---
 

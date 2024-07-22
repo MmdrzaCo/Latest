@@ -1,10 +1,10 @@
 # Jeffries and Schumer set to endorse Harris soon as Pelosi throws her support behind the vice president
 
-Published :`2024-07-22 20:35:55`
+Published :`2024-07-22 21:14:38`
 
 ---
 
-Senate Majority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries, the top two Democratic leaders on Capitol Hill, will endorse Kamala Harris in her presidential bid as soon as Monday, according to multiple sources familiar with the decision.
+Senate Majority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries, the top two Democratic leaders on Capitol Hill, will soon endorse Kamala Harris in her presidential bid, according to multiple sources familiar with the decision.
 
 Jeffries told reporters Monday that he is “looking forward” to sitting down with Harris and Schumer but stopped short of endorsing her.
 
