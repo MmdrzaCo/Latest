@@ -1,16 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-22 06:41:17`
+#### Latest Update : `2024-07-22 07:14:54`
 
 ## Latest News Grabbing 
 
 ---
 
+- [World leaders react to Biden’s exit from the 2024 US presidential race](https://new-news.github.io/Latest/2024/07/22/world-leaders-react-to-bidens-exit-from-the-2024-us-presidential-race 'World leaders react to Biden’s exit from the 2024 US presidential race')
+
 - [Summer of devastating floods shows steep challenge for China as it grapples with extreme weather](https://new-news.github.io/Latest/2024/07/22/summer-of-devastating-floods-shows-steep-challenge-for-china-as-it-grapples-with-extreme-weather 'Summer of devastating floods shows steep challenge for China as it grapples with extreme weather')
 
 - [Veteran anti-whaling activist Paul Watson could be extradited to Japan after arrest in Greenland, his foundation says](https://new-news.github.io/Latest/2024/07/22/veteran-anti-whaling-activist-paul-watson-could-be-extradited-to-japan-after-arrest-in-greenland-his-foundation-says 'Veteran anti-whaling activist Paul Watson could be extradited to Japan after arrest in Greenland, his foundation says')
-
-- [World leaders react to Biden’s exit from the 2024 US presidential race](https://new-news.github.io/Latest/2024/07/22/world-leaders-react-to-bidens-exit-from-the-2024-us-presidential-race 'World leaders react to Biden’s exit from the 2024 US presidential race')
 
 - [Navy aviator scores first air-to-air victory by a US female fighter pilot](https://new-news.github.io/Latest/2024/07/22/navy-aviator-scores-first-air-to-air-victory-by-a-us-female-fighter-pilot 'Navy aviator scores first air-to-air victory by a US female fighter pilot')
 

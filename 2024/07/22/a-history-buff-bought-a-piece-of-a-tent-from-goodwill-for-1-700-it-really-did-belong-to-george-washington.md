@@ -1,6 +1,6 @@
 # A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington
 
-Published :`2024-07-22 06:41:14`
+Published :`2024-07-22 07:14:47`
 
 ---
 

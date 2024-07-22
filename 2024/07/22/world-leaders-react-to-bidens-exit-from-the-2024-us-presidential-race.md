@@ -1,6 +1,6 @@
 # World leaders react to Biden’s exit from the 2024 US presidential race
 
-Published :`2024-07-22 06:41:12`
+Published :`2024-07-22 07:14:44`
 
 ---
 
@@ -18,6 +18,8 @@ Canadian Prime Minister Justin Trudeau thanked Biden for being a “true friend�
 
 In a news conference, Australian Prime Minister Anthony Albanese said Biden deserves to be recognized for “once again not putting himself forward first, but giving his first consideration to being what he believes is in the interests of the United States of America, as he has done his whole public life.”
 
+“President Biden has dedicated his life to public service, and that is something that deserves much respect,” New Zealand Prime Minister Christopher Luxon said on X.
+
 Ukrainian President Volodymyr Zelensky thanked Biden for his “unwavering support” in his country’s war against Russia, which the US has backed with weapons, military aid and diplomatic support, despite backlash from Republicans.
 
 “Many strong decisions have been made in recent years and they will be remembered as bold steps taken by President Biden in response to challenging times,” Zelensky said on X. “We will always be thankful for President Biden’s leadership.”
@@ -32,11 +34,23 @@ Irish Taoiseach Simon Harris called Biden “a proud American with an Irish so
 
 Other leaders commended Biden for making what must have been a tough decision to drop out of the race.
 
+“My friend Joe Biden has achieved a lot: for his country, for Europe, for the world,” German chancellor Olaf Scholz wrote on X. “His decision not to run again deserves respect.”
+
 Speaking at a rally Sunday, Venezuelan President Nicolas Maduro said Biden made the “correct” decision and put his family and health first. He wished him “health and a long life.”
 
 Polish Prime Minister Donald Tusk wrote on X that Biden had made difficult decisions “thanks to which Poland, America and the world are safer, and democracy stronger.”
 
 “I know you were driven by the same motivations when announcing your final decision. Probably the most difficult one,” Tusk said.
+
+Leaders in South Korea and Japan said they would not comment about domestic politics in the US but emphasized the need to continue to work with the White House. Both nations have a mutual defense treaty with the United States and Biden was a major promoter of deepening ties between allies in Asia, in part to counter the growing assertiveness of China.
+
+“I recognize that President Biden’s decision is based on his desire to make the best possible political decision,” said Japanese Prime Minister Fumio Kishida. “The Japan-US alliance is the cornerstone of our nation’s diplomatic security, and we will continue to monitor it closely.”
+
+The office of South Korean President Yoon Suk Yeol said it will “continue to work closely with the US to further develop the South Korea-US global comprehensive strategic alliance.”
+
+Philippine President Ferdinand “Bongbong” Marcos JR said Biden’s “decision to withdraw from his candidacy is a demonstration of genuine statesmanship.”
+
+“We thank him for his constant and unwavering support for the Philippines in a delicate and difficult time,” he wrote on X. The Philippines, which is also a treaty ally of the US, has found itself increasingly confronting Chinese vessels in the South China Sea in recent years.
 
 There was no official word from Chinese leader Xi Jinping as of Monday morning local time.
 

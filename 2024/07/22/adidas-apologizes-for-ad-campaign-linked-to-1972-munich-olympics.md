@@ -1,6 +1,6 @@
 # Adidas apologizes for ad campaign linked to 1972 Munich Olympics
 
-Published :`2024-07-22 06:41:15`
+Published :`2024-07-22 07:14:50`
 
 ---
 
