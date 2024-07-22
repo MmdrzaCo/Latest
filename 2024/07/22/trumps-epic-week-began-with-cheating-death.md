@@ -1,6 +1,6 @@
 # Trump’s epic week began with cheating death
 
-Published :`2024-07-22 04:18:26`
+Published :`2024-07-22 04:38:38`
 
 ---
 

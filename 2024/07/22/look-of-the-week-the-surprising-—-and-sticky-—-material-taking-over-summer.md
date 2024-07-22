@@ -1,6 +1,6 @@
 # Look of the Week: The surprising — and sticky — material taking over summer
 
-Published :`2024-07-22 04:18:25`
+Published :`2024-07-22 04:38:37`
 
 ---
 
