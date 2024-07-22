@@ -1,10 +1,10 @@
 # You’re not going crazy — you may actually be paying higher prices than other people
 
-Published :`2024-07-22 12:56:41`
+Published :`2024-07-22 13:20:45`
 
 ---
 
-It’s hard not to get fired up at how much more everything costs compared to just a few years ago. But people making the same exact purchases as you aren’t necessarily paying the same exact prices as you.
+It’s hard not to get fired up by how much more everything costs compared to just a few years ago. But people making the same exact purchases as you aren’t necessarily paying the same exact prices as you.
 
 This became apparent to me a few weeks ago when a friend texted me that Starbucks was running a buy one, get one free drink promotion. But when I logged in to the app, the offer was nowhere to be found.
 
@@ -16,7 +16,7 @@ The system nailed it for me — just opening the app to check if I had the promo
 
 It’s impossible to say exactly how Starbucks’ systems made that correct judgment about me — though my past shopping behavior and the shopping behavior of similar customers were almost certainly factors, she said.
 
-The Seatle-based coffee chain declined to share what feeds into its AI model, dubbed Deep Brew. A spokesperson did, however, confirm that AI is powering the individualized offers it sends customers.
+The Seattle-based coffee chain declined to share what feeds into its AI model, dubbed Deep Brew. A spokesperson did, however, confirm that AI is powering the individualized offers it sends customers.
 
 This personalized pricing strategy is not unique to Starbucks. Companies are increasingly leveraging customer data, often derived from loyalty programs, in coordination with machine-learning models to uniquely price goods and services based on an individual’s willingness to pay.
 
@@ -44,7 +44,7 @@ Mary Winn Pilkington, senior vice president of investor relations and public rel
 
 The aim of partnering with Revionics wasn’t to see how high they can raise their prices without turning away too many customers, she said. Instead, it’s “to curate specific offers individualized for customers.” This, she said, “often leads to lower prices and better value on the products and services our customers need.”
 
-Of course, like in the case of my Starbucks experience, it could also very well lead to identifying customers who don’t require promotions at all.
+Of course, like my Starbucks experience, it could also very well lead to identifying customers who don’t require promotions at all.
 
 ---
 
