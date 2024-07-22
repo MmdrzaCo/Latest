@@ -1,6 +1,6 @@
 # The delegates will decide the next Democratic nominee as a groundswell forms for Harris
 
-Published :`2024-07-22 15:37:15`
+Published :`2024-07-22 16:19:18`
 
 ---
 

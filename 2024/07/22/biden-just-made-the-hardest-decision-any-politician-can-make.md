@@ -1,6 +1,6 @@
 # Biden just made the hardest decision any politician can make
 
-Published :`2024-07-22 15:37:15`
+Published :`2024-07-22 16:19:16`
 
 ---
 
@@ -8,7 +8,7 @@ President Joe Biden ran for reelection to save democracy. In the end, he came to
 
 Biden reached the decision to end his campaign after days in isolation at his Delaware beach house with Covid-19 and after watching many Democrats desert the president who led them to power just four years ago.
 
-In offering to hand over power in service of what he saw as the national interest, he struck a contrast with former President Donald Trump, who fought bitterly against leaving office after loosing a free and fair election to Biden in 2020. It’s ironic that Republicans who whitewashed Trump’s election-stealing effort are now accusing Democrats of crushing the will of primary voters who voted for the president’s reelection bid.
+In offering to hand over power in service of what he saw as the national interest, he struck a contrast with former President Donald Trump, who fought bitterly against leaving office after losing a free and fair election to Biden in 2020. It’s ironic that Republicans who whitewashed Trump’s election-stealing effort are now accusing Democrats of crushing the will of primary voters who voted for the president’s reelection bid.
 
 “It has been the greatest honor of my life to serve as your President,” Biden said in a letter he posted to X on Sunday afternoon. “And while it has been my intention to seek reelection, I believe it is in the best interest of my party and the country for me to stand down and to focus solely on fulfilling my duties as President for the remainder of my term.”
 

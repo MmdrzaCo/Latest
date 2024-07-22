@@ -1,6 +1,6 @@
 # Harris marches toward Democratic nomination as potential rivals endorse her
 
-Published :`2024-07-22 15:37:14`
+Published :`2024-07-22 16:19:16`
 
 ---
 
@@ -23,6 +23,10 @@ And several state delegations to next month’s Democratic National Convention �
 Support for the vice president came across the party’s ideological spectrum — from moderate populists, including Ohio Sen. Sherrod Brown, one of the most endangered Democratic incumbents on the ballot this fall, to progressives, including Massachusetts Sen. Elizabeth Warren and New York Rep. Alexandria Ocasio-Cortez.
 
 Democratic congressional leaders had remained quiet so far — but there were signs that could soon change. Massachusetts Rep. Katherine Clark and California Rep. Pete Aguilar, the second- and third-ranking House Democrats, endorsed Harris on Monday morning.
+
+The hour-by-hour endorsements of Harris from Democratic governors, senators, Cabinet officials and state delegations is unfolding by design, with the hope of reaching a majority of delegates by Wednesday, two people familiar with the process tell CNN.
+
+“It’s a coordinated drumbeat,” a senior Democratic aide working on the effort said. “That sound Democrats hear is the party uniting around the vice president.”
 
 ### How Harris and her allies mobilized
 
@@ -74,7 +78,15 @@ And he offered a stirring endorsement of Harris’ fitness to lead the ticket, u
 
 As of mid-morning Monday, as the swell of support for Harris continued to build, the biggest question might have been who she will choose as a running mate.
 
-Beshear, the two-term Kentucky governor, announced his support for Harris on MSNBC on Monday morning — and said he is open to joining Harris as her potential running mate, noting it’s “flattering to be a part” of the conversation about the vice-presidential nomination.
+Democratic lawyers are beginning their work conducting a deep, yet truncated, vetting process for potential vice presidential hopefuls, two people familiar with the matter told CNN, with siloed teams being established for the leading prospective candidates.
+
+Cooper, Shapiro and Arizona Sen. Mark Kelly are among the Democrats who have been asked to submit information about their finances, family histories and other personal details, two people familiar with the process said. They are part of a group that includes about 10 names, nearly all of whom are elected officials.
+
+A handful of Democratic lawyers, including those who have worked on vice presidential vetting processes in the past, are involved in this effort.
+
+The audition process is also playing out in public, with Cooper and Beshear appearing on MSNBC’s “Morning Joe” on Monday — with the intent that Harris was watching. An aide said she caught at least part of the conversations.
+
+Beshear, the two-term Kentucky governor, announced his support for Harris — and said he is open to joining Harris as her potential running mate, noting it’s “flattering to be a part” of the conversation about the vice-presidential nomination.
 
 He also offered a window into how he’d play the traditional attack-dog role of a running mate. At multiple points in the interview, Beshear attacked Republican vice presidential nominee JD Vance, who has family ties to Beshear’s home state of Kentucky.
 

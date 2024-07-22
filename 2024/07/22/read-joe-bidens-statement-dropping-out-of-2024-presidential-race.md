@@ -1,6 +1,6 @@
 # READ: Joe Biden’s statement dropping out of 2024 presidential race
 
-Published :`2024-07-22 15:37:15`
+Published :`2024-07-22 16:19:20`
 
 ---
 

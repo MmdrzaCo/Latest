@@ -1,6 +1,6 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-22 15:37:17`
+#### Latest Update : `2024-07-22 16:19:28`
 
 ## Latest News Grabbing 
 
@@ -9,6 +9,8 @@
 - [Scientists discover ‘dark’ oxygen being produced more than 13,000 feet below the ocean surface](https://new-news.github.io/Latest/2024/07/22/scientists-discover-dark-oxygen-being-produced-more-than-13-000-feet-below-the-ocean-surface 'Scientists discover ‘dark’ oxygen being produced more than 13,000 feet below the ocean surface')
 
 - [Harris marches toward Democratic nomination as potential rivals endorse her](https://new-news.github.io/Latest/2024/07/22/harris-marches-toward-democratic-nomination-as-potential-rivals-endorse-her 'Harris marches toward Democratic nomination as potential rivals endorse her')
+
+- [Biden just made the hardest decision any politician can make](https://new-news.github.io/Latest/2024/07/22/biden-just-made-the-hardest-decision-any-politician-can-make 'Biden just made the hardest decision any politician can make')
 
 - [What are your questions about the presidential election now that Biden is out?](https://new-news.github.io/Latest/2024/07/22/what-are-your-questions-about-the-presidential-election-now-that-biden-is-out 'What are your questions about the presidential election now that Biden is out?')
 
@@ -71,8 +73,6 @@
 - [Inside Biden’s unprecedented exit from the presidential race](https://new-news.github.io/Latest/2024/07/22/inside-bidens-unprecedented-exit-from-the-presidential-race 'Inside Biden’s unprecedented exit from the presidential race')
 
 - [Trump’s team is already on the attack against Harris](https://new-news.github.io/Latest/2024/07/22/trumps-team-is-already-on-the-attack-against-harris 'Trump’s team is already on the attack against Harris')
-
-- [Biden just made the hardest decision any politician can make](https://new-news.github.io/Latest/2024/07/22/biden-just-made-the-hardest-decision-any-politician-can-make 'Biden just made the hardest decision any politician can make')
 
 - [As dozens of Hill Democrats back Harris, here’s why key Democratic leaders haven’t yet weighed in](https://new-news.github.io/Latest/2024/07/22/as-dozens-of-hill-democrats-back-harris-heres-why-key-democratic-leaders-havent-yet-weighed-in 'As dozens of Hill Democrats back Harris, here’s why key Democratic leaders haven’t yet weighed in')
 
