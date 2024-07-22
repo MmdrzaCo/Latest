@@ -1,6 +1,6 @@
 # Harris marches toward Democratic nomination as potential rivals endorse her
 
-Published :`2024-07-22 20:15:58`
+Published :`2024-07-22 20:35:55`
 
 ---
 
@@ -12,7 +12,9 @@ And the party’s best-known governors, several of whom had been seen as potenti
 
 Four governors of must-win Midwestern states — Michigan’s Gretchen Whitmer, Minnesota’s Tim Walz, Wisconsin’s Tony Evers and Illinois’ JB Pritzker — endorsed Harris on Monday. They followed Sunday endorsements of Harris from Kentucky’s Andy Beshear, North Carolina’s Roy Cooper, California’s Gavin Newsom and Pennsylvania’s Josh Shapiro. Many of those governors could be considered for the party’s vice presidential nomination.
 
-In her first half-day as a candidate, Harris raised $49.6 million in online donations, campaign spokeswoman Lauren Hitt said — a huge haul that underscored grassroots enthusiasm for a shake-up to the Democratic 2024 ticket. Democratic donation-processing site ActBlue called it “the biggest fundraising day of the 2024 cycle.” The Democratic super PAC Future Forward secured $150 million in commitments from donors in the 24 hours after Biden announced his decision, a senior aide to the group said. The commitments came from donors who were either uncommitted, unsure or previously stalled, the aide added.
+In her first day as a candidate, Harris raised $81 million, the campaign announced Monday — a huge haul that underscored grassroots enthusiasm for a shake-up to the Democratic 2024 ticket. According to the campaign, more than 880,000 “grassroots supporters” donated, with 60% making their first contributions of the 2024 cycle.
+
+Democratic donation-processing site ActBlue called it “the biggest fundraising day of the 2024 cycle.” The Democratic super PAC Future Forward secured $150 million in commitments from donors in the 24 hours after Biden announced his decision, a senior aide to the group said. The commitments came from donors who were either uncommitted, unsure or previously stalled, the aide added.
 
 Meanwhile, the cascade of endorsements for Harris’ candidacy that had begun Sunday afternoon was accelerating on Capitol Hill. Harris has the support of more than 30 Democratic senators and more than 80 House members — numbers that had grown rapidly throughout Monday morning. A significant one came from former House Speaker Nancy Pelosi, who said in a Monday afternoon statement that her “enthusiastic support for Kamala Harris for President is official, personal and political.”
 
