@@ -1,6 +1,6 @@
 # Costs from the global outage could top $1 billion – but who pays the bill is harder to understand
 
-Published :`2024-07-22 05:37:39`
+Published :`2024-07-22 06:21:50`
 
 ---
 

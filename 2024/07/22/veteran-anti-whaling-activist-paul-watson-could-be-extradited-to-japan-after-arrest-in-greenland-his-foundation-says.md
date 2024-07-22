@@ -1,22 +1,22 @@
 # Veteran anti-whaling activist Paul Watson could be extradited to Japan after arrest in Greenland, his foundation says
 
-Published :`2024-07-22 05:37:38`
+Published :`2024-07-22 06:21:47`
 
 ---
 
 Veteran environmentalist Paul Watson was arrested in Greenland on Sunday and faces possible extradition to Japan allegedly over anti-whaling activities in the Antarctic years ago, his organization said in a statement.
 
-The 73-year-old American-Canadian dual national was detained by Danish police when his ship docked in the Greenland capital Nuuk to refuel, according to the Captain Paul Watson Foundation (CPWF).
+The 73-year-old Canadian-American dual national was detained by police when his ship docked in the Greenland capital Nuuk to refuel, according to the Captain Paul Watson Foundation (CPWF) and Greenland police.
 
-The ship John Paul DeJoria and a 25-member crew were en route from Dublin, Ireland to the North Pacific to intercept Japan’s newly launched $48 million factory whaling ship the Kangei Maru, the organization said.
+The ship John Paul DeJoria and a 25-member crew were en route from Dublin, Ireland to the North Pacific to intercept Japan’s newly launched $48 million factory whaling ship the Kangei Maru, CPWF said.
 
-“We were immediately boarded by a SWAT team and Danish police who wasted no time in cuffing Paul Watson, our founder, and arresting him on a decades old Red Notice at the request of Japan,” Ship Operations Director Locky MacLean said in a video message onboard the John Paul DeJoria.
+“We were immediately boarded by a SWAT team and … police who wasted no time in cuffing Paul Watson, our founder, and arresting him on a decades old Red Notice at the request of Japan,” Ship Operations Director Locky MacLean said in a video message onboard the John Paul DeJoria.
 
-In the video, police can be seen boarding the vessel and leading Watson away in handcuffs.
+Police can be seen boarding the vessel and leading Watson away in handcuffs in the video.
 
-CNN has reached out to the Danish Police in Greenland for comment. Citing a police statement, the Associated Press reported that Watson will be brought before a district court with a request to detain him before a decision is made on his possible extradition to Japan.
+In a statement, Greenland police said they arrested Watson upon his arrival in Nuuk due to a Japanese arrest warrant. He will be brought before a district court with a request to detain him while a decision is made on his possible extradition to Japan, police added.
 
-Watson’s foundation believes the arrest “is connected to a previous Red Notice issued for Watson’s anti-whaling activities in the Antarctic.”
+His foundation believes the arrest “is connected to a previous Red Notice issued for Watson’s anti-whaling activities in the Antarctic.”
 
 “This development comes as a surprise since the Foundation’s lawyers had reported that the Red Notice had been withdrawn. However, it appears that Japan had made the notice confidential to facilitate Paul’s travel for the purpose of making an arrest,” the statement continued.
 
