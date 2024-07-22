@@ -1,22 +1,32 @@
 # Harris marches toward Democratic nomination as potential rivals endorse her
 
-Published :`2024-07-22 22:36:28`
+Published :`2024-07-22 23:14:44`
 
 ---
 
 Vice President Kamala Harris is marching to the Democratic nomination as broad swaths of the party — including potential rivals, lawmakers, governors, influential labor and advocacy groups and more — line up behind her bid to take on Donald Trump.
 
-No credible challenger had emerged by late Monday morning, nearly a full day after President Joe Biden had announced his exit from the race and his endorsement of his vice president.
+No credible challenger emerged Monday, the day after President Joe Biden had announced his exit from the race and his endorsement of his vice president.
 
 And the party’s best-known governors, several of whom had been seen as potential challengers, announced their support for Harris — making clear that the biggest remaining question about the 2024 Democratic ticket is who Harris will choose as her running mate.
 
-Four governors of must-win Midwestern states — Michigan’s Gretchen Whitmer, Minnesota’s Tim Walz, Wisconsin’s Tony Evers and Illinois’ JB Pritzker — endorsed Harris on Monday. They followed Sunday endorsements of Harris from Kentucky’s Andy Beshear, North Carolina’s Roy Cooper, California’s Gavin Newsom and Pennsylvania’s Josh Shapiro. Many of those governors could be considered for the party’s vice presidential nomination.
+Harris staked her claim on the party’s standard-bearer role with an electric speech Monday evening, as she visited the campaign’s headquarters in Delaware.
+
+The vice president informed staffers who had been working for the Biden-led campaign that they’d remain onboard — and that campaign chair Jen O’Malley Dillon and campaign manager Julie Chávez Rodríguez would remain at the helm.
+
+And she laid out her case against Trump, invoking a host of the former president’s scandals and legal troubles.
+
+She pointed to her time as a district attorney and California attorney general, saying that she “took on perpetrators of all kinds.”
+
+“Predators who abused women, fraudsters who ripped off consumers, cheaters who broke the rules for their own game,” Harris said. “So hear me when I say, I know Donald Trump’s type.”
 
 In her first day as a candidate, Harris raised $81 million, the campaign announced Monday, saying it was the largest 24-hour raise by any candidate ever. The huge haul underscored grassroots enthusiasm for a shake-up to the Democratic 2024 ticket. According to the campaign, more than 880,000 “grassroots supporters” donated, with 60% making their first contributions of the 2024 cycle.
 
 Democratic donation-processing site ActBlue called it “the biggest fundraising day of the 2024 cycle.” The Democratic super PAC Future Forward secured $150 million in commitments from donors in the 24 hours after Biden announced his decision, a senior aide to the group said. The commitments came from donors who were either uncommitted, unsure or previously stalled, the aide added.
 
-Meanwhile, the cascade of endorsements for Harris’ candidacy that had begun Sunday afternoon was accelerating on Capitol Hill. Harris has the support of more than 30 Democratic senators and more than 80 House members — numbers that had grown rapidly throughout Monday morning. A significant one came from former House Speaker Nancy Pelosi, who said in a Monday afternoon statement that her “enthusiastic support for Kamala Harris for President is official, personal and political.”
+Four governors of must-win Midwestern states — Michigan’s Gretchen Whitmer, Minnesota’s Tim Walz, Wisconsin’s Tony Evers and Illinois’ JB Pritzker — have endorsed Harris. They join endorsements from Kentucky’s Andy Beshear, North Carolina’s Roy Cooper, California’s Gavin Newsom and Pennsylvania’s Josh Shapiro. Many of those governors could be considered for the party’s vice presidential nomination.
+
+Meanwhile, the cascade of endorsements for Harris’ candidacy that had begun Sunday afternoon was accelerating on Capitol Hill. Harris has the support of more than 40 Democratic senators and nearly 100 House members — numbers that had grown rapidly throughout Monday morning. A significant one came from former House Speaker Nancy Pelosi, who said in a Monday afternoon statement that her “enthusiastic support for Kamala Harris for President is official, personal and political.”
 
 Senate Majority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries, the top-ranking Democrats in each chamber, were set to endorse Harris soon, according to multiple sources familiar with the decision.
 

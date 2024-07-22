@@ -1,6 +1,6 @@
 # The 25 days that unraveled Biden’s campaign
 
-Published :`2024-07-22 22:36:34`
+Published :`2024-07-22 23:14:47`
 
 ---
 

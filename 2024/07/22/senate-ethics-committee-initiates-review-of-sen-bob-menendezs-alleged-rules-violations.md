@@ -1,6 +1,6 @@
 # Senate Ethics Committee initiates review of Sen. Bob Menendez’s alleged rules violations
 
-Published :`2024-07-22 22:36:29`
+Published :`2024-07-22 23:14:44`
 
 ---
 
