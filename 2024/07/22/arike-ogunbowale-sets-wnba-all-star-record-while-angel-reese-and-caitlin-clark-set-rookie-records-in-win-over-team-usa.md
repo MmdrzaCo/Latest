@@ -1,6 +1,6 @@
 # Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA
 
-Published :`2024-07-22 05:16:06`
+Published :`2024-07-22 05:37:39`
 
 ---
 
