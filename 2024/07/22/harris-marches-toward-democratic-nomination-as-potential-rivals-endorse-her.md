@@ -1,6 +1,6 @@
 # Harris marches toward Democratic nomination as potential rivals endorse her
 
-Published :`2024-07-22 17:13:43`
+Published :`2024-07-22 17:37:02`
 
 ---
 
