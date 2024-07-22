@@ -1,6 +1,6 @@
 # Europe turns to conscription as threat of wider war with Russia grows
 
-Published :`2024-07-22 02:49:19`
+Published :`2024-07-22 03:18:03`
 
 ---
 
