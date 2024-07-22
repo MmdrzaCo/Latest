@@ -1,14 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-22 09:19:34`
+#### Latest Update : `2024-07-22 09:37:48`
 
 ## Latest News Grabbing 
 
 ---
 
-- [World leaders react to Biden’s exit from the 2024 US presidential race](https://new-news.github.io/Latest/2024/07/22/world-leaders-react-to-bidens-exit-from-the-2024-us-presidential-race 'World leaders react to Biden’s exit from the 2024 US presidential race')
-
 - [Secret Service director to testify Monday on Trump shooting: What to know](https://new-news.github.io/Latest/2024/07/22/secret-service-director-to-testify-monday-on-trump-shooting-what-to-know 'Secret Service director to testify Monday on Trump shooting: What to know')
+
+- [World leaders react to Biden’s exit from the 2024 US presidential race](https://new-news.github.io/Latest/2024/07/22/world-leaders-react-to-bidens-exit-from-the-2024-us-presidential-race 'World leaders react to Biden’s exit from the 2024 US presidential race')
 
 - [Inflation, jobs and labor: The economy a new Democratic nominee will face](https://new-news.github.io/Latest/2024/07/22/inflation-jobs-and-labor-the-economy-a-new-democratic-nominee-will-face 'Inflation, jobs and labor: The economy a new Democratic nominee will face')
 

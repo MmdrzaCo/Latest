@@ -1,12 +1,16 @@
 # Secret Service director to testify Monday on Trump shooting: What to know
 
-Published :`2024-07-22 09:19:30`
+Published :`2024-07-22 09:37:47`
 
 ---
 
 When United States Secret Service Director Kimberly Cheatle appears Monday in front of the House Oversight Committee – alone and under subpoena – she will be forced to provide many answers to what is essentially a single question: How did the Secret Service’s biggest failure in four decades happen under her watch?
 
 In the days following the attempted assassination of former President Donald Trump, Cheatle has done no press conferences and very few interviews. Monday’s hearing will mark the first opportunity for a lengthy dive into the security failures at Trump’s July 13 rally.
+
+“The Secret Service’s solemn mission is to protect our nation’s leaders. On July 13th, we failed,” the director is expected to tell lawmakers, according to prepared remarks reviewed by CNN. “As the Director of the United States Secret Service, I take full responsibility for any security lapse.”
+
+The agency, Cheatle is expected to say, “must learn what happened and I will move heaven and earth to ensure an incident like July 13th does not happen again. Thinking about what we should have done differently is never far from my thoughts.”
 
 House Oversight Chairman James Comer on Sunday promised the hearing would be extensive and detailed.
 
@@ -21,6 +25,10 @@ In the week since the rally in Butler, Pennsylvania, relatively little has come 
 Republican lawmakers in particular have been upset with the lack of answers, and many have called for Cheatle’s resignation.
 
 Cheatle has said that “the buck stops with me,” but there has also been finger pointing between the Secret Service and local law enforcement over who had responsibility for what and whether all the resources needed were present.
+
+She is expected to say in her remarks Monday that the agency’s mission “is not political.”
+
+“It is literally a matter of life and death, as the tragic events on July 13th remind us. I have full confidence in the men and women of the Secret Service. They are worthy of our support in executing our protective mission.”
 
 Here’s what to watch for:
 
@@ -96,7 +104,7 @@ Rep. Brendan Boyle, a Pennsylvania Democrat, also said Cheatle needs to leave.
 
 This story has been updated with additional comments.
 
-CNN’s Kristen Holmes, Holmes Lybrand and Aileen Graef contributed to this report.
+CNN’s Evan Perez, Kristen Holmes, Holmes Lybrand and Aileen Graef contributed to this report.
 
 ---
 

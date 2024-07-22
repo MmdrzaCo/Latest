@@ -1,6 +1,6 @@
 # At least 13 killed in Israeli airstrikes on Nuseirat camp in central Gaza
 
-Published :`2024-07-22 09:19:33`
+Published :`2024-07-22 09:37:48`
 
 ---
 
