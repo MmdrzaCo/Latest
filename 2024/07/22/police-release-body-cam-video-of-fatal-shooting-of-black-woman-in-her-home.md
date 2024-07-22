@@ -1,6 +1,6 @@
 # Police release body-cam video of fatal shooting of Black woman in her home
 
-Published :`2024-07-22 19:12:49`
+Published :`2024-07-22 19:36:16`
 
 ---
 
@@ -23,6 +23,8 @@ The sheriff’s office said it has fired Grayson. “It is clear that the deputy
 Grayson has entered a not guilty plea and was denied pretrial release, according to court records.
 
 Grayson did not activate his body camera until after he fatally shot Massey, according to charging documents. The other deputy, who was checking the house during the discussion over the pot of water, had activated his body camera when he first arrived at the scene, the documents state.
+
+CNN has reached out to Grayson’s attorney for comment.
 
 Civil rights attorney Ben Crump, who is representing Massey’s family, said she was unarmed and called for police to release all body camera footage of the shooting.
 

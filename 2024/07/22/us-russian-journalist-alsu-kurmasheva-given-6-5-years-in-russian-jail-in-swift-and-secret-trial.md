@@ -1,6 +1,6 @@
 # US-Russian journalist Alsu Kurmasheva given 6.5 years in Russian jail in swift and secret trial
 
-Published :`2024-07-22 19:12:50`
+Published :`2024-07-22 19:36:16`
 
 ---
 
@@ -25,6 +25,12 @@ Before her conviction, Butorin told CNN he was “so confident that she would ge
 Butorin told CNN that Kurmasheva had traveled to Russia to see her mother in May 2023, but was detained at the airport when trying to return home to Prague in early June. After her passports were taken, she was fined and placed under de facto – and then formal – house arrest for months, before being charged in December.
 
 Butorin had asked that the US government also declare Kurmasheva as wrongfully detained, as it has done for Gershkovich – the first American journalist to be arrested on espionage charges in Russia since the Cold War.
+
+State Department spokesperson Matthew Miller on Monday called for Kurmasheva to be released.
+
+Speaking at a State Department briefing, Miller called Kurmasheva a “dedicated journalist who is being targeted by Russian authorities for her uncompromising commitment to speaking the truth and her principled reporting.”
+
+“Journalism is not a crime, as you have heard us say on a number of occasions, and we continue to make very clear that she should be released,” he said.
 
 ---
 
