@@ -1,6 +1,6 @@
 # What we know 4 days after a software update brought down computer systems around the world
 
-Published :`2024-07-22 10:16:07`
+Published :`2024-07-22 10:38:10`
 
 ---
 
