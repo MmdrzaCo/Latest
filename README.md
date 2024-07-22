@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-22 21:14:41`
+#### Latest Update : `2024-07-22 21:36:33`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Harris marches toward Democratic nomination as potential rivals endorse her](https://new-news.github.io/Latest/2024/07/22/harris-marches-toward-democratic-nomination-as-potential-rivals-endorse-her 'Harris marches toward Democratic nomination as potential rivals endorse her')
 
 - [Polling suggests Harris might be able to outperform Biden against Trump among these groups](https://new-news.github.io/Latest/2024/07/22/polling-suggests-harris-might-be-able-to-outperform-biden-against-trump-among-these-groups 'Polling suggests Harris might be able to outperform Biden against Trump among these groups')
 
@@ -17,8 +19,6 @@
 - [Jeffries and Schumer set to endorse Harris soon as Pelosi throws her support behind the vice president](https://new-news.github.io/Latest/2024/07/22/jeffries-and-schumer-set-to-endorse-harris-soon-as-pelosi-throws-her-support-behind-the-vice-president 'Jeffries and Schumer set to endorse Harris soon as Pelosi throws her support behind the vice president')
 
 - [A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened](https://new-news.github.io/Latest/2024/07/22/a-global-tech-outage-brought-many-computer-systems-and-businesses-to-a-screeching-halt-heres-what-happened 'A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened')
-
-- [Harris marches toward Democratic nomination as potential rivals endorse her](https://new-news.github.io/Latest/2024/07/22/harris-marches-toward-democratic-nomination-as-potential-rivals-endorse-her 'Harris marches toward Democratic nomination as potential rivals endorse her')
 
 - [Chadwick Boseman’s last tweet before he died was in support of Kamala Harris](https://new-news.github.io/Latest/2024/07/22/chadwick-bosemans-last-tweet-before-he-died-was-in-support-of-kamala-harris 'Chadwick Boseman’s last tweet before he died was in support of Kamala Harris')
 

@@ -1,6 +1,6 @@
 # Oscar Piastri wins his first ever F1 Grand Prix in Hungary in tense race highlighted by McLaren team drama
 
-Published :`2024-07-22 21:14:39`
+Published :`2024-07-22 21:36:32`
 
 ---
 

@@ -1,6 +1,6 @@
 # Harris marches toward Democratic nomination as potential rivals endorse her
 
-Published :`2024-07-22 21:14:38`
+Published :`2024-07-22 21:36:31`
 
 ---
 
@@ -12,7 +12,7 @@ And the party’s best-known governors, several of whom had been seen as potenti
 
 Four governors of must-win Midwestern states — Michigan’s Gretchen Whitmer, Minnesota’s Tim Walz, Wisconsin’s Tony Evers and Illinois’ JB Pritzker — endorsed Harris on Monday. They followed Sunday endorsements of Harris from Kentucky’s Andy Beshear, North Carolina’s Roy Cooper, California’s Gavin Newsom and Pennsylvania’s Josh Shapiro. Many of those governors could be considered for the party’s vice presidential nomination.
 
-In her first day as a candidate, Harris raised $81 million, the campaign announced Monday — a huge haul that underscored grassroots enthusiasm for a shake-up to the Democratic 2024 ticket. According to the campaign, more than 880,000 “grassroots supporters” donated, with 60% making their first contributions of the 2024 cycle.
+In her first day as a candidate, Harris raised $81 million, the campaign announced Monday, saying it was the largest 24-hour raise by any candidate ever. The huge haul underscored grassroots enthusiasm for a shake-up to the Democratic 2024 ticket. According to the campaign, more than 880,000 “grassroots supporters” donated, with 60% making their first contributions of the 2024 cycle.
 
 Democratic donation-processing site ActBlue called it “the biggest fundraising day of the 2024 cycle.” The Democratic super PAC Future Forward secured $150 million in commitments from donors in the 24 hours after Biden announced his decision, a senior aide to the group said. The commitments came from donors who were either uncommitted, unsure or previously stalled, the aide added.
 
