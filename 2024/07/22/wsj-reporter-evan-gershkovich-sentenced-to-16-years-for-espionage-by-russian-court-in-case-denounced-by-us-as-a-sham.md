@@ -1,6 +1,6 @@
 # WSJ reporter Evan Gershkovich sentenced to 16 years for espionage by Russian court in case denounced by US as a sham
 
-Published :`2024-07-22 03:42:19`
+Published :`2024-07-22 03:44:46`
 
 ---
 
