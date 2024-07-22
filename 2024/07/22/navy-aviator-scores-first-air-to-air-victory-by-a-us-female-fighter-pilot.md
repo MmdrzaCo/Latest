@@ -1,6 +1,6 @@
 # Navy aviator scores first air-to-air victory by a US female fighter pilot
 
-Published :`2024-07-22 04:38:36`
+Published :`2024-07-22 05:16:05`
 
 ---
 
@@ -16,7 +16,7 @@ The Swordsmen, one of four strike fighter squadrons that deployed on the Eisenho
 
 “During one mission, VFA-32 became home to the first American female pilot to engage and kill an air-to-air contact,” it said.
 
-The first air-to-ail victory by a female pilot comes 30 years after Lt. Kara Hultgreen became the first carrier-based female fighter pilot in the Navy, flying the F-14 Tomcat off the USS Abraham Lincoln that year. Female aviators also joined the Eisenhower in 1994.
+The first air-to-air victory by a female pilot comes 30 years after Lt. Kara Hultgreen became the first carrier-based female fighter pilot in the Navy, flying the F-14 Tomcat off the USS Abraham Lincoln that year. Female aviators also joined the Eisenhower in 1994.
 
 The Eisenhower-led carrier strike group returned to US bases on July 14 after a nine-month deployment, an exceptionally lengthy deployment for a carrier. Normal deployments last about six to eight months.
 
