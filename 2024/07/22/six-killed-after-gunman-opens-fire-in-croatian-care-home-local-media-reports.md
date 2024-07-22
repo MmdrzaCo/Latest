@@ -1,14 +1,16 @@
 # Six killed after gunman opens fire in Croatian care home, local media reports
 
-Published :`2024-07-22 16:19:16`
+Published :`2024-07-22 16:40:56`
 
 ---
 
 At least six people died after a gunman entered a home for the elderly in Croatia on Monday and started shooting, according to the country’s public broadcaster.
 
-A man with a firearm entered a private home for the elderly in the town of Daruvar, about 75 miles east of the capital Zagreb, and opened fire at those who were present, Croatian Radiotelevision (HRT) reported.
+A man with a firearm entered a private home for the elderly in the town of Daruvar – about 75 miles east of the capital Zagreb – and opened fire at those who were present, Croatian Radiotelevision (HRT) reported. Six people were also injured during the shooting, it said, quoting police.
 
-Several people were also injured during the shooting, HRT said, without providing the exact number.
+Five of those killed were residents of the home and one person was an employee, Croatian police chief Nikola Milina told reporters from Daruvar, HRT reported.
+
+The gunman had had previous encounters with authorities, was a member of a military police unit, and had a short firearm that hadn’t been registered, Milina said, adding it is too early to talk about a motive.
 
 Five of the victims died immediately, according to HRT. State news agency HINA has reported that some of those injured were receiving medical assistance in the hours after the shooting.
 

@@ -1,26 +1,24 @@
 # Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage
 
-Published :`2024-07-22 16:19:16`
+Published :`2024-07-22 16:40:57`
 
 ---
 
-Hundreds of US flights were canceled early Monday, as carriers, particularly Delta Air Lines, work to recover four days after a global tech outage caused massive delays and left travelers stranded at airports around the nation.
+Hundreds of US flights were canceled Monday, as carriers, particularly Delta Air Lines, work to recover four days after a global tech outage caused massive delays and left travelers stranded at airports around the nation.
 
 Delta is facing mounting pressure to get passengers back in the air, as it continues to rack up the majority of canceled US flights. US Transportation Secretary Pete Buttigieg has expressed frustration with the pace of Delta’s recovery and its CEO has apologized to affected travelers.
 
-More than 800 flights into, within or out of the United States were canceled by Monday morning, and more than 1,500 flights were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by nearly 4,500 cancellations since Friday, including 660 on Monday, by far the most of any airline.
+More than 900 flights into, within or out of the United States were canceled by midday Monday, and 3,100 flights were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by more than 4,500 cancellations since Friday, including 748 on Monday, by far the most of any airline.
 
 Delta declined to comment on the numbers, but in an update to customers Sunday afternoon, CEO Ed Bastian said the company is working to restore operations after the outage.
 
-The “largest IT outage in history” – prompted by a software update for Microsoft devices late Thursday into the early hours of Friday – brought down computers and technical systems across the world, causing disorder at airports, outages for 911 services and challenges at health care facilities.
+The “largest IT outage in history” – prompted by a software update for Microsoft devices late Thursday into the early hours of Friday – impacted an estimated 8.5 million Windows devices worldwide, causing disorder at airports, outages for 911 services and challenges at health care facilities.
 
-While many airlines large and small had the CrowdStrike problem affect computers that were supposed to check in passengers, it appeared that Delta might have been the one airline that had its crucial crew scheduling software affected.
+While the CrowdStrike problem affected computers meant to check customers in for many airlines, it also disrupted Delta’s crucial crew scheduling software.
 
 “In particular one of our crew tracking-related tools was affected and unable to effectively process the unprecedented number of changes triggered by the system shutdown,” Bastian said in the statement.
 
-The outage affected an estimated 8.5 million Windows devices – less than one percent of all Windows machines, according to a Saturday blog post from Microsoft. But the effects were ubiquitous, with airlines, banks, businesses, schools and governments, along with some health and emergency services, across the world affected.
-
-Costs from the outage could top $1 billion, Patrick Anderson, CEO of Anderson Economic Group, told CNN. But it’s unclear if – and how – any customers affected will be compensated.
+It didn’t help that the outage took place on what Bastian described as “the busiest travel weekend of the summer,” with 90% of the airline’s flights booked.
 
 Here’s what we know about the outage and its continued effects.
 
@@ -34,15 +32,17 @@ Kurtz has apologized to customers and said the company is “deeply sorry for th
 
 In an update posted to LinkedIn late Sunday, CrowdStrike said “a significant number” of the 8.5 million devices were back online and operational.
 
+Overall costs from the outage could top $1 billion, Patrick Anderson, CEO of Anderson Economic Group, told CNN.
+
 ### Chaos and confusion for travelers
 
 On Sunday, more than 1,800 US flights were canceled and more than 9,900 delayed, according to FlightAware. Major hotels, including Marriott International and some Hiltons, were impacted both in regard to payment processing and delays to check in-processes.
 
-US-based carriers American Airlines, United Airlines, Delta Air Lines, Allegiant Airlines, SunCountry and Frontier Airlines all reported issues on Friday.
+US-based carriers American Airlines, United Airlines, Delta Air Lines, Allegiant Air, Sun Country and Frontier Airlines all reported issues on Friday.
 
-Delta paused all its flights Friday morning while its systems were offline, and more than 3,500 Delta and Delta Connection flights were cancelled through Saturday, according to the airline. More than 1,200 Delta flights were canceled on Sunday, after the carrier canceled 1,208 flights on Saturday, according to FlightAware.
+Delta paused all its flights Friday morning while its systems were offline, and more than 3,500 Delta and Delta Connection flights were canceled through Saturday, according to the airline. More than 1,200 Delta flights were canceled on Sunday, after the carrier canceled 1,208 flights on Saturday, according to FlightAware.
 
-Delta said that it would not be allowing unaccompanied minors to travel until July 24, due to the outage.
+Delta said it would not be allowing unaccompanied minors to travel until July 24, due to the outage.
 
 Experts are urging travelers who have been forced to cancel trips to look into refund options. New federal rules say travelers deserve cash refunds when inconvenienced by their airline – not vouchers or travel credits.
 
