@@ -1,6 +1,6 @@
 # Israeli settlers attack foreign activists and Palestinian farmers in West Bank
 
-Published :`2024-07-22 13:20:40`
+Published :`2024-07-22 13:35:47`
 
 ---
 
@@ -10,7 +10,7 @@ Eight activists were participating as part of a Palestinian grassroots campaign 
 
 Two Americans and a German national were taken to hospital with suspected fractures after the attack, their campaign said, adding that another American volunteer suffered minor injuries. One of the Palestinian farmers was hospitalized.
 
-Three of the foreign victims, Vivi Chen, David Hummel, and Jedda, who declined to give his last name, spoke with CNN about the attack from hospital in the West Bank city of Nablus, where they were receiving treatment.
+Three of the foreign victims, Vivi Chen, David Hummel, and Jedda, who declined to give her last name, spoke with CNN about the attack from hospital in the West Bank city of Nablus, where they were receiving treatment.
 
 They said they were accompanying Palestinian farmers to their olive fields, which they haven’t been able to access since October because of attacks by Israeli settlers. At some point, the group was approached by several young settlers on a hill.
 

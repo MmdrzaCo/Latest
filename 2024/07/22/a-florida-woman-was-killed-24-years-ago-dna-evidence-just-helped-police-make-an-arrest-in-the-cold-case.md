@@ -1,6 +1,6 @@
 # A Florida woman was killed 24 years ago. DNA evidence just helped police make an arrest in the cold case
 
-Published :`2024-07-22 13:20:47`
+Published :`2024-07-22 13:35:49`
 
 ---
 

@@ -1,6 +1,6 @@
 # Legal experts are dubious of any court challenge to Democrats’ move to put forward new nominee
 
-Published :`2024-07-22 13:20:43`
+Published :`2024-07-22 13:35:48`
 
 ---
 
