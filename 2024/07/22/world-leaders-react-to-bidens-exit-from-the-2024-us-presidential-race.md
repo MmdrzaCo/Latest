@@ -1,6 +1,6 @@
 # World leaders react to Biden’s exit from the 2024 US presidential race
 
-Published :`2024-07-22 17:37:03`
+Published :`2024-07-22 18:19:57`
 
 ---
 
@@ -38,7 +38,13 @@ Biden has been one of the biggest supporters of Israel’s war in Gaza since Ham
 
 Irish Taoiseach Simon Harris called Biden “a proud American with an Irish soul,” and thanked him for his “global leadership” and “friendship.”
 
+Outgoing Mexican President Andres Manuel Lopez Obrador said Monday that Biden was a “good leader” who’d had “very good results” with the pandemic and the “economic crisis” caused by the Russia-Ukraine war.
+
 Other leaders commended Biden for making what must have been a tough decision to drop out of the race.
+
+French President Emmanuel Macron in a letter to Biden praised the American leader’s decision to end his reelection bid , saying that it showed “courage” and “sense of duty,” the Elysee Palace press office said on Monday.
+
+“I appreciate the courage, the spirit of responsibility and the sense of duty that led you to this decision,” Macron wrote.
 
 “My friend Joe Biden has achieved a lot: for his country, for Europe, for the world,” German chancellor Olaf Scholz wrote on X. “His decision not to run again deserves respect.”
 

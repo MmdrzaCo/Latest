@@ -1,16 +1,16 @@
 # Charli XCX called Kamala Harris ‘brat.’ Here’s why that’s a strong endorsement for the candidate whose meme stock is bullish
 
-Published :`2024-07-22 17:37:02`
+Published :`2024-07-22 18:19:57`
 
 ---
 
 While the Swifties and Bey Hive dream of a world where Taylor Swift and Beyoncé come together to jointly endorse Vice President Kamala Harris as the Democratic presidential nominee, one singer is already getting the party started.
 
-British pop singer Charli XCX has entered the virtual chat, posting “kamala is BRAT” on X on Sunday.
+British pop singer Charli XCX has entered the virtual chat, posting “kamala IS brat” on X on Sunday.
 
 If you don’t understand what that means, you are both not alone and in a safe space. Welcome to “Bratology 101.”
 
-### What is a “brat?”
+### What is a ‘brat?’
 
 “Brat” is less a noun than it is a concept, though it is also a thing.
 
@@ -26,9 +26,9 @@ There is even a “brat” color, a very specific shade of chartreuse, which the
 
 The singer made it her album color and has explained that it’s “kind of the idea of making something like quite disgusting and turning it into this thing you know people are going to look at quite a lot and think about and ask, you know, why that green?”
 
-### Team Harris’s response
+### Team Harris’ response
 
-Harris’s camp responded in a way that signaled to the internet they understood the compliment and are embracing it.
+Harris’ camp responded in a way that signaled to the internet they understood the compliment and are embracing it.
 
 Those visiting the official Kamala HQ account on X, which links to her official site, are met with a background photo in the “brat” green color and the vice president’s name in the same font as sported on Charli XCX’s album.
 

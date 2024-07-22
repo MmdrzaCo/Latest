@@ -1,16 +1,28 @@
 # Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage
 
-Published :`2024-07-22 17:37:02`
+Published :`2024-07-22 18:19:57`
 
 ---
 
-Hundreds of US flights were canceled Monday, as carriers, particularly Delta Air Lines, work to recover four days after a global tech outage caused massive delays and left travelers stranded at airports around the nation.
+Hundreds of US flights were canceled Monday as carriers, particularly Delta Air Lines, work to recover four days after a global tech outage caused massive delays and left travelers stranded at airports around the nation.
 
 Delta is facing mounting pressure to get passengers back in the air, as it continues to rack up the majority of canceled US flights. US Transportation Secretary Pete Buttigieg has expressed frustration with the pace of Delta’s recovery and its CEO has apologized to affected travelers.
 
-More than 900 flights into, within or out of the United States were canceled by midday Monday, and 3,100 flights were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by more than 4,500 cancellations since Friday, including 748 on Monday, by far the most of any airline.
+About 980 flights into, within or out of the United States were canceled by Monday afternoon, and 4,400 flights were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by more than 4,500 cancellations since Friday, including 789 on Monday, by far the most of any airline.
 
-Delta declined to comment on the numbers, but in an update to customers Sunday afternoon, CEO Ed Bastian said the company is working to restore operations after the outage.
+Delta declined to comment on the numbers, but in an update to customers Sunday afternoon, CEO Ed Bas﻿tian said the company is working to restore operations for its customers.
+
+Three of those customers, Nicole DaSilva, Tiffany Denlinger and Melissa Levine were stranded at Hartsfield-Jackson Atlanta International Airport on Monday, surrounded by bags and lines of weary travelers – with no clear way to get home.
+
+Fresh off their vacation in Athens, Greece, the trio has been trying to get back to Arizona for two days. So far, all they have is a stack of canceled flight tickets.
+
+Denlinger has an electronic tracker in her luggage and said it’s bounced from concourse to concourse at the Atlanta airport. But because she can’t access her suitcase, she hasn’t been able to use her laptop – leading to lost commissions and income.
+
+While Delta says it plans to cover hotel, meal or ground transportation for affected customers, the airline’s policy says it does not compensate passengers for lost income due to canceled flights.
+
+DaSilva and Levine managed to find extended care for their dog back in Tucson only to have the air conditioning go out. Tucson is expected to hit a high of 104 degrees Monday. Now the couple is scrambling to find care for their dog somewhere out of the extreme heat.
+
+Denlinger said she believes the airline was not prepared for this situation, “and we’re justå kind of the guinea pigs to something truly catastrophic.”
 
 The “largest IT outage in history” – prompted by a software update for Microsoft devices late Thursday into the early hours of Friday – impacted an estimated 8.5 million Windows devices worldwide, causing disorder at airports, outages for 911 services and challenges at health care facilities.
 
@@ -22,7 +34,7 @@ It didn’t help that the outage took place on what Bastian described as “the 
 
 Here’s what we know about the outage and its continued effects.
 
-### Outage caused by CrowdStrike update
+### Outage caused by a CrowdStrike update
 
 The company said the outage was not caused by a security incident or a cyberattack, but rather a software defect.
 
