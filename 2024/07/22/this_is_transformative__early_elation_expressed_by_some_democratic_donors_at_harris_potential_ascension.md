@@ -1,6 +1,6 @@
 # ‘This is transformative’: Early elation expressed by some Democratic donors at Harris’ potential ascension
 
-Published :`2024-07-22 01:10:31`
+Published :`2024-07-22 02:25:53`
 
 ---
 
@@ -11,6 +11,14 @@ One, in particular, summed up the mood among Biden’s donors, he said.
 “This is transformative,” the text from a major contributor read.
 
 After weeks of turmoil over the future of the Democratic ticket, Kessler said the campaign donors he’s courted as a bundler for Biden’s campaign are turning their full attention to Harris and committing to work on her behalf. “They’re really excited, and they are all in,” he said.
+
+Matt Gorman, a longtime Democratic fundraiser, told CNN, “My phone’s been ringing off the hook.”
+
+Gorman said that while he deeply respects Biden, he feels it’s “incumbent” upon him to support the decision that’s been made and “back up Harris.”
+
+He and fellow donors are “excited” about Harris, and he said that he’s received many calls from people who had been holding back their money, now asking where to throw their money behind, whether it’s the Democratic National Committee or specific PACs.
+
+“The energy in the last 6 hours has been reinvigorating and inspiring,” Gorman said.
 
 In another sign of enthusiasm: Small-dollar donors contributed more than $27.5 million in the first five hours of Harris’ presidential campaign, according to ActBlue, the online fundraising platform for Democratic candidates and causes.
 
@@ -30,11 +38,27 @@ On Sunday, after Biden’s announcement, Biden campaign co-chair Cedric Richmond
 
 Richmond also had this message to financial backers who had abandoned the president in recent weeks: “Now those donors need to step the f**k up.”
 
+One former elected Democratic official who is still very active in the party said people who had cancelled their fundraising events for July and August after the debate are now putting them back on the calendar.
+
+“Everything is back on,” the source said.
+
+And while donations may be going up for Harris specifically, as one donor put it, the main goal is beating Trump.
+
+“Every election is about something different. This one’s so much about anti-Donald Trump,” the donor said.
+
 ### ‘DEMBARGO is lifted’
 
 “Suffice to say, the DEMBARGO is lifted,” Damon Lindelof, a Hollywood screenwriter and producer, wrote Sunday on Instagram. Lindelof was among the contributors who had called on fellow Democratic donors to stop writing campaign checks.
 
 He wrote that he felt “profound relief, gratitude … and then for the first time, genuine EXCITEMENT for the election ahead.”
+
+Echoing that sentiment, another big-ticket donor said there’s going to be “a massive surge of new energy” around Harris, saying this election is about beating Trump – and that he’s relieved the focus will go back to that.
+
+Another major donor told CNN that they’re “going to go in big.”
+
+Dick Gephardt, a former Democratic majority leader in the House, said he knows of several people who were holding back money and are now fulfilling their pledges to the party in the wake of the news Sunday.
+
+He said he wasn’t planning to hold back his own monetary support, but that he plans to give even more in light of the switch-up.
 
 The enthusiasm for Harris among the Democratic donor class was not universal, however.
 
@@ -49,6 +73,8 @@ And he said he expects Republicans to quickly cast Harris as a “California pro
 Morgan had planned a fundraiser for the Biden campaign in Florida, but those plans had been put on hold because of the tumult unleashed by the June 27 debate . Morgan said he already had collected $1 million for the event – money that now likely will benefit Harris – but will do no more.
 
 “Will I vote for Harris? Yes,” he said. “Will I raise money? No.”
+
+This story has been updated with additional reporting.
 
 ---
 

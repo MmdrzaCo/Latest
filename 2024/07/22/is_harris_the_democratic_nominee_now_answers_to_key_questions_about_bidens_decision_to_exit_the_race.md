@@ -1,6 +1,6 @@
 # Is Harris the Democratic nominee now? Answers to key questions about Biden’s decision to exit the race
 
-Published :`2024-07-22 01:10:31`
+Published :`2024-07-22 02:25:52`
 
 ---
 
@@ -54,7 +54,7 @@ What happens to the money raised for Biden’s reelection?
 
 Biden’s reelection efforts had raised a total of $240 million at the end of June. Those funds are split across the DNC, allied committees and Biden’s campaign committee itself. The latter alone holds $95.9 million as of the end of last month, Federal Election Commission data shows.
 
-Many campaign finance experts say that, should Harris become the nominee, any money remaining campaign’s bank accounts would transfer to her political operation because she already is part of the ticket.
+Many campaign finance experts say that, should Harris become the nominee, any money remaining in the campaign’s bank accounts would transfer to her political operation because she already is part of the ticket.
 
 But some Republican lawyers disagree, arguing that under some interpretations, Biden and Harris must be formally nominated by their party before any money could be shifted.
 
