@@ -1,6 +1,6 @@
 # Biden just made the hardest decision any politician can make
 
-Published :`2024-07-22 14:37:20`
+Published :`2024-07-22 15:17:09`
 
 ---
 
