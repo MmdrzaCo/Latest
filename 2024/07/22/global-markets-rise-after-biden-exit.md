@@ -1,6 +1,6 @@
 # Global markets rise after Biden exit
 
-Published :`2024-07-22 12:29:56`
+Published :`2024-07-22 12:56:39`
 
 ---
 
@@ -8,7 +8,7 @@ Global markets made solid gains after President Joe Biden dropped out of the 202
 
 European stocks saw an uptick and premarket trading in the US was higher following Biden’s announcement.
 
-Dow futures rose 40 points, or 0.1%. S&P 500 futures were up 0.5% and Nasdaq future were 0.8% higher. European markets were higher, and Asian markets closed mostly lower. US Treasuries rose slightly early Monday, trimming yields, and the dollar was softer against major currencies.
+Dow futures rose 84 points, or 0.2%. S&P 500 futures were up 0.7% and Nasdaq futures were 1.1% higher. European markets were higher, and Asian markets closed mostly lower. US Treasuries rose slightly early Monday, trimming yields, and the dollar was softer against major currencies.
 
 ### The Trump trade falters
 
@@ -24,15 +24,15 @@ With fewer than 100 days until the US election in November, Sunday’s upheaval 
 
 ### Uncertainty remains
 
-Last week was exceptionally rough for markets. The S&P 500 notched its worst three-day performance of 2024 and Europe’s STOXX 600 logged its worst weekly performance since October.
+Last week was exceptionally rough for markets. The S&P 500 notched its worst three-day performance of 2024 and Europe’s STOXX 600 logged its worst weekly performance since October, according to Deutsche Bank data.
 
 Some analysts worry that market churn could continue as we get closer to the election.
 
-“Markets are increasingly focused on the US presidential election in November,” wrote Deutsche Bank’s Henry in a research note on Monday. “But there’s heightened uncertainty about the outcome, particularly after President Biden has just become the first incumbent President to withdraw since Lyndon Johnson in 1968.”
+“Markets are increasingly focused on the US presidential election in November,” wrote Deutsche Bank’s Henry Allen in a research note on Monday. “But there’s heightened uncertainty about the outcome, particularly after President Biden has just become the first incumbent President to withdraw since Lyndon Johnson in 1968.”
 
-Moreover, the S&P 500 has declined in every September since 2020, he noted. Over the last three years, September was the worst month of the year for the index.
+Moreover, the S&P 500 has declined in every September since 2020, he said. Over the last three years, September was the worst month of the year for the index.
 
-Still, markets remain unusually strong. The S&P 500 has been higher for 28 of the last 38 weeks, something we haven’t seen exceeded since 1989.
+Still, markets remain unusually strong. The S&P 500 has been higher for 28 of the last 38 weeks, something we haven’t seen exceeded since 1989, he noted.
 
 Stocks tumbled toward the end of last week as a turbulent election cycle and a global tech outage rocked technology stocks in particular.
 

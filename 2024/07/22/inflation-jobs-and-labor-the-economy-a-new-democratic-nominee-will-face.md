@@ -1,6 +1,6 @@
 # Inflation, jobs and labor: The economy a new Democratic nominee will face
 
-Published :`2024-07-22 12:29:57`
+Published :`2024-07-22 12:56:40`
 
 ---
 
