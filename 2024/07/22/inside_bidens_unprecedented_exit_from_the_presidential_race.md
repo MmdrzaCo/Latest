@@ -1,6 +1,6 @@
 # Inside Biden’s unprecedented exit from the presidential race
 
-Published :`2024-07-22 03:18:02`
+Published :`2024-07-22 03:37:38`
 
 ---
 
@@ -10,7 +10,7 @@ After weeks of fighting for his political life – insisting he wasn’t going a
 
 It was a low-key way to reveal one of the most historic decisions in modern American politics, but time was not on Biden’s side to reach a decision or make an announcement. Never before has a president left a reelection race this close to Election Day – and for 24 days it seemed as if he were stubbornly planning to ride out the storm that followed the June 27 CNN debate in Atlanta.
 
-He spent the three weeks after the debate repeating that he was staying in the race against former President Donald Trump. The president dug in. He insisted he could beat Trump. His inner circle shrank to his closest aides and family. He was forced to retreat to Delaware, where he reached a decision in the last day-and-a-half, finally conceding that a man loyal to the Democratic Party for more than a half-century was seen as a drag on the ticket.
+He spent the three weeks after the debate repeating that he was staying in the race against former President Donald Trump. The president dug in. He insisted he could beat Trump. His inner circle shrank to his closest aides and family. He was forced to retreat to Delaware, where he reached a decision in the last day and a half, finally conceding that a man loyal to the Democratic Party for more than half a century was seen as a drag on the ticket.
 
 But in the end, the pressure on Biden from party leaders, rank-and-file lawmakers and donors – and the polling showing the perilous and potentially insurmountable path Biden faced amid a growing deficit with Trump – ultimately proved too much. Described as being more isolated than he had ever been, Biden could not withstand the push behind the scenes and in public. The blunt reality became a chorus of voices calling for the president to exit the race, like a boulder rolling down a mountain that only picked up momentum with each passing day.
 
@@ -24,29 +24,37 @@ It’s a high-risk, high-reward gamble for Democrats, resetting a campaign Biden
 
 ### How the decision was made
 
-Biden’s final decision to leave the race was reached in the last 48 hours, a senior campaign adviser said, as he consulted family and top advisers by telephone while recovering from Covid. A source familiar with the matter said the plans to exit the race began Saturday night and were finalized on Sunday.
+Biden’s final decision to leave the race was reached in the last 48 hours, a senior campaign adviser said, as he consulted family and top advisers by telephone while recovering from Covid. A source familiar with the matter said the plans to exit the race began Saturday night and were finalized Sunday.
 
-The adviser said the president “was not dug in” but was studying all of the data coming in and became convinced he would “weigh down” the ticket and be a distraction and complication to defeat Trump.
+The adviser said the president “was not dug in” but was studying the data coming in and became convinced he would “weigh down” the ticket and be a complication to defeating Trump.
 
 Biden’s decision did not have to do with any medical issues, a senior White House official told CNN.
 
-Biden asked two of his closest advisers to start the process of drafting the letter and setting the announcement in motion Saturday night, according to another person familiar with the matter.
+When Biden huddled with his two closest advisers Saturday, the information they provided on polling and where top Democratic officials stood underscored that a path to victory was “basically nonexistent,” according to another person familiar with the matter.
 
-The president worked with his longtime close adviser and message chief Mike Donilon to draft the letter, the person said. Steve Ricchetti, another longtime adviser dating to his time as vice president, was charged with organizing the mechanics of the announcement.
+There wasn’t any single poll number, wavering Democratic official or fundraiser presented in the meeting with longtime aides Mike Donilon and Steve Ricchetti that pushed Biden toward his decision, the person said.
 
-Still recovering from a Covid diagnosis, Biden remained at his home in Rehoboth Beach, Delaware, all weekend with his wife, first lady Dr. Jill Biden.
+Instead, the information highlighted that the path back to a viable campaign had been severely damaged by declining national and swing-state poll numbers, along with party defections that were likely to rapidly accelerate. The information included polling and details gathered from outreach outside Biden’s inner circle.
+
+Unlike 2015, when Biden wrote in his book “Promise me, Dad” that Donilon told the then-vice president he shouldn’t launch a 2016 bid for president as he grieved the death of his son Beau, neither aide explicitly told Biden he should get out of the race, according to the person.
+
+Biden made clear before the end of the meeting that he was planning to pull out of the race and asked his aides to start drafting the letter he posted Sunday afternoon and preparing the plans for the rollout.
+
+Still recovering from a Covid diagnosis, Biden remained at his home in Rehoboth Beach, Delaware, all weekend with his wife, first lady Jill Biden.
 
 Biden did what he always planned to do before any crucial decision: He held a family meeting Saturday night. He has spoken to all of his family since making his decision to drop out of the race, and his daughter Ashley and son-in-law Howard drove to Rehoboth earlier Sunday, according to a source.
 
-But Biden consulted only a very small number of close aides on the decision. Some members of his inner circle were left in the dark until minutes before he posted his announcement on social media, including one of his closest communications advisers, Anita Dunn.
+He confirmed that decision Sunday morning and, with Ricchetti by his side, started making calls to key players outside of his close-knit group of senior-most aides and family members, the other person familiar with the matter said.
 
-Multiple sources told CNN that Dunn and a small group of senior aides became aware of Biden’s announcement in the minutes before the post. Many rank-and-file staff found out when the post came out. Dunn and her husband, Bob Bauer, were among Biden’s debate prep team and had faced the ire of the president’s family in the aftermath of the debate. A Biden aide disputed that her exclusion had anything to do with the debate, telling CNN that she, along with other top aides, was not in Rehoboth Beach, and that “the president told his aides that neither he or his family blame them for debate performance.”
+Biden consulted only a very small number of close aides on the decision. Some members of his inner circle were left in the dark until minutes before he posted his announcement on social media, including one of his closest communications advisers, Anita Dunn.
+
+Multiple sources told CNN that Dunn and a small group of senior aides became aware of Biden’s announcement in the minutes before the post. Many rank-and-file staff found out when the post came out. Dunn and her husband, Bob Bauer, were among Biden’s debate prep team and had faced the ire of the president’s family in the aftermath of the performance. A Biden aide disputed that her exclusion had anything to do with the debate, telling CNN that she, along with other top aides, was not in Rehoboth Beach, and that “the president told his aides that neither he or his family blame them for debate performance.”
 
 Biden and Harris spoke multiple times Sunday ahead of his announcement, according to a source familiar with the matter. Biden also held separate calls with chief of staff Jeff Zients and campaign co-chair Jen O’Malley Dillon informing each of his decision.
 
-In Washington on Sunday, Zients led a White House senior staff call with all assistants to the president in the mid-afternoon, as well as a call with members of Biden’s Cabinet. Zients is expected to hold an all-White House staff call Monday morning, and speak with political appointees across the executive branch.
+In Washington on Sunday, Zients led a White House senior staff call with all assistants to the president in the midafternoon, as well as a call with members of Biden’s Cabinet. Zients is expected to hold an all-White House staff call Monday morning and to speak with political appointees across the executive branch.
 
-But even his vice president and pick to succeed him, didn’t find out until the day he announced his decision.
+But even his vice president, and pick to succeed him, didn’t find out until the day he announced his decision.
 
 ### A ‘bad night’ changes the race
 
@@ -64,9 +72,9 @@ But in Democratic circles, panic had already set in. The issue problem was plain
 
 Even as Biden insisted there was nothing that could convince him to get out of the race, Democrats began laying the groundwork and keeping the door open to a change. Former House Speaker Nancy Pelosi went on MSNBC, saying: “I think it’s a legitimate question to say, is this an episode, or is this a condition?”
 
-Rep. Lloyd Doggett of Texas was the first elected Democrat to call for Biden to withdraw on July 2. The following day, Biden met with a group of Democratic governors, telling them he needed more sleep and should stop scheduling events after 8 p.m.
+Rep. Lloyd Doggett of Texas on July 2 became the first elected Democrat to call for Biden to withdraw. The following day, Biden met with a group of Democratic governors, telling them he needed more sleep and should stop scheduling events after 8 p.m.
 
-On July 5, Biden sat down for an interview with ABC News’ George Stephanopoulos, in an attempt to demonstrate he was able to keep campaigning. In the interview, Biden said that only the “Lord Almighty” could convince him to leave the race, a comment that angered many Democrats.
+On July 5, Biden sat down for an interview with ABC News’ George Stephanopoulos, in an attempt to demonstrate he was able to keep campaigning. In the interview, Biden said only the “Lord Almighty” could convince him to leave the race, a comment that angered many Democrats.
 
 It was the first of several attempts from Biden’s team to put the president in the public eye and quell the growing discontent. All failed to do so.
 
@@ -86,15 +94,15 @@ Several news outlets, including CNN, reported that Pelosi and former President
 
 On July 11, Biden held a solo news conference on the sidelines of the NATO summit in Washington. He opened the door a bit further to the possibility he could drop out, saying he would consider doing so if data showed he cannot win.
 
-Biden also made several small verbal slip ups, including calling Harris “Vice President Trump.” Earlier in the day, he had referred Ukrainian President Volodymyr Zelensky as “President Putin,” before correcting himself.
+Biden also made several small verbal slip-ups, including calling Harris “Vice President Trump.” Earlier in the day, he had referred Ukrainian President Volodymyr Zelensky as “President Putin,” before correcting himself.
 
 After Biden’s news conference, a handful more congressional Democrats called for him to drop out, growing the number to 15. The list included Rep. Jim Himes of Connecticut, the top Democrat on the House Intelligence Committee, who said he deliberately waited until after the NATO meeting.
 
 That weekend, Biden met and held calls with various Democratic caucuses, including the Congressional Progressive Caucus and the moderate New Democrat Coalition. The call with moderate Democrats was tense, as Biden got into it with Rep. Jason Crow, a Colorado Democrat who bluntly told him that voters are concerned about his vigor and strength, especially as it is perceived on the world stage.
 
-The president responded to Crow — an Army Ranger who served two tours in Afghanistan and one in Iraq — that he knows Crow is a Bronze Star recipient like his late son Beau, but that “he didn’t rebuild NATO.”
+The president responded to Crow – an Army Ranger who served two tours in Afghanistan and one in Iraq – that he knows Crow is a Bronze Star recipient like his late son Beau, but that “he didn’t rebuild NATO.”
 
-At one point, Biden told Crow “I don’t want to hear that crap” in addressing the lawmaker’s concerns.
+At one point, Biden told Crow, “I don’t want to hear that crap” in addressing the lawmaker’s concerns.
 
 ### A brief respite from demands for Biden to exit doesn’t last
 
@@ -122,7 +130,7 @@ Rep. Jamie Raskin, the Maryland House Democrat who led Trump’s second impeachm
 
 CNN reported Wednesday that Pelosi privately told Biden that polling showed he could not defeat Trump and that he could destroy Democrats’ chances of winning the House in November. Biden pushed back, saying he had seen polls indicating he could win. At one point, Pelosi asked Donilon, Biden’s longtime adviser, to get on the line to talk over the data.
 
-That same day, ABC News reported that Schumer told Biden in their Saturday meeting that it would be best if he bowed out of the presidential race. And a person briefed on the meeting between Biden and Jeffries said that the Democratic House leader stopped short of calling on him to step aside — instead pinning the suggestion on his members.
+That same day, ABC News reported that Schumer told Biden in their Saturday meeting that it would be best if he bowed out of the presidential race. And a person briefed on the meeting between Biden and Jeffries said that the Democratic House leader stopped short of calling on him to step aside – instead pinning the suggestion on his members.
 
 The White House and congressional officers tried to tamp down the reports, issuing statements of denial. But the stories about the party leaders delivering Biden a message had their effect. On Friday, a dozen new Democrats released statements saying Biden should exit the race.
 
@@ -138,11 +146,11 @@ Major Democratic donors were skeptical of Biden’s viability, and multiple said
 
 Two sources told CNN on Thursday that furious donors were also telling House and Senate Democratic campaign committees they would freeze contributions unless and until party leaders took stronger steps to get Biden to step aside.
 
-“Yes, that card has been played,” a senior House Democrat told CNN Thursday night.
+“Yes, that card has been played,” a senior House Democrat told CNN on Thursday night.
 
 “They believe if Joe is at the top of the ticket, the House and Senate are gone, too,” said a Democratic strategist intimately involved in big-dollar fundraising. “They don’t want to throw good money after bad.”
 
-Moments after Biden’s announcement, donors abruptly began reaching out to advisers, pouring in money, according to sources involved in the discussions. In the leadup to Biden’s decision to exit the 2024 race, multiple donors had reached out to Harris’ team proactively to signal they would be willing to support her if she ran at the top of the ticket, according to three people familiar with the discussions.
+Moments after Biden’s announcement, donors abruptly began reaching out to advisers, pouring in money, according to sources involved in the discussions. In the lead-up to Biden’s decision to exit the 2024 race, multiple donors had reached out to Harris’ team proactively to signal they would be willing to support her if she ran at the top of the ticket, according to three people familiar with the discussions.
 
 ### Stubborn resistance gives way
 
@@ -150,7 +158,7 @@ Up until the moment he dropped out, Biden and his team insisted he was staying i
 
 Biden’s team created a public schedule for the president over the past week that was intended to show his ability to stay in the race.
 
-On Monday, he held another television interview with NBC News’ Lester Holt, where he acknowledged his sub-par debate performance while criticizing the media for focusing on his gaffes instead of Trump’s falsehoods. Biden again said he had no intention of stepping aside.
+On Monday, he held another television interview with NBC News’ Lester Holt, where he acknowledged his subpar debate performance while criticizing the media for focusing on his gaffes instead of Trump’s falsehoods. Biden again said he had no intention of stepping aside.
 
 Biden then traveled to Las Vegas for campaign stops, speeches planned at the NAACP National Convention and the UnidosUS annual conference, and interviews with BET and Univision. Biden told BET News’ Ed Gordon that the only thing that would push him to reconsider his reelection bid would be a “medical condition.”
 
@@ -158,11 +166,11 @@ The president spoke at the NAACP conference, but before he could make his speech
 
 The president returned to his Rehoboth Beach home that day to isolate, his public schedule shuttered indefinitely while he recovered.
 
-On Friday, Biden issued a statement Friday that he would be back on the campaign trail the following week, while Biden campaign chair Jen O’Malley went on MSNBC’s “Morning Joe” Friday morning to say Biden was “absolutely” staying in the race.
+On Friday, Biden issued a statement that he would be back on the campaign trail the following week, while Biden campaign chair O’Malley Dillon went on MSNBC’s “Morning Joe” to say Biden was “absolutely” staying in the race.
 
 The campaign also put out a memo saying there was “no plan for an alternative nominee.”
 
-Biden called some Democrats over the weekend who were out on TV on his behalf. Two told CNN that Biden voiced his gratitude and then his anger at those who were trying to push him out. “There was some hurt in his voice but mostly anger,” one of the Biden loyalists said.
+Biden called some Democrats over the weekend who were out on TV on his behalf. Two told CNN that the president voiced his gratitude and then his anger at those who were trying to push him out. “There was some hurt in his voice but mostly anger,” one of the Biden loyalists said.
 
 Even on Sunday, Biden’s team continued to publicly maintain he wasn’t going anywhere. South Carolina Rep. James Clyburn, a key Biden ally, told CNN’s Jake Tapper on “State of the Union” that Biden and Harris “have received over 14 million votes to be our standard bearers. That’s where we are,” Clyburn. The congressman’s 2020 endorsement of Biden ahead of the South Carolina primary was widely seen as instrumental in Biden’s victory.
 
@@ -171,6 +179,8 @@ Biden spoke to Harris on Sunday before announcing his decision, which came in tw
 Biden told his senior-most team he was getting out around 1:45 p.m., and the public letter went out right around then, a source familiar with the timing told CNN.
 
 “Before that, it was all steam ahead that he’s running,” the same source said.
+
+This story has been updated with additional reporting.
 
 ---
 

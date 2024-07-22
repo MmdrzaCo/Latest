@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-22 03:18:04`
+#### Latest Update : `2024-07-22 03:37:41`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Inside Biden’s unprecedented exit from the presidential race](https://new-news.github.io/Latest/2024/07/22/inside_bidens_unprecedented_exit_from_the_presidential_race 'Inside Biden’s unprecedented exit from the presidential race')
 
 - [Trump’s team is already on the attack against Harris](https://new-news.github.io/Latest/2024/07/22/trumps_team_is_already_on_the_attack_against_harris 'Trump’s team is already on the attack against Harris')
 
@@ -29,8 +31,6 @@
 - [The delegates will decide the next Democratic nominee as a groundswell forms for Harris](https://new-news.github.io/Latest/2024/07/22/the_delegates_will_decide_the_next_democratic_nominee_as_a_groundswell_forms_for_harris 'The delegates will decide the next Democratic nominee as a groundswell forms for Harris')
 
 - [Mayorkas names bipartisan panel to lead independent review of Trump assassination attempt](https://new-news.github.io/Latest/2024/07/22/mayorkas_names_bipartisan_panel_to_lead_independent_review_of_trump_assassination_attempt 'Mayorkas names bipartisan panel to lead independent review of Trump assassination attempt')
-
-- [Inside Biden’s unprecedented exit from the presidential race](https://new-news.github.io/Latest/2024/07/22/inside_bidens_unprecedented_exit_from_the_presidential_race 'Inside Biden’s unprecedented exit from the presidential race')
 
 - [Biden will not seek reelection; endorses Harris](https://new-news.github.io/Latest/2024/07/22/biden_will_not_seek_reelection__endorses_harris 'Biden will not seek reelection; endorses Harris')
 
