@@ -1,6 +1,6 @@
 # World leaders react to Biden’s exit from the 2024 US presidential race
 
-Published :`2024-07-22 08:41:38`
+Published :`2024-07-22 09:19:30`
 
 ---
 
@@ -24,11 +24,13 @@ Ukrainian President Volodymyr Zelensky thanked Biden for his “unwavering suppo
 
 “Many strong decisions have been made in recent years and they will be remembered as bold steps taken by President Biden in response to challenging times,” Zelensky said on X. “We will always be thankful for President Biden’s leadership.”
 
-In Israel, President Isaac Herzog described Biden as a “true ally of the Jewish people,” while Defense Minister Yoav Gallant said the US president’s “steadfast backing, especially during the war, has been invaluable,” both in posts to X.
+Israeli Prime Minister Benjamin Netanyahu said that, whoever wins the US presidential election, Israel will remain “an irreplaceable ally” for Washington in the Middle East.
 
-Biden has been one of the biggest supporters of Israel’s war in Gaza since Hamas’ October 7 attacks. But he has increasingly clashed with Israeli Prime Minister Benjamin Netanyahu over humanitarian aid and the mounting civilian death toll of the conflict.
+Speaking on Monday from the tarmac of Tel Aviv’s Ben Gurion Airport ahead of boarding a flight to the US, Netanyahu said his trip was an opportunity to thank Biden “for the things he did for the state of Israel, both in the war and during his years of service as a senator, as vice president and as president.”
 
-There was no immediate word Sunday from Netanyahu, who is expected to visit Washington this week.
+President Isaac Herzog described Biden as a “true ally of the Jewish people,” while Defense Minister Yoav Gallant said the US president’s “steadfast backing, especially during the war, has been invaluable,” both in posts to X.
+
+Biden has been one of the biggest supporters of Israel’s war in Gaza since Hamas’ October 7 attacks. But he has increasingly clashed with Netanyahu over humanitarian aid and the mounting civilian death toll of the conflict.
 
 Irish Taoiseach Simon Harris called Biden “a proud American with an Irish soul,” and thanked him for his “global leadership” and “friendship.”
 

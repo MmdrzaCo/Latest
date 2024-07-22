@@ -1,6 +1,6 @@
 # Secret Service director to testify Monday on Trump shooting: What to know
 
-Published :`2024-07-22 08:41:39`
+Published :`2024-07-22 09:19:30`
 
 ---
 
@@ -11,6 +11,10 @@ In the days following the attempted assassination of former President Donald Tru
 House Oversight Chairman James Comer on Sunday promised the hearing would be extensive and detailed.
 
 Cheatle is “going to have about a six-hour hearing, and she’s going to have hundreds of questions that she’s going to have to answer,” Comer said on “Fox News Sunday.”
+
+In his opening statement Monday, released prior to the hearing, Comer said Cheatle should resign and noted that so far, she has refused to do so.
+
+“The Secret Service has a zero fail mission, but it failed on July 13 and in the days leading up to the rally,” Comer’s opening statement says. “The bottom line is that under Director Cheatle’s leadership, we question whether anyone is safe. Not President Biden, not the First Lady, not the White House, not presidential candidates.”
 
 In the week since the rally in Butler, Pennsylvania, relatively little has come out about the shooter’s motive, how he was able to perch on a nearby rooftop with an AR-style weapon and why Trump’s team wasn’t warned about a potential threat.
 
@@ -89,6 +93,8 @@ Multiple Republican lawmakers, including House Speaker Mike Johnson, have calle
 Rep. Brendan Boyle, a Pennsylvania Democrat, also said Cheatle needs to leave.
 
 “I’m very sorry to reach this conclusion: I have no confidence in the leadership of the United States Secret Service. I hereby call on Kimberly Cheatle to resign,” Boyle said on X.
+
+This story has been updated with additional comments.
 
 CNN’s Kristen Holmes, Holmes Lybrand and Aileen Graef contributed to this report.
 

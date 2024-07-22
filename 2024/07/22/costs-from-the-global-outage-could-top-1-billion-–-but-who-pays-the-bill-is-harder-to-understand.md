@@ -1,6 +1,6 @@
 # Costs from the global outage could top $1 billion – but who pays the bill is harder to understand
 
-Published :`2024-07-22 08:41:40`
+Published :`2024-07-22 09:19:30`
 
 ---
 
@@ -8,7 +8,9 @@ The world learned relatively quickly that cybersecurity firm CrowdStrike was beh
 
 What one cybersecurity expert said appears to be the “largest IT outage in history” led to the cancellation of more than 5,000 commercial airline flights worldwide and disrupted businesses from retail sales to package deliveries to procedures at hospitals, costing revenue and staff time and productivity.
 
-The problem was caused by a few bits of CrowdStrike’s own bad code in a software “content update.” Unfortunately, fixing the mistake was much more time consuming than causing it, and it could be days before all the systems are back to normal.
+The problem was caused by a few bits of CrowdStrike’s own bad code in a software “content update.” Unfortunately, fixing the mistake was much more time-consuming than causing it, and it could be days before all the systems are back to normal.
+
+In a social media post late Sunday, CrowdStrike said “a significant number” of about 8.5 million devices affected were back online and operational. It apologized again for the disruption.
 
 While CrowdStrike has apologized, it has not mentioned whether or not it intends to provide compensation to affected customers. And when asked by CNN about whether it plans to provide compensation, its response did not address that question.
 

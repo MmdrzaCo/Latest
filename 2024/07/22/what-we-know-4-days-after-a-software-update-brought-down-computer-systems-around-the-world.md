@@ -1,6 +1,6 @@
 # What we know 4 days after a software update brought down computer systems around the world
 
-Published :`2024-07-22 08:41:38`
+Published :`2024-07-22 09:19:30`
 
 ---
 
@@ -26,9 +26,11 @@ The company said the outage was not caused by a security incident or a cyberatta
 
 Kurtz later apologized to customers and said the company is “deeply sorry for the inconvenience and disruption.”
 
+In an update posted to LinkedIn late Sunday, CrowdStrike said “a significant number” of the 8.5 million devices were back online and operational.
+
 ### Chaos and confusion for travelers
 
-Travelers continued to feel the impact of the failure for a third straight day on Sunday, with more than 1,800 US flights canceled and more than 9,900 delayed, according to the tracking website FlightAware. Major hotels, including Marriott International and some Hiltons, were impacted both in regard to payment processing and delays to check in-processes.
+Travelers continued to feel the impact of the failure for a fourth straight day Monday, with more than 600 flights within, into or out of the US cancelled and more than 500 delayed, according to the tracking website FlightAware. On Sunday, more than 1,800 US flights were canceled and more than 9,900 delayed. Major hotels, including Marriott International and some Hiltons, were impacted both in regard to payment processing and delays to check in-processes.
 
 US-based carriers American Airlines, United Airlines, Delta Air Lines, Allegiant Airlines, SunCountry and Frontier Airlines all reported issues on Friday.
 
