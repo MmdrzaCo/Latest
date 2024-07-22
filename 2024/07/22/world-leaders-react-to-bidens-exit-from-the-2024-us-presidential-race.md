@@ -1,6 +1,6 @@
 # World leaders react to Biden’s exit from the 2024 US presidential race
 
-Published :`2024-07-22 10:38:10`
+Published :`2024-07-22 11:12:39`
 
 ---
 
@@ -23,6 +23,10 @@ In a news conference, Australian Prime Minister Anthony Albanese said Biden dese
 Ukrainian President Volodymyr Zelensky thanked Biden for his “unwavering support” in his country’s war against Russia, which the US has backed with weapons, military aid and diplomatic support, despite backlash from Republicans.
 
 “Many strong decisions have been made in recent years and they will be remembered as bold steps taken by President Biden in response to challenging times,” Zelensky said on X. “We will always be thankful for President Biden’s leadership.”
+
+Meanwhile, Kremlin spokesman Dmitry Peskov said Moscow was “not too surprised” by Biden’s withdrawal. “In recent years, what has been happening in the United States has taught us not to be surprised by anything,” Peskov told reporters Monday.
+
+“This topic should concern American voters, but not us,” he said, adding that “what is very important for us is the future of Russian-American relations, which are now experiencing the worst period in history.”
 
 Israeli Prime Minister Benjamin Netanyahu said that, whoever wins the US presidential election, Israel will remain “an irreplaceable ally” for Washington in the Middle East.
 
