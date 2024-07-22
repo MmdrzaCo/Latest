@@ -1,6 +1,6 @@
 # Biden outraises and outspends Trump in June as questions loom about the president’s political future
 
-Published :`2024-07-22 07:37:09`
+Published :`2024-07-22 08:20:20`
 
 ---
 

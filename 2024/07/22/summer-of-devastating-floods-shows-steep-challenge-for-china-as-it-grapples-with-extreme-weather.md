@@ -1,6 +1,6 @@
 # Summer of devastating floods shows steep challenge for China as it grapples with extreme weather
 
-Published :`2024-07-22 07:37:08`
+Published :`2024-07-22 08:20:16`
 
 ---
 
@@ -57,6 +57,10 @@ Observers say authorities have made progress, especially when it comes to early 
 “While policies and strategies are being developed and implemented, the pace and scale of action often fall short of what is needed to effectively mitigate the risks and impacts of climate change,” said Hongzhang Xu, an adjunct research fellow at the Australian National University.
 
 That need may be more acute in remote, rural or mountainous regions, often populated by vulnerable elderly populations and with fewer resources, as well as provinces not historically prone to severe flooding, like in China’s northeastern breadbasket, which endured extreme rains last year.
+
+Guangtao Fu, a professor of water intelligence at the University of Exeter in the United Kingdom, said that although the government has been investing in water infrastructure to boost flood protection there was a “significant gap” in investment to maintain existing systems.
+
+That urgency was underscored earlier this month when a dike alongside China’s second-largest freshwater lake burst after 17 days of heavy rains – flooding nearly 20 square miles of land and displacing at least 7,000 people, according to official reports.
 
 Another challenge, experts say, is bolstering recovery from severe flooding, where damaged croplands, destroyed homes and devastated livelihoods can take months to recover.
 

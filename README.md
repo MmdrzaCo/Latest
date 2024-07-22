@@ -1,16 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-22 07:37:12`
+#### Latest Update : `2024-07-22 08:20:25`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Summer of devastating floods shows steep challenge for China as it grapples with extreme weather](https://new-news.github.io/Latest/2024/07/22/summer-of-devastating-floods-shows-steep-challenge-for-china-as-it-grapples-with-extreme-weather 'Summer of devastating floods shows steep challenge for China as it grapples with extreme weather')
+
 - [Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know](https://new-news.github.io/Latest/2024/07/22/israel-strikes-yemen-for-the-first-time-following-deadly-houthi-drone-attack-heres-what-we-know 'Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know')
 
 - [World leaders react to Biden’s exit from the 2024 US presidential race](https://new-news.github.io/Latest/2024/07/22/world-leaders-react-to-bidens-exit-from-the-2024-us-presidential-race 'World leaders react to Biden’s exit from the 2024 US presidential race')
-
-- [Summer of devastating floods shows steep challenge for China as it grapples with extreme weather](https://new-news.github.io/Latest/2024/07/22/summer-of-devastating-floods-shows-steep-challenge-for-china-as-it-grapples-with-extreme-weather 'Summer of devastating floods shows steep challenge for China as it grapples with extreme weather')
 
 - [Veteran anti-whaling activist Paul Watson could be extradited to Japan after arrest in Greenland, his foundation says](https://new-news.github.io/Latest/2024/07/22/veteran-anti-whaling-activist-paul-watson-could-be-extradited-to-japan-after-arrest-in-greenland-his-foundation-says 'Veteran anti-whaling activist Paul Watson could be extradited to Japan after arrest in Greenland, his foundation says')
 
