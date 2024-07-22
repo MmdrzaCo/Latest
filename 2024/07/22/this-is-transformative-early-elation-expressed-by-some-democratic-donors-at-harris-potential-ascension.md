@@ -1,6 +1,6 @@
 # ‘This is transformative’: Early elation expressed by some Democratic donors at Harris’ potential ascension
 
-Published :`2024-07-22 09:37:47`
+Published :`2024-07-22 10:16:07`
 
 ---
 
@@ -20,7 +20,7 @@ He and fellow donors are “excited” about Harris, and he said that he’s rec
 
 “The energy in the last 6 hours has been reinvigorating and inspiring,” Gorman said.
 
-In another sign of enthusiasm: Small-dollar donors contributed more than $27.5 million in the first five hours of Harris’ presidential campaign, according to ActBlue, the online fundraising platform for Democratic candidates and causes.
+In another sign of enthusiasm: Harris raised $49.6 million in grassroots donations for her campaign since Biden endorsed her Sunday, campaign spokesperson Lauren Hitt said.
 
 Harris will need the money. Although the Biden-Harris campaign and its affiliated committees outraised former President Donald Trump’s political operation in June, newly filed campaign reports show the Trump team entered July and the general election showdown with a bigger war chest of available cash.
 
