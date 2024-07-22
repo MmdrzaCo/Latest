@@ -1,6 +1,6 @@
 # Takeaways from the House hearing with Secret Service Director Cheatle on the Trump assassination attempt
 
-Published :`2024-07-22 18:39:57`
+Published :`2024-07-22 19:12:50`
 
 ---
 
@@ -12,9 +12,9 @@ Before Trump took the stage at the rally, the director said, the Secret Servic
 
 Yet one by one, as members of the House Oversight Committee tried to pry loose new information about the security breakdown and what is being done to ensure it never happens again, Cheatle repeatedly stonewalled lawmakers’ efforts to get answers and pointed to the ongoing FBI investigation.
 
-The director also remained defiant in the face of bipartisan calls for her immediate resignation.
+The director also remained defiant in the face of bipartisan calls for her immediate resignation, including from Rep. Jamie Raskin, the top Democrat on the Oversight Committee.
 
-Here are key takeaways from Monday’s hearing so far:
+Here are key takeaways from Monday’s hearing:
 
 ### Cheatle admits ‘colossal failure,’ but won’t resign
 
@@ -50,7 +50,7 @@ GOP Rep. Jim Jordan also pressed Cheatle on whether she lied to the nation becau
 
 Cheatle frustrated lawmakers Monday as she walked a tightrope with her testimony, giving carefully worded answers and plenty of non-answers to tough questions.
 
-The top Republican and Democrat on the House Oversight Committee peppered Cheatle with some of the biggest questions that are still unresolved: Were any Secret Service agents on the roof where gunman Thomas Crooks fired shots at Trump? Did Crooks fly a drone over the area before the rally began? Why wasn’t he stopped when people spotted him on the roof with a rifle?
+The top Republican and Democrat on the House Oversight Committee peppered Cheatle with some of the biggest questions that are still unresolved: Were any Secret Service agents on the roof where gunman Thomas Matthew Crooks fired shots at Trump? Did Crooks fly a drone over the area before the rally began? Why wasn’t he stopped when people spotted him on the roof with a rifle?
 
 In response to these questions, and more, Cheatle pivoted away and didn’t directly answer. Regarding Crooks’ possible drone, she confirmed that this is what the FBI told her, but said it was still being probed.
 
@@ -72,9 +72,15 @@ She said the agency was still looking into the apparent communication breakdown 
 
 However, there’s “a distinction between suspicious behavior and a threat,” Cheatle explained, “and at the time that this individual was identified, they were displaying suspicious behavior,” and those early reports about Crooks didn’t identify him as an active threat.
 
+When asked by GOP Rep. Russell Fry when exactly Crooks was identified as a threat, Cheatle said it was mere seconds before he started shooting at the former president.
+
+“It’s approximately five minutes to where individuals relayed that there was an (issue) being worked at the three o’clock of the former president,” the lawmaker from South Carolina said, referring to Crooks’ location from Trump’s perspective. “But it was not phrased as a threat. It was just that something was being worked on. When did he transform from suspicion to threat?”
+
+“I believe that it was seconds before the gunfire started,” Cheatle said.
+
 ### Democrats pivot to gun control
 
-In his opening statement, Rep. Jamie Raskin, the top Democrat on the panel, homed in on the gun violence that has plagued the US and labeled the Trump assassination attempt as a “mass shooting.”
+In his opening statement, Raskin homed in on the gun violence that has plagued the US and labeled the Trump assassination attempt as a “mass shooting.”
 
 “Mr. (Corey) Comperatore, President Trump and the other rally attendees wounded in Butler are now members of a club no one wants to belong to — the thousands of people who have fallen victim to mass shootings,” Raskin said, as an aide held up a poster listing some of the recent mass shootings in the US.
 
@@ -93,6 +99,8 @@ Female agents who were part of Trump’s Secret Service detail were photographed
 Asked by a Republican member about her efforts to “change the makeup of the Secret Service” because there was “too high a percentage are men,” Cheatle said she hires only “the best and brightest.”
 
 “I am hiring the best qualified candidates that put in an application that want to work for our great organization,” she responded.
+
+This story has been updated with additional developments.
 
 ---
 

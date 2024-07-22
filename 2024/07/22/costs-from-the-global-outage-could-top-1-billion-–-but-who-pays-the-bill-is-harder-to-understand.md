@@ -1,6 +1,6 @@
 # Costs from the global outage could top $1 billion – but who pays the bill is harder to understand
 
-Published :`2024-07-22 18:39:58`
+Published :`2024-07-22 19:12:52`
 
 ---
 
@@ -33,6 +33,8 @@ But there could be legal protections for CrowdStrike in its customer contracts t
 “I would guess that the contracts protect them,” said James Lewis, researcher at the Center for Strategic and International Studies.
 
 Lewis pointed to case decided Thursday in favor of SolarWinds, another software company. A judge dismissed Securities and Exchange Commission charges against SolarWinds related to a Russian hack of federal government agencies in late 2020. Lewis said in that case SolarWinds was only facing charges for not disclosing its system’s vulnerabilities to an outside hack, not for damage caused by its own actions. But it still won a dismissal of the case.
+
+Businesses affected by the outage are likely to find out that traditional business interruption insurance won’t cover them for any of their losses, said Mark Friedlander, spokesman for the Insurance Information Institute. Those policies typically require there to be some kind of physical damage to a business’ property in order for claims to be paid. There is a separate kind of policy for computer outages, known as Business Network Interruption policies, under which claims might be paid. But those polices sometimes only cover malicious hacks and exclude non-malicious computer problems like this one, he said.
 
 ### Will customers stay?
 

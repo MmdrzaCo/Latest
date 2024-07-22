@@ -1,6 +1,6 @@
 # Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage
 
-Published :`2024-07-22 18:39:57`
+Published :`2024-07-22 19:12:50`
 
 ---
 
@@ -8,7 +8,7 @@ Hundreds of US flights were canceled Monday as carriers, particularly Delta Air 
 
 Delta is facing mounting pressure to get passengers back in the air, as it continues to rack up the majority of canceled US flights. US Transportation Secretary Pete Buttigieg has expressed frustration with the pace of Delta’s recovery and its CEO has apologized to affected travelers.
 
-About 980 flights into, within or out of the United States were canceled by Monday afternoon, and 4,400 flights were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by more than 4,500 cancellations since Friday, including 789 on Monday, by far the most of any airline.
+About 980 flights into, within or out of the United States were canceled by Monday afternoon, and 4,400 flights were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by more than 4,400 cancellations since Friday, including 789 on Monday, by far the most of any airline.
 
 Delta declined to comment on the numbers, but in an update to customers Sunday afternoon, CEO Ed Bas﻿tian said the company is working to restore operations for its customers.
 

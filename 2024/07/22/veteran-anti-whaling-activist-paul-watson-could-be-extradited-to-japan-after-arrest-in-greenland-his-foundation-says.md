@@ -1,6 +1,6 @@
 # Veteran anti-whaling activist Paul Watson could be extradited to Japan after arrest in Greenland, his foundation says
 
-Published :`2024-07-22 18:39:59`
+Published :`2024-07-22 19:12:52`
 
 ---
 

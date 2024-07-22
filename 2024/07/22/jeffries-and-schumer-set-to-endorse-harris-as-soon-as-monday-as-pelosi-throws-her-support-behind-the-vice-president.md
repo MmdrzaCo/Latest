@@ -1,6 +1,6 @@
 # Jeffries and Schumer set to endorse Harris as soon as Monday as Pelosi throws her support behind the vice president
 
-Published :`2024-07-22 18:39:57`
+Published :`2024-07-22 19:12:50`
 
 ---
 
