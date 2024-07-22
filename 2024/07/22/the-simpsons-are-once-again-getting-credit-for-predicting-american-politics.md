@@ -1,6 +1,6 @@
 # ‘The Simpsons’ are once again getting credit for predicting American politics
 
-Published :`2024-07-22 23:14:44`
+Published :`2024-07-22 23:36:41`
 
 ---
 

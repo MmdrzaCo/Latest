@@ -1,12 +1,16 @@
 # Why Delta is still canceling flights as other airlines return to normal
 
-Published :`2024-07-22 23:14:44`
+Published :`2024-07-22 23:36:41`
 
 ---
 
-Three days after a computer update problem caused more than 5,000 flight cancellations around the world, things are pretty much back to normal — except at Delta Air Lines.
+Three days after a computer update problem caused more than 5,000 flight cancellations around the world in a single day, things are pretty much back to normal — except at Delta Air Lines.
 
-Atlanta-based Delta canceled 1,500 flights on Friday, or more than a third of its schedule. That’s more than any other airline in the world, according to flight tracking service FlightAware. It grounded nearly 3,000 more flights over the weekend, and early Monday had canceled 700 more flights, or about 60% of flights canceled by all airlines worldwide. Most other US airlines had only 1% of its flights canceled, compared to roughly one out of every six scheduled Delta flights.
+Atlanta-based Delta canceled more than 1,000 more flights Monday alone, according to flight tracking service FlightAware, when counting both Delta’s mainline operations and Endeavor, its regional airline that feeds its system under the Delta Connection brand.
+
+Those 1,000 flights represented just over half of all flights canceled by airlines worldwide on Monday, and about three-quarters of the flights within, to or from the United States, as most carriers returned to normal operations. Other US airlines had 2% or fewer of their flights canceled. Monday’s problems follow 1,500 flights that Delta canceled on Friday and nearly 3,000 more flights over the weekend.
+
+The problems likely left tens of thousands of frustrated Delta customers stranded and unable to return home, many of them being booked onto a series of flights that would subsequently be canceled as well. Lack of available hotel rooms left many forced to sleep in airports and wait for hours on hold trying to get through to Delta in an often-futile effort to find a flight.
 
 In a note to customers Sunday, Delta CEO Ed Bastian apologized for the disruptions and attributed the problem to the computer program affecting its “crew tracking” software.
 

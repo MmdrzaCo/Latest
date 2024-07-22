@@ -1,6 +1,6 @@
 # Sam Smith details knee injury from ski accident: ‘It was awful’
 
-Published :`2024-07-22 23:14:44`
+Published :`2024-07-22 23:36:41`
 
 ---
 

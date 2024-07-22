@@ -1,6 +1,6 @@
 # Venice tourism tax nets millions for the city
 
-Published :`2024-07-22 23:14:45`
+Published :`2024-07-22 23:36:42`
 
 ---
 
