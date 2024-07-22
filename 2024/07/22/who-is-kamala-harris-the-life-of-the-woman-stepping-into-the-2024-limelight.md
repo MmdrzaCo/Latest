@@ -1,6 +1,6 @@
 # Who is Kamala Harris? The life of the woman stepping into the 2024 limelight
 
-Published :`2024-07-22 19:36:16`
+Published :`2024-07-22 20:15:59`
 
 ---
 
@@ -18,11 +18,11 @@ Kamala Devi Harris was born in Oakland, California, on October 20, 1964.
 
 In the introduction to her 2019 memoir, “The Truths We Hold,” Harris noted that her name is pronounced “‘comma-la,’ like the punctuation mark” and that it means “lotus flower,” in homage to an important symbol in Indian culture.
 
-Harris’ father, Donald, immigrated to the United States from Jamaica to study economics at the University of California at Berkley. He is now a professor emeritus of economics at Stanford.
+Harris’ father, Donald, immigrated to the United States from Jamaica to study economics at the University of California at Berkeley. He is now a professor emeritus of economics at Stanford.
 
 Her mother, Shyamala Gopalan Harris, immigrated to the US from southern India in the late 1950s. She earned her doctorate in nutrition and endocrinology at Berkley and became an acclaimed breast cancer researcher before she passed away in 2009.
 
-Harris writes that her parents “met and fell in love at Berkley while participating in the civil rights movement,” but the couple later divorced when Harris and her sister, Maya, were young.
+Harris writes that her parents “met and fell in love at Berkeley while participating in the civil rights movement,” but the couple later divorced when Harris and her sister, Maya, were young.
 
 Harris credits her mother for “shaping us into the women we would become” and for teaching her daughters to be proud of both their Indian and Black heritage.
 

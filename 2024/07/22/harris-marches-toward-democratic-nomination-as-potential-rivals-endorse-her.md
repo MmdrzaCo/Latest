@@ -1,6 +1,6 @@
 # Harris marches toward Democratic nomination as potential rivals endorse her
 
-Published :`2024-07-22 19:36:16`
+Published :`2024-07-22 20:15:58`
 
 ---
 
@@ -12,13 +12,17 @@ And the party’s best-known governors, several of whom had been seen as potenti
 
 Four governors of must-win Midwestern states — Michigan’s Gretchen Whitmer, Minnesota’s Tim Walz, Wisconsin’s Tony Evers and Illinois’ JB Pritzker — endorsed Harris on Monday. They followed Sunday endorsements of Harris from Kentucky’s Andy Beshear, North Carolina’s Roy Cooper, California’s Gavin Newsom and Pennsylvania’s Josh Shapiro. Many of those governors could be considered for the party’s vice presidential nomination.
 
-In her first half-day as a candidate, Harris raised $49.6 million in online donations, campaign spokeswoman Lauren Hitt said — a huge haul that underscored grassroots enthusiasm for a shake-up to the Democratic 2024 ticket. Democratic donation-processing site ActBlue called it “the biggest fundraising day of the 2024 cycle.”
+In her first half-day as a candidate, Harris raised $49.6 million in online donations, campaign spokeswoman Lauren Hitt said — a huge haul that underscored grassroots enthusiasm for a shake-up to the Democratic 2024 ticket. Democratic donation-processing site ActBlue called it “the biggest fundraising day of the 2024 cycle.” The Democratic super PAC Future Forward secured $150 million in commitments from donors in the 24 hours after Biden announced his decision, a senior aide to the group said. The commitments came from donors who were either uncommitted, unsure or previously stalled, the aide added.
 
-Meanwhile, the cascade of endorsements for Harris’ candidacy that had begun Sunday afternoon was accelerating on Capitol Hill. Harris has the support of more than 30 Democratic senators and more than 80 House members — numbers that had grown rapidly throughout Monday morning.
+Meanwhile, the cascade of endorsements for Harris’ candidacy that had begun Sunday afternoon was accelerating on Capitol Hill. Harris has the support of more than 30 Democratic senators and more than 80 House members — numbers that had grown rapidly throughout Monday morning. A significant one came from former House Speaker Nancy Pelosi, who said in a Monday afternoon statement that her “enthusiastic support for Kamala Harris for President is official, personal and political.”
+
+Senate Majority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries, the top-ranking Democrats in each chamber, were set to endorse Harris soon, according to multiple sources familiar with the decision.
+
+Harris has the support of more than 40 Democratic senators and nearly 100 House members — numbers that had grown rapidly throughout the day Monday.
 
 She also has the support of the political arms of the Congressional Black Caucus, Congressional Hispanic Caucus and Congressional Progressive Caucus, as well as two key labor unions, Service Employees International Union and the American Federation of Teachers.
 
-And several state delegations to next month’s Democratic National Convention — Tennessee, North Carolina, South Carolina, Louisiana, New Hampshire and Maryland — announced that they are backing Harris.
+And growing numbers of state delegations to next month’s Democratic National Convention — Tennessee, North Carolina, South Carolina, Louisiana, New Hampshire, Maryland, Kentucky, Florida and Pennsylvania — announced that they are backing Harris.
 
 Support for the vice president came across the party’s ideological spectrum — from moderate populists, including Ohio Sen. Sherrod Brown, one of the most endangered Democratic incumbents on the ballot this fall, to progressives, including Massachusetts Sen. Elizabeth Warren and New York Rep. Alexandria Ocasio-Cortez.
 
@@ -45,6 +49,8 @@ In those phone calls, Harris made clear that while she was grateful for Biden’
 “I am honored to have the President’s endorsement and my intention is to earn and win this nomination,” she wrote.
 
 Harris’ supporters were also mobilizing.
+
+Harris’ chief of staff Lorraine Voles and California Lt. Gov. Eleni Kounalakis led a call Monday morning with around 350 Democratic donors, fundraisers and supporters, a longtime Democratic fundraiser and supporter of Harris for many years told CNN. The source, who was on the call, said by gathering Harris’ core supporters from her previous campaigns and newly interested donors, they hoped to get everyone to “row the right way.”
 
 The group Win With Black Women periodically holds Zoom calls — but the one that took place Sunday evening had a different tone, with 44,000 people joining, according to its leaders.
 
@@ -99,6 +105,12 @@ Beshear also attacked Vance for past comments expressing support for strict rest
 Cooper, the North Carolina governor who endorsed Harris on Sunday, also appeared on MSNBC on Monday, but deflected questions about whether he would be open to becoming her running mate.
 
 “I think it’s really important that we do keep the focus on her this week. The vice-presidential conversation needs to occur later,” Cooper said. “I want to make sure that Kamala Harris wins. I’m going to work for her all over this country and do what I can to make sure we stop Donald Trump.”
+
+Whitmer, the Michigan governor, told a local reporter she’s “not planning to go anywhere” when asked Monday if she would accept the vice presidential role if offered.
+
+Colorado Gov. Jared Polis, meanwhile, told CNN’s Dana Bash that “obviously, if somebody asks, I’d take a serious look at it,” but that “my phone hasn’t rung yet.”
+
+“If they do the polling and it turns out that they need a 49-year-old, balding, gay Jew from Boulder, Colorado, they got my number,” Polis quipped.
 
 This story and headline have been updated with additional reporting.
 

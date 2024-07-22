@@ -1,6 +1,6 @@
 # Why Delta is still canceling flights as other airlines return to normal
 
-Published :`2024-07-22 19:36:16`
+Published :`2024-07-22 20:15:58`
 
 ---
 
@@ -19,6 +19,16 @@ At Atlanta’s Hartsfield International Airport on Monday, friends Nicole DaSil
 “We’ve been on multiple different flights, and they’ve all been canceled,” DaSilva said, clutching a handful of tickets that could not be used.
 
 Denlinger stayed glued to her phone, waiting to speak with a Delta employee. She held up her phone to show how long she’s been on hold: “Six hours and 20 minutes,” she said.
+
+But the problem with the critical crew tracking system was still not fixed as of Monday morning, according to a video message to Delta staff from Bastian and Rahul Samant, the company’s chief information officer.
+
+“So we’re optimistic we’ll get it done,” Samant said in the video message. “There will be some things as Ed said, that we will do today, tomorrow to get to a better place by the end of the week.” He said the IT staff is working “feverishly” and “around the clock” to fix the problem.
+
+Delta appears to still be in the dark about the whereabouts of their crew members. Crew members logging on to the company’s computer system to sign up for flights receive prompts and questions that include: “Please enter below what airport code you are closest to,” “What is your current status?” and “Please describe your current location.”
+
+A person familiar with the airline’s operations allowed CNN to see screen shots of the prompts. Delta would not comment on the screen shots.
+
+Delta is offering crew members premium pay, as well as additional assurances they will be able to travel back to their homes at the end of their work period, according to the screen shots viewed by CNN. The premium pay and assurances would be in place through Friday, another sign the staffing problem may not be fixed for several more days. Delta also declined to comment on these offers to crew members.
 
 The problems with the flight groundings and delays produced nightmares for travelers throughout the weekend. And they were only one part of the “largest IT outage in history” that was caused by the CrowdStrike, which shut down an estimated 8.5 million computers running Windows software worldwide, disrupting hospital operations, package deliveries, banking and retail transactions.
 

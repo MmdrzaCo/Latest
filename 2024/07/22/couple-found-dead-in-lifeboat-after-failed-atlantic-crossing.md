@@ -1,6 +1,6 @@
 # Couple found dead in lifeboat after failed Atlantic crossing
 
-Published :`2024-07-22 19:36:16`
+Published :`2024-07-22 20:16:00`
 
 ---
 

@@ -1,6 +1,6 @@
 # Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage
 
-Published :`2024-07-22 19:36:16`
+Published :`2024-07-22 20:15:58`
 
 ---
 
@@ -8,9 +8,13 @@ Hundreds of US flights were canceled Monday as carriers, particularly Delta Air 
 
 Delta is facing mounting pressure to get passengers back in the air, as it continues to rack up the majority of canceled US flights. US Transportation Secretary Pete Buttigieg has expressed frustration with the pace of Delta’s recovery and its CEO has apologized to affected travelers.
 
-About 980 flights into, within or out of the United States were canceled by Monday afternoon, and 4,400 flights were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by more than 4,400 cancellations since Friday, including 789 on Monday, by far the most of any airline.
+Over 1,000 flights into, within or out of the United States were canceled by Monday afternoon, and over 5,500 were delayed, according to flight tracking site FlightAware. Delta passengers have been slammed by more than 4,400 cancellations since Friday, including more than 800 on Monday, by far the most of any airline.
 
 Delta declined to comment on the numbers, but in an update to customers Sunday afternoon, CEO Ed Bas﻿tian said the company is working to restore operations for its customers.
+
+On Monday, Bastian told employees by video message: “We’ve got everyone around this company working around the clock to get this operation where it needs to be,” according to a news release.
+
+The airline – headquartered in Atlanta – said it hopes to “make it right,” offering SkyMiles, vouchers and the right to request a refund, among other offers.
 
 Three of those customers, Nicole DaSilva, Tiffany Denlinger and Melissa Levine were stranded at Hartsfield-Jackson Atlanta International Airport on Monday, surrounded by bags and lines of weary travelers – with no clear way to get home.
 
@@ -69,6 +73,8 @@ The same day, Jetstar Japan, Hong Kong Express and Cebu Pacific airlines said th
 Even with the flawed computer update rolled back, it’s not a quick fix for airlines, which have computers at thousands of gates that will need to be individually rebooted, David Kennedy, cofounder of cybersecurity company Binary Defense, told CNN on Saturday.
 
 “It’s not just as simple as rebooting. There’s a lot more steps and complexities in this that are involved,” Kennedy said. “There’s just not enough people at those airports, at those locations to go and do it.”
+
+The Monday statement from Delta notes one of its most critical systems, “which ensures all flights have a full crew in the right place at the right time … is deeply complex and is requiring the most time and manual support to synchronize.”
 
 Amid the travel chaos, Buttigieg said earlier in a social media post Saturday he received reports of some airlines only offering flight credits to passengers for canceled flights.
 
