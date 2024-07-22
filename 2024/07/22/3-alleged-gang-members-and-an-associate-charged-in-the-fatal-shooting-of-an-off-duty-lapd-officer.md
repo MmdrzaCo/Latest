@@ -1,6 +1,6 @@
 # 3 alleged gang members and an associate charged in the fatal shooting of an off-duty LAPD officer
 
-Published :`2024-07-22 03:47:00`
+Published :`2024-07-22 04:18:25`
 
 ---
 
