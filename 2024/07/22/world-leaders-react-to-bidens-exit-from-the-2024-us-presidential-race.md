@@ -1,6 +1,6 @@
 # World leaders react to Biden’s exit from the 2024 US presidential race
 
-Published :`2024-07-22 11:12:39`
+Published :`2024-07-22 11:37:11`
 
 ---
 

@@ -1,12 +1,20 @@
 # What we know 4 days after a software update brought down computer systems around the world
 
-Published :`2024-07-22 11:12:39`
+Published :`2024-07-22 11:37:11`
 
 ---
 
-Four days after a faulty software update from a cybersecurity company unexpectedly brought down computers and technical systems across the world, airlines and some other companies are still experiencing delays and other technical problems.
+Hundreds of US flights were canceled early Monday, as airlines work to recover four days after a global tech outage caused massive delays and left travelers stranded at airports around the nation.
 
-The “largest IT outage in history” – prompted by a software update for Microsoft devices late Thursday into the early hours of Friday – caused disorder at airports, outages for 911 services and challenges at healthcare facilities.
+More than 700 flights into, within or out of the United States were canceled by 7:30 a.m. ET Monday, and more than 800 flights were delayed, according to flight tracking site FlightAware.
+
+While most airlines have brought their cancellation numbers down, more than 600 of Monday’s canceled flights were from Delta Air Lines, according to FlightAware.
+
+Delta declined to comment on the numbers, but in an update to customers Sunday afternoon, Delta Air Lines CEO Ed Bastian said the company is working to restore operations after the outage.
+
+The “largest IT outage in history” – prompted by a software update for Microsoft devices late Thursday into the early hours of Friday – brought down computers and technical systems across the world, causing disorder at airports, outages for 911 services and challenges at health care facilities.
+
+“In particular one of our crew tracking-related tools was affected and unable to effectively process the unprecedented number of changes triggered by the system shutdown,” Bastian said in the statement.
 
 The outage affected an estimated 8.5 million Windows devices – less than one percent of all Windows machines, according to a Saturday blog post from Microsoft. But the effects were ubiquitous, with airlines, banks, businesses, schools and governments, along with some health and emergency services, across the world affected.
 
@@ -16,7 +24,7 @@ Here’s what we know about the outage and its continued effects.
 
 ### Outage caused by CrowdStrike software update
 
-The outage was related to a software update rolled out by CrowdStrike, a major US cybersecurity firm. The software – used by numerous Fortune 500 companies, including major global banks, healthcare and energy companies, as well as by the US government — detects and blocks hacking threats.
+The outage was related to a software update rolled out by CrowdStrike, a major US cybersecurity firm. The software – used by numerous Fortune 500 companies, including major global banks, health care and energy companies, as well as by the US government –detects and blocks hacking threats.
 
 CrowdStrike told customers early Friday the outages were caused by “a defect found in a single content update of its software on Microsoft Windows operating systems,” according to a post on X from CEO George Kurtz. The issue was identified and isolated, and engineers deployed an update to fix the problem, Kurtz said.
 
@@ -30,7 +38,7 @@ In an update posted to LinkedIn late Sunday, CrowdStrike said “a significant n
 
 ### Chaos and confusion for travelers
 
-Travelers continued to feel the impact of the failure for a fourth straight day Monday, with more than 600 flights within, into or out of the US cancelled and more than 500 delayed, according to the tracking website FlightAware. On Sunday, more than 1,800 US flights were canceled and more than 9,900 delayed. Major hotels, including Marriott International and some Hiltons, were impacted both in regard to payment processing and delays to check in-processes.
+On Sunday, more than 1,800 US flights were canceled and more than 9,900 delayed, according to FlightAware. Major hotels, including Marriott International and some Hiltons, were impacted both in regard to payment processing and delays to check in-processes.
 
 US-based carriers American Airlines, United Airlines, Delta Air Lines, Allegiant Airlines, SunCountry and Frontier Airlines all reported issues on Friday.
 
@@ -43,8 +51,6 @@ Delta also announced that it would not be allowing unaccompanied minors to trave
 Transportation Secretary Pete Buttigieg spoke with Delta Air Lines CEO Ed Bastian Sunday afternoon as the air carrier continues to struggle with a high number of flight cancellations, according to the department.
 
 “We continue to receive reports of unacceptable disruptions and customer service conditions at Delta Air Lines, including hundreds of complaints filed with our Department. I have made clear to Delta that we expect the airline to provide prompt refunds to consumers who choose not to be rebooked, and free rebooking and timely reimbursements for food and overnight hotel stays to consumers affected by the delays and cancellations, as well as adequate customer service assistance to all of their passengers,” Buttigieg said in a statement.
-
-In a letter Sunday afternoon, Bastian apologized to customers, saying the extremely busy travel weekend contributed to the problem. Delta declined CNN’s request to comment further.
 
 Other airlines were getting back on track over the weekend, including one of the world’s largest operators, Turkish Airlines, which said Saturday, “The global technical issue has been resolved. All our operations have returned to normal.”
 
@@ -60,7 +66,7 @@ Amid the travel chaos, Buttigieg said earlier in a social media post Saturday he
 
 ### Hospitals, 911 systems and government agencies affected
 
-The widespread usage of CrowdStrike’s software meant the outage penetrated numerous industries, including emergency communications, government services and healthcare.
+The widespread usage of CrowdStrike’s software meant the outage penetrated numerous industries, including emergency communications, government services and health care.
 
 Large hospital systems, including Mass General Brigham in Massachusetts, Penn Medicine in Pennsylvania, Mount Sinai Health System in New York all reported Friday they were affected by the outage.
 
