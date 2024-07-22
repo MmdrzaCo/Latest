@@ -1,14 +1,14 @@
 # Global markets rise after Biden exit
 
-Published :`2024-07-22 16:40:57`
+Published :`2024-07-22 17:13:43`
 
 ---
 
 Global markets made solid gains after President Joe Biden dropped out of the 2024 presidential election Sunday and endorsed Vice President Kamala Harris as the Democratic nominee.
 
-European stocks saw an uptick and morning trading in the US was higher following Biden’s announcement.
+European stocks saw an uptick and afternoon trading in the US was higher following Biden’s announcement.
 
-The Dow rose 123.7 points, or 0.3%. The S&P 500 was up 0.7% and the Nasdaq was 1.1% higher. European markets were also higher, and Asian markets closed mostly lower. US Treasuries rose slightly early Monday, trimming yields, and the dollar was softer against major currencies.
+The Dow rose 78 points, or 0.2% in early afternoon trading Monday. The S&P 500 was up 0.9% and the Nasdaq was 1.3% higher. European markets also closed higher, and Asian markets closed mostly lower. US Treasuries rose slightly, trimming yields, and the dollar was softer against major currencies.
 
 ### The Trump trade falters
 

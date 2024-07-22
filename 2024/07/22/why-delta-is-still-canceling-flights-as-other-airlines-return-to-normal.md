@@ -1,6 +1,6 @@
 # Why Delta is still canceling flights as other airlines return to normal
 
-Published :`2024-07-22 16:40:57`
+Published :`2024-07-22 17:13:42`
 
 ---
 
@@ -13,6 +13,12 @@ In a note to customers Sunday, Delta CEO Ed Bastian apologized for the disruptio
 “One of our crew tracking-related tools was affected and unable to effectively process the unprecedented number of changes triggered by the system shutdown,” he wrote in a note to customers. “Our teams have been working around the clock to recover and restore full functionality.”
 
 While many airlines large and small had the CrowdStrike problem affect computers that were supposed to check in passengers, it appeared that Delta might have been the one airline that had its crucial crew scheduling software affected.
+
+At Atlanta’s Hartsfield International Airport on Monday, friends Nicole DaSilva, Tiffany Denlinger and Melissa Levine had been traveling since Saturday to get home to Tucson, Arizona, after an international trip to Athens. But they were told that finding a flight for the last leg of their trip could take until Wednesday or Thursday.
+
+“We’ve been on multiple different flights, and they’ve all been canceled,” DaSilva said, clutching a handful of tickets that could not be used.
+
+Denlinger stayed glued to her phone, waiting to speak with a Delta employee. She held up her phone to show how long she’s been on hold: “Six hours and 20 minutes,” she said.
 
 The problems with the flight groundings and delays produced nightmares for travelers throughout the weekend. And they were only one part of the “largest IT outage in history” that was caused by the CrowdStrike, which shut down an estimated 8.5 million computers running Windows software worldwide, disrupting hospital operations, package deliveries, banking and retail transactions.
 
