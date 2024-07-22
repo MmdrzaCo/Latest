@@ -1,6 +1,6 @@
 # Nipah virus death puts health officials on alert in southern India
 
-Published :`2024-07-22 11:37:12`
+Published :`2024-07-22 12:29:58`
 
 ---
 

@@ -1,6 +1,6 @@
 # Israel strikes Yemen for the first time following deadly Houthi drone attack. Here’s what we know
 
-Published :`2024-07-22 11:37:11`
+Published :`2024-07-22 12:29:57`
 
 ---
 

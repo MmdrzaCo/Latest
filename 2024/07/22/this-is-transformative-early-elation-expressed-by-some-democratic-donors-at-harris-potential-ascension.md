@@ -1,6 +1,6 @@
 # ‘This is transformative’: Early elation expressed by some Democratic donors at Harris’ potential ascension
 
-Published :`2024-07-22 11:37:11`
+Published :`2024-07-22 12:29:57`
 
 ---
 
