@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-22 02:26:00`
+#### Latest Update : `2024-07-22 02:49:21`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Biden just made the hardest decision any politician can make](https://new-news.github.io/Latest/2024/07/22/biden_just_made_the_hardest_decision_any_politician_can_make 'Biden just made the hardest decision any politician can make')
+
+- [As dozens of Hill Democrats back Harris, here’s why key Democratic leaders haven’t yet weighed in](https://new-news.github.io/Latest/2024/07/22/as_dozens_of_hill_democrats_back_harris__heres_why_key_democratic_leaders_havent_yet_weighed_in 'As dozens of Hill Democrats back Harris, here’s why key Democratic leaders haven’t yet weighed in')
 
 - [Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know](https://new-news.github.io/Latest/2024/07/22/bangladesh_has_erupted_over_jobs_reserved_for_the_children_of_freedom_fighters__heres_what_you_need_to_know 'Bangladesh has erupted over jobs reserved for the children of ‘freedom fighters.’ Here’s what you need to know')
 
@@ -28,11 +32,7 @@
 
 - [Biden will not seek reelection; endorses Harris](https://new-news.github.io/Latest/2024/07/22/biden_will_not_seek_reelection__endorses_harris 'Biden will not seek reelection; endorses Harris')
 
-- [As dozens of Hill Democrats back Harris, here’s why key Democratic leaders haven’t yet weighed in](https://new-news.github.io/Latest/2024/07/22/as_dozens_of_hill_democrats_back_harris__heres_why_key_democratic_leaders_havent_yet_weighed_in 'As dozens of Hill Democrats back Harris, here’s why key Democratic leaders haven’t yet weighed in')
-
 - [More than 1,500 US flights canceled for the third day straight as airlines slowly recover from global tech outage](https://new-news.github.io/Latest/2024/07/22/more_than_1_500_us_flights_canceled_for_the_third_day_straight_as_airlines_slowly_recover_from_global_tech_outage 'More than 1,500 US flights canceled for the third day straight as airlines slowly recover from global tech outage')
-
-- [Biden just made the hardest decision any politician can make](https://new-news.github.io/Latest/2024/07/22/biden_just_made_the_hardest_decision_any_politician_can_make 'Biden just made the hardest decision any politician can make')
 
 - [Legal experts are dubious of any court challenge to Democrats’ move to put forward new nominee](https://new-news.github.io/Latest/2024/07/22/legal_experts_are_dubious_of_any_court_challenge_to_democrats_move_to_put_forward_new_nominee 'Legal experts are dubious of any court challenge to Democrats’ move to put forward new nominee')
 

@@ -1,6 +1,6 @@
 # Secret Service director to testify Monday on Trump shooting: What to know
 
-Published :`2024-07-22 02:25:54`
+Published :`2024-07-22 02:49:18`
 
 ---
 
