@@ -1,6 +1,6 @@
 # How the House GOP campaign arm is pivoting to target Harris: Border, fracking and protests
 
-Published :`2024-07-23 17:13:19`
+Published :`2024-07-23 17:36:25`
 
 ---
 
@@ -14,7 +14,11 @@ But that doesn’t mean GOP lawmakers are necessarily going to stay on message. 
 
 Congressional Black Caucus Chairman Steve Horsford said that Burchett’s remarks were “inappropriate, offensive, and really disgusting.”
 
-Behind closed doors, Republican Rep. Byron Donalds of Florida appealed to the House GOP to keep focus on Harris’ policies, according to an attendee, a sign of how many Republicans are uneasy about the attacks over her race.
+Behind closed doors, House Speaker Mike Johnson on Tuesday also addressed the attacks some Republicans have made on the vice president’s race and implored the conference to stay on message.
+
+“Listen, this election, as I noted at the outset, is going to be about policies, not personalities,” Johnson said. “This is not personal. With regard to Kamala Harris and her ethnicity, or her gender have nothing to do with this whatsoever.”
+
+Republican Rep. Byron Donalds of Florida also appealed to the House GOP to keep focus on Harris’ policies, according to an attendee, a sign of how many Republicans are uneasy about the attacks over her race.
 
 The National Republican Congressional Committee also put out a separate memo to candidates encouraging members to be specific in their messaging.
 
@@ -32,6 +36,10 @@ In key swing districts in Arizona and New Mexico, the GOP campaign arm plans to 
 
 The White House has rejected the “border czar” title, arguing that her focus was on long-term fixes. In a key vote in February, Senate Republicans blocked a major bipartisan border deal and foreign aid package with assistance for Ukraine and Israel amid a torrent of attacks on the bill by former President Donald Trump and top House Republicans.
 
+Democratic Rep. Pete Aguilar on Tuesday called efforts by House Republicans to paint Harris as a “border czar” during the Biden administration “laughable and unserious.”
+
+“Let’s be very clear, there was no ‘border czar.’ Kamala Harris’ role was to engage in multilateral discussion with our Latin American countries,” the House Democratic Caucus chair told reporters.
+
 Beyond her assignment on the border from the White House, Republicans have also resurfaced the moment from a Democratic presidential primary debate in 2019 where Harris raised her hand when candidates were asked if they were in favor of decriminalizing illegal border crossing, and sent out a clip of her appearance on “The View” shortly after where she tried to clean up her position but appeared to further contradict herself.
 
 After the Democrat running in southern Arizona endorsed Harris, the NRCC released a statement calling Harris the border czar with a link to a portion of Harris’ 2019 interview with “The View.”
@@ -46,7 +54,7 @@ Both Biden and Harris have condemned the riots and violence that occurred on mul
 
 The NRCC is already working on developing flushed out ads, but their initial attacks on vulnerable House Democrats provide a window into the strategy that is developing behind the scenes at a rapid clip.
 
-“I think this is a contest between policies, not personalities,” House Speaker Mike Johnson told CNN. “The thing about this race is that both Harris and Trump have held office. They’ve been these two competing administrations that you can, you can sit side by side, and people are asking themselves, ‘How was I doing during the Trump administration, and how am I doing now?’”
+“The thing about this race is that both Harris and Trump have held office,” Johnson, the House speaker, told CNN. “They’ve been these two competing administrations that you can, you can sit side by side, and people are asking themselves, ‘How was I doing during the Trump administration, and how am I doing now?’”
 
 “And I think the answer is clear for a lot of people, and I think that’s why we’re gonna have a good November and I really like our chances with her at the top particularly,” Johnson added.
 

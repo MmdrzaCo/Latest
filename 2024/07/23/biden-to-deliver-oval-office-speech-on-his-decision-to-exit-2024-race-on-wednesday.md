@@ -1,6 +1,6 @@
 # Biden to deliver Oval Office speech on his decision to exit 2024 race on Wednesday
 
-Published :`2024-07-23 17:13:19`
+Published :`2024-07-23 17:36:25`
 
 ---
 
@@ -10,7 +10,7 @@ President Joe Biden will deliver a speech on his decision to drop out of the 202
 
 It will be the first time the country hears from the president extensively since his abrupt decision to exit the race on Sunday after he spent weeks defiantly insisting he had no intention of doing so.
 
-Biden, who has been isolating at his home in Rehoboth Beach, Delaware, since testing positive for Covid-19 nearly a week ago, is expected to return to the White House on Tuesday. He briefly called into his former campaign headquarters on Monday to praise Harris, and he vowed to be “fully engaged” in the campaign and seeing out the closing six months of his administration.
+Biden, who had been isolating at his home in Rehoboth Beach, Delaware, since testing positive for Covid-19 nearly a week ago, tested negative on Tuesday, according to his physician, and is expected to return to the White House later in the day. He briefly called into his former campaign headquarters on Monday to praise Harris, and he vowed to be “fully engaged” in the campaign and seeing out the closing six months of his administration.
 
 “I’m going to be on the road and I’m not going anywhere,” Biden said over the phone, his voice still hoarse from Covid. “I won’t be on the ticket, but I am still going to be fully, fully engaged. I’ve got six months left in my presidency. I’m determined to get as much done as I possibly can both foreign policy and domestic policy.”
 
