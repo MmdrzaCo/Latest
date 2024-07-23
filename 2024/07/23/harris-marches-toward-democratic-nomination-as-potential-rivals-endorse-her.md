@@ -1,6 +1,6 @@
 # Harris marches toward Democratic nomination as potential rivals endorse her
 
-Published :`2024-07-23 01:08:29`
+Published :`2024-07-23 02:21:37`
 
 ---
 
@@ -100,7 +100,7 @@ Democratic lawyers are beginning their work conducting a deep, yet truncated, ve
 
 Cooper, Shapiro and Arizona Sen. Mark Kelly are among the Democrats who have been asked to submit information about their finances, family histories and other personal details, two people familiar with the process said. They are part of a group that includes about 10 names, nearly all of whom are elected officials.
 
-A handful of Democratic lawyers, including those who have worked on vice presidential vetting processes in the past, are involved in this effort.
+Former Attorney General Eric Holder and his law firm Covington & Burling will handle vetting for Harris’ running mate, a source familiar with the plans said.
 
 The audition process is also playing out in public, with Cooper and Beshear appearing on MSNBC’s “Morning Joe” on Monday — with the intent that Harris was watching. An aide said she caught at least part of the conversations.
 

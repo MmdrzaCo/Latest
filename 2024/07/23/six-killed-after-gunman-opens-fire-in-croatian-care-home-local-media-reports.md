@@ -1,6 +1,6 @@
 # Six killed after gunman opens fire in Croatian care home, local media reports
 
-Published :`2024-07-23 01:08:30`
+Published :`2024-07-23 02:21:38`
 
 ---
 

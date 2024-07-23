@@ -1,6 +1,6 @@
 # DNC moves forward with process to determine presidential nominee by August 7 following Biden dropout
 
-Published :`2024-07-23 01:08:29`
+Published :`2024-07-23 02:21:37`
 
 ---
 
@@ -22,15 +22,21 @@ If only one candidate were to reach that threshold, for example, the party could
 
 A date for the start of the virtual voting process, therefore, has not yet been set, but it could be as early as August 1.
 
-Party officials were less specific about the timing of the vice-presidential nomination, saying that while they would give the future nominee the ability to finalize the choice by August 7, the exact schedule would be up to the candidate.
+Party officials were less specific about the timing of the vice presidential nomination, saying that while they would give the future nominee the ability to finalize the choice by August 7, the exact schedule would be up to the candidate.
 
 The rules will allow for candidates to file the necessary paperwork and to gather the signatures electronically.
+
+Minnesota Democratic Gov. Tim Walz, who is chair of the DNC rules committee, told CNN’s Erin Burnett on “OutFront” on Monday night that the idea boils down to: “Anybody’s welcome to come in.”
+
+“It is an open process; anyone is welcome,” Walz said. “The delegates who were selected will cast their vote as they see fit, and we will come out with a nominee in time” to get on the ballot in all 50 states, the governor, who has endorsed Harris, said.
 
 To win the nomination, a candidate will have to have the support of a majority of pledged delegates to the convention – 1,976 out of 3,949 pledged delegates, party officials said.
 
 While all delegates will receive ballots, votes cast by superdelegates – senior Democrats who serve as delegates by virtue of their position – will be counted on the first ballot only if one candidate has the support of enough pledged delegates to make up a majority of the full convention. That could be determined either by a candidate winning enough votes during remote balloting, or by gathering that many signatures.
 
 The convention rules committee will vote Wednesday on the proposed rules, a Democratic official said.
+
+This story has been updated with additional developments.
 
 ---
 

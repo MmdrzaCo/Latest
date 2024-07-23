@@ -1,6 +1,6 @@
 # Harris to skip Netanyahu’s speech to Congress but plans separate meeting
 
-Published :`2024-07-23 01:08:29`
+Published :`2024-07-23 02:21:37`
 
 ---
 
@@ -30,7 +30,9 @@ Netanyahu landed in the Washington, DC, area on Monday afternoon, according to 
 
 Netanyahu is also slated to meet with congressional leaders on Wednesday, including House Speaker Mike Johnson, House Minority Leader Hakeem Jeffries, Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell.
 
-He is also expected to meet with Biden at some point this week, though the exact timing has yet to be determined as the US president continues to recover from Covid-19. Over the weekend, Biden announced he would end his bid for reelection and has endorsed Harris to be the Democratic nominee for president.
+Biden is expected to meet with Netanyahu on Thursday, a US official said, though the date of the meeting has been fluid as the US president recovers from Covid-19. Over the weekend, Biden announced he would end his bid for reelection and has endorsed Harris to be the Democratic nominee for president.
+
+This story has been updated with additional details.
 
 ---
 
