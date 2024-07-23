@@ -1,6 +1,6 @@
 # Is Harris the Democratic nominee now? Answers to key questions about Biden’s decision to exit the race
 
-Published :`2024-07-23 08:20:25`
+Published :`2024-07-23 08:39:53`
 
 ---
 

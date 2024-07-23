@@ -1,6 +1,6 @@
 # Kamala Harris formally takes over Biden-Harris campaign account – she’s the only one who could
 
-Published :`2024-07-23 08:20:26`
+Published :`2024-07-23 08:39:54`
 
 ---
 
