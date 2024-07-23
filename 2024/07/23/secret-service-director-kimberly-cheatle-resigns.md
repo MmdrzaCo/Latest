@@ -1,6 +1,6 @@
 # Secret Service Director Kimberly Cheatle resigns
 
-Published :`2024-07-23 16:20:58`
+Published :`2024-07-23 16:41:37`
 
 ---
 
@@ -12,7 +12,9 @@ Cheatle said in her resignation letter that she made the “difficult” decisio
 
 “In light of recent events, it is with a heavy heart that, I have made the difficult decision to step down as your Director,” Cheatle wrote. She acknowledged that on July 13, the day of the shooting, the agency “fell short” of its mission to “to protect our nation’s leaders.”
 
-In a statement, President Joe Biden said he and first lady Jill Biden are “grateful” for Cheatle’s decades of public service and will appoint a new director “soon.”
+Secret Service Deputy Director Ronald Rowe has been tapped to lead the agency, the Department of Homeland Security announced.
+
+In a statement, President Joe Biden said he and first lady Jill Biden are “grateful” for Cheatle’s decades of public service.
 
 “As a leader, it takes honor, courage, and incredible integrity to take full responsibility for an organization tasked with one of the most challenging jobs in public service,” Biden said of Cheatle.
 

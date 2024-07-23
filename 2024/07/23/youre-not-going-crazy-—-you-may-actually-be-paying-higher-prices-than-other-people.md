@@ -1,6 +1,6 @@
 # You’re not going crazy — you may actually be paying higher prices than other people
 
-Published :`2024-07-23 16:20:58`
+Published :`2024-07-23 16:41:38`
 
 ---
 
@@ -30,7 +30,11 @@ The orders seek to understand how technologies like AI along with consumers’ p
 
 “Firms that harvest Americans’ personal data can put people’s privacy at risk. Now firms could be exploiting this vast trove of personal information to charge people higher prices,”  FTC Chair Lina Khan said in a statement.
 
-Mastercard declined to comment on the order, but told CNN it would “cooperate with the FTC in this process.” Task Software, which lists Starbucks as a client, did not immediately respond to CNN’s request for comment along with the other six companies to whom the FTC sent orders.
+Revionics’ vice president of communications, Kristen Miller, told CNN in a statement on Tuesday that it “does not, in any way, conduct operations related to the surveillance of consumers.”
+
+“We are confident that the FTC will affirm the benefits of Revionics’ AI price optimization software pending its research into this matter,” Miller added.
+
+Mastercard declined to comment on the order, but told CNN it would “cooperate with the FTC in this process.” Task Software, which lists Starbucks as a client, did not immediately respond to CNN’s request for comment along with the other five companies to whom the FTC sent orders.
 
 ### Traditional marketing tactics on steroids
 

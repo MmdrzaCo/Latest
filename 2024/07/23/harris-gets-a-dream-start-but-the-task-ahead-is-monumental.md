@@ -1,6 +1,6 @@
 # Harris gets a dream start, but the task ahead is monumental
 
-Published :`2024-07-23 16:21:00`
+Published :`2024-07-23 16:41:41`
 
 ---
 
@@ -74,7 +74,7 @@ But far harder tests lay ahead.
 
 • Trump’s team is also ratcheting up the fury of rhetoric against Harris. It’s trying to make her complicit in what Republicans are characterizing as a White House cover-up of the president’s health and mental state. GOP vice presidential nominee JD Vance on Monday claimed that “Kamala Harris lied about it. My Senate Democratic colleagues lied about it. The media lied about it. Every single person who saw Joe Biden knew that he wasn’t capable of doing the job, and for three years they said nothing, until he became political deadweight.”
 
-• There is another potential impediment to the Harris campaign, not yet fully in the spotlight, that could factor into the election. Sixteen years ago, many Americans believed that the country would never put a Black man in the White House. But Barack Obama approved the doubters wrong. Now Harris, a Black woman and Asian American, faces an even higher historic barrier.
+• There is another potential impediment to the Harris campaign, not yet fully in the spotlight, that could factor into the election. Sixteen years ago, many Americans believed that the country would never put a Black man in the White House. But Barack Obama proved the doubters wrong. Now Harris, a Black woman and Asian American, faces an even higher historic barrier.
 
 ---
 
