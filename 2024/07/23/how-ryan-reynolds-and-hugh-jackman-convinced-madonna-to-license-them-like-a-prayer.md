@@ -1,6 +1,6 @@
 # How Ryan Reynolds and Hugh Jackman convinced Madonna to license them ‘Like a Prayer’
 
-Published :`2024-07-23 11:36:14`
+Published :`2024-07-23 12:29:31`
 
 ---
 

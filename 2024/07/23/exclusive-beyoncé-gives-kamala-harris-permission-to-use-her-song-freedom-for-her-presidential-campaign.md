@@ -1,6 +1,6 @@
 # Exclusive: Beyoncé gives Kamala Harris permission to use her song ‘Freedom’ for her presidential campaign
 
-Published :`2024-07-23 11:36:12`
+Published :`2024-07-23 12:29:26`
 
 ---
 
