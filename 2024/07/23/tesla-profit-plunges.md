@@ -1,6 +1,6 @@
 # Tesla profit plunges
 
-Published :`2024-07-23 22:36:28`
+Published :`2024-07-23 23:17:08`
 
 ---
 
@@ -16,9 +16,19 @@ The April through June period was the second straight quarter of year-over-year 
 
 Tesla did not give a new sales target for the full year. But it did warn that “In 2024, our vehicle volume growth rate may be notably lower than the growth rate achieved in 2023.”
 
-Shares of Tesla (TSLA) fell 4% in after-hours trading. Shares are down about 1% so far this year through Tuesday’s close, after being down as much as 44% earlier this year.
+Tesla CEO Elon Musk disparaged the quality of EVs from other automakers now in the market on the investors call after the release, saying they posed only a short-term issue for Tesla, not a long-term issue. He said Tesla remains convinced the world is moving toward fully electric transportation systems, not just for cars, but for planes and ships as well.
 
-This is a developing story. It will be updated.
+Musk also said that the company would release more details on fully-automated robotaxis in October, rather than a previously planned August. The company calls its driver assist feature “Full Self Driving,” but that still requires drivers to be ready to take control of the car. Tesla still faces regulatory and technical hurdles before it can offer robotoxis without drivers, the company said in its earning statement.
+
+Musk said he still believes that is possible to achieve by the end of this year, and definitely by next year, but he cautioned: “My predictions on this have been overly optimistic in the past.”
+
+Tesla faces federal investigations into some of Musk’s claims about Full Self Driving capabilities. The company has also faced a Department of Justice inquiry in the past, although it’s unclear what the current status is of that investigation.
+
+He did announce Tesla’s plans to build an assembly plant in Mexico have been put on hold. The plans were announced more than a year ago, but Musk said the plans have now been paused until after the presidential election because of a threat by Republican nominee Donald Trump to slap tariffs on vehicles imported from Mexico. Musk is a strong Trump supporter, both endorsing him and reportedly pledging tens of millions of dollars toward the former president’s re-election efforts. Trump vowed similar tariffs on Mexican-built cars in 2019, when he was president, but never followed through.
+
+Shares of Tesla (TSLA) fell more than 8% in after-hours trading. Shares are down about 1% so far this year through Tuesday’s close, after being down as much as 44% earlier this year.
+
+This story has been updated with additional reporting and context.
 
 ---
 
