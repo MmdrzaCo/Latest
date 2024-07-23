@@ -1,6 +1,6 @@
 # It’s becoming harder to get — and keep — a car
 
-Published :`2024-07-23 03:18:50`
+Published :`2024-07-23 03:40:18`
 
 ---
 
