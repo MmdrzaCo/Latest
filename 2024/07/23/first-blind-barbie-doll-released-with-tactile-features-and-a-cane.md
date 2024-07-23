@@ -1,6 +1,6 @@
 # First blind Barbie doll released, with tactile features and a cane
 
-Published :`2024-07-23 19:36:49`
+Published :`2024-07-23 20:15:56`
 
 ---
 

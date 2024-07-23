@@ -1,6 +1,6 @@
 # Schumer and Jeffries, the top two Democrats in Congress, endorse Harris at Tuesday news conference
 
-Published :`2024-07-23 19:36:47`
+Published :`2024-07-23 20:15:55`
 
 ---
 

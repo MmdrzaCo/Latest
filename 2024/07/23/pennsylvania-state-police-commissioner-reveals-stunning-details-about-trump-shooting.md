@@ -1,6 +1,6 @@
 # Pennsylvania state police commissioner reveals stunning details about Trump shooting
 
-Published :`2024-07-23 19:36:46`
+Published :`2024-07-23 20:15:55`
 
 ---
 
@@ -32,7 +32,7 @@ Investigators believe that Crooks fired eight rounds before he was killed by cou
 
 “I believe that the number is eight,” Paris told the committee. “Eight casings have been recovered.”
 
-Officials had previously only confirmed that the shooter filed multiple times at the rally earlier this month.
+Officials had previously only confirmed that the shooter fired multiple times at the rally earlier this month.
 
 Paris also told members of Congress that “several Secret Service agents” told the state police area commander during a walkthrough of the area before the rally that the Butler County Emergency Services Unit was responsible for securing the building where Crooks fired the shots.
 

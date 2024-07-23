@@ -1,6 +1,6 @@
 # Myanmar junta leader assumes presidential powers as president takes ‘sick leave,’ state media reports
 
-Published :`2024-07-23 19:36:56`
+Published :`2024-07-23 20:15:58`
 
 ---
 
