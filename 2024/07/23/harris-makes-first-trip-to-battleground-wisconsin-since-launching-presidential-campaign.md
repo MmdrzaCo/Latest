@@ -1,14 +1,34 @@
 # Harris makes first trip to battleground Wisconsin since launching presidential campaign
 
-Published :`2024-07-23 19:11:57`
+Published :`2024-07-23 19:36:46`
 
 ---
 
-Vice President Kamala Harris is set to visit Wisconsin on Tuesday, making her first trip to a battleground state after taking control of the Democratic presidential nomination to challenge Donald Trump.
+Vice President Kamala Harris, in the first rally of her 2024 presidential campaign, told supporters in Wisconsin Tuesday that she will spend the coming weeks “continuing to unite our party” ahead of the Democratic National Convention next month and this fall’s showdown with Donald Trump.
 
-Harris’ rally in Milwaukee opens a new phase in the 2024 race — one she previewed in a Monday trip to campaign headquarters, where she drew sharp contrasts with the former president in a much more energetic style than President Joe Biden has in recent months.
+Harris’ rally in Milwaukee featured a stump speech similar to the one she has delivered on the campaign trail for months — one that drew the sort of sharp contrasts with Trump that President Joe Biden had long struggled to articulate before he dropped out of the 2024 race on Sunday.
 
-It also caps a historic two-day stretch that turned the race on its head.
+However, it came with much more attention now that Harris is the Democratic standard-bearer.
+
+Speaking about her record as a prosecutor in California, Harris said she “took on perpetrators of all kinds: Predators who abused women; fraudsters who ripped off consumers; cheaters who broke the rules for their own gain.”
+
+“So hear me when I say, I know Donald Trump’s type,” she said.
+
+Her quip was met with chants in the packed high school gymnasium of “lock him up” — an echo of the “lock her up” chants that were prominent at Trump rallies in 2016, when he faced Hillary Clinton.
+
+Harris noted that less than two days after Biden exited the race and endorsed his vice president, she had amassed enough support from DNC delegates to become the party’s nominee. She also nodded at the critical role Wisconsin will play in the race for 270 electoral college votes.
+
+“The path to the White House goes through Wisconsin. And to win in Wisconsin, we are counting on you, right here in Milwaukee. And you helped us win in 2020. And in 2024, we will win again,” she said.
+
+She sought to drive an economic message that was much clearer and more forward-looking than Biden’s case for his own accomplishments.
+
+“Building up the middle class,” Harris told supporters, “will be a defining goal of my presidency.”
+
+Harris also pointed to what she called Trump’s “extreme Project 2025 agenda.” Trump has disavowed the Heritage Foundation-backed policy plan, which was created by many of his former staffers. However, many of its most conservative and controversial proposals have become central planks in Democratic attacks on Trump.
+
+“We are not going back,” she vowed, prompting the crowd to chant, “We’re not going back.”
+
+Tuesday’s rally in Wisconsin came at the end of a 48-hour stretch that had turned the 2024 race on its head.
 
 By Monday night, less than 36 hours after Biden had announced he was dropping out of the race and endorsing his vice president, Harris had secured enough commitments from Democratic National Convention delegates to effectively lock down the nomination.
 
@@ -17,6 +37,12 @@ She had also raised more than $100 million from 1.1 million different donors —
 The top two congressional Democrats, Senate Majority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries, endorsed Harris at a news conference Tuesday, joining a cascade of Democratic lawmakers and governors who have announced their support.
 
 “Now that the process has played out from the grassroots, bottom-up, we are here today to throw our support behind” Harris, Schumer said.
+
+Top Wisconsin Democratic officials, including two-term Gov. Tony Evers and Sen. Tammy Baldwin, who is up for reelection this year, also have endorsed Harris. They are among a long list of Democratic officials and candidates who appeared with the vice president on Tuesday.
+
+Harris’ campaign, inheriting the infrastructure put in place during Biden’s candidacy, has 48 coordinated offices in 43 counties in Wisconsin, including 160 full-time staffers.
+
+The campaign is also touting a boost in its organizing since Harris announced her intention to seek the Democratic nomination, with more than 58,000 individuals signing up to volunteer as of Tuesday morning – up from the nearly 30,000 announced Monday afternoon.
 
 The trip to Wisconsin — one of the three “Blue Wall” states, alongside Pennsylvania and Michigan — is Harris’ fifth there this year and ninth since becoming vice president.
 
@@ -32,23 +58,7 @@ The auditions are already in full swing, with Beshear taking a rhetorical two-by
 
 “The problem with JD Vance is he has no conviction. But I guess his running mate has 34,” Beshear said Monday night during an interview with CNN’s Kaitlan Collins.
 
-### What to expect in Wisconsin
-
-Top Wisconsin Democratic officials, including two-term Gov. Tony Evers and Sen. Tammy Baldwin, who is up for reelection this year, have endorsed Harris. They are among a long list of Democratic officials and candidates who will appear with the vice president on Tuesday.
-
-Harris’ campaign, inheriting the infrastructure put in place during Biden’s candidacy, has 48 coordinated offices in 43 counties in Wisconsin, including 160 full-time staffers.
-
-The campaign is also touting a boost in its organizing since Harris announced her intention to seek the Democratic nomination, with more than 58,000 individuals signing up to volunteer as of Tuesday morning – up from the nearly 30,000 announced Monday afternoon.
-
-Harris previewed how she’ll campaign against Trump in a speech Monday at what had been the Biden campaign headquarters — quickly converted to the Harris campaign headquarters — in Wilmington, Delaware.
-
-Speaking to campaign staff, Harris invoked the former president’s scandals and legal troubles.
-
-She pointed to her time as a district attorney and California attorney general, saying that she “took on perpetrators of all kinds.”
-
-“Predators who abused women, fraudsters who ripped off consumers, cheaters who broke the rules for their own game,” Harris said. “So hear me when I say, I know Donald Trump’s type.”
-
-CNN’s Arlette Saenz and Jeff Zeleny contributed to this report.
+This story has been updated with additional reporting.
 
 ---
 
