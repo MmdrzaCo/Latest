@@ -1,6 +1,6 @@
 # Mayorkas names bipartisan panel to lead independent review of Trump assassination attempt
 
-Published :`2024-07-23 09:16:45`
+Published :`2024-07-23 09:36:15`
 
 ---
 

@@ -1,6 +1,6 @@
 # Bridge collapses in China killing 15 after flash floods
 
-Published :`2024-07-23 09:16:44`
+Published :`2024-07-23 09:36:15`
 
 ---
 
