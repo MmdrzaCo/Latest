@@ -1,6 +1,6 @@
 # Supreme Court declines to halt former Colorado official’s trial on charges related to election security breach
 
-Published :`2024-07-23 03:40:17`
+Published :`2024-07-23 04:17:49`
 
 ---
 

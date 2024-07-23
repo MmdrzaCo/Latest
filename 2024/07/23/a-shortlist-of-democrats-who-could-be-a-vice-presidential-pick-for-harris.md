@@ -1,6 +1,6 @@
 # A shortlist of Democrats who could be a vice presidential pick for Harris
 
-Published :`2024-07-23 03:40:17`
+Published :`2024-07-23 04:17:48`
 
 ---
 
