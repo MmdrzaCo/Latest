@@ -1,6 +1,6 @@
 # How Harris is preparing to contrast her record as a prosecutor with Trump’s as a felon
 
-Published :`2024-07-23 10:37:39`
+Published :`2024-07-23 11:14:14`
 
 ---
 

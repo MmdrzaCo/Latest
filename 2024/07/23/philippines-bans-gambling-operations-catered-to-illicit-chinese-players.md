@@ -1,6 +1,6 @@
 # Philippines bans gambling operations catered to illicit Chinese players
 
-Published :`2024-07-23 10:37:36`
+Published :`2024-07-23 11:14:12`
 
 ---
 
@@ -18,7 +18,7 @@ The ban comes as Marcos takes an increasingly hard line against Chinese-linked o
 
 But China’s government is likely to welcome the move. Gambling is banned in China – with the exception of Macao – and Beijing has recently clamped down on cross-border gambling, especially across Southeast Asia.
 
-There are 46 licensed offshore gaming operators and dozens more illicit gambling hubs in the Philippines, according to the country’s gaming regulator, which Marcos has ordered to close by the end of the year.
+There are over 40 licensed offshore gaming operators and dozens more illicit gambling hubs in the Philippines, according to the country’s gaming regulator, which Marcos has ordered to close by the end of the year.
 
 The POGO sector emerged in the Philippines in 2016 under Marcos’ relatively China-friendly predecessor Rodrigo Duterte, who critics say turned a blind eye to suspected illicit activities as the industry brought billions of pesos to state coffers.
 
@@ -27,6 +27,12 @@ Since then, the Philippines has become a major hub for online gaming catering to
 In recent years, Southeast Asia has seen a surge of online scam syndicates raking in huge profits from victims around the world, including in China and the United States. During the coronavirus pandemic, many illicit casinos pivoted to scams when visitors dried up as borders closed.
 
 Many of those working for these scam syndicates are themselves victims of human trafficking.
+
+Most of the perpetrators in POGOs are from China but many of the victims are also Chinese, according to Jaime FlorCruz, Philippine ambassador to China.
+
+He told CNN that POGOs have persisted because it involves a lot of money that brings revenue into local treasuries and creates jobs in some areas of the Philippines, but that gaming hubs have spawned various criminal activities, tarnishing China’s image to the Filipino public.
+
+“All things considered, the POGO ban is good for Philippine-China relations. It gives us a chance to cooperate on something that is mutually beneficial. It allows us to do something together for public good. Our two sides have been cooperating in intelligence exchange, and in identification and repatriation of Chinese citizens implicated in crimes,” FlorCruz said.
 
 Some POGOs are based in abandoned malls, while others are found in converted parking lots or cheap rented offices that have come under increasing scrutiny from authorities in Manila, who say many are fronts for scam centers and other crimes.
 

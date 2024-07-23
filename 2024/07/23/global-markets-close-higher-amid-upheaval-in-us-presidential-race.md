@@ -1,6 +1,6 @@
 # Global markets close higher amid upheaval in US presidential race
 
-Published :`2024-07-23 10:37:38`
+Published :`2024-07-23 11:14:14`
 
 ---
 
