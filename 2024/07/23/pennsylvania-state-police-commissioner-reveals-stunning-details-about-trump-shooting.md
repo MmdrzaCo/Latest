@@ -1,6 +1,6 @@
 # Pennsylvania state police commissioner reveals stunning details about Trump shooting
 
-Published :`2024-07-23 21:36:15`
+Published :`2024-07-23 22:14:22`
 
 ---
 
@@ -36,19 +36,15 @@ Officials had previously only confirmed that the shooter fired multiple times at
 
 Paris also told members of Congress that “several Secret Service agents” told the state police area commander during a walkthrough of the area before the rally that the Butler County Emergency Services Unit was responsible for securing the building where Crooks fired the shots.
 
-### Minutes, not seconds
+### Minutes on the roof
 
-A municipal officer came face-to-face with Crooks several minutes before the would-be assassin fired on Trump, Paris testified.
+A municipal officer came face-to-face with Crooks during the several minutes the would-be assassin was on the roof before Crooks fired on Trump, Paris testified.
 
 Paris said that the brief confrontation came as a pair of local officers who had learned of Crooks’ position on the roof attempted to climb up and confront the shooter. But while the officer was “dangling” from the roof, Crooks aimed his rifle at the officer and the officer fell.
 
-“If the first shots rang out at 18:11 (6:11 pm), the hoisting up of the officer occurred probably no more – again I’m going to give you a time but I want to just put it in the context of a sequence of events – I would say at most two and a half to three minutes before that first shot rang out,” Paris said.
+Paris told lawmakers that Crooks was on the roof for roughly three minutes, correcting a shorter timeframe he gave earlier, but only a few seconds passed between when the officer confronted him and when he fired at Trump
 
-“It was minutes. It was a very short period of time,” Paris said.
-
-“But not seconds?” Rep. Dan Goldman, a New York Democrat, asked.
-
-“I would say minutes,” Paris said, adding he was answering to the best of his knowledge.
+“When the one local officer hoisted the other one up, and subsequently falls,” Paris said, Crooks was “already, I believe, close to being in his final position there. And I’m told it’s – again, sequence of events, not a timeline based on the prior criteria laid out – but seconds after that is when the first shots rang up.”
 
 Paris said that whether, or when, the confrontation was relayed to the Secret Service or other law enforcement agencies at the rally “remains under investigation.”
 

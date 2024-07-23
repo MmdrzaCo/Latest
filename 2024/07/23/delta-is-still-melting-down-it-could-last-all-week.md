@@ -1,16 +1,22 @@
 # Delta is still melting down. It could last all week
 
-Published :`2024-07-23 21:36:15`
+Published :`2024-07-23 22:14:22`
 
 ---
 
 Bad news for passengers: Delta Air Lines canceled hundreds more flights early Tuesday morning, as the problems caused by last week’s global tech outage continued into a fifth day. Worse news: Delta’s meltdown will probably extend through the end of the week.
+
+The meltdown has ensnared an estimated half a million people, ruined holidays and travel plans and prompted a federal investigation – even as Delta flight cancellations and delays are ongoing and far outpacing issues at other carriers.
 
 As of 2pm ET the Atlanta-based airline had canceled 466 flights, and Endeavor Air, its regional carrier that feeds its system under the Delta Connection brand, had canceled another 28 flights. The cancellations follow more than 1,250 flight cancellations Monday, and 4,500 flights from Friday through Sunday between Delta and Delta connection.
 
 There were more than 1,000 Delta and Delta Connection listed as delayed by FlightAware. The canceled flights by the two carriers represented nearly 70% of all flights within, to or from the United States that have been canceled on Monday, according to FlightAware. No other US airline had canceled one tenth as many flights.
 
 The problems prompted the Transportation Secretary Pete Buttigieg to announce the Department of Transportation would be starting an investigation to make sure Delta is following the law and treating passengers fairly.
+
+“I’m hearing a lot of things I’m very concerned about, including people being on hold for hours and hours trying to get a new flight. people having to sleep on airport floors, even accounts of unaccompanied minors being stranded in airports unable to get on a flight,” Buttigieg told reporters on Tuesday.
+
+“Part of why we were opening this investigation is the scale of the problem,” he added. “Over 6,000 flights have been canceled since Friday, hundreds of flights have been canceled today, and we estimate that more than half a million passengers have been impacted by this.”
 
 The DOT said it has received a “high volume of consumer complaints” about Delta’s actions since Friday. The department said if can penalize an airline for “an unfair and deceptive practice” if it finds finds that an airline provided inadequate customer assistance when flights are canceled or travel plans significantly changed.
 
@@ -34,7 +40,7 @@ The problems will continue for at least a few more days, warned Rahul Samant, th
 
 The problems left tens of thousands of frustrated Delta customers stranded and unable to return home. Many of them booked other flights that were subsequently canceled as well. A lack of hotel rooms forced many to sleep in airports and wait for hours on hold trying to get through to Delta in an often-futile effort to find a flight.
 
-Delta crew members are dealing with similar frustrations. Many have been left stranded in airports far from their bases and homes, unable to be placed on flights because Delta has been unable to locate crews and place them on planes. Some Delta crew members also are unable to get hotel rooms and are sleeping at airports. And airport employees are contending with angry, frustrated customers who don’t understand why their flights are being canceled when crew members are available.
+Delta crew members are dealing with similar frustrations. Many have been left stranded in airports far from their bases and homes, unable to be placed on flights because Delta has been unable to locate crews and place them on planes. Some Delta crew members are also unable to get hotel rooms and are sleeping at airports. And airport employees are contending with angry, frustrated customers who don’t understand why their flights are being canceled when crew members are available.
 
 Jeremy and Kaylee Jones were married on Saturday and left Spokane, Washington Monday for their honeymoon, they told CNN. Five guests weren’t able to attend the wedding due to flight issues.
 
@@ -51,6 +57,8 @@ This week, Delta remained in the dark about the whereabouts of its crew members.
 A person familiar with the airline’s operations allowed CNN to see screenshots of the prompts. Delta declined to comment on the questions it was asking crews.
 
 To help fix its staffing problems, Delta is offering crew members premium pay, as well as additional assurances they will be able to travel back to their homes at the end of their work period, according to the screen shots viewed by CNN. The premium pay and assurances would be in place through Friday, another sign the staffing problem may not be fixed for several more days. Delta also declined to comment on these offers to crew members.
+
+But a letter from the chair of Delta’s pilot’s union obtained by CNN said that pilots were once again facing the same “unacceptable obstacles” they usually face when the airline has a problem, namely, the “inability to contact the company in any capacity and the feeling that we have been abandoned in the system.”
 
 ### Costs at $163 million - and climbing
 

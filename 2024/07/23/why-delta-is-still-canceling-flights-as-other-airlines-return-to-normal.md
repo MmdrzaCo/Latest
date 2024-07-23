@@ -1,6 +1,6 @@
 # Why Delta is still canceling flights as other airlines return to normal
 
-Published :`2024-07-23 21:36:17`
+Published :`2024-07-23 22:14:25`
 
 ---
 

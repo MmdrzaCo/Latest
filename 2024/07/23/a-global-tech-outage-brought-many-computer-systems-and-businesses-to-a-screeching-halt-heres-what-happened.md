@@ -1,6 +1,6 @@
 # A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened
 
-Published :`2024-07-23 21:36:17`
+Published :`2024-07-23 22:14:25`
 
 ---
 
