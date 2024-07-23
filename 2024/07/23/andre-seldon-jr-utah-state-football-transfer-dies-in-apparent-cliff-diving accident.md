@@ -1,6 +1,6 @@
 # Andre Seldon Jr., Utah State football transfer, dies in apparent cliff diving accident
 
-Published :`2024-07-23 06:21:28`
+Published :`2024-07-23 06:40:58`
 
 ---
 
