@@ -1,6 +1,6 @@
 # Harris makes first trip to battleground Wisconsin since launching presidential campaign
 
-Published :`2024-07-23 17:36:26`
+Published :`2024-07-23 18:20:26`
 
 ---
 
@@ -13,6 +13,10 @@ It also caps a historic two-day stretch that turned the race on its head.
 By Monday night, less than 36 hours after Biden had announced he was dropping out of the race and endorsing his vice president, Harris had secured enough commitments from Democratic National Convention delegates to effectively lock down the nomination.
 
 She had also raised more than $100 million from 1.1 million different donors — 62% of them first-time contributors — between Sunday and Monday, a Harris campaign official said. The enormous figure reflects the new energy within what had been a morose Democratic base.
+
+The top two congressional Democrats, Senate Majority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries, endorsed Harris at a news conference Tuesday, joining a cascade of Democratic lawmakers and governors who have announced their support.
+
+“Now that the process has played out from the grassroots, bottom-up, we are here today to throw our support behind” Harris, Schumer said.
 
 The trip to Wisconsin — one of the three “Blue Wall” states, alongside Pennsylvania and Michigan — is Harris’ fifth there this year and ninth since becoming vice president.
 

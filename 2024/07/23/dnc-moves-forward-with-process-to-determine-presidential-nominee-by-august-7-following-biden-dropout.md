@@ -1,6 +1,6 @@
 # DNC moves forward with process to determine presidential nominee by August 7 following Biden dropout
 
-Published :`2024-07-23 17:36:30`
+Published :`2024-07-23 18:20:30`
 
 ---
 

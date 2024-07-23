@@ -1,6 +1,6 @@
 # Dozens killed and thousands flee as Israel shrinks ‘humanitarian zone’ in Gaza
 
-Published :`2024-07-23 17:36:26`
+Published :`2024-07-23 18:20:26`
 
 ---
 
@@ -17,6 +17,10 @@ The Israeli ground incursion in Khan Younis follows similar operations in Shujay
 The death toll from the operation continued to rise on Tuesday, as the Hamas-run government media office said 89 people had been killed and 263 injured so far, with nearly 200 buildings bombed.
 
 Dr. Mohammad Saqer, spokesman for Nasser Medical Complex in Khan Younis, told CNN Tuesday that the hospital had issued death certificates for 75 Palestinians killed since Monday morning, the majority of them women and children. Saqer said the hospital was dealing with more than 200 injuries, of which dozens are in serious and critical condition, and he expected the number of deaths to rise.
+
+“Imagine you want nearly 100 thousand people to evacuate in just two hours. It’s not enough for people to evacuate, so that explains the high number of mortalities and casualties among civilians,” he told CNN’s Jim Sciutto on Tuesday.
+
+Many patients were being admitted with missing limbs and “complete burns of the body,” including children, women and the elderly, Saqer said, adding that casualties are dying “on the floor” due to a lack of beds and inadequate supplies.
 
 The IDF said Tuesday that “aircraft struck over 50 terror infrastructure sites, including weapons storage facilities, observation posts, and structures used by Hamas terrorists, as well as underground tunnel routes in the area.”
 

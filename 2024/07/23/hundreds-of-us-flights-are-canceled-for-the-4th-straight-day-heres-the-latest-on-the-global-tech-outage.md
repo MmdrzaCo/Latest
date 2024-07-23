@@ -1,6 +1,6 @@
 # Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage
 
-Published :`2024-07-23 17:36:30`
+Published :`2024-07-23 18:20:31`
 
 ---
 

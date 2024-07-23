@@ -1,14 +1,14 @@
 # Delta is still melting down. It could last all week
 
-Published :`2024-07-23 17:36:26`
+Published :`2024-07-23 18:20:26`
 
 ---
 
 Bad news for passengers: Delta Air Lines canceled hundreds more flights early Tuesday morning, as the problems caused by last week’s global tech outage continued into a fifth day. Worse news: Delta’s meltdown will probably extend through the end of the week.
 
-As of 11 am ET the Atlanta-based airline had canceled 445 flights, and Endeavor Air, its regional carrier that feeds its system under the Delta Connection brand, had canceled another 18 flights. The cancellations follow more than 1,250 flight cancellations Monday, and 4,500 flights from Friday through Sunday between Delta and Delta connection.
+As of 2pm ET the Atlanta-based airline had canceled 466 flights, and Endeavor Air, its regional carrier that feeds its system under the Delta Connection brand, had canceled another 28 flights. The cancellations follow more than 1,250 flight cancellations Monday, and 4,500 flights from Friday through Sunday between Delta and Delta connection.
 
-There were more than 400 Delta and Delta Connection listed as delayed by FlightAware. The canceled flights by the two carriers represented nearly 70% of all flights within, to or from the United States that have been canceled on Monday, according to FlightAware. No other US airline had canceled one tenth as many flights.
+There were more than 1,000 Delta and Delta Connection listed as delayed by FlightAware. The canceled flights by the two carriers represented nearly 70% of all flights within, to or from the United States that have been canceled on Monday, according to FlightAware. No other US airline had canceled one tenth as many flights.
 
 The problems prompted the Transportation Secretary Pete Buttigieg to announce the Department of Transportation would be starting an investigation to make sure Delta is following the law and treating passengers fairly.
 

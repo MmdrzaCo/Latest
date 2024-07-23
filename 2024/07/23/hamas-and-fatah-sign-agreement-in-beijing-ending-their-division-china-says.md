@@ -1,6 +1,6 @@
 # Hamas and Fatah sign agreement in Beijing ‘ending’ their division, China says
 
-Published :`2024-07-23 17:36:27`
+Published :`2024-07-23 18:20:26`
 
 ---
 
@@ -12,7 +12,7 @@ Chinese Foreign Minister Wang Yi said the agreement was “dedicated to the grea
 
 “The core outcome is that the PLO (Palestine Liberation Organization) is the sole legitimate representative of all Palestinian people,” Wang said, adding that “an agreement has been reached on post-Gaza war governance and the establishment of a provisional national reconciliation government.”
 
-It was unclear from Wang’s comments what role Hamas, which is not part of the PLO, would play in such an arrangement, or what the immediate impact of any deal would be. The talks were held as the future governance of Palestinian territories remains in question following the Israel’s repeated vow to eradicate Hamas in response to the group’s October 7 terrorist attack on its territory.
+It was unclear from Wang’s comments what role Hamas, which is not part of the PLO, would play in such an arrangement, or what the immediate impact of any deal would be. The talks were held as the future governance of Palestinian territories remains in question following Israel’s repeated vow to eradicate Hamas in response to the group’s October 7 terrorist attack on its territory.
 
 The PLO is a coalition of parties that signed a peace treaty with Israel in 1993, and formed a new government in the Palestinian Authority (PA).
 
@@ -62,7 +62,19 @@ Observers have questioned the extent of Beijing’s geopolitical clout in a regi
 
 Those efforts have been broadly seen as part of Beijing’s push to position itself as a geopolitical heavyweight with a different vision for the world from the United States.
 
-Tuesday’s agreement was also inked as Israeli Prime Minister Benjamin Netanyahu is in the US for a highly anticipated visit in which he will meet top US officials and address Congress.
+The US State Department said that while it had not reviewed the text of the Beijing agreement, it did not support Hamas having a role in the postwar governance of Gaza.
+
+“When it comes to governance of Gaza at the end of the conflict, there can’t be a role for a terrorist organization,” State Department spokesperson Matthew Miller told a press briefing, referring to Hamas specifically.
+
+Miller said he did not believe the deal would “in any way have an impact on the ongoing discussions to reach a ceasefire.”
+
+Miller also said the US wants to see a the Palestinian Authority governing “a unified Gaza and the West Bank” after the war.
+
+“But no, we do not support a role for Hamas,” said Miller, adding that Hamas has “the blood of innocent civilians, both Israeli and Palestinian, on their hands.”
+
+Miller would not say whether or not US Secretary of State Antony Blinken would speak about the deal specifically in his upcoming meeting with Chinese Foreign Minister Wang Yi.
+
+Tuesday’s agreement was inked as Israeli Prime Minister Benjamin Netanyahu is in the US for a highly anticipated visit in which he will meet top US officials and address Congress.
 
 Israel launched its military operations in Gaza following Hamas’ October 7 attack that killed more than 1,100 people and saw roughly 250 others kidnapped. Around 39,000 Palestinians have died in the conflict, which that has triggered a mass humanitarian crisis and widespread destruction.
 
