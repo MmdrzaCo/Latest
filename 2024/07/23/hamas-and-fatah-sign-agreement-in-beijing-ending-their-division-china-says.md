@@ -1,6 +1,6 @@
 # Hamas and Fatah sign agreement in Beijing ‘ending’ their division, China says
 
-Published :`2024-07-23 21:17:02`
+Published :`2024-07-23 21:36:16`
 
 ---
 
@@ -47,6 +47,12 @@ Hamas is not opposed to the PLO but has instead demanded fair representation wit
 At a news conference Tuesday in Beijing, Hamas delegation representative Mousa Abu Marzook said they had reached an agreement to complete a “course of reconciliation,” while also using the platform in Beijing to defend the group’s October 7 attack on Israel.
 
 “We’re at a historic junction. Our people are rising up in their efforts to struggle,” Abu Marzook said, according to a translation provided by China’s Foreign Ministry, adding that the October 7 operation had “changed a lot, both in international and regional landscape.”
+
+Hossam Badran, a member of Hamas’ Political Bureau, said that during the meeting a step toward forming a consensus government was agreed in principle, “with the approval of the Palestinian factions, to manage the affairs of the Palestinians in Gaza and the West Bank, supervise reconstruction, and also prepare the atmosphere for elections at a later stage.”
+
+Badran said this initiative should not wait until after the war, but should proceed even as the conflict continues and that establishing such a government could facilitate a ceasefire.
+
+He added that in “this meeting, we talked about the mechanisms, but a one or two-day meeting does not allow us to discuss all the details.”
 
 Beijing has not explicitly condemned Hamas for its October 7 attack on Israel.
 

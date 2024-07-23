@@ -1,6 +1,6 @@
 # A California wildfire has destroyed 6 homes and caused $10 million in damage. Authorities believe fireworks started it
 
-Published :`2024-07-23 21:17:04`
+Published :`2024-07-23 21:36:16`
 
 ---
 

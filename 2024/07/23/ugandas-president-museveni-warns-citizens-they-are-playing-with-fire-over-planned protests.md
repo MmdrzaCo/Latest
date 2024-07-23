@@ -1,6 +1,6 @@
 # Uganda’s President Museveni warns citizens they are ‘playing with fire’ over planned protests
 
-Published :`2024-07-23 21:17:05`
+Published :`2024-07-23 21:36:17`
 
 ---
 

@@ -1,6 +1,6 @@
 # Israeli cybersecurity startup Wiz ends talks with Google on $23 billion deal
 
-Published :`2024-07-23 21:17:03`
+Published :`2024-07-23 21:36:16`
 
 ---
 
