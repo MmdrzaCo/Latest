@@ -1,6 +1,6 @@
 # Abdul ‘Duke’ Fakir, of Motown group the Four Tops, dead at 88
 
-Published :`2024-07-23 08:39:44`
+Published :`2024-07-23 09:16:38`
 
 ---
 

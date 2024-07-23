@@ -1,6 +1,6 @@
 # Japan may be sick of mass tourism. But the deer in this ancient UNESCO-listed city love it
 
-Published :`2024-07-23 08:39:42`
+Published :`2024-07-23 09:16:37`
 
 ---
 

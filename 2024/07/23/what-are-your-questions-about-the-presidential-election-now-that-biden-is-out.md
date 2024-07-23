@@ -1,6 +1,6 @@
 # What are your questions about the presidential election now that Biden is out?
 
-Published :`2024-07-23 08:39:49`
+Published :`2024-07-23 09:16:42`
 
 ---
 
