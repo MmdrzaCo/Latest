@@ -1,12 +1,18 @@
 # Delta is still melting down. It could last all week
 
-Published :`2024-07-23 12:55:27`
+Published :`2024-07-23 13:18:29`
 
 ---
 
 Bad news for passengers: Delta Air Lines canceled hundreds more flights early Tuesday morning, as the problems caused by last week’s global tech outage continued into a fifth day. Worse news: Delta’s meltdown will probably extend through the end of the week.
 
-As of 6 am ET the Atlanta-based airline had canceled 383 flights, and Endeavor Air, its regional carrier that feeds its system under the Delta Connection brand, had canceled another 18 flights. The cancellations follow more than 1,250 flight cancellations Monday, and 4,500 flights from Friday through Sunday.
+As of 8:30 am ET the Atlanta-based airline had canceled 420 flights, and Endeavor Air, its regional carrier that feeds its system under the Delta Connection brand, had canceled another 18 flights. The cancellations follow more than 1,250 flight cancellations Monday, and 4,500 flights from Friday through Sunday between Delta and Delta connection.
+
+There were more than 400 Delta and Delta Connection listed as delayed by FlightAware. The canceled flights by the two carriers represented nearly 70% of all flights within, to or from the United States that have been canceled on Monday, according to FlightAware. No other US airline had canceled one tenth as many flights.
+
+The problems prompted the Transportation Secretary Pete Buttigieg to announce the Department of Transportation would be starting an investigation to make sure Delta is following the law and treating passengers fairly. He asked passengers with complaints to contact the Department of Transportation.
+
+“While you should first try to resolve issues directly with the airline, we want to hear from passengers who believe that Delta has not complied with USDOT-enforced passenger protection requirements during the recent travel disruptions,” he tweeted. “We will follow up.”
 
 The problems stemmed from a software update issued late Thursday night by cybersecurity firm CrowdStrike that crashed Windows software. A cascade effect caused problems throughout the global airline industry last Friday.
 
@@ -42,9 +48,23 @@ Delta’s service black eye could also cause it to lose some future bookings fro
 
 ### The next issue: Luggage
 
-Getting those passengers reunited with their checked baggage is going to take many more days beyond that. At Atlanta’s Hartsfield-Jackson airport, thousands of pieces of luggage were strewn about the baggage claim area, waiting to be reunited with passengers.
+Getting those passengers reunited with their checked baggage is going to take many more days beyond that.
 
 United Airlines was also hit hard by the computer problem, with more than 1,000 canceled flights, although it was back to near-normal operations on Monday with only 69 cancellations for its mainline operations. In a note to staff CEO Scott Kirby said that the airline’s 26,000 computers affected by the problem had all been fixed and its operations had been normal for the last 24 hours. He said some passengers had yet to be reunited with their baggage, and United is using FedEx to deliver the bags to some of them.
+
+### Piles and piles of luggage
+
+At Atlanta’s Hartsfield-Jackson International Airport, Delta’s headquarters and largest hub, thousands of pieces of luggage are lined up on the floors of baggage claim. The bags made it to the world’s busiest airport but, through delays and cancellations, their owners either have not yet arrived or arrived on a different plane.
+
+Delta employees from all different departments and roles across the company were supplementing efforts to help passengers who made it to Hartsfield to find their bags.
+
+Arthur Ginolfi, who had flown into Atlanta for a Global Busines Travel Association convention after two trips to the airport in Philadelphia over the weekend, was one of those picking up a bag that had arrived on a different flight than he did.
+
+“This is the worst experience I’ve ever had in my 35 years of business travel,” he said. “There are lines that were unacceptable, there were people that were frustrated. I saw and I heard a lot of sad stories.”
+
+He said he thinks Delta needs to be offering more compensation than he’s gotten from the airline so far.
+
+“I had to pay for parking for 12 hours, I had to pay for food, I had to pay for tolls,” he said. “I deserve more pros than a $24 gift card.”
 
 This story has been updated with additional context and developments.
 

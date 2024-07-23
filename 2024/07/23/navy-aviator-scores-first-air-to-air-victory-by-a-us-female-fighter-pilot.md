@@ -1,6 +1,6 @@
 # Navy aviator scores first air-to-air victory by a US female fighter pilot
 
-Published :`2024-07-23 12:55:31`
+Published :`2024-07-23 13:18:39`
 
 ---
 
