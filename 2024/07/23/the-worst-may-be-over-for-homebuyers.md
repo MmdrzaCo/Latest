@@ -1,6 +1,6 @@
 # The worst may be over for homebuyers
 
-Published :`2024-07-23 16:41:41`
+Published :`2024-07-23 17:13:19`
 
 ---
 
@@ -16,11 +16,15 @@ But something else happened. Demand for homes didn’t disappear; instead, more 
 
 For the past two years, potential homebuyers have faced a double whammy of high prices and high mortgage rates.
 
-But a recent report from real estate marketplace Zillow found that nearly one in four home sellers offered price cuts in June. That’s the highest level for that month since 2018.
+A recent report from real estate marketplace Zillow found that nearly one in four home sellers offered price cuts in June. That’s the highest level for that month since 2018.
 
-Also, the average rate for a 30-year fixed-rate mortgage fell this week to its lowest level since mid-March.
+Also, the average rate for a 30-year fixed-rate mortgage fell last week to its lowest level since mid-March.
 
 This, along with a jump in new home construction and the expectation the Federal Reserve could begin cutting interest rates in September, could make buying a home more affordable in the future.
+
+“We’re seeing a slow shift from a seller’s market to a buyer’s market,” said National Association of Realtors chief economist Lawrence Yun in a statement after the release of the trade group’s latest existing home sales tally. “Homes are sitting on the market a bit longer, and sellers are receiving fewer offers. More buyers are insisting on home inspections and appraisals, and inventory is definitively rising on a national basis.”
+
+The report showed that sales of existing homes fell by 5.4% in June.
 
 ### Green shoots are starting to appear
 
@@ -30,7 +34,7 @@ Things may soon start looking up for Americans interested in buying a new home, 
 
 In another promising indicator for homebuyers, home price appreciation is slowing, according to Zillow’s June Market report. Annual appreciation was 3.2% in June and monthly growth decelerated to 0.6%, the slowest June price appreciation since 2011.
 
-While still below pre-pandemic levels, home inventory is piling up. According to the report, there were 23% more active listings in June compared to June of 2023.
+While still below pre-pandemic levels, home inventory is piling up. According to the NAR’s Tuesday report, there were 1.32 million active listings in June, a 23.4% jump compared to June of 2023.
 
 Potential homebuyers now may not feel as much pressure to make a snap decision. Homes in June sat on the market for an average of 15 days. While that is still shorter than pre-pandemic, it is four days longer than last year.
 
@@ -44,7 +48,9 @@ Lower mortgage rates could also, crucially, free up housing inventory, Sharga sa
 
 Another major factor: Home construction is flourishing. Normally, higher borrowing costs make it more expensive to build, but according to US Census data, construction of new homes rose 3% in June, while the number of new, privately owned homes that completed construction jumped more than 10% in one month and 15.5% since June of last year.
 
-### A potential downside of lower prices
+### A potential downside
+
+However, buying a home still remains unaffordable for many Americans. The median price of a previously owned home rose to $426,900 in June, the second consecutive month that prices reached a fresh record high based on data going back to 1999, according to the NAR.
 
 It may take some time before homebuyers feel any improvement in their market, and since real estate is local, each area in the country tells a different story. For example, New Orleans is one city that has already tipped into becoming a buyers’ market, according to Zillow data. While that may sound like great news for people looking to buy homes in the area, Leslie Heindel, a Realtor in New Orleans, said lower home prices in the city mask other costs.
 
