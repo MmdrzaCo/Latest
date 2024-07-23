@@ -1,6 +1,6 @@
 # Delta is still melting down. It could last all week
 
-Published :`2024-07-23 14:14:09`
+Published :`2024-07-23 14:36:49`
 
 ---
 
@@ -58,7 +58,7 @@ At Atlanta’s Hartsfield-Jackson International Airport, Delta’s headquarters 
 
 Delta employees from all different departments and roles across the company were supplementing efforts to help passengers who made it to Hartsfield to find their bags.
 
-Arthur Ginolfi, who had flown into Atlanta for a Global Busines Travel Association convention after two trips to the airport in Philadelphia over the weekend, was one of those picking up a bag that had arrived on a different flight than he did.
+Arthur Ginolfi, who had flown into Atlanta for a Global Business Travel Association convention after two trips to the airport in Philadelphia over the weekend, was one of those picking up a bag that had arrived on a different flight than he did.
 
 “This is the worst experience I’ve ever had in my 35 years of business travel,” he said. “There are lines that were unacceptable, there were people that were frustrated. I saw and I heard a lot of sad stories.”
 

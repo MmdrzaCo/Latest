@@ -1,6 +1,6 @@
 # How the House GOP campaign arm is pivoting to target Harris: Border, fracking and protests
 
-Published :`2024-07-23 14:14:13`
+Published :`2024-07-23 14:36:49`
 
 ---
 
@@ -9,6 +9,22 @@ The House Republican campaign arm is developing a targeted plan of attack to pin
 The framing of GOP attacks on down-ballot Democrats are starting to take shape even though Harris is still not officially the Democratic presidential nominee, as the GOP campaign arm looks to quickly adjust their message and maintain their goal of keeping control of the House. The plan, which is still evolving, is to continue to tie Harris to what they see as failed policies of the Biden administration while also resurfacing some of her positions from her 2019 presidential run.
 
 “It’s the Harris-Biden ticket,” GOP Rep. Tony Gonzales of Texas told CNN. “His failures are her failures.”
+
+But that doesn’t mean GOP lawmakers are necessarily going to stay on message. GOP Rep. Tim Burchett of Tennessee referred to Harris as a “DEI hire,” as she is on the path to becoming the first woman of color nominated for president by a major party, which many of his colleagues echoed.
+
+Congressional Black Caucus Chairman Steve Horsford said that Burchett’s remarks were “inappropriate, offensive, and really disgusting.”
+
+Behind closed doors, Republican Rep. Byron Donalds of Florida appealed to the House GOP to keep focus on Harris’ policies, according to an attendee, a sign of how many Republicans are uneasy about the attacks over her race.
+
+The National Republican Congressional Committee also put out a separate memo to candidates encouraging members to be specific in their messaging.
+
+“DO NOT: Waste time talking about anything other than what Harris WOULD DO as President,” the memo reads.
+
+The memo also acknowledges the challenges of Republicans having to quickly change their message to address Harris when they had built their whole strategy around attacking President Joe Biden for his age and his family’s foreign business dealings, on top of his policies.
+
+“Republicans have never had less time to define the presidential nominee of our opponents,” the memo stated. “Because of that, it is vital that our entire Conference is on message and working together to present Kamala Harris as an extreme San Francisco progressive who is out of step with the American people.”
+
+As GOP lawmakers may struggle with their message, the GOP campaign arm has been trying out specific targets.
 
 In key swing districts in Arizona and New Mexico, the GOP campaign arm plans to hammer home Harris’ efforts to tackle root causes of migration from Central America as Republicans look to make border crossings and mass migrations a top campaign issue. Republicans have long dubbed Harris the “border czar,” and one GOP strategist said to expect Republicans to tie down-ballot Democrats to that title even more.
 
@@ -33,6 +49,8 @@ The NRCC is already working on developing flushed out ads, but their initial att
 “I think this is a contest between policies, not personalities,” House Speaker Mike Johnson told CNN. “The thing about this race is that both Harris and Trump have held office. They’ve been these two competing administrations that you can, you can sit side by side, and people are asking themselves, ‘How was I doing during the Trump administration, and how am I doing now?’”
 
 “And I think the answer is clear for a lot of people, and I think that’s why we’re gonna have a good November and I really like our chances with her at the top particularly,” Johnson added.
+
+This story has been updated with additional developments.
 
 ---
 

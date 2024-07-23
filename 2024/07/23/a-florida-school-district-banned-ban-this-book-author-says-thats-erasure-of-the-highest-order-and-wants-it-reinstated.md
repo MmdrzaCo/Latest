@@ -1,6 +1,6 @@
 # A Florida school district banned ‘Ban This Book.’ Author says that’s ‘erasure of the highest order’ and wants it reinstated
 
-Published :`2024-07-23 14:14:10`
+Published :`2024-07-23 14:36:49`
 
 ---
 
@@ -12,7 +12,7 @@ Alan Gratz, author of “Ban This Book,” said in a letter read during the Indi
 
 Gratz’s letter comes amid a rise in book bans in public schools and as conservative groups, including Moms for Liberty, spearhead book challenges in school districts across the US.
 
-“Ban This Book,” published in 2017, is a novel about a Black fourth-grader who learns her school library has banned her favorite book because a classmate’s parent argued the book wasn’t appropriate for children. The protagonist pushes back by “starting a secret banned book library out of her locker,” but “things get out of hand, and (the student) finds herself on the front line of an unexpected battle” over book banning, the author’s online synopsis of the novel, which is aimed at children 8 and older, reads.
+“Ban This Book,” published in 2017, is a novel about a Black fourth-grader who learns her school library has banned her favorite book because a classmate’s parent argued the book wasn’t appropriate for children. The protagonist pushes back by “starting a secret banned book library out of her locker,” but “things get out of hand, and (the student) finds herself on the front line of an unexpected battle” over book banning, reads the author’s online synopsis of the novel, which is aimed at children 8 and older.
 
 In February, the chair of the county Moms for Liberty chapter submitted a challenge of Gratz’s book to the district’s book objection committee, claiming the novel “depicts or describes sexual conduct.” The chapter president, Jennifer Pippin, also told CNN she challenged the book because “basically it’s promoting banned books to children ages 4-12.”
 
@@ -24,7 +24,7 @@ During Monday night’s school board meeting, letters were read from advocacy g
 
 Margaret Murray and Marjie Flanigan, co-chairs of Education Champions, a local group that read the letters at the meeting, told CNN they believe book bans are a distraction.
 
-“We just want to get on with things and make progress. And we need to focus on encouraging reading and literacy and not banning and restricting books. That’s just, not healthy,” Murray told CNN.
+“We just want to get on with things and make progress. And we need to focus on encouraging reading and literacy and not banning and restricting books. That’s just not healthy,” Murray told CNN.
 
 Every parent “has the right to decide for their own child what they want them to read or not read,” Flanigan said, adding that parents shouldn’t decide what books should be available for everyone.
 
@@ -36,7 +36,9 @@ Jacqueline Rosario, another school board member, said the decision to remove th
 
 “We have the legal right. Each district school board is responsible for the content of all – not some – all instructional materials and any other material used in a classroom made available in a school or in a classroom library,” she said, citing a Florida statute. “At the end of the day, it is the board’s responsibility that if any of these items are included … it is up to this board to take final action and vote. And we did.”
 
-CNN sought further comment from the school board members Monday night.
+Asked for further comment, the School District of Indian River County told CNN in a statement the board voted to remove the book from school media center shelves on May 20.
+
+“It has been removed from our media center shelves, and at this time, no additional changes are scheduled,” the district said.
 
 In his letter, Gratz also said the banning of his book “is a small part of a much larger epidemic of book banning across the United States.”
 
