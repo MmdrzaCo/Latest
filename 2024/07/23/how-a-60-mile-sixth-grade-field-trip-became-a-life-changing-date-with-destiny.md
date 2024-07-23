@@ -1,6 +1,6 @@
 # How a 60-mile, sixth-grade field trip became a life-changing date with destiny
 
-Published :`2024-07-23 20:15:56`
+Published :`2024-07-23 20:35:54`
 
 ---
 

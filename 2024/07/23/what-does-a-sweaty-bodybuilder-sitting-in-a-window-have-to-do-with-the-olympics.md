@@ -1,6 +1,6 @@
 # What does a sweaty bodybuilder sitting in a window have to do with the Olympics?
 
-Published :`2024-07-23 20:15:57`
+Published :`2024-07-23 20:35:54`
 
 ---
 

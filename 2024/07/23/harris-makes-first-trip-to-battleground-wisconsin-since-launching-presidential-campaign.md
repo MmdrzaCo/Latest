@@ -1,12 +1,12 @@
 # Harris makes first trip to battleground Wisconsin since launching presidential campaign
 
-Published :`2024-07-23 20:15:55`
+Published :`2024-07-23 20:35:53`
 
 ---
 
 Vice President Kamala Harris, in the first rally of her 2024 presidential campaign, told supporters in Wisconsin Tuesday that she will spend the coming weeks “continuing to unite our party” ahead of the Democratic National Convention next month and this fall’s showdown with Donald Trump.
 
-Harris’ rally in Milwaukee featured a stump speech similar to the one she has delivered on the campaign trail for months — one that drew the sort of sharp contrasts with Trump that President Joe Biden had long struggled to articulate before he dropped out of the 2024 race on Sunday.
+Harris’ rally in Milwaukee featured similar policies to the stump speeches she has delivered on the campaign trail for months — drawing the sort of sharp contrasts with Trump that President Joe Biden had long struggled to articulate before he dropped out of the 2024 race on Sunday. But the rhetoric Tuesday was different – and very much her own.
 
 However, it came with much more attention now that Harris is the Democratic standard-bearer.
 
