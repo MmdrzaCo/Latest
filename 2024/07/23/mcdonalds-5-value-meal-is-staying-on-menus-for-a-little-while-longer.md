@@ -1,6 +1,6 @@
 # McDonald’s $5 value meal is staying on menus for a little while longer
 
-Published :`2024-07-23 11:14:15`
+Published :`2024-07-23 11:36:13`
 
 ---
 

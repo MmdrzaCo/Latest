@@ -1,6 +1,6 @@
 # Secret Service director to testify agency ‘failed’ during Trump shooting
 
-Published :`2024-07-23 11:14:15`
+Published :`2024-07-23 11:36:14`
 
 ---
 

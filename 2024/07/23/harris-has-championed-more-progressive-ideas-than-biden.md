@@ -1,6 +1,6 @@
 # Harris has championed more progressive ideas than Biden
 
-Published :`2024-07-23 11:14:13`
+Published :`2024-07-23 11:36:12`
 
 ---
 

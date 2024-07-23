@@ -1,6 +1,6 @@
 # How Venezuela’s election could upend the geopolitics of the Americas
 
-Published :`2024-07-23 11:14:13`
+Published :`2024-07-23 11:36:12`
 
 ---
 
@@ -8,7 +8,7 @@ It would be easy to dismiss this Sunday’s presidential election in Venezuela a
 
 Maduro’s government controls all public institutions in Venezuela, and it has been accused of rigging votes in the past, most notably in 2017, when electoral authorities briefly showed the opposition had won a gubernatorial race – only to revert its decision in favor of the government candidate, an episode widely referred to as a glaring example of electoral fraud. In the run-up to this election, a new report by local NGO Laboratorio de Paz says there have been more than 70 arbitrary detentions since the election campaign formally began on July 4.
 
-And yet, uncertainty is the mantra in Caracas these days. The opposition campaign has re-energized its bases, and the candidature of Edmundo González has attracted widespread support in Venezuela and abroad. There’s widespread agreement that Maduro’s government is facing its toughest electoral moment in the last 25 years
+And yet, uncertainty is the mantra in Caracas these days. The opposition campaign has re-energized its bases, and the candidature of Edmundo González has attracted widespread support in Venezuela and abroad. There’s widespread agreement that Maduro’s government is facing its toughest electoral moment in the last 25 years.
 
 The stakes are high – both here and abroad.
 

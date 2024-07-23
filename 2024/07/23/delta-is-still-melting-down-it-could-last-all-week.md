@@ -1,6 +1,6 @@
 # Delta is still melting down. It could last all week
 
-Published :`2024-07-23 11:14:12`
+Published :`2024-07-23 11:36:12`
 
 ---
 
@@ -28,9 +28,25 @@ A person familiar with the airline’s operations allowed CNN to see screenshots
 
 To help fix its staffing problems, Delta is offering crew members premium pay, as well as additional assurances they will be able to travel back to their homes at the end of their work period, according to the screen shots viewed by CNN. The premium pay and assurances would be in place through Friday, another sign the staffing problem may not be fixed for several more days. Delta also declined to comment on these offers to crew members.
 
-The service meltdown will cost Delta, both in terms of its reputation and in dollar costs. The most profitable of US airlines in the just completed quarter, the meltdown had already cost it about $163 million through Monday, according to an estimate from Savanthi Syth, airline analyst for Raymond James.
+### Costs at $163 million - and climbing
 
-This is a developing story. It will be updated.
+The service meltdown will cost Delta, both in terms of its reputation and in dollar costs. The meltdown has already cost the most profitable US airline about $163 million through Monday, according to an estimate from Savanthi Syth, airline analyst for Raymond James.
+
+That estimate comes from lost revenue and is likely to climb once additional pay for staff and reimbursements for customers are added in. Although the problems Tuesday the remainder of the week are not as bad as they had been the last four days, the additional flight cancellations will add to those losses.
+
+Delta has prided itself on its on-time performance and customer service. Earlier this month its bragged in its earnings report that it achieved industry-best completion factor and on-time performance, and operated 39 cancellation-free, brand-perfect days. This meltdown is doing some damage to that reputation that will take time to repair.
+
+After a similar service meltdown at Southwest Airlines during the year-end holiday travel period in 2022, the airline canceled nearly 17,000 flights, or about half of its schedule, stranding more than 2 million passengers over an 10-day period. That cost it nearly $1.2 billion between the fourth quarter of that year and the first two months of 2023. In additional to customer compensation, the airline faced additional labor costs and lost revenue that continued into February. In addition it was hit with a $140 million fine from the Department of Transportation.
+
+Delta’s service black eye could also cause it to lose some future bookings from frustrated customers. This past weekend was the busiest travel period of the summer with 90% of the seats booked. That has made it difficult for Delta to find other flights for those customers whose flights have been canceled. Even if Delta was operating all of its flights normally, it would take days to accommodate all its angry, stranded passengers.
+
+### The next issue: Luggage
+
+Getting those passengers reunited with their checked baggage is going to take many more days beyond that. At Atlanta’s Hartsfield-Jackson airport, thousands of pieces of luggage were strewn about the baggage claim area, waiting to be reunited with passengers.
+
+United Airlines was also hit hard by the computer problem, with more than 1,000 canceled flights, although it was back to near-normal operations on Monday with only 69 cancellations for its mainline operations. In a note to staff CEO Scott Kirby said that the airline’s 26,000 computers affected by the problem had all been fixed and its operations had been normal for the last 24 hours. He said some passengers had yet to be reunited with their baggage, and United is using FedEx to deliver the bags to some of them.
+
+This story has been updated with additional context and developments.
 
 ---
 
