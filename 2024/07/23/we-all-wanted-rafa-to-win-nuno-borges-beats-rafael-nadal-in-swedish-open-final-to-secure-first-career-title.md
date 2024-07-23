@@ -1,6 +1,6 @@
 # ‘We all wanted Rafa to win’: Nuno Borges beats Rafael Nadal in Swedish Open final to secure first career title
 
-Published :`2024-07-23 07:37:28`
+Published :`2024-07-23 08:20:24`
 
 ---
 

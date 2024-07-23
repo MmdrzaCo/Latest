@@ -1,6 +1,6 @@
 # California officials say largest trial court in US is the victim of a ransomware attack
 
-Published :`2024-07-23 07:37:28`
+Published :`2024-07-23 08:20:23`
 
 ---
 

@@ -1,10 +1,10 @@
 # Illinois police release bodycam video of fatal shooting of Black woman in her home
 
-Published :`2024-07-23 07:37:26`
+Published :`2024-07-23 08:20:22`
 
 ---
 
-Body-camera footage showing the fatal police shooting of Sonya Massey, a 36-year-old Black woman who had called 911 for help, was released publicly Monday in a case that has led to murder charges against a deputy.
+Body-camera footage showing the fatal police shooting of Sonya Massey, a 36-year-old Black woman who had called 911 for help, was released Monday in a case that has led to murder charges against a deputy.
 
 The 36-minute video released via the Illinois State Police includes body-camera footage from each of the two Sangamon County sheriff’s deputies who responded to Massey’s house after midnight on July 6 after Massey called 911 to report a possible “prowler” at her home in Springfield, according to a court document filed by prosecutors.
 
@@ -95,6 +95,20 @@ CNN experts offered similar analysis.
 “Effective policing comes down to good judgment in highly stressful situations,” said Josh Campbell, CNN security correspondent and former federal agent. “Although being doused with scalding water could warrant the use of deadly force by an officer to stop a threat, in this video we certainly don’t see officers attempting alternative options, such as moving away and creating distance between themselves and Massey.”
 
 “There were a number of ways to avoid this starting with better tactics from the outset,” said CNN Chief Law Enforcement and Intelligence Analyst John Miller, “but even if you forgive that and limit the observations to the last few seconds, there were still options of a calmer dialogue, more distance between the subject and them, a taser rather than a firearm.”
+
+Grayson had worked at six different law enforcement agencies in Illinois since 2020, according to the Illinois Law Enforcement Training and Standards Board.
+
+He began working part-time at the Pawnee Police Department in August 2020, then moved to the Kincaid and Virden police departments, before taking up full-time work with the Auburn Police Department then the Logan County Sheriff’s Office and – in May 2023 – Sangamon County.
+
+It is unclear why Grayson changed jobs so frequently and CNN has reached out to the other law enforcement agencies for more information.
+
+The training and standards board records show his Law Enforcement Certification has since been suspended.
+
+A petition calling for an investigation into why Sangamon County hired Grayson was circulated at a march and barbecue in Springfield on Monday night, CNN affiliate WICS reported.
+
+Several hundred people attended the gathering in honor of Massey, WICS said.
+
+“It was very powerful just seeing all of the people come out from our community. Different ages, different races, different sexual orientations all coming together for one cause, which is to get justice for Sonya Massey,” organizer Tiara Standage told WICS.
 
 President Joe Biden said in a statement Monday that Massey’s family “deserves justice.”
 

@@ -1,6 +1,6 @@
 # Southwest flight flew just 150 feet above the ground, tracking data shows
 
-Published :`2024-07-23 07:37:27`
+Published :`2024-07-23 08:20:23`
 
 ---
 
