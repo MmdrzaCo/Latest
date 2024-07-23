@@ -1,6 +1,6 @@
 # Dozens killed and thousands flee as Israel shrinks ‘humanitarian zone’ in Gaza
 
-Published :`2024-07-23 15:35:59`
+Published :`2024-07-23 16:20:58`
 
 ---
 
@@ -9,6 +9,8 @@ Dozens of Palestinians have been killed and thousands more forced to flee after 
 The Israel Defense Forces (IDF) announced Monday that it was reducing the size of its so-called “humanitarian zone,” ordering Palestinians to evacuate from eastern neighborhoods of Khan Younis due to intelligence that Hamas had embedded in the area.
 
 CNN witnessed exhausted and angry Palestinians fleeing Khan Younis, once Gaza’s second-biggest city. As they left, they expressed anger not only at Israel but at Hamas and even other Arab states.
+
+The UN Human Rights Office (OHCHR) slammed the evacuation order Tuesday as “confusing” and said it “gave no time for civilians to know from which areas they were required to leave or where they should go.”
 
 The Israeli ground incursion in Khan Younis follows similar operations in Shujayah in the north and parts of central Gaza, where military units have reentered areas to prevent Hamas from reestablishing a presence.
 
@@ -26,7 +28,7 @@ Israeli strikes in Gaza have since killed 39,090 Palestinians and injured anothe
 
 ### Criticism of Israel, Hamas and Arab world
 
-A CNN stringer in Khan Younis filmed video Monday of thousands of people – many on foot or with donkey carts – carrying mattresses and their belongings. Most were women and children.
+A journalist working for CNN in Khan Younis filmed video Monday of thousands of people – many on foot or with donkey carts – carrying mattresses and their belongings. Most were women and children.
 
 One woman carrying a box screamed to the camera: “Film this, film it so people can see what’s happening to us.”
 
@@ -56,15 +58,29 @@ A man who gave his name as Abu Sleiman told CNN: “The (Israelis) forced us out
 
 He accused the Israeli military of having “no mercy or humanity. They are fighting civilians, women, and children.’
 
-In a series of posts on X, the UN Relief and Works Agency (UNRWA) said Monday: “New evacuation orders today in Khan Younis mean more suffering and displacement. Families had to pack what is left of their belongings and run, amid bombardment, and with nowhere safe to go. People in Gaza are exhausted, living in inhumane conditions, with no safety at all.”
+### UN decries ‘inhumane conditions’ for Gazans
 
-On Monday, the IDF warned civilians in four municipalities in southern Gaza to leave immediately, by dropping leaflets, sending text messages and posting messages on X. The areas included parts of the so-called humanitarian zone in Al-Mawasi, further shrinking the zone.
+The evacuation order on Monday came in the form of the IDF dropping leaflets, sending text messages and posting messages on X, urging civilians in four southern Gaza municipalities to leave immediately. The areas included parts of the so-called humanitarian zone in Al-Mawasi, further shrinking the zone.
 
-The IDF post warned civilians in Khan Younis that it “will act forcefully against terrorist organizations. For your safety, you must evacuate immediately westward to the new humanitarian zone. The area you are in is considered a dangerous combat zone.”
+One IDF post warned civilians in Khan Younis that it “will act forcefully against terrorist organizations. For your safety, you must evacuate immediately westward to the new humanitarian zone. The area you are in is considered a dangerous combat zone.”
 
-Meanwhile, the Gazan Civil Defense Directorate said the inclusion in the evacuation order of parts of the humanitarian zone had reduced it from 45 square kilometers to 28 square kilometers (from 17 to 11 square miles). Along with a “safe area” in central Gaza, it meant that 1.7 million people were crammed into an area of just under 50 square kilometers, it said.
+The Gazan Civil Defense Directorate said the inclusion in the evacuation order of parts of the humanitarian zone had reduced it from 45 square kilometers to 28 square kilometers (from 17 to 11 square miles). Along with a “safe area” in central Gaza, it meant that 1.7 million people were crammed into an area of just under 50 square kilometers, it said.
 
 The Civil Defense also alleged that its rescuers in Khan Younis had been targeted while trying to recover civilians.
+
+Human rights agencies have previously warned against Israeli evacuation orders issued without the promise of safety or secure accommodation for Palestinians trying to survive bombardment.
+
+On Monday, the UN Relief and Works Agency said the new evacuation orders in Khan Younis would lead to “more suffering and displacement” for Palestinian families. “People in Gaza are exhausted, living in inhumane conditions, with no safety at all,” it posted on X.
+
+The OHCHR on Tuesday raised concerns about Israel’s compliance with obligations under international law.
+
+“Confusing mass evacuation orders issued by a party that is concurrently increasing the intensity of its attacks on the areas from which evacuation is ordered and through which people must move place civilians in more danger and may increase the harm to civilians,” the agency said.
+
+Many of those displaced in Khan Younis have been forced to flee to Al-Mawasi, a sprawling tent city with sparse infrastructure, where there is scant access to shelter or life-saving humanitarian aid, the agency added.
+
+“This raises serious concerns regarding Israel’s compliance with its obligation to take all feasible precautions to avoid, and in any event to minimize, incidental loss of civilian life and injury to civilians.”
+
+Responding to criticism over the evacuation order, the IDF repeated to CNN that remaining in the area had become dangerous for civilians because of “significant terrorist activity and rocket fire toward the State of Israel from the eastern part of the Humanitarian Area in the Gaza Strip.”
 
 ---
 

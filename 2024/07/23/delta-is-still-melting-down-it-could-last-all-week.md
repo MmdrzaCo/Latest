@@ -1,6 +1,6 @@
 # Delta is still melting down. It could last all week
 
-Published :`2024-07-23 15:35:59`
+Published :`2024-07-23 16:20:58`
 
 ---
 
@@ -18,7 +18,9 @@ Buttigieg asked passengers with complaints to contact the Department of Transpor
 
 “While you should first try to resolve issues directly with the airline, we want to hear from passengers who believe that Delta has not complied with USDOT-enforced passenger protection requirements during the recent travel disruptions,” he tweeted. “We will follow up.”
 
-Delta did not immediately respond to a request for comment on the DOT investigation.
+Delta said it cooperating with the investigation.
+
+“We remain entirely focused on restoring our operation,” the company told CNN in a statement. “Across our operation, Delta teams are working tirelessly to care for and make it right for customers impacted by delays and cancellations as we work to restore the reliable, on-time service they have come to expect from Delta.”
 
 The problems stemmed from a software update issued late Thursday night by cybersecurity firm CrowdStrike that crashed Windows software. A cascade effect caused problems throughout the global airline industry last Friday.
 
