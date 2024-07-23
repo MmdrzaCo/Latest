@@ -1,6 +1,6 @@
-# Illinois Police release bodycam video of fatal shooting of Black woman in her home
+# Illinois police release bodycam video of fatal shooting of Black woman in her home
 
-Published :`2024-07-23 06:40:49`
+Published :`2024-07-23 07:14:10`
 
 ---
 

@@ -1,18 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-23 06:40:59`
+#### Latest Update : `2024-07-23 07:14:22`
 
 ## Latest News Grabbing 
 
 ---
+
+- [China’s leaders have floated the idea of raising the retirement age. It hasn’t gone down well](https://new-news.github.io/Latest/2024/07/23/chinas-leaders-have-floated-the-idea-of-raising-the-retirement-age-it-hasnt-gone-down-well 'China’s leaders have floated the idea of raising the retirement age. It hasn’t gone down well')
+
+- [Where every sport is being held at the Paris Olympic Games](https://new-news.github.io/Latest/2024/07/23/where-every-sport-is-being-held-at-the-paris-olympic-games 'Where every sport is being held at the Paris Olympic Games')
+
+- [Illinois police release bodycam video of fatal shooting of Black woman in her home](https://new-news.github.io/Latest/2024/07/23/illinois-police-release-bodycam-video-of-fatal-shooting-of-black-woman-in-her-home 'Illinois police release bodycam video of fatal shooting of Black woman in her home')
 
 - [Hamas and Fatah sign agreement in Beijing ‘ending’ their division, Chinese state media says](https://new-news.github.io/Latest/2024/07/23/hamas-and-fatah-sign-agreement-in-beijing-ending-their-division-chinese-state-media-says 'Hamas and Fatah sign agreement in Beijing ‘ending’ their division, Chinese state media says')
 
 - [Charli XCX called Kamala Harris ‘brat.’ Here’s why that’s a strong endorsement for the candidate whose meme stock is bullish](https://new-news.github.io/Latest/2024/07/23/charli-xcx-called-kamala-harris-brat-heres-why-thats-a-strong-endorsement-for-the-candidate-whose-meme-stock-is-bullish 'Charli XCX called Kamala Harris ‘brat.’ Here’s why that’s a strong endorsement for the candidate whose meme stock is bullish')
 
 - [Philippines bans gambling operations catered to illicit Chinese players](https://new-news.github.io/Latest/2024/07/23/philippines-bans-gambling-operations-catered-to-illicit-chinese-players 'Philippines bans gambling operations catered to illicit Chinese players')
-
-- [China’s leaders have floated the idea of raising the retirement age. It hasn’t gone down well](https://new-news.github.io/Latest/2024/07/23/chinas-leaders-have-floated-the-idea-of-raising-the-retirement-age-it-hasnt-gone-down-well 'China’s leaders have floated the idea of raising the retirement age. It hasn’t gone down well')
 
 - [Harris gets a dream start, but the task ahead is monumental](https://new-news.github.io/Latest/2024/07/23/harris-gets-a-dream-start-but-the-task-ahead-is-monumental 'Harris gets a dream start, but the task ahead is monumental')
 
@@ -49,8 +53,6 @@
 - [Abdul ‘Duke’ Fakir, of Motown group the Four Tops, dead at 88](https://new-news.github.io/Latest/2024/07/23/abdul-duke-fakir-of-motown-group-the-four-tops-dead-at-88 'Abdul ‘Duke’ Fakir, of Motown group the Four Tops, dead at 88')
 
 - [Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage](https://new-news.github.io/Latest/2024/07/23/hundreds-of-us-flights-are-canceled-for-the-4th-straight-day-heres-the-latest-on-the-global-tech-outage 'Hundreds of US flights are canceled for the 4th straight day. Here’s the latest on the global tech outage')
-
-- [Illinois Police release bodycam video of fatal shooting of Black woman in her home](https://new-news.github.io/Latest/2024/07/23/illinois-police-release-bodycam-video-of-fatal-shooting-of-black-woman-in-her-home 'Illinois Police release bodycam video of fatal shooting of Black woman in her home')
 
 - [Why Delta is still canceling flights as other airlines return to normal](https://new-news.github.io/Latest/2024/07/23/why-delta-is-still-canceling-flights-as-other-airlines-return-to-normal 'Why Delta is still canceling flights as other airlines return to normal')
 
@@ -145,8 +147,6 @@
 - [Ballet-inspired double skyscraper design tricks the eye](https://new-news.github.io/Latest/2024/07/23/ballet-inspired-double-skyscraper-design-tricks-the-eye 'Ballet-inspired double skyscraper design tricks the eye')
 
 - [Costs from the global outage could top $1 billion – but who pays the bill is harder to understand](https://new-news.github.io/Latest/2024/07/23/costs-from-the-global-outage-could-top-1-billion-–-but-who-pays-the-bill-is-harder-to-understand 'Costs from the global outage could top $1 billion – but who pays the bill is harder to understand')
-
-- [Where every sport is being held at the Paris Olympic Games](https://new-news.github.io/Latest/2024/07/23/where-every-sport-is-being-held-at-the-paris-olympic-games 'Where every sport is being held at the Paris Olympic Games')
 
 - [Summer of devastating floods shows steep challenge for China as it grapples with extreme weather](https://new-news.github.io/Latest/2024/07/23/summer-of-devastating-floods-shows-steep-challenge-for-china-as-it-grapples-with-extreme-weather 'Summer of devastating floods shows steep challenge for China as it grapples with extreme weather')
 
