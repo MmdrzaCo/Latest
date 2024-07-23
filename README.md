@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-23 02:47:15`
+#### Latest Update : `2024-07-23 03:18:52`
 
 ## Latest News Grabbing 
 
 ---
+
+- [DNC moves forward with process to determine presidential nominee by August 7 following Biden dropout](https://new-news.github.io/Latest/2024/07/23/dnc-moves-forward-with-process-to-determine-presidential-nominee-by-august-7-following-biden-dropout 'DNC moves forward with process to determine presidential nominee by August 7 following Biden dropout')
 
 - [Harris picks up enough delegate support to win nomination on first full day of her campaign](https://new-news.github.io/Latest/2024/07/23/harris-picks-up-enough-delegate-support-to-win-nomination-on-first-full-day-of-her-campaign 'Harris picks up enough delegate support to win nomination on first full day of her campaign')
 
@@ -13,8 +15,6 @@
 - [How the House GOP campaign arm is pivoting to target Harris: Border, fracking and protests](https://new-news.github.io/Latest/2024/07/23/how-the-house-gop-campaign-arm-is-pivoting-to-target-harris-border-fracking-and-protests 'How the House GOP campaign arm is pivoting to target Harris: Border, fracking and protests')
 
 - [Trump asks New York appeals court to throw out $454 million civil judgment](https://new-news.github.io/Latest/2024/07/23/trump-asks-new-york-appeals-court-to-throw-out-454-million-civil-judgment 'Trump asks New York appeals court to throw out $454 million civil judgment')
-
-- [DNC moves forward with process to determine presidential nominee by August 7 following Biden dropout](https://new-news.github.io/Latest/2024/07/23/dnc-moves-forward-with-process-to-determine-presidential-nominee-by-august-7-following-biden-dropout 'DNC moves forward with process to determine presidential nominee by August 7 following Biden dropout')
 
 - [Miss Kansas reveals more about stunning statement that her abuser was in the audience](https://new-news.github.io/Latest/2024/07/23/miss-kansas-reveals-more-about-stunning-statement-that-her-abuser-was-in-the-audience 'Miss Kansas reveals more about stunning statement that her abuser was in the audience')
 

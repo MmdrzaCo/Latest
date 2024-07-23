@@ -1,6 +1,6 @@
 # Chadwick Boseman’s last tweet before he died was in support of Kamala Harris
 
-Published :`2024-07-23 02:47:11`
+Published :`2024-07-23 03:18:49`
 
 ---
 
