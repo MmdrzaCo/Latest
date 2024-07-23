@@ -1,6 +1,6 @@
 # Harris secures enough delegate endorsements to win the Democratic presidential nomination
 
-Published :`2024-07-23 02:21:37`
+Published :`2024-07-23 02:47:10`
 
 ---
 
@@ -16,7 +16,7 @@ CNN’s count comes from public statements of support from delegates and state d
 
 Under a plan outlined by Democratic officials Monday, delegates are expected to vote to confirm Harris as the nominee by August 7.
 
-This story is breaking and will be updated.
+This story has been updated with additional details.
 
 ---
 
