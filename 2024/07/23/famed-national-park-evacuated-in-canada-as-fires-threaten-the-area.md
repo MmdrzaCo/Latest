@@ -1,14 +1,16 @@
 # Famed national park evacuated in Canada as fires threaten the area
 
-Published :`2024-07-23 23:17:10`
+Published :`2024-07-23 23:36:47`
 
 ---
 
-Dangerous wildfires forced a town and a major national park in Canada’s Alberta Province to evacuate overnight Monday.
+Dangerous wildfires forced a town and a major national park in Canada’s Alberta province to evacuate overnight Monday.
 
-Evacuation orders were issued around 10 p.m. for “everyone” in Jasper – home to around 4,000 residents – and Jasper National Park, according to the province’s emergency alert system. Just an hour later, an updated alert urged the evacuation to be completed within five hours.
+Evacuation orders were issued around 10 p.m. for “everyone” in Jasper and Jasper National Park, according to the province’s emergency alert system. Just an hour later, an updated alert urged the evacuation to be completed within five hours.
 
 Multiple fires are burning in Jasper National Park, which is closed Tuesday. Jasper National Park is one of Canada’s most popular parks and drew in nearly 2.5 million visitors last year, according to Parks Canada.
+
+The city has a population of around 4,100 and there were an estimated 10,000 people, including seasonal workers, in Jasper and 15,000 park visitors when the evacuation was ordered, Stephen Lacroix with the Alberta Emergency Management Agency told The Associated Press. Police officers were going to each residence to enforce the order to leave, Lacroix said.
 
 Details on the exact location, extent and containment level of the fires threatening the Jasper area were still unavailable as of Tuesday morning.
 
@@ -28,7 +30,7 @@ The wildfires are some of the at least 170 fires burning in Alberta province ami
 
 Canada raised the country’s national preparedness level for wildfires to the highest level last Monday. This means the “potential for emerging significant wildland fires is high to extreme,” according to the Canadian Interagency Forest Fire Centre.
 
-Showers and periods of breezy conditions are possible in the Jasper evacuation zone, especially early Tuesday. Any wet weather could help firefighters control fire spread, but breezy conditions may cause fire behavior to become erratic at times.
+Firefighters were hoping Tuesday for downpours in the Jasper evacuation zone as any wet weather could help control fire spread. But forecasters also said there would be breezy conditions – which might cause fire behavior to become erratic at times.
 
 Wednesday will be largely dry and breezy in the area before widespread showers arrive Thursday morning and steady rain arrives by the evening. Depending on exactly how the fires behave early this week, fire crews may be able to make notable containment progress Thursday.
 

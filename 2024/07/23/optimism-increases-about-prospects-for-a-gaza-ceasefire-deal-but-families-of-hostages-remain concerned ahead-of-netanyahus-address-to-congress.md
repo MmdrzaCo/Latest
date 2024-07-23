@@ -1,6 +1,6 @@
 # Optimism increases about prospects for a Gaza ceasefire deal, but families of hostages remain concerned ahead of Netanyahu’s address to Congress
 
-Published :`2024-07-23 23:17:08`
+Published :`2024-07-23 23:36:47`
 
 ---
 
