@@ -1,12 +1,12 @@
 # Illinois Police release bodycam video of fatal shooting of Black woman in her home
 
-Published :`2024-07-23 05:36:59`
+Published :`2024-07-23 06:21:25`
 
 ---
 
 Body-camera footage showing the fatal police shooting of Sonya Massey, a 36-year-old Black woman who had called 911 for help, was released publicly Monday in a case that has led to murder charges against a deputy.
 
-The 36-minute video released via the Illinois State Police includes body-camera footage from each of the two Sangamon County Sheriff’s deputies who responded to Massey’s house after midnight on July 6 after Massey called 911 to report a possible “prowler” at her home in Springfield, according to a court document filed by prosecutors.
+The 36-minute video released via the Illinois State Police includes body-camera footage from each of the two Sangamon County sheriff’s deputies who responded to Massey’s house after midnight on July 6 after Massey called 911 to report a possible “prowler” at her home in Springfield, according to a court document filed by prosecutors.
 
 In the footage, deputy Sean Grayson and another deputy speak calmly with Massey in her home when she goes to the stove to turn off a pot of boiling water. She then picks up the pot and the other deputy steps back, “away from your hot steaming water,” he says.
 
@@ -22,13 +22,13 @@ He then draws his firearm and points it at her, and she ducks and says, “I’m
 
 “Drop the f**king pot!” both deputies yell.
 
-Three shots are heard. After a few seconds of silence, one deputy says “shots fired” and calls for EMS.
+Three shots are heard. After a few seconds of silence, one deputy says “shots fired” and calls for emergency medical services.
 
 “Dude, I’m not taking f**king boiling water to the f**king head. And look, it came right to our feet, too,” Grayson says.
 
 Minutes after the shooting, Grayson speaks to another law enforcement figure. “She had boiling water and came at me with boiling water,” he says in the video. “She said she was going to rebuke me in the name of Jesus and came at (me) with boiling water.”
 
-CNN has reached out to Grayson’s attorney for comment.
+CNN has sought comment from Grayson’s attorney.
 
 The release of the video comes about two weeks after the fatal shooting and just days after Grayson was charged in her death.
 
@@ -62,7 +62,21 @@ In the news conference Monday, along with members of her family, Crump said Mass
 
 Massey’s father, James Wilburn, said he initially received conflicting information from law enforcement.
 
-“I was under the impression that a prowler had broken in and killed my baby. Never did they say that it was a deputy-involved shooting until my brother read it on the internet,” Wilburn said.
+“I was under the impression that a prowler had broken in and killed my baby. Never did they say that it was a deputy-involved shooting until my brother read it on the internet,” Wilburn said at the news conference.
+
+“We were led to believe that the intruder – or someone from the neighborhood – may have killed her. We were absolutely shocked to find out that it was a deputy who shot her,” Wilburn told CNN’s Laura Coates on Monday night.
+
+“You’re used to having ‘the talk’ with boys, but now I guess we have to talk to our girls about … their interactions with the police,” Wilburn said.
+
+Wilburn said that his daughter’s death had left him heartbroken.
+
+“Sonya was a daddy’s girl. She never ended a conversation – whether by text or telephone or in person – without saying, ‘Daddy, I love you.’ And that’s the last message I have from my daughter that’s saved on my voicemail, was ‘Daddy, I love you’,” he said.
+
+Crump told Laura Coates that he expected the release of the video showing the “heinous killing of this innocent woman” to galvanize the community.
+
+“It’s so senseless. I mean, it is disturbing. This video is reminiscent in the last presidential cycle in 2020 when the George Floyd video, you know, encouraged our community to act.
+
+“And in this 2024 election I believe this Sonya Massey video is going to encourage our community to act – because Sonya Massey deserved better than this,” Crump said.
 
 ### Officials criticize deputy’s actions
 
@@ -86,15 +100,15 @@ President Joe Biden said in a statement Monday that Massey’s family “deserve
 
 “I am heartbroken for her children and her entire family as they face this unthinkable and senseless loss. Jill and I mourn with the rest of the country and our prayers are with Sonya’s family, loved ones, and community during this devastating time,” Biden said in a written statement.
 
-“I commend the swift actions that were taken by the Springfield State’s Attorney’s office. While we wait for the case to be prosecuted, let us pray to comfort the grieving. Congress must pass the George Floyd Justice in Policing Act now. Our fundamental commitment to justice is at stake,” the president added.
+“I commend the swift actions that were taken by the Springfield state’s attorney’s office. While we wait for the case to be prosecuted, let us pray to comfort the grieving. Congress must pass the George Floyd Justice in Policing Act now. Our fundamental commitment to justice is at stake,” the president added.
 
 Illinois Attorney General Kwame Raoul issued a statement Monday saying the footage was “horrific” and offering his sympathy to Massey’s family.
 
 “As the community reacts to the release of the footage, I urge calm as this matter works its way through the criminal justice system,” he said.
 
-“In Illinois we have made sure that the law mandates independent investigations after officer involved shootings. In this matter it appears that the investigation by the Illinois State Police and the subsequent referral to the Sangamon County State’s Attorney’s office have complied with the letter and spirit of the law by providing the appropriate transparency and moving toward accountability,” Raoul added.
+“In Illinois we have made sure that the law mandates independent investigations after officer involved shootings. In this matter it appears that the investigation by the Illinois State Police and the subsequent referral to the Sangamon County state’s attorney’s office have complied with the letter and spirit of the law by providing the appropriate transparency and moving toward accountability,” Raoul added.
 
-This is a developing story and will be updated.
+This story has been updated with additional information.
 
 ---
 
