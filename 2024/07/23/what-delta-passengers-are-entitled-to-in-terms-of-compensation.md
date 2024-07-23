@@ -1,6 +1,6 @@
 # What Delta passengers are entitled to in terms of compensation
 
-Published :`2024-07-23 20:35:53`
+Published :`2024-07-23 21:17:02`
 
 ---
 
@@ -66,7 +66,11 @@ The operational meltdown has separated thousands of passengers from their luggag
 
 Claims for delayed, lost or damaged luggage can be submitted online. However, the form requires a file reference number that can only be obtained through a Delta agent. “Your file reference number is 8 or 10-digit alphanumeric code located on the front of baggage information folder given to you by the Delta agent with whom you first reported your baggage delay,” Delta’s online form says.
 
-In Atlanta on Monday morning, passengers waited in two-hour plus lines to get those reference numbers and receive agent assistance in filing claims.
+In Atlanta on Monday morning, passengers waited in two-hour plus lines to speak with Delta agents at the Baggage Service Office to get those reference numbers and file claims. Claims can be filed at any Baggage Service Office.
+
+Customers can also call 1-800-325-8224 to make a baggage claim.
+
+“We have set up an internal Baggage Command Center in Atlanta, where we are seeing the highest number of displaced baggage, in an effort to expedite the process of reuniting customers with their belongings,” Delta said on Tuesday.
 
 Delta has extended its travel waiver for travel through July 23. Details are available here.
 

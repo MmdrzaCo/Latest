@@ -1,6 +1,6 @@
 # Warning signs blinking over swimmers’ anger at alleged Chinese doping scandal ahead of Olympics
 
-Published :`2024-07-23 20:35:53`
+Published :`2024-07-23 21:17:02`
 
 ---
 
@@ -16,9 +16,11 @@ The Chinese swimmers tested positive for the banned performance enhancing drug T
 
 The World Anti-Doping Agency (WADA) was notified of the test results a month before the games in 2021 and accepted CHINADA’s conclusion, because, according to WADA’s President Witold Bańka, they found “no credible way to disprove the contamination theory that was accepted by CHINADA.”
 
-CNN has reached out to CHINADA and WADA for comment on this story.
+CNN has reached out to CHINADA for comment on this story.
 
-In a news conference earlier this year, Banka said the agency “followed all due processes and diligently investigated every lead and line of enquiry in this matter” and found “no evidence of wrongdoing … and no credible way to disprove the contamination theory that was accepted by CHINADA.”
+In a statement, WADA stood by its previous decision-making and said an independent prosecutor had confirmed that its conclusions were reasonable.
+
+“WADA will consider with external legal counsel what measures can be taken against those who continue to make untrue and defamatory allegations. These allegations have been extremely damaging to WADA’s reputation and to the confidence and trust that athletes and other stakeholders have in the Agency and in the global anti-doping system,” the statement read.
 
 Three years after the failed drug tests and three months after they became known to the rest of the swimming community, the scandal only continues to grow. On July 9, the US Anti-Doping Agency (USADA) released a scathing statement about the handling of the affair, asking pointed questions about how on earth the drug had been present in the kitchen where the swimmers’ food was being prepared, and why WADA so readily accepted the Chinese explanation.
 

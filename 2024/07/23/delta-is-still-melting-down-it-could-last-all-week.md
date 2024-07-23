@@ -1,6 +1,6 @@
 # Delta is still melting down. It could last all week
 
-Published :`2024-07-23 20:35:53`
+Published :`2024-07-23 21:17:02`
 
 ---
 
@@ -56,11 +56,11 @@ To help fix its staffing problems, Delta is offering crew members premium pay, a
 
 The service meltdown will cost Delta, both in terms of its reputation and in dollar costs. The meltdown has already cost the most profitable US airline about $163 million through Monday, according to an estimate from Savanthi Syth, airline analyst for Raymond James.
 
-That estimate comes from lost revenue and is likely to climb once additional pay for staff and reimbursements for customers are added in. Although the problems Tuesday the remainder of the week are not as bad as they had been the last four days, the additional flight cancellations will add to those losses.
+That estimate comes from lost revenue and is likely to climb once additional pay for staff and reimbursements for customers are added in. Although the problems Tuesday are not as bad as they had been the last four days, the additional flight cancellations will add to those losses.
 
 Delta has prided itself on its on-time performance and customer service. Earlier this month its bragged in its earnings report that it achieved industry-best completion factor and on-time performance, and operated 39 cancellation-free, brand-perfect days. This meltdown is doing some damage to that reputation that will take time to repair.
 
-After a similar service meltdown at Southwest Airlines during the year-end holiday travel period in 2022, the airline canceled nearly 17,000 flights, or about half of its schedule, stranding more than 2 million passengers over an 10-day period. That cost it nearly $1.2 billion between the fourth quarter of that year and the first two months of 2023. In additional to customer compensation, the airline faced additional labor costs and lost revenue that continued into February. In addition it was hit with a $140 million fine from the Department of Transportation.
+After a similar service meltdown at Southwest Airlines during the year-end holiday travel period in 2022, the airline canceled nearly 17,000 flights, or about half of its schedule, stranding more than 2 million passengers over an 10-day period. That cost it nearly $1.2 billion between the fourth quarter of that year and the first two months of 2023. In addition to customer compensation, the airline faced additional labor costs and lost revenue that continued into February. In addition it was hit with a $140 million fine from the Department of Transportation.
 
 Delta’s service black eye could also cause it to lose some future bookings from frustrated customers. This past weekend was the busiest travel period of the summer with 90% of the seats booked. That has made it difficult for Delta to find other flights for those customers whose flights have been canceled. Even if Delta was operating all of its flights normally, it would take days to accommodate all its angry, stranded passengers.
 
