@@ -1,6 +1,6 @@
 # Russian lawmakers seek to punish troops using smartphones on Ukraine battlefields
 
-Published :`2024-07-23 12:29:24`
+Published :`2024-07-23 12:55:27`
 
 ---
 
