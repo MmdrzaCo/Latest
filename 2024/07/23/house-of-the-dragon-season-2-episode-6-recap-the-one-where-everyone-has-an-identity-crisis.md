@@ -1,6 +1,6 @@
 # ‘House of the Dragon’ Season 2, episode 6 recap: The one where everyone has an identity crisis
 
-Published :`2024-07-23 04:17:52`
+Published :`2024-07-23 04:37:43`
 
 ---
 

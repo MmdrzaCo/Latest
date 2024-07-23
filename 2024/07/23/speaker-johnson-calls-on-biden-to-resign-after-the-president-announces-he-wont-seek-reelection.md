@@ -1,6 +1,6 @@
 # Speaker Johnson calls on Biden to resign after the president announces he won’t seek reelection
 
-Published :`2024-07-23 04:17:53`
+Published :`2024-07-23 04:37:44`
 
 ---
 
