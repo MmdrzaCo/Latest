@@ -1,18 +1,18 @@
 # Israeli cybersecurity startup Wiz ends talks with Google on $23 billion deal
 
-Published :`2024-07-23 09:36:12`
+Published :`2024-07-23 10:15:30`
 
 ---
 
-Wiz has ended talks with Google parent Alphabet on a proposed $23 billion deal in which the Israeli cybersecurity startup would have become the US tech giant’s largest ever acquisition, according to a Wiz memo seen by Reuters.
+Wiz has ended talks with Google parent Alphabet on a proposed $23 billion deal in which the Israeli cybersecurity startup would have become the US tech giant’s largest ever acquisition, according to a Wiz memo seen by CNN.
 
-Wiz CEO Assaf Rappaport said the company would now focus on an initial public offering, as it had planned earlier.
+Wiz CEO Assaf Rappaport said the company would now focus on an initial public offering and growing the business to generate $1 billion in annual revenues.
 
-“Saying no to such humbling offers is tough, but with our exceptional team, I feel confident in making that choice,” Rappaport said in the memo, referring to an acquisition offer.
+“I know the last week has been intense, with the buzz about a potential acquisition. While we are flattered by offers we have received, we have chosen to continue on our path to building Wiz,” Rappaport said in the memo.
 
-Neither Alphabet (GOOGL) nor Wiz have officially acknowledged deal talks. The Wiz memo did not name Google or Alphabet.
+“Saying no to such humbling offers is tough, but with our exceptional team, I feel confident in making that choice.”
 
-Google did not immediately respond to a Reuters request for comment, while Wiz declined to comment.
+Neither Alphabet (GOOGL) nor Wiz had officially acknowledged talks about a deal, and the Wiz memo did not mention Google or its parent by name.
 
 CNN reported earlier this month that Alphabet was in advanced talks to buy Wiz for roughly $23 billion, citing a person familiar with the matter.
 

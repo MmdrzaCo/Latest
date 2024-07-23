@@ -1,6 +1,6 @@
 # Trump’s team is already on the attack against Harris
 
-Published :`2024-07-23 09:36:15`
+Published :`2024-07-23 10:15:32`
 
 ---
 

@@ -1,6 +1,6 @@
 # Hackers are already taking advantage of the CrowdStrike outage chaos
 
-Published :`2024-07-23 09:36:13`
+Published :`2024-07-23 10:15:31`
 
 ---
 

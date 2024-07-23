@@ -1,6 +1,6 @@
 # Harris gets a dream start, but the task ahead is monumental
 
-Published :`2024-07-23 09:36:12`
+Published :`2024-07-23 10:15:30`
 
 ---
 
@@ -8,7 +8,9 @@ Kamala Harris has aced her moment. So far.
 
 The vice president has already won the backing of enough delegates to secure the Democratic nomination, sparked a fundraising bonanza and alchemized the mood of a party that looked headed for defeat.
 
-In a rousing speech Monday afternoon, she rallied campaign staff at the Wilmington, Delaware, headquarters with President Joe Biden – still recovering from Covid-19 – calling in to solidify the transition. After laying out her prosecutorial case against former President Donald Trump, Harris cast the contest as “two different versions of what we see as the future of our country.”
+But while Harris can hardly have hoped for a better start in establishing legitimacy among Democrats after President Joe Biden abandoned his reelection campaign, she is still just hours into a mission that ranks as the most daunting for any modern potential presidential nominee. And the full intensity of Republican nominee Donald Trump’s attacks is yet to unfold in the most unpredictable election season in generations.
+
+In a rousing speech Monday afternoon, the vice president rallied campaign staff at their Wilmington, Delaware, headquarters with Biden – still recovering from Covid-19 – calling in to solidify the transition. After laying out her prosecutorial case against Trump, Harris cast the contest as “two different versions of what we see as the future of our country.”
 
 And in her first public event since Biden dropped out of the race on Sunday, Harris earlier Monday officiated at an event on the White House lawn centering her in the imagery of the presidency.
 
@@ -16,7 +18,7 @@ Perhaps most significantly, she also notched the endorsement of her fellow Calif
 
 By Monday evening, the vice president had been backed by well more than the 1,976 pledged delegates she’ll need to win the nomination on the first ballot, according to according to CNN’s delegate estimate.
 
-And after the freezing of donor cash helped force Biden out of the race, Democratic wallets were opened big-time in the first 24 hours of the new Harris for president campaign as she pulled in a staggering $81 million dollar haul, according to her team.
+And after the freezing of donor cash helped force Biden out of the race, Democratic wallets have opened big-time. Harris raked in more than $100 million between Sunday and Monday evening, a campaign official said, boasting more than 1.1 million unique donors – 62% of them first-time contributors.
 
 The vice president’s swift consolidation of power has been impressive. Her multi-hour phone blitz to Democratic Party power players on Sunday hinted at an operation primed ahead of time but that was kept secret and didn’t leak. The plan appears to have strangled any hope of alternative candidates and the aspirations of some in the party for a lightning primary to find a new nominee who could argue that they had won a contested bid for the party banner.
 
@@ -24,9 +26,9 @@ The vice president’s swift consolidation of power has been impressive. Her mul
 
 There is an old saying in Washington that a presidential candidate will never have a better day than the one that follows their announcement. The maxim usually applies to the heady first hours of primary campaigns. But Harris, 59, is now playing in the big leagues.
 
-She is just hours into a mission that ranks the most daunting of any modern potential presidential nominee. She is seeking to motivate a demoralized party that until Sunday believed it was heading to defeat as lawmaker after lawmaker deserted the president following his disastrous debate performance.
+Harris must sustain the sudden new momentum in a party that until Sunday believed it was heading to defeat as lawmaker after lawmaker deserted the president following his disastrous debate performance.
 
-Even if she succeeds in her plan to “earn and win” the Democratic nomination, Harris will come up against the most feral campaign machine in years. Trump is known for misogynistic and racially charged rhetoric that could turn the next few months into the most searing general election in years.
+Even if she succeeds in her plan to “earn and win” the Democratic nomination, Harris will come up against the most feral campaign machine in years. Trump is known for misogynistic and racially charged rhetoric that could turn the next few months into the most searing general election in modern memory.
 
 The pressure on Harris from Democrats is also immense. The vice president has shown signs of improving her political skills recently, but that’s never been her forte. This year, party leaders are not just investing in her as the last barrier to a new era of unrestrained conservative rule that could obliterate the achievements of the Biden and Barack Obama presidencies. After replacing Biden as the figurehead of the campaign, Harris is now leading an effort that has as its foundation an attempt to save democracy from Trump.
 
