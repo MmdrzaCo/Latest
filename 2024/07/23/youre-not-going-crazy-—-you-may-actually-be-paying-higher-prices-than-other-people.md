@@ -1,6 +1,6 @@
 # You’re not going crazy — you may actually be paying higher prices than other people
 
-Published :`2024-07-23 18:38:17`
+Published :`2024-07-23 19:11:58`
 
 ---
 
