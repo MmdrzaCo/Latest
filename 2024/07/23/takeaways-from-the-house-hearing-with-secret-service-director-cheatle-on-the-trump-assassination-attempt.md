@@ -1,6 +1,6 @@
 # Takeaways from the House hearing with Secret Service Director Cheatle on the Trump assassination attempt
 
-Published :`2024-07-23 13:18:36`
+Published :`2024-07-23 13:35:52`
 
 ---
 
