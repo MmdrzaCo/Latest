@@ -1,6 +1,6 @@
 # EU moves high-level meetings out of Budapest to protest Orbán’s Ukraine war stance
 
-Published :`2024-07-23 18:20:32`
+Published :`2024-07-23 18:38:22`
 
 ---
 

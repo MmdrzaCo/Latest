@@ -1,6 +1,6 @@
 # What Delta passengers are entitled to in terms of compensation
 
-Published :`2024-07-23 18:20:26`
+Published :`2024-07-23 18:38:16`
 
 ---
 
@@ -43,6 +43,8 @@ Buttigieg addressed mounting complaints from passengers on Sunday: “Delta must
 Travelers who made their own arrangements during the disruption can be reimbursed.
 
 “Customers who have incurred hotel, meal or ground transportation expenses while in transit during this operational disruption may submit eligible expenses for reimbursement,” Delta said in an outline of what travelers can expect. (Among the expenses that are not eligible for reimbursement: hotel reservations at the traveler’s destination, vacation experiences, lost wages, tickets to concerts or other events).
+
+Impacted passengers can submit reimbursement requests here.
 
 ### Additional compensation
 

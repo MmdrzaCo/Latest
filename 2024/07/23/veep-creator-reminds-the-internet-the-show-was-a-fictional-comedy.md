@@ -1,6 +1,6 @@
 # ‘Veep’ creator reminds the internet the show was a fictional comedy
 
-Published :`2024-07-23 18:20:27`
+Published :`2024-07-23 18:38:17`
 
 ---
 

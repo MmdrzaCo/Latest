@@ -1,6 +1,6 @@
 # Bob Menendez will resign his US Senate seat effective August 20, sources say
 
-Published :`2024-07-23 18:20:26`
+Published :`2024-07-23 18:38:16`
 
 ---
 
@@ -10,7 +10,11 @@ In July, Menendez was convicted of 16 counts — including bribery, extortion, w
 
 Tuesday’s developments mark a major moment in the New Jersey senator’s dramatic political downfall and will bring an end to his scandal-plagued tenure in the Senate. Menendez had faced mounting pressure from within his own party to resign or face the threat of expulsion from the Senate.
 
-New Jersey Gov. Phil Murphy, a Democrat who has been among those calling for Menendez to resign, has previously said that he will make a temporary appointment to the seat if a vacancy arises. Democratic Rep. Andy Kim and Republican Curtis Bashaw are set to face off in the November general election for the seat. Menendez, who had been up for reelection this year, had previously filed to run as an independent. Menendez did not immediately say whether he still intends to run as an independent.
+New Jersey Gov. Phil Murphy, a Democrat, is expected to appoint a replacement to fill the remainder of Menendez’s term, which ends on January 3, 2025.
+
+Democratic Rep. Andy Kim and Republican Curtis Bashaw are set to face off in the November general election for the seat. Menendez, who had been up for reelection this year, had previously filed to run as an independent. Menendez did not immediately say whether he still intends to run as an independent.
+
+Menendez has represented New Jersey in Congress as a Democrat since being elected in 1992, first as a US representative and then as senator.
 
 Menendez, who faces sentencing on October 29, has maintained he never violated his public oath and has said he has never been anything “but a patriot of my country and for my country.”
 
