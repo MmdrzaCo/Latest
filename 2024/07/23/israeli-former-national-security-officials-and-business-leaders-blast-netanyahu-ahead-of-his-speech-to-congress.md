@@ -1,6 +1,6 @@
 # Israeli former national security officials and business leaders blast Netanyahu ahead of his speech to Congress
 
-Published :`2024-07-23 15:16:44`
+Published :`2024-07-23 15:35:59`
 
 ---
 

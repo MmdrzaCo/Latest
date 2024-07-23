@@ -1,6 +1,6 @@
 # Harris picks up enough delegate support to win nomination on first full day of her campaign
 
-Published :`2024-07-23 15:16:46`
+Published :`2024-07-23 15:36:02`
 
 ---
 

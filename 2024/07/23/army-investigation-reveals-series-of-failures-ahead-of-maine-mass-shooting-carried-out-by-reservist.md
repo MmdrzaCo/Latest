@@ -1,6 +1,6 @@
 # Army investigation reveals series of failures ahead of Maine mass shooting carried out by reservist
 
-Published :`2024-07-23 15:16:43`
+Published :`2024-07-23 15:35:59`
 
 ---
 
@@ -66,9 +66,9 @@ In the days leading up to the shooting in Lewiston, the investigation said, Car
 
 The Army Reserve Medical Management Center attempted to contact him in October to discuss follow-up treatment and check in on his wellbeing. The investigation says an individual attempted to contact him on October 17 and 19, but was unsuccessful in getting in touch.
 
-On October 24, one day before carried out the mass shooting, an individual called Card. A man answered the phone, but as soon as they asked to speak with Card, the person on the other end of the line.
+On October 24, one day before the mass shooting, an individual called Card. A man answered the phone, but as soon as they asked to speak with Card, the person on the other end of the hung up.
 
-On the evening of October 25, Card opened fire at Sparetime Recreation, a local bowling alley, and Schemengees Bar & Grille Restaurant. His body was located on October 27 in the back of a tractor trailer; the cause of death was noted as a “suicide {shot self with handgun).”
+On the evening of October 25, Card opened fire at Sparetime Recreation, a local bowling alley, and Schemengees Bar & Grille Restaurant. His body was located on October 27 in the back of a tractor trailer; the cause of death was noted as a “suicide (shot self with handgun).”
 
 The Army’s investigation report said the service felt a “moral and ethical imperative” to investigate after the mass shooting.
 

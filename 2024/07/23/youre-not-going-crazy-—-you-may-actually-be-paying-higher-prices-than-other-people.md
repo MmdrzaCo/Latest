@@ -1,6 +1,6 @@
 # You’re not going crazy — you may actually be paying higher prices than other people
 
-Published :`2024-07-23 01:08:31`
+Published :`2024-07-23 15:35:59`
 
 ---
 
@@ -22,6 +22,16 @@ This personalized promotion strategy is not unique to Starbucks. Companies are i
 
 The end goal: “Get you to buy more items, buy the same items again or to spend more on the same items,” said Jain.
 
+### The FTC is pushing back
+
+On Tuesday, the Federal Trade Commission sent orders to eight companies — Mastercard, Revionics, Bloomreach, JPMorgan Chase, Task Software, PROS, Accenture and McKinsey & Co — seeking information on how they allegedly offer surveillance pricing and services “that incorporate data about consumers’ characteristics and behavior.”
+
+The orders seek to understand how technologies like AI along with consumers’ personal information could be used “to categorize individuals and set a targeted price for a product or service,” according to an announcement the FTC published Tuesday morning.
+
+“Firms that harvest Americans’ personal data can put people’s privacy at risk. Now firms could be exploiting this vast trove of personal information to charge people higher prices,”  FTC Chair Lina Khan said in a statement.
+
+Mastercard declined to comment on the order, but told CNN it would “cooperate with the FTC in this process.” Task Software, which lists Starbucks as a client, did not immediately respond to CNN’s request for comment along with the other six companies to whom the FTC sent orders.
+
 ### Traditional marketing tactics on steroids
 
 Companies are still employing tried and true marketing 101 tactics, like segmenting customers who exhibit similar purchasing behavior and preferences and taking into account, for instance, a shopper’s location and the time of year.
@@ -34,7 +44,7 @@ What’s changed now with the advancements in AI is the level of sophistication 
 
 Using AI, companies can now answer questions like, “What is this person going to buy next? What do we think they’re going to be willing to pay? Where are they going to buy from? When are they going to buy it?” said Jain.
 
-Matt Pavich, senior director of strategy and innovation at Revionics, an AI company that specializes in helping retailers set prices, said its goal is not to tell retailers exactly how much to charge individual customers. Rather, its bread and butter is to provide companies with “all of the analytics and predictive scenarios” to figure out prices themselves.
+Matt Pavich, senior director of strategy and innovation at Revionics, an AI company that specializes in helping retailers set prices, said its goal is not to tell retailers exactly how much to charge individual customers. Rather, its bread and butter is to provide companies with “all of the analytics and predictive scenarios” to figure out prices themselves. (Revionics was one of the eight companies to whom the FTC sent an order.)
 
 Instead of waiting for customers to respond in real time to price changes, Revionics’ clients get a toolbox to test out prices in advance. Then, by predicting how much consumers will buy at different price points, Revionics helps retailers manage their inventories.
 

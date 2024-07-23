@@ -1,6 +1,6 @@
 # Secret Service Director Kimberly Cheatle resigns
 
-Published :`2024-07-23 15:16:43`
+Published :`2024-07-23 15:35:59`
 
 ---
 
@@ -8,11 +8,13 @@ US Secret Service Director Kimberly Cheatle has tendered her resignation amid sc
 
 The move comes as lawmakers and an internal government watchdog move forward with investigations into the agency’s handling of Trump’s protection and how a gunman came close to the killing the 2024 Republican presidential candidate at a rally in Pennsylvania this month.
 
-In a statement, President Joe Biden said he and first lady Jill Biden are “grateful” for Cheatle’s decades of public service.
+Cheatle said in her resignation letter that she made the “difficult” decision to leave the agency “with a heavy heart” and that she doesn’t want her departure to distract agents from their mission.
+
+“In light of recent events, it is with a heavy heart that, I have made the difficult decision to step down as your Director,” Cheatle wrote. She acknowledged that on July 13, the day of the shooting, the agency “fell short” of its mission to “to protect our nation’s leaders.”
+
+In a statement, President Joe Biden said he and first lady Jill Biden are “grateful” for Cheatle’s decades of public service and will appoint a new director “soon.”
 
 “As a leader, it takes honor, courage, and incredible integrity to take full responsibility for an organization tasked with one of the most challenging jobs in public service,” Biden said of Cheatle.
-
-Biden said a new Secret Service director will appointed soon. The post does not need Senate approval.
 
 There have been bipartisan calls in Congress for Cheatle’s resignation and a push by Republican lawmakers to impeach her. Lawmakers were particularly incensed after her appearance in front of the House Oversight Committee on Monday, where she was unwilling to answer many of the committee’s questions.
 
