@@ -1,6 +1,6 @@
 # Missouri judge overturns the murder conviction of a man imprisoned for more than 30 years
 
-Published :`2024-07-23 13:35:50`
+Published :`2024-07-23 14:14:12`
 
 ---
 

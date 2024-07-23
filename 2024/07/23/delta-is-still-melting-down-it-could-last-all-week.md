@@ -1,6 +1,6 @@
 # Delta is still melting down. It could last all week
 
-Published :`2024-07-23 13:35:50`
+Published :`2024-07-23 14:14:09`
 
 ---
 
@@ -13,6 +13,8 @@ There were more than 400 Delta and Delta Connection listed as delayed by FlightA
 The problems prompted the Transportation Secretary Pete Buttigieg to announce the Department of Transportation would be starting an investigation to make sure Delta is following the law and treating passengers fairly. He asked passengers with complaints to contact the Department of Transportation.
 
 “While you should first try to resolve issues directly with the airline, we want to hear from passengers who believe that Delta has not complied with USDOT-enforced passenger protection requirements during the recent travel disruptions,” he tweeted. “We will follow up.”
+
+Delta did not immediately respond to a request for comment on the DOT investigation.
 
 The problems stemmed from a software update issued late Thursday night by cybersecurity firm CrowdStrike that crashed Windows software. A cascade effect caused problems throughout the global airline industry last Friday.
 
@@ -46,13 +48,11 @@ After a similar service meltdown at Southwest Airlines during the year-end holid
 
 Delta’s service black eye could also cause it to lose some future bookings from frustrated customers. This past weekend was the busiest travel period of the summer with 90% of the seats booked. That has made it difficult for Delta to find other flights for those customers whose flights have been canceled. Even if Delta was operating all of its flights normally, it would take days to accommodate all its angry, stranded passengers.
 
-### The next issue: Luggage
+### Rows and rows and rows of luggage
 
 Getting those passengers reunited with their checked baggage is going to take many more days beyond that.
 
 United Airlines was also hit hard by the computer problem, with more than 1,000 canceled flights, although it was back to near-normal operations on Monday with only 69 cancellations for its mainline operations. In a note to staff CEO Scott Kirby said that the airline’s 26,000 computers affected by the problem had all been fixed and its operations had been normal for the last 24 hours. He said some passengers had yet to be reunited with their baggage, and United is using FedEx to deliver the bags to some of them.
-
-### Piles and piles of luggage
 
 At Atlanta’s Hartsfield-Jackson International Airport, Delta’s headquarters and largest hub, thousands of pieces of luggage are lined up on the floors of baggage claim. The bags made it to the world’s busiest airport but, through delays and cancellations, their owners either have not yet arrived or arrived on a different plane.
 
