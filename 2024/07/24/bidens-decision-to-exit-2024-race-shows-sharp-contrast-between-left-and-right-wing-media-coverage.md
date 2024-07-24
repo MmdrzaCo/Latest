@@ -1,6 +1,6 @@
 # Biden’s decision to exit 2024 race shows sharp contrast between left and right-wing media coverage
 
-Published :`2024-07-24 11:12:44`
+Published :`2024-07-24 11:36:11`
 
 ---
 
