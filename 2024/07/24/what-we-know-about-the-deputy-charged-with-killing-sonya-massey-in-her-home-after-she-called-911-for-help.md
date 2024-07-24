@@ -1,6 +1,6 @@
 # What we know about the deputy charged with killing Sonya Massey in her home after she called 911 for help
 
-Published :`2024-07-24 20:36:40`
+Published :`2024-07-24 21:14:43`
 
 ---
 
@@ -24,13 +24,19 @@ Grayson had worked at six law enforcement agencies in Illinois since 2020, accor
 
 He began working part-time with Pawnee police in August 2020, then moved to the Kincaid and Virden police departments, before taking up full-time work with Auburn police, the Logan County Sheriff’s Office and – in May 2023 – Sangamon County.
 
-It is unclear why Grayson changed jobs so frequently and CNN has reached out to the other law enforcement agencies for more information.
+Grayson’s resignation letter from the Auburn Police Department, reviewed by CNN, did not suggest he left due to problems or disciplinary issues. In it, he wrote: “I have had nothing but a positive experience working as an officer. Unfortunately, I have chosen to move on to Logan County Sheriff’s Office.”
+
+Grayson listed his reason for leaving both the Virden and Pawnee police departments as “wanting to be a full time” officer, and for the Kincaid Police Department as “my hours were cut,” according to his Auburn Police Department employment application, also reviewed by CNN.
+
+CNN has reached out to the other law enforcement agencies for more information.
 
 Court records indicate Grayson was charged with two DUI misdemeanor offenses in Illinois’ Macoupin County – one in 2015 and the other in 2016.
 
 The first incident occurred in August 2015, when Grayson’s vehicle was impounded after he was charged with driving under the influence. He pleaded guilty to the charge and paid more than $1,320 in fines, according to court records. Another charge, accusing him of driving under the influence with a blood alcohol concentration of 0.08%, was dismissed.
 
 The following year in July, Grayson was charged again with DUI, pleaded guilty and paid more than $2,400 in fines, court records show.
+
+Grayson’s job application to the Auburn Police Department acknowledges he had previously been arrested and charged with a DUI.
 
 A petition calling for an investigation into why Sangamon County hired Grayson was circulated at a march and barbecue in Springfield on Monday night, CNN affiliate WICS reported.
 
@@ -83,6 +89,12 @@ In a court document filed by the state last week, prosecutors said a “use-of-f
 “(The expert) likened the scenario to an officer intentionally and unnecessarily putting himself in front of a moving vehicle and then justifying use of force because of fear of being struck,” the prosecutors wrote.
 
 The sheriff’s office said it has fired Grayson. “It is clear that the deputy did not act as trained or in accordance with our standards,” the office said.
+
+In a court document filed by the state last week, prosecutors noted Grayson could have drawn a Taser located on his duty vest.
+
+“He … has shown a willingness to use lethal force, despite the availability of non-deadly alternatives, when there is little to no threat to his bodily safety,” prosecutors wrote.
+
+In April 2021, Grayson was awarded a certificate for successfully completing a training course on how to use a Taser, according to documents obtained by CNN from the Auburn Police Department, his previous employer. He was also successfully trained on how to use pepper spray, the documents show.
 
 Massey’s father, James Wilburn, said during a news conference Monday he initially received conflicting information from law enforcement.
 

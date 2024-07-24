@@ -1,6 +1,6 @@
 # St. Louis Cardinals deny player home run celebrations were homages to President Trump’s reaction to assassination attempt
 
-Published :`2024-07-24 20:36:41`
+Published :`2024-07-24 21:14:44`
 
 ---
 

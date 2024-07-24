@@ -1,6 +1,6 @@
 # Chicago-area gas prices are surging after a tornado nearly took out a refinery
 
-Published :`2024-07-24 20:36:40`
+Published :`2024-07-24 21:14:43`
 
 ---
 
@@ -30,7 +30,7 @@ Lipow said the government can help by relaxing gasoline quality specifications f
 
 “It will increase supply and lower prices,” Lipow said.
 
-The EPA did not respond to a request for comment.
+EPA spokesperson Shayla Powell told CNN in a statement Wednesday that response teams from the agency as well as the Department of Energy have been “coordinating with the refinery and state emergency response teams since the refinery shutdown to monitor the impact of the shutdown on gasoline supplies into the area.” The work, she added, is ongoing.
 
 ---
 

@@ -1,6 +1,6 @@
 # Pennsylvania state police commissioner reveals stunning details about Trump shooting
 
-Published :`2024-07-24 20:36:42`
+Published :`2024-07-24 21:14:43`
 
 ---
 
@@ -12,19 +12,19 @@ Paris told lawmakers about the communications between the Secret Service and loc
 
 Here’s what to know from Tuesday’s hearing:
 
-### Officers left post to look for Crooks
+### Officer left post to look for Crooks
 
-Two local law enforcement officers left a building with vantage points overlooking the roof where Crooks took aim at the former president before he fired shots, Paris testified.
+Paris testified that two local law enforcement officers left a building with vantage points overlooking the roof where Crooks took aim at the former president before he fired shots, but the local district attorney later said the building was never unmanned.
 
 Paris said that two officers with the Butler County Emergency Services Unit, a tactical force with sniper capabilities, left their posts in the building to look for a suspicious individual they spotted first and alerted to other law enforcement. That person was Crooks.
 
-The lawmakers watched video taken during a congressional tour of the rally site Monday, from the building where the ESU officers left their post, showing the roof where Crooks eventually climbed and took shots at Trump.
+Wednesday, Butler County DA Richard Goldinger disputed the testimony, saying that only one of the ESU officers left the building briefly to search for Crooks.
 
-“So are you then saying, to your knowledge, those ESU officers left the location where they could look out the window to go in search of this person?” Republican Rep. Dan Bishop of North Carolina asked.
+“Both ESU officers moved within the building, attempting to keep eyes on Crooks,” Goldinger said in a statement. “One of the officers observed Crooks sitting on a picnic table at the front of the building from his location on the second floor of the building. Crooks then ran off, carrying a backpack.”
 
-“That is my understanding,” Paris said, adding that the officers went searching with other local officers in the area. “I don’t want to establish a timeline minute by minute because we don’t have that yet.”
+“At this point, that officer ran out of the building attempting to keep eyes on Crooks until other law enforcement arrived. The other officer remained in the building, on the second floor,” Goldinger said. “The officer who ran out of the building could not locate Crooks, and he returned to the building. Both officers then heard shots fired.”
 
-Bishop also questioned whether the two officers who left their post could have seen Crooks climb on top of the roof if they had stayed put. Paris said he didn’t know.
+Goldinger added that “neither officer could see Crooks on the other building due to the visual angle they had from their location to Crooks’ location.”
 
 ### Crooks fired eight times
 
@@ -59,6 +59,8 @@ According to Paris, “there was a text thread going” with members of the Butl
 State Police then received a call and a text from the ESU about Crooks’ activity that they immediately relayed to Secret Service. Local, state and federal law enforcement were in a unified command post at the rally.
 
 State Police “verbally turned right around and gave it to the Secret Service,” Paris said.
+
+This story has been updated Wednesday with the response from Butler County DA Richard Goldinger.
 
 ---
 

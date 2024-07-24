@@ -1,6 +1,6 @@
 # Hailey Bieber says she decided to reveal she was expecting in order to ‘enjoy’ her pregnancy ‘outwardly’
 
-Published :`2024-07-24 20:36:44`
+Published :`2024-07-24 21:14:46`
 
 ---
 

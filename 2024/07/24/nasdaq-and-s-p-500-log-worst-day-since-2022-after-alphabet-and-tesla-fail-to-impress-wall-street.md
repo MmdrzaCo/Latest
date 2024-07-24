@@ -1,6 +1,6 @@
 # Nasdaq and S&P 500 log worst day since 2022 after Alphabet and Tesla fail to impress Wall Street
 
-Published :`2024-07-24 20:36:39`
+Published :`2024-07-24 21:14:43`
 
 ---
 
@@ -16,7 +16,7 @@ Elsewhere, Alphabet shares slid 5% after reporting a miss on expectations for Yo
 
 “The flight to quality of Mega Tech is becoming vulnerable to earnings that cannot have even minor disappointments,” wrote Louis Navellier, chairman of Navellier & Associates, in a Wednesday note, adding that “the AI narrative isn’t broken.”
 
-Thursday’s tumble extends the decline in tech stocks seen during the past week after a cool inflation report and resilient economic data led investors to bet that the Federal Reserve will cut interest rates in September.
+Wednesday’s tumble extends the decline in tech stocks seen during the past week after a cool inflation report and resilient economic data led investors to bet that the Federal Reserve will cut interest rates in September.
 
 Wall Street has rotated out of the tech bigwigs that led stocks higher over the past year in favor of smaller stocks that have been beaten down by sky-high rates. The Russell 2000, which tracks the performance of US small-cap stocks, is up 7.6% for the month, outperforming the S&P 500’s 0.6% loss. Still, small-caps fell on Wednesday.
 
