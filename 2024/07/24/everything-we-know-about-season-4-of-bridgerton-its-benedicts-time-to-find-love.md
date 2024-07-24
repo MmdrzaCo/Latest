@@ -1,6 +1,6 @@
 # Everything we know about Season 4 of ‘Bridgerton’: It’s Benedict’s time to find love
 
-Published :`2024-07-24 04:17:26`
+Published :`2024-07-24 04:37:35`
 
 ---
 
