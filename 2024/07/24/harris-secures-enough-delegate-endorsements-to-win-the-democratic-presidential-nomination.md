@@ -1,6 +1,6 @@
 # Harris secures enough delegate endorsements to win the Democratic presidential nomination
 
-Published :`2024-07-24 05:14:52`
+Published :`2024-07-24 05:36:49`
 
 ---
 
