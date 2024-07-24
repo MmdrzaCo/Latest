@@ -1,6 +1,6 @@
 # Pilot sole survivor of Nepal plane crash that killed 18
 
-Published :`2024-07-24 19:12:04`
+Published :`2024-07-24 19:36:43`
 
 ---
 

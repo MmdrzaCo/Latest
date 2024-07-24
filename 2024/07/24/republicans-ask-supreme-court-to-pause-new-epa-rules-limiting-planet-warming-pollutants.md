@@ -1,6 +1,6 @@
 # Republicans ask Supreme Court to pause new EPA rules limiting planet-warming pollutants
 
-Published :`2024-07-24 19:12:06`
+Published :`2024-07-24 19:36:46`
 
 ---
 

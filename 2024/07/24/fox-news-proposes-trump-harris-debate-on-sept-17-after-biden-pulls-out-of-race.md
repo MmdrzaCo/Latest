@@ -1,6 +1,6 @@
 # Fox News proposes Trump-Harris debate on Sept. 17 after Biden pulls out of race
 
-Published :`2024-07-24 19:12:03`
+Published :`2024-07-24 19:36:41`
 
 ---
 
