@@ -1,34 +1,30 @@
 # Powerful Typhoon Gaemi churns toward Taiwan, expected to drench an already soaked China
 
-Published :`2024-07-24 16:18:51`
+Published :`2024-07-24 16:40:19`
 
 ---
 
-A powerful and rapidly intensifying typhoon is bearing down on Taiwan, killing at least one person and injuring dozens of others as authorities close financial markets, schools and offices.
+A powerful typhoon is bearing down on Taiwan, killing at least two people and injuring hundreds of others as authorities close financial markets, schools and offices.
 
-Conditions in Taiwan have worsened as Typhoon Gaemi brought heavy rainfall, gusty winds and a dangerous storm surge. The storm is expected to strengthen into a super typhoon before making landfall on Taiwan’s northeastern coast Wednesday afternoon.
+Conditions in Taiwan have worsened as Typhoon Gaemi brought heavy rainfall, gusty winds and a dangerous storm surge.
 
-A woman was killed when she was hit by a collapsed tree while riding on a motorbike in the southern Taiwanese city of Kaohsiung, according to Taiwan’s Central Emergency Operation Center (CEOC). At least 58 other people have been wounded, mainly in the southern cities of Kaohsiung and Tainan.
+The two deaths include a woman riding a motorcycle in Kaohsiung City, who was crushed to death by a fallen tree, and a woman in Hualien, who was hit by a parapet falling from the roof of a house, Taiwan’s Central Emergency Operations Center reported. At least 201 other people have been wounded.
 
-The typhoon is then forecast to move toward China’s Fujian province on Thursday, bringing more strong winds and downpours to a country already hit hard by weeks of extreme rain and deadly flooding.
+The rapidly intensifying storm had been expected to strengthen into a super typhoon before making landfall on Taiwan’s northeastern coast Wednesday afternoon. However it was deflected off its forecast track by Taiwan’s mountainous terrain and has spent more than six hours offshore making a loop near the Hualien coastline instead of making landfall.
 
-Gaemi is currently the equivalent of a Category 4 hurricane in the Atlantic, with maximum sustained winds of 230 kph (145 mph), according to the Joint Typhoon Warning Center (JTWC).
+Hualien, eastern Taiwan’s most populated city, has been hit with additional hours of the typhoon’s worst conditions, including winds over 100 mph (160 kph), storm surge, and torrential rainfall. Rainfall totals have already topped 300 mm (1 foot) in many locations, with mountainous areas receiving over 500 m (1.5 feet).
 
-It will land along the coast of Yilan county, not far from the epicenter of April’s earthquake in Hualien. The 7.4 magnitude quake was the largest Taiwan had seen in 25 years, injuring more than 1,000 people and collapsing buildings.
+The deflection was caused by mountains disrupting the storm’s wind field. The phenomenon has been documented numerous times over the past 60 years in typhoons approaching northeast Taiwan, with several making full loops before eventually moving over land.
+
+The interaction with land has weakened Typhoon Gaemi slightly, with its top winds down from 230 kph (145 mph) to 205 kph (125 mph), making Gaemi a strong Category 3 hurricane-equivalent, according to the latest update from the Joint Typhoon Warning Center.
 
 Taiwan is often struck by typhoons and has a generally strong track record in preparing for the damaging winds and downpours they can bring, especially in its cities. The more at-risk populations tend to be in remote and mountainous areas, especially on the east side of the island, where landslides can pose a major danger.
 
-Taiwan’s Central Meteorological Agency (CMA) has issued a sea and land typhoon warning for the entire main island as Gaemi’s powerful winds are expected to strengthen further to 240 kph (150 mph).
+Taiwan’s Central Meteorological Agency (CMA) has issued a sea and land typhoon warning for the entire main island, while Taiwan President Lai Ching-te urged residents not to make trips unless they can ensure their safety.
 
-Taiwan President Lai Ching-te also inspected the CEOC headquarters in Taipei on Wednesday morning, urging residents not to make trips unless they can ensure their safety.
+Typhoon Gaemi has strengthened in Pacific waters that have been at their warmest temperatures on record. The first typhoon of the season to affect Taiwan, it strengthened by 96 kph (60 mph) over a 24-hour period, well exceeding the definition of rapid intensification of 56 kph (35 mph) in 24 hours. Scientists have found that hotter oceans caused by the human-caused climate crisis are leading storms to intensify more rapidly.
 
-Heavy rain hit Taiwan ahead of the storm’s landfall on Wednesday, with the island’s mountainous areas already reporting rainfall between 275 to 518 mm (10.8 to 20.3 inches).
-
-Typhoon Gaemi is strengthening in Pacific waters that have been at their warmest temperatures on record. Scientists have found that hotter oceans caused by the human-caused climate crisis are leading storms to intensify more rapidly.
-
-Gaemi, the first typhoon of the season to affect Taiwan, has strengthened by 96 kph (60 mph) in the past 24 hours, well exceeding the definition of rapid intensification of 56 kph (35 mph) in 24 hours.
-
-Most Taiwanese cities, including the capital Taipei, chipmaking hub Hsinchu and the southern city of Kaohsiung, closed schools and offices on Wednesday while Taiwan Railways suspended some rapid train services.
+Most Taiwanese cities, including the capital Taipei, chipmaking hub Hsinchu and the southern city of Kaohsiung, closed schools and offices on Wednesday while Taiwan Railways suspended some rapid train services. More than 50,000 households in Kaohsiung City were without power.
 
 Dozens of flights and all regular train services have also been canceled for Wednesday and Thursday, with three of Taiwan’s largest carriers – EVA Air, China Airlines and Starlux Airlines – announcing disruptions due to the typhoon.
 
@@ -44,9 +40,7 @@ Philippine President Ferdinand Marcos Jr. earlier said more than 770,000 peopl
 
 ### More extreme weather misery for China
 
-Because the storm is strengthening prior to hitting Taiwan, Gaemi will also be stronger than previously expected when it hits China Thursday afternoon local time (early Thursday morning ET).
-
-Though weakened, Gaemi is expected to make landfall in China as the equivalent to a strong Category 1 or low-end Category 2 hurricane with sustained winds of 145 to 160 kph (90 to 100 mph.)
+Though weakened, Gaemi is expected to make landfall in China on Thursday as the equivalent to a strong Category 1 or low-end Category 2 hurricane with sustained winds of 145 to 160 kph (90 to 100 mph.)
 
 The worst of the winds are expected to occur in coastal areas of Fujian province, where boats have moored to take shelter and trains will be suspended Thursday, but heavy rain will spread across Fujian, southern Zhejiang and Jiangxi provinces for the rest of the week.
 

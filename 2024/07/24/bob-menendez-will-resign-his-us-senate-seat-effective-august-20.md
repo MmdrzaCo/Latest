@@ -1,6 +1,6 @@
 # Bob Menendez will resign his US Senate seat effective August 20
 
-Published :`2024-07-24 16:18:52`
+Published :`2024-07-24 16:40:21`
 
 ---
 
