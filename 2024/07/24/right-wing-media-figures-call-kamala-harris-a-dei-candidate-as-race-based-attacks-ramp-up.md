@@ -1,6 +1,6 @@
 # Right-wing media figures call Kamala Harris a ‘DEI’ candidate as race-based attacks ramp up
 
-Published :`2024-07-24 13:19:04`
+Published :`2024-07-24 13:35:41`
 
 ---
 
