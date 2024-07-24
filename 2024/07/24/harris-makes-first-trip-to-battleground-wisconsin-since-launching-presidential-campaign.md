@@ -1,6 +1,6 @@
 # Harris makes first trip to battleground Wisconsin since launching presidential campaign
 
-Published :`2024-07-24 15:37:07`
+Published :`2024-07-24 16:18:52`
 
 ---
 
