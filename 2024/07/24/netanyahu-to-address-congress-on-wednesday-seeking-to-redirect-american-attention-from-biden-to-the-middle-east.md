@@ -1,6 +1,6 @@
 # Netanyahu to address Congress on Wednesday, seeking to redirect American attention from Biden to the Middle East
 
-Published :`2024-07-24 10:37:57`
+Published :`2024-07-24 11:12:42`
 
 ---
 
@@ -12,7 +12,7 @@ It also comes as many on the left have become increasingly dissatisfied with the
 
 Some members of Congress have said they will not attend Netanyahu’s speech, either as a protest of the war or due to previously scheduled events.
 
-Vice President Kamala Harris, who is now the presumptive Democratic nominee, will not preside in her constitutional role as president of the Senate during Netanyahu’s address; Harris will be in Indianapolis Wednesday, and she is expected to meet separately with Netanyahu later this week.
+Vice President Kamala Harris, who is now the presumptive Democratic nominee, will not preside in her constitutional role as president of the Senate during Netanyahu’s address; Harris will be in Indianapolis Wednesday, but is planning to meet with Netanyahu on Thursday, a US official told CNN.
 
 Senate President Pro Tempore Patty Murray, a Washington state Democrat, also declined to preside over the speech.
 
@@ -31,6 +31,8 @@ Netanyahu, meanwhile, has accused the United States of “withholding weapons an
 After arriving in Washington earlier this week, Netanyahu met with some American relatives of hostages held by Hamas. Not all participants were pleased with how that meeting ended.
 
 Former President Donald Trump and Netanyahu will also meet Friday at Mar-a-Lago in Palm Beach, Florida, Trump announced Tuesday.
+
+This story has been updated with additional information.
 
 CNN’s Jeremy Diamond and Jennifer Hansler contributed to this report.
 

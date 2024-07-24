@@ -1,6 +1,6 @@
 # St. Louis Cardinals deny player home run celebrations were homages to President Trump’s reaction to assassination attempt
 
-Published :`2024-07-24 10:37:59`
+Published :`2024-07-24 11:12:42`
 
 ---
 
@@ -29,6 +29,14 @@ In a separate game on Sunday, broadcast video showed the Tampa Bay Rays’ Taylo
 Again, speculation on social media began immediately after asking if Walls was imitating a bloodied Donald Trump’s rallying cry while being led away by secret service agents in Butler, PA.
 
 CNN reached out to Walls through the Rays and has not heard back. When the Tampa Bay Times asked Rays manager Kevin Cash for comment, he is reported to have said, “I was happy he hit a double.”
+
+The Rays told CNN that the team had no further comment to make and pointed to Walls’ quotes in an interview with the Tampa Bay Times on Tuesday.
+
+“I think it’s pretty inspirational when any person, in the blink of an eye, their life could be taken from them,” Walls said. “They don’t really know what’s going on in the heat of the moment.”
+
+“To immediately stand up and show strength, to me, speaks pretty loudly,” Walls added. “Anyone in that situation or that type of event, when it happens, it’s strong. It kind of represents character to me, and something that similarly I feel like I’ve faced those challenges in baseball, but on a much suppressed level.”
+
+Walls added: “I don’t foresee myself doing it again.”
 
 ---
 
