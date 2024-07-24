@@ -1,6 +1,6 @@
 # Explosion and fire at Jose Cuervo tequila factory kill five, Mexican officials say
 
-Published :`2024-07-24 16:40:20`
+Published :`2024-07-24 17:13:27`
 
 ---
 

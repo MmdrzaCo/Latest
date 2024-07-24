@@ -1,6 +1,6 @@
 # Twice-yearly shot proves successful at preventing HIV infection among women, trial data shows
 
-Published :`2024-07-24 16:40:20`
+Published :`2024-07-24 17:13:25`
 
 ---
 

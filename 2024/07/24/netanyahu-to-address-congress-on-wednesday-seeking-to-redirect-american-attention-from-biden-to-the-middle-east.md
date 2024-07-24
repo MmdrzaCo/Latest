@@ -1,6 +1,6 @@
 # Netanyahu to address Congress on Wednesday, seeking to redirect American attention from Biden to the Middle East
 
-Published :`2024-07-24 16:40:20`
+Published :`2024-07-24 17:13:26`
 
 ---
 
