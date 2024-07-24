@@ -1,6 +1,6 @@
 # NBA rejects Warner Bros. Discovery’s matching offer to retain games, setting up potential legal showdown
 
-Published :`2024-07-24 22:36:27`
+Published :`2024-07-24 23:15:49`
 
 ---
 
@@ -18,9 +18,7 @@ In a statement Wednesday, WBD criticized the league’s decision, saying it had 
 
 “We have matched the Amazon offer, as we have a contractual right to do, and do not believe the NBA can reject it,” a TNT spokesperson said in a statement. “In doing so, they are rejecting the many fans who continue to show their unwavering support for our best-in-class coverage, delivered through the full combined reach of WBD’s video-first distribution platforms — including TNT, home to our four-decade partnership with the league, and Max, our leading streaming service. We think they have grossly misinterpreted our contractual rights with respect to the 2025-26 season and beyond, and we will take appropriate action.
 
-In recent weeks, WBD executives have suggested that if the NBA declined to accept its matching offer, it could bring a lawsuit to enforce its contractual rights to match another bid.
-
-The months of dealmaking and uncertainty over the NBA rights had set off alarms both inside and out of WBD, raising the prospect that TNT Sports’ nearly four decades as an NBA partner and home to the beloved “Inside the NBA” show on TNT could come to an end.
+WBD executives have suggested in recent weeks that if the NBA declined to accept its matching offer it could bring a lawsuit to enforce its contractual rights to match another bid. The months of dealmaking and uncertainty over the NBA media rights had set off alarms both inside and out of WBD, raising the prospect that TNT Sports’ nearly four decades as an NBA partner and home to the beloved “Inside the NBA” show could come to an end.
 
 “Our new global media agreements with Disney, NBCUniversal and Amazon will maximize the reach and accessibility of NBA games for fans in the United States and around the world,” Adam Silver, the NBA commissioner, said in a statement. “These partners will distribute our content across a wide range of platforms and help transform the fan experience over the next decade.”
 

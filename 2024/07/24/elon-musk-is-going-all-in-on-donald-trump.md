@@ -1,6 +1,6 @@
 # Elon Musk is going all-in on Donald Trump
 
-Published :`2024-07-24 22:36:28`
+Published :`2024-07-24 23:15:49`
 
 ---
 
