@@ -1,6 +1,6 @@
 # How the House GOP campaign arm is pivoting to target Harris: Border, fracking and protests
 
-Published :`2024-07-24 14:37:53`
+Published :`2024-07-24 15:16:32`
 
 ---
 

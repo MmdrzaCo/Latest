@@ -1,6 +1,6 @@
 # Tesla stock tumbles after its profit plunged
 
-Published :`2024-07-24 14:37:51`
+Published :`2024-07-24 15:16:29`
 
 ---
 
@@ -10,7 +10,7 @@ The drop in profits is a stark contrast for a company that grew to become the wo
 
 The results underscore how Tesla, a pioneer in bringing electric vehicles to American drivers, now faces more intense competition from rivals at home and abroad. And with the EV market maturing, the growth in consumer interest for EVs has slowed.
 
-Shares of Tesla (TSLA) fell about 8% in premarket trading Wednesday, dragging down the broader market. Tesla’s stock is down about 1% this year through Tuesday’s close, after falling as much as 44% earlier this year.
+Shares of Tesla (TSLA) fell about 12% Wednesday morning, dragging down the broader market. Tesla’s stock was down about 1% this year through Tuesday’s close, after falling as much as 44% earlier this year.
 
 Tesla reported adjusted income of $1.8 billiion in the quarter, or 52 cents a share. Analysts had forecast earnings of 61 cents a share, compared to the 91 cents a share it earned a year earlier. Its key measure of profit margin was sharply lower, as a series of price cuts on EVs took a toll.
 

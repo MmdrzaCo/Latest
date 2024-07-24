@@ -1,6 +1,6 @@
 # Israeli settlers attack foreign activists and Palestinian farmers in West Bank
 
-Published :`2024-07-24 14:37:54`
+Published :`2024-07-24 15:16:33`
 
 ---
 
