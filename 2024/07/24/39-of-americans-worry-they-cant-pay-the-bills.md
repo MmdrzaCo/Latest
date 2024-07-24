@@ -1,6 +1,6 @@
 # 39% of Americans worry they can’t pay the bills
 
-Published :`2024-07-24 06:21:32`
+Published :`2024-07-24 06:41:08`
 
 ---
 
