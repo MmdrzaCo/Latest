@@ -1,14 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-24 02:47:43`
+#### Latest Update : `2024-07-24 03:17:19`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Trump said he’d consider Jamie Dimon for Treasury secretary but now says he doesn’t know who said that](https://new-news.github.io/Latest/2024/07/24/trump-said-hed-consider-jamie-dimon-for-treasury-secretary-but-now-says-he-doesnt-know-who-said-that 'Trump said he’d consider Jamie Dimon for Treasury secretary but now says he doesn’t know who said that')
+
 - [Influential Blues musician John Mayall has died at 90](https://new-news.github.io/Latest/2024/07/24/influential-blues-musician-john-mayall-has-died-at-90 'Influential Blues musician John Mayall has died at 90')
 
 - [Beijing and Manila made a deal in the South China Sea. But they’re already at odds over what was agreed](https://new-news.github.io/Latest/2024/07/24/beijing-and-manila-made-a-deal-in-the-south-china-sea-but-theyre-already-at-odds-over-what-was-agreed 'Beijing and Manila made a deal in the South China Sea. But they’re already at odds over what was agreed')
+
+- [At least 6 dead, 7 missing as fishing vessel carrying 27 sinks off Falkland Islands](https://new-news.github.io/Latest/2024/07/24/at-least-6-dead-7-missing-as-fishing-vessel-carrying-27-sinks-off-falkland-islands 'At least 6 dead, 7 missing as fishing vessel carrying 27 sinks off Falkland Islands')
 
 - [Pennsylvania state police commissioner reveals stunning details about Trump shooting](https://new-news.github.io/Latest/2024/07/24/pennsylvania-state-police-commissioner-reveals-stunning-details-about-trump-shooting 'Pennsylvania state police commissioner reveals stunning details about Trump shooting')
 
@@ -17,10 +21,6 @@
 - [Hydrothermal explosion leads to closure of parts of Yellowstone National Park](https://new-news.github.io/Latest/2024/07/24/hydrothermal-explosion-leads-to-closure-of-parts-of-yellowstone-national-park 'Hydrothermal explosion leads to closure of parts of Yellowstone National Park')
 
 - [Trump campaign files FEC complaint trying to block Biden funds transferring to Harris](https://new-news.github.io/Latest/2024/07/24/trump-campaign-files-fec-complaint-trying-to-block-biden-funds-transferring-to-harris 'Trump campaign files FEC complaint trying to block Biden funds transferring to Harris')
-
-- [Trump said he’d consider Jamie Dimon for Treasury secretary but now says he doesn’t know who said that](https://new-news.github.io/Latest/2024/07/24/trump-said-hed-consider-jamie-dimon-for-treasury-secretary-but-now-says-he-doesnt-know-who-said-that 'Trump said he’d consider Jamie Dimon for Treasury secretary but now says he doesn’t know who said that')
-
-- [At least 6 dead, 7 missing as fishing vessel carrying 27 sinks off Falkland Islands](https://new-news.github.io/Latest/2024/07/24/at-least-6-dead-7-missing-as-fishing-vessel-carrying-27-sinks-off-falkland-islands 'At least 6 dead, 7 missing as fishing vessel carrying 27 sinks off Falkland Islands')
 
 - [Famed national park evacuated in Canada as fires threaten the area](https://new-news.github.io/Latest/2024/07/24/famed-national-park-evacuated-in-canada-as-fires-threaten-the-area 'Famed national park evacuated in Canada as fires threaten the area')
 
