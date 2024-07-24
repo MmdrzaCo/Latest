@@ -1,6 +1,6 @@
 # Two killed as walkway collapses at Italy’s notorious ‘Gomorrah’ slum
 
-Published :`2024-07-24 22:14:30`
+Published :`2024-07-24 22:36:29`
 
 ---
 

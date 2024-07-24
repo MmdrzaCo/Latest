@@ -1,6 +1,6 @@
 # Biden to deliver Oval Office address on decision not to seek reelection as Harris and Trump hit the trail
 
-Published :`2024-07-24 22:14:28`
+Published :`2024-07-24 22:36:28`
 
 ---
 
@@ -10,11 +10,17 @@ He’s no longer the presumptive Democratic nominee trying to convince the natio
 
 The president intends to use the prime-time remarks to reveal to the American people how he arrived at the painful decision, sources told CNN, which he said in his letter Sunday he believed was “in the best interest of my party and the country.”
 
+Biden will say his decision to drop out of the race and “pass the torch” to a younger generation was one he reached because he believes it will be “the best way to unite our nation,” according to excerpts of his remarks.
+
+“The defense of democracy is more important than any title. I draw strength, and find joy, in working FOR the American people. But this sacred task of perfecting our Union is not about me. It’s about you. Your families. Your futures. It’s about ‘We the People,’” Biden is expected to say.
+
+He will add later: “The great thing about America is here, kings and dictators do not rule. The people do. History is in your hands. The power is in your hands. The idea of America – lies in your hands.”
+
 Oval Office addresses have historically been serious moments for presidents to speak to the American people at times of national crisis or to make major policy announcements. It will be only the fourth time Biden has addressed the nation from the setting as president. And it’s the second time in just 10 days, following Biden’s remarks to the country earlier this month following the assassination attempt against Trump. He’s also used the setting to speak about Hamas’ attack on Israel last year and to laud the passage of a bipartisan budget agreement.
 
 Biden, who returned to the White House on Tuesday after testing negative for Covid-19, began drafting his highly anticipated address while isolating with the virus in Rehoboth Beach, Delaware, senior officials told CNN. Like all of Biden’s public speeches throughout his presidency, officials expect this address will be a work in progress up until delivery.
 
-How much Biden focuses on what he views as his core achievements of his three-and-a-half years in the office he sought for several decades — versus how much he details his to-do list for the six months before he leaves the White House — is still being decided, officials said.
+How much Biden focuses on what he views as his core achievements of his three-and-a-half years in the office he sought for several decades — versus how much he details his to-do list for the six months before he leaves the White House — was still being decided Monday night, officials said.
 
 The president and his longtime communications aide, Mike Donilon, began early work on the speech shortly after Biden went public with his decision to exit the race, after three weeks of mounting intraparty pressure. (Donilon, a former pollster, played an instrumental role in presenting the data that informed Biden’s decision to step aside.)
 
@@ -29,6 +35,8 @@ The new CNN poll finds voters widely supportive of both Biden’s decision to st
 Biden himself is expected to turn his attention in the coming days and weeks to the legacy of his one-term presidency. But, as one source told CNN, with the decision to drop out of the 2024 race only days old, such discussions have not begun in earnest.
 
 Asked by a reporter what the country should expect during his address as he disembarked Air Force One on Tuesday, Biden responded: “Watch and listen.”
+
+CNN’s Sam Fossum contributed to this report.
 
 This story has been updated with additional developments.
 
