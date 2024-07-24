@@ -1,6 +1,6 @@
 # Man accused of stabbing author Salman Rushdie is charged with federal terrorism-related counts
 
-Published :`2024-07-24 15:16:29`
+Published :`2024-07-24 15:37:06`
 
 ---
 

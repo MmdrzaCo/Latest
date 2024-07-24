@@ -1,6 +1,6 @@
 # Twice-yearly shot proves successful at preventing HIV infection among women, trial data shows
 
-Published :`2024-07-24 15:16:29`
+Published :`2024-07-24 15:37:06`
 
 ---
 
@@ -32,6 +32,10 @@ The finding of lenacapavir having 100% efficacy for HIV prevention in women “i
 
 Multiple clinical trials involving lenacapavir are ongoing. The latest Phase 3 findings are part of Gilead’s PURPOSE program, which comprises five HIV prevention trials around the world.
 
+Gilead said in a news release Wednesday that it expects results later this year and in early 2025 from the program’s other pivotal trial, PURPOSE 2, which is assessing twice-yearly lenacapavir for the prevention of HIV infections among men, transgender women and gender nonbinary people in Argentina, Brazil, Mexico, Peru, South Africa, Thailand and the United States who have sex with partners assigned male at birth.
+
+“The regulatory filing for lenacapavir for PrEP will include the results of both PURPOSE 1 and PURPOSE 2, if positive, to ensure lenacapavir for PrEP can be approved for multiple populations and communities most in need of additional HIV prevention options,” according to the company, referring to potentially seeking approval of lenacapavir as an HIV prevention tool.
+
 “We are eagerly awaiting the results of the other studies, which enrolled other populations, including men who have sex with men and are disproportionately vulnerable to HIV,” Dr. Jason Zucker, assistant professor of medicine at Columbia University Irving Medical Center, who was not involved in the trial, said in an email.
 
 Barouch also was not involved in the latest Phase 3 trial, nor the newly launched US trials, but he previously studied lenacapavir as a drug to prevent simian–human immunodeficiency virus infections in preclinical animal studies, which he said ultimately predicted how the drug would later behave as an HIV-prevention tool in humans.
@@ -39,6 +43,8 @@ Barouch also was not involved in the latest Phase 3 trial, nor the newly launche
 People who already take either daily PrEP pills or regular PrEP injections to prevent HIV may benefit from having lenacapavir available to them as another option, Barouch said.
 
 “This is a very good option that is very convenient because it can be given only once every six months,” he said. “I think for people who are at high risk, who are not yet on PrEP, it’s an option because it provides a more convenient option, if that was the reason why they were not interested in PrEP beforehand.”
+
+In the Phase 3 trial, researchers noted that adherence to taking a daily PrEP pill was low, and some people reported taking it only twice a week when it should have been taken daily.
 
 Lenacapavir is not approved for HIV prevention anywhere in the world, but as it continues to be studied as a pre-exposure prophylaxis drug to prevent HIV infection, questions abound around cost.
 

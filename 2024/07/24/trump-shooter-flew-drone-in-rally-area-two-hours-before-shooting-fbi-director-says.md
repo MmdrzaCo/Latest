@@ -1,6 +1,6 @@
 # Trump shooter flew drone in rally area two hours before shooting, FBI director says
 
-Published :`2024-07-24 15:16:29`
+Published :`2024-07-24 15:37:06`
 
 ---
 
@@ -8,7 +8,7 @@ Donald Trump’s would-be assassin flew a drone in the area near the rally just 
 
 Speaking to the House Judiciary Committee, Wray revealed that “around 4 p.m.,” the shooter, Thomas Matthew Crooks, “was flying the drone around the area” of the rally, approximately 200 yards from the stage.
 
-The drone was in the air for approximately 11 minutes, and investigators believe Crooks watched a live feed from the drone on his phone.
+The drone was in the air for approximately 11 minutes, and investigators believe Crooks watched a live feed from the drone on his phone. CNN previously reported that the drone was found in his car following the shooting.
 
 In addition, Crooks had two explosives in his car at the time of the shooting and one in his home, but likely did not have the ability to detonate them from the roof where he was killed, Wray testified.
 

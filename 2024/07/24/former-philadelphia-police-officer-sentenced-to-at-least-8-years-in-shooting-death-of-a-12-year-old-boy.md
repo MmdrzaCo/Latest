@@ -1,6 +1,6 @@
 # Former Philadelphia police officer sentenced to at least 8 years in shooting death of a 12-year-old boy
 
-Published :`2024-07-24 15:16:33`
+Published :`2024-07-24 15:37:08`
 
 ---
 

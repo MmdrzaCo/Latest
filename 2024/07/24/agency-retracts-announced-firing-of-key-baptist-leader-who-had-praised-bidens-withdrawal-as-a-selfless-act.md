@@ -1,6 +1,6 @@
 # Agency retracts announced firing of key Baptist leader who had praised Biden’s withdrawal as a ‘selfless act’
 
-Published :`2024-07-24 15:16:32`
+Published :`2024-07-24 15:37:08`
 
 ---
 

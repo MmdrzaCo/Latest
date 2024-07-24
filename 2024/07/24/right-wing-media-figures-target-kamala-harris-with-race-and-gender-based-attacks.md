@@ -1,6 +1,6 @@
 # Right-wing media figures target Kamala Harris with race and gender-based attacks
 
-Published :`2024-07-24 15:16:29`
+Published :`2024-07-24 15:37:06`
 
 ---
 
