@@ -1,6 +1,6 @@
 # Hugh Jackman almost didn’t play Wolverine. The story behind Dougray Scott and others who missed out on iconic roles
 
-Published :`2024-07-24 18:41:33`
+Published :`2024-07-24 19:12:03`
 
 ---
 

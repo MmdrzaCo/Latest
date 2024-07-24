@@ -1,6 +1,6 @@
 # Hundreds of people may have died from heat in one Arizona county
 
-Published :`2024-07-24 18:41:33`
+Published :`2024-07-24 19:12:03`
 
 ---
 

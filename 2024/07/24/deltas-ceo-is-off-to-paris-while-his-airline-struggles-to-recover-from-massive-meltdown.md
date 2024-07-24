@@ -1,6 +1,6 @@
 # Delta’s CEO is off to Paris while his airline struggles to recover from massive meltdown
 
-Published :`2024-07-24 18:41:34`
+Published :`2024-07-24 19:12:03`
 
 ---
 
@@ -13,6 +13,12 @@ Meanwhile, Bastian traveled to Paris for the Olympics, accordingly, where Delta 
 “Ed delayed this long-planned business trip until he was confident the airline was firmly on the path to recovery,” said a statement from Delta to CNN “As of Wednesday morning, Delta’s operations were returning to normal. Ed remains fully engaged with senior operations leaders.”
 
 Bastian flew to Paris on a Delta commercial flight, not a private jet, the airline said. As the official airline of the US Olympic Team, the company is flying athletes, coaches and other support staff to Paris. Most CEOs of Olympic sponsors will probably be attending at least part of the Olympics, but those other CEOs have not had the customer service problems over the last week that Delta has suffered.
+
+However, the union attempting to organize Delta flight attendants slammed the CEO for taking a “first class seat” to Paris instead of taking ownership of the massive meltdown.
+
+“While Ed was flying to Paris last night, crew were sleeping in airports across the country. Flight Attendants expect an apology and accountability,” the Delta Association of Flight Attendants-CWA (AFA) organizing committee said in a statement. “We provided a roadmap to recovery and care for the affected crew members.”
+
+AFA is a union is seeking to win the right to represent flight attendants working on Delta’s mainline flights and already represents flight attendants on Delta subsidiary Endeavor Air, which operates flights under the Delta Connection brand. CNN has reached out to Delta to confirm the type of seat Bastian sat in during his travels.
 
 Delta has been asking employees to pull extra duty to try to address the company’s problems, with its IT staff working around the clock to try to fix a tech meltdown caused by a corrupted software update from cybersecurity firm CrowdStrike late last week.
 
