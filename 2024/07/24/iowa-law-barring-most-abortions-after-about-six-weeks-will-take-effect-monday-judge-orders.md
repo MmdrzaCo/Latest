@@ -1,6 +1,6 @@
 # Iowa law barring most abortions after about six weeks will take effect Monday, judge orders
 
-Published :`2024-07-24 17:35:59`
+Published :`2024-07-24 18:20:27`
 
 ---
 

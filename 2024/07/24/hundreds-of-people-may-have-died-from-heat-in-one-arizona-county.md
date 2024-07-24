@@ -1,12 +1,12 @@
 # Hundreds of people may have died from heat in one Arizona county
 
-Published :`2024-07-24 17:35:58`
+Published :`2024-07-24 18:20:24`
 
 ---
 
 Hundreds of people may have died from heat in Arizona’s Maricopa County amid another record-breaking summer in the state.
 
-Heat has killed 27 people in the county, which is home to Phoenix, and is suspected as the cause of at least 396 other deaths so far this year, according to figures released Tuesday.
+Heat has killed 27 people in the county, which is home to Phoenix, and is suspected as the cause of 396 other deaths so far this year, according to figures released Tuesday.
 
 A total of 645 people died last year during the deadliest year for heat in the county since it started tracking the deaths in 2006. Nearly half of last year’s deaths came during a stretch of the most intense heat from July 10 to July 25. Fewer deaths were under investigation during that time span than the 396 currently under investigation.
 
@@ -24,7 +24,7 @@ Heat is the deadliest form of weather in the US, killing more than twice as ma
 
 But heat deaths are still often undercounted, and there are many places that fail to report them accurately or regularly. A 2020 study found heat-related deaths were being underestimated in 297 of the country’s most populous counties. Researchers said mortality records tend to neglect other potentially heat-related causes of death, like heart attacks.
 
-Maricopa County changed the way it tracks heat-related deaths last year to account for how the death occurred and the factors that led up to it. The previous tracking method only tracked death certificates that specified heat as the cause of death, and “produced undercounts,” according to Johnston.
+Maricopa County changed the way it investigates heat deaths last year by enabling investigators to select more than one potential contributing factor to a death, including heat-related factors.Prior to this change, the number of potential heat-related cases under investigation were being undercounted, according to Johnston.
 
 Summer and heat in Arizona are far from over. Even though heat peaks in July in Phoenix, average high temperatures don’t drop below 100 degrees until mid-September.
 

@@ -1,6 +1,6 @@
 # A 134-year-old home goods retailer filed for bankruptcy and is closing more than 70 stores
 
-Published :`2024-07-24 17:35:53`
+Published :`2024-07-24 18:20:24`
 
 ---
 
@@ -10,7 +10,9 @@ The Texas-based company, which filed for Chapter 11 bankruptcy protection on Tue
 
 The 73 Conn’s HomePlus stores closing are listed on its website. Florida is the most affected state with 18 stores soon shutting down, followed by Texas with 9 locations. Other states where stores are closing include Arizona, Colorado, North Carolina and Virginia.
 
-Conn’s didn’t immediately respond to CNN’s request for comment. Shares of the company have fallen more than 80% for the year and the company received a delisting notice from Nasdaq a few weeks ago.
+A Conn’s spokesperson said that as the company goes through the Chapter 11 process, it “continues to have ongoing discussions with potential buyers to sell all or parts of the business and preserve jobs.”
+
+Shares of the company have fallen more than 90% for the year and the company received a delisting notice from Nasdaq a few weeks ago.
 
 Last year, Conn’s bought W.S. Badcock, another home goods retailer that operates in the southeast US under the “Badcock Home Furniture & more” name. That purchase increased the company’s total retail footprint to more than 500 stores among the two brands, however 35 Badcock stores are also closing.
 

@@ -1,6 +1,6 @@
 # George Clooney endorses Harris after calling for Biden’s exit
 
-Published :`2024-07-24 17:36:00`
+Published :`2024-07-24 18:20:27`
 
 ---
 
