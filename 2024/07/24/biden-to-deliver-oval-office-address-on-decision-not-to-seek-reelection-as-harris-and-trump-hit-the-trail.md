@@ -1,6 +1,6 @@
 # Biden to deliver Oval Office address on decision not to seek reelection as Harris and Trump hit the trail
 
-Published :`2024-07-24 21:14:43`
+Published :`2024-07-24 21:37:01`
 
 ---
 
