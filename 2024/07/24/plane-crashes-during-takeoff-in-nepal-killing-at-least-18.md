@@ -1,6 +1,6 @@
 # Plane crashes during takeoff in Nepal, killing at least 18
 
-Published :`2024-07-24 09:15:51`
+Published :`2024-07-24 09:35:42`
 
 ---
 

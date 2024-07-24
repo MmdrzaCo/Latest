@@ -1,6 +1,6 @@
 # Netanyahu will make speech to Congress as optimism for a ceasefire in Gaza rises
 
-Published :`2024-07-24 09:15:52`
+Published :`2024-07-24 09:35:43`
 
 ---
 

@@ -1,6 +1,6 @@
 # Pennsylvania state police commissioner reveals stunning details about Trump shooting
 
-Published :`2024-07-24 09:15:52`
+Published :`2024-07-24 09:35:43`
 
 ---
 
