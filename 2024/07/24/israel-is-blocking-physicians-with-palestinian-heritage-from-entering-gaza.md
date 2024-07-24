@@ -1,6 +1,6 @@
 # Israel is blocking physicians with Palestinian heritage from entering Gaza
 
-Published :`2024-07-24 08:38:33`
+Published :`2024-07-24 09:15:52`
 
 ---
 
