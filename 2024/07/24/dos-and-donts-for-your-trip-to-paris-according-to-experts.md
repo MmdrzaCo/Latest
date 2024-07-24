@@ -1,6 +1,6 @@
 # Dos and don’ts for your trip to Paris, according to experts
 
-Published :`2024-07-24 14:14:37`
+Published :`2024-07-24 14:37:51`
 
 ---
 
