@@ -1,6 +1,6 @@
 # Disillusioned with Biden, Hollywood is now energized by Kamala Harris
 
-Published :`2024-07-24 04:37:34`
+Published :`2024-07-24 05:14:48`
 
 ---
 
