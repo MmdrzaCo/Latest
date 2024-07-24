@@ -1,6 +1,6 @@
 # It’s not just hype. ‘Deadpool & Wolverine’ is a bleeping good time
 
-Published :`2024-07-24 03:37:14`
+Published :`2024-07-24 04:17:24`
 
 ---
 

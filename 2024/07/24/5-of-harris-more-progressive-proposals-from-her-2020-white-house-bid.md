@@ -1,6 +1,6 @@
 # 5 of Harris’ more progressive proposals from her 2020 White House bid
 
-Published :`2024-07-24 03:37:16`
+Published :`2024-07-24 04:17:29`
 
 ---
 
