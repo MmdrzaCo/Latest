@@ -1,6 +1,6 @@
 # Rudy Giuliani’s first-class RNC travel was paid for by Mike Lindell’s media platform, attorney says
 
-Published :`2024-07-24 05:36:48`
+Published :`2024-07-24 06:21:31`
 
 ---
 
