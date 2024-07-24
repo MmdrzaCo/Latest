@@ -1,6 +1,6 @@
 # ‘It was humiliating.’ Evictions in these cities are worse than before Covid
 
-Published :`2024-07-24 11:36:02`
+Published :`2024-07-24 12:28:49`
 
 ---
 
@@ -8,11 +8,11 @@ A toxic mix of surging rental rates and vanishing support for renters has catapu
 
 Evictions have increased most significantly in Sun Belt cities where housing affordability has worsened and where renters often have fewer protections.
 
-Tenant eviction filings are well above the pre-Covid average in Gainesville, Florida (+46%); Las Vegas (+43%); Houston (+42%); Phoenix (+35%), Nashville (+31%) and Fort Worth, Texas (+25%), according to records tracked by the Eviction Lab at Princeton University.
+Tenant eviction filings are well above the pre-Covid average in Gainesville, Florida (+46%); Las Vegas (+43%); Houston (+42%); Phoenix (+35%); Nashville, Tennessee (+31%); and Fort Worth, Texas (+25%), according to records tracked by the Eviction Lab at Princeton University.
 
 Other cities, including Minneapolis (+44%) and Columbus, Ohio (+37%), are also experiencing higher levels of evictions than before the pandemic.
 
-Three-quarters of the 34 cities tracked by the Eviction Lab had evictions increase between 2022 and 2023. More than half are above pre-pandemic levels.
+Three-quarters of the 34 cities tracked by the Eviction Lab saw evictions increase between 2022 and 2023. More than half are above pre-pandemic levels.
 
 The vast majority of evictions are for issues related to nonpayment of rent, according to the Eviction Lab.
 
@@ -44,7 +44,7 @@ Lloyd is hardly alone.
 
 More than half of all renters are cost burdened, paying more than 30% of their income toward rent, according to the National Low Income Housing Coalition.
 
-During Covid, the federal government provided nearly $50 billion in emergency rental assistance and instituted a national moratorium on evictions for nonpayment of rent.
+During the pandemic, the federal government provided nearly $50 billion in emergency rental assistance and instituted a national moratorium on evictions for nonpayment of rent.
 
 Those protections helped to slash evictions by more than half in many metro areas, according to an analysis by Princeton’s Eviction Lab.
 
@@ -64,17 +64,17 @@ Jacob Haas, senior research specialist at the Eviction Lab, said it’s surprisi
 
 By contrast, cities including New York City, Philadelphia and Wilmington, Delaware, have experienced drops in eviction rates as they have enacted new policies and protections for renters.
 
-For instance, Yentel pointed to Philadelphia, where annual eviction filings are just 59% of their pre-pandemic level. That city has required landlords to participate in a diversion program before attempting to evict tenants for non-payment of rent.
+For instance, Yentel pointed to Philadelphia, where annual eviction filings are just 59% of their pre-pandemic level. That city has required landlords to participate in a diversion program before attempting to evict tenants for nonpayment of rent.
 
 Another potential contributing factor to rising evictions is the fact that rental properties are increasingly owned by investors.
 
-According to Redfin, investors bought about 19% of US homes in the first quarter of 2024 — the highest percentage in nearly two years. Investors bought around a quarter of the homes sold in housing markets including Miami, Cleveland, and San Diego.
+According to Redfin, investors bought about 19% of US homes in the first quarter of 2024 — the highest percentage in nearly two years. Investors bought around a quarter of the homes sold in markets like Miami, Cleveland and San Diego.
 
-Heather Vargas said she’s been living for months in a hotel with her mother, her husband and their 16-year-old son after her landlord threatened to evict the family for their Citrus Heights, Califonia, home earlier this year.
+Heather Vargas said she’s been living for months in a hotel with her mother, her husband and their 16-year-old son after her landlord threatened to evict the family from their Citrus Heights, California, home earlier this year.
 
 “I told him we could end up homeless on the streets,” she told CNN in a phone interview.
 
-Vargas, who sometimes cleans homes and whose husband is a truck driver, said she was only late on rent a few times but that her landlord wanted to sharply raise the below-market rent. The couple has struggled to find housing in safe neighborhoods that is within their budget
+Vargas, who sometimes cleans homes and whose husband is a truck driver, said she was only late on rent a few times but that her landlord wanted to sharply raise the below-market rent. The couple has struggled to find housing in safe neighborhoods that is within their budget.
 
 “Every time I look at the rent, it just goes up, up and up,” Vargas said. “It’s insane. I never thought we would be here.”
 

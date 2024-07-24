@@ -1,14 +1,16 @@
 # Powerful Typhoon Gaemi churns toward Taiwan, expected to drench an already soaked China
 
-Published :`2024-07-24 11:36:02`
+Published :`2024-07-24 12:28:49`
 
 ---
 
-A powerful and rapidly intensifying typhoon is bearing down on Taiwan, disrupting ongoing military drills and prompting authorities to close financial markets, schools and offices.
+A powerful and rapidly intensifying typhoon is bearing down on Taiwan, killing at least one person and injuring dozens of others as authorities close financial markets, schools and offices.
 
 Conditions in Taiwan have worsened as Typhoon Gaemi brought heavy rainfall, gusty winds and a dangerous storm surge. The storm is expected to strengthen into a super typhoon before making landfall on Taiwan’s northeastern coast Wednesday afternoon.
 
-It is then forecast to move toward China’s Fujian province on Thursday, bringing more strong winds and downpours to a country already hit hard by weeks of extreme rain and deadly flooding.
+A woman was killed when she was hit by a collapsed tree while riding on a motorbike in the southern Taiwanese city of Kaohsiung, according to Taiwan’s Central Emergency Operation Center (CEOC). At least 58 other people have been wounded, mainly in the southern cities of Kaohsiung and Tainan.
+
+The typhoon is then forecast to move toward China’s Fujian province on Thursday, bringing more strong winds and downpours to a country already hit hard by weeks of extreme rain and deadly flooding.
 
 Gaemi is currently the equivalent of a Category 4 hurricane in the Atlantic, with maximum sustained winds of 230 kph (145 mph), according to the Joint Typhoon Warning Center (JTWC).
 
@@ -18,6 +20,8 @@ Taiwan is often struck by typhoons and has a generally strong track record in pr
 
 Taiwan’s Central Meteorological Agency (CMA) has issued a sea and land typhoon warning for the entire main island as Gaemi’s powerful winds are expected to strengthen further to 240 kph (150 mph).
 
+Taiwan President Lai Ching-te also inspected the CEOC headquarters in Taipei on Wednesday morning, urging residents not to make trips unless they can ensure their safety.
+
 Heavy rain hit Taiwan ahead of the storm’s landfall on Wednesday, with the island’s mountainous areas already reporting rainfall between 275 to 518 mm (10.8 to 20.3 inches).
 
 Typhoon Gaemi is strengthening in Pacific waters that have been at their warmest temperatures on record. Scientists have found that hotter oceans caused by the human-caused climate crisis are leading storms to intensify more rapidly.
@@ -26,7 +30,7 @@ Gaemi, the first typhoon of the season to affect Taiwan, has strengthened by 96 
 
 Most Taiwanese cities, including the capital Taipei, chipmaking hub Hsinchu and the southern city of Kaohsiung, closed schools and offices on Wednesday while Taiwan Railways suspended some rapid train services.
 
-Dozens of flights have also been canceled for Wednesday and Thursday, with three of Taiwan’s largest carriers – EVA Air, China Airlines and Starlux Airlines – announcing disruptions due to the typhoon.
+Dozens of flights and all regular train services have also been canceled for Wednesday and Thursday, with three of Taiwan’s largest carriers – EVA Air, China Airlines and Starlux Airlines – announcing disruptions due to the typhoon.
 
 Taiwan’s defense authorities said they had to modify ongoing annual five-day Han Kuang War Games due to the typhoon. The live-fire drills are the biggest annual military exercises of their kind in Taiwan, where the armed forces are increasingly vigilant against the threat of invasion from China.
 
