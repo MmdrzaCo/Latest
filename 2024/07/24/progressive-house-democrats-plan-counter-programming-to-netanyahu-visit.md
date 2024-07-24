@@ -1,6 +1,6 @@
 # Progressive House Democrats plan counter-programming to Netanyahu visit
 
-Published :`2024-07-24 12:55:09`
+Published :`2024-07-24 13:19:04`
 
 ---
 
@@ -22,7 +22,7 @@ Vice President Kamala Harris, who is now the presumptive Democratic nominee, wil
 
 Ahead of Netanyahu’s address, House Speaker Mike Johnson sent a letter to lawmakers obtained by CNN informing lawmakers that there will be “an increased police presence around the Capitol complex and in the House Chamber” and emphasized that there will be a “zero-tolerance policy for disturbances in the building.”
 
-In a scathing statement announcing she would not attend the speech, Democratic Rep. Rashida Tlaib of Michigan, the only Palestinian America member of Congress, called Netanyahu “a war criminal committing genocide against the Palestinian people.”
+In a scathing statement, Democratic Rep. Rashida Tlaib of Michigan, the only Palestinian American member of Congress, called Netanyahu “a war criminal committing genocide against the Palestinian people.” Tlaib’s statement did not say whether she would attend the speech.
 
 “It is utterly disgraceful that leaders from both parties have invited him to address Congress. He should be arrested and sent to the International Criminal Court,” Tlaib added.
 
@@ -43,6 +43,8 @@ House Democratic Rep. Dan Kildee’s office had to call US Capitol Police for he
 “Hundreds of protesters outside the office became disruptive, violently beating on the office doors, shouting loudly, and attempting to force entry into the office,” Kildee’s chief of staff, Mitchell Rivard, said in a statement to CNN. “The U.S. Capitol Police and Sergeant at Arms responded immediately to the incident and have made several arrests. Congressman Kildee is safe and his staff are all accounted for.”
 
 Capitol Police are preparing for a large coalition protest led by Palestinian groups to surround the Capitol on Wednesday in anticipation of Netanyahu’s arrival.
+
+CORRECTION: This story has been updated to reflect Rep. Rashida Tlaib’s statement on Netanyahu’s plans to address Congress. She did not say whether she would attend.
 
 ---
 

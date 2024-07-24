@@ -1,6 +1,6 @@
 # The British monarchy steps up efforts to go green with solar panels on palaces and biofuel-powered Bentleys
 
-Published :`2024-07-24 12:55:08`
+Published :`2024-07-24 13:19:04`
 
 ---
 
