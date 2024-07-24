@@ -1,6 +1,6 @@
 # Salt Lake City confirmed as host for the 2034 Winter Games by the International Olympic Committee
 
-Published :`2024-07-24 20:15:36`
+Published :`2024-07-24 20:36:40`
 
 ---
 

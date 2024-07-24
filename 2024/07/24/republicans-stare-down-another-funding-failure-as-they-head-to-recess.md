@@ -1,6 +1,6 @@
 # Republicans stare down another funding failure as they head to recess
 
-Published :`2024-07-24 20:15:35`
+Published :`2024-07-24 20:36:40`
 
 ---
 
