@@ -1,6 +1,6 @@
 # A GOP congressman called Kamala Harris a ‘DEI hire.’ Some caution it’s a sign of what’s to come
 
-Published :`2024-07-24 21:37:04`
+Published :`2024-07-24 22:14:30`
 
 ---
 

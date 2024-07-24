@@ -1,6 +1,6 @@
 # Famed national park evacuated in Canada as fires threaten the area
 
-Published :`2024-07-24 21:37:04`
+Published :`2024-07-24 22:14:30`
 
 ---
 

@@ -1,6 +1,6 @@
 # Takeaways from FBI testimony: Trump shooter searched details of JFK assassination and flew drone near rally site
 
-Published :`2024-07-24 21:37:01`
+Published :`2024-07-24 22:14:28`
 
 ---
 

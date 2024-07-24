@@ -1,6 +1,6 @@
 # Judge refuses to dismiss Trump’s defamation suit against ABC News and George Stephanopoulos over rape claim
 
-Published :`2024-07-24 21:37:00`
+Published :`2024-07-24 22:14:27`
 
 ---
 

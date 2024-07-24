@@ -1,16 +1,18 @@
 # Netanyahu decries critics of war in Gaza as ‘Iran’s useful idiots’ in speech to Congress
 
-Published :`2024-07-24 21:37:00`
+Published :`2024-07-24 22:14:27`
 
 ---
 
-Israeli Prime Minister Benjamin Netanyahu broadly criticized protests against Israel’s ongoing war against Hamas in Gaza, forcefully decrying anti-Israel protestors as “Iran’s useful idiots” in an address to Congress on Wednesday.
+Israeli Prime Minister Benjamin Netanyahu lashed out against protests of Israel’s ongoing war against Hamas in Gaza, broadly disparaging anti-Israel protesters as “Iran’s useful idiots” in an address to Congress on Wednesday.
 
 Netanyahu’s address to Congress comes at a crucial crossroads for the war. US officials have voiced optimism about the prospects of a deal that could free Hamas-held hostages and bring the conflict to an end. It also comes as many on the left have become increasingly dissatisfied with the way Netanyahu has waged the war, which has killed more than 39,000 Palestinians and left Gaza in the grips of a humanitarian catastrophe.
 
-The US has seen protests across the country on college campuses and elsewhere in opposition to the war against Hamas. On the day of Netanyahu’s speech, there were protests both outside and inside the US Capitol complex. Additionally, the Secret Service is investigating reports that protestors gained access to the hotel building where Netanyahu is staying in Washington, DC, releasing bugs in the hotel and pulling fire alarms, according to a source familiar with the matter.
+The Israeli prime minister’s nearly hour-long address to Congress struck a bellicose tone as he vowed to “fight until we achieve victory.” Netanyahu falsely downplayed and deflected on the role of Israel in causing the ongoing civilian strife in Gaza. Although he made some reference to efforts to bring the hostages home, significantly more of the speech focused on the ongoing war and took aim at his foes – Iran, the International Criminal Court and protesters.
 
-Netanyahu painted protestors with a broad brush, claiming that “many choose to stand with evil” and that “they stand with Hamas” and “rapists and murderers.”
+The US has seen protests across the country on college campuses and elsewhere in opposition to the war against Hamas. On the day of Netanyahu’s speech, there were protests both outside and inside the US Capitol complex. Additionally, the Secret Service is investigating reports that protesters gained access to the hotel building where Netanyahu is staying in Washington, DC, releasing bugs in the hotel and pulling fire alarms, according to a source familiar with the matter.
+
+Netanyahu painted protesters with a broad brush, claiming that “many choose to stand with evil” and that “they stand with Hamas” and “rapists and murderers.”
 
 While Netanyahu heavily criticized protests against the war, both President Joe Biden and Secretary of State Antony Blinken have affirmed the right to protest and indicated they believe pro-Palestinian protesters have legitimate grievances – while still criticizing rhetoric that has devolved into antisemitism.
 
@@ -26,19 +28,19 @@ In his address to Congress, Netanyahu referenced a recent statement from US Di
 
 In her statement, Haines said, however, that she wanted “to be clear that I know Americans who participate in protests are, in good faith, expressing their views on the conflict in Gaza,” adding that “this intelligence does not indicate otherwise.”
 
-“I have a message for these protestors: When the tyrants of Tehran, who hang gays from cranes and murder women for not covering their hair are praising, promoting and funding you, you have officially become Iran’s useful idiots,” Netanyahu said.
+“I have a message for these protesters: When the tyrants of Tehran, who hang gays from cranes and murder women for not covering their hair are praising, promoting and funding you, you have officially become Iran’s useful idiots,” Netanyahu said.
 
 Some members of Congress, mostly Democrats, did not attend Netanyahu’s speech, either as a protest of the war or due to previously scheduled events. The Israel-Hamas war has increasingly become a dividing line among Democrats, exposing rifts within the party.
 
 At one point, Democratic Rep. Rashida Tlaib, the lone Palestinian-American congresswoman, held up a sign during the speech that on one side said: “war criminal,” and the other side said: “guilty of genocide.”
 
-### A warning against antisemitism
+Netanyahu slammed those accusing Israel of genocide, suggesting that such accusations were antisemitic.
 
-Netanyahu also delivered a stark warning against the threat of antisemitism in his remarks.
+“The outrageous slanders that paint Israel as racist and genocidal are meant to delegitimize Israel, to demonize the Jewish state, and to demonize Jews everywhere,” he said.
 
-“Antisemitism is the world’s oldest hatred,” he said. “Just as malicious lies were leveled for centuries at the Jewish people, malicious lies are now being leveled at the Jewish state. The outrageous slanders that paint Israel as racist and genocidal are meant to delegitimize Israel, to demonize the Jewish state and to demonize Jews everywhere.”
+Netanyahu specifically slammed the International Criminal Court’s allegations that Israel is starving Palestinians in Gaza, calling it “utter, complete nonsense” and “a complete fabrication.”
 
-“Whenever and wherever we see the scourge of antisemitism, we must unequovically condemn it and resolutely fight it without exception,” Netanyahu said during the speech to loud cheers and applause from members of Congress.
+According to the UN, 96% of the population of Gaza currently faces “crisis or worse levels of food insecurity.” Humanitarian aid workers say the war and restrictions imposed by the Israeli government on aid access to Gaza have brought the strip to the brink.
 
 ### Netanyahu thanks Biden and emphasizes close US-Israel ties
 

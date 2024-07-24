@@ -1,6 +1,6 @@
 # A step-by-step look at how law enforcement’s visit to Sonya Massey’s home went so wrong
 
-Published :`2024-07-24 21:37:03`
+Published :`2024-07-24 22:14:29`
 
 ---
 
