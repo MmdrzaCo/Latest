@@ -1,6 +1,6 @@
 # CNN Poll: Harris improves on Biden’s performance against Trump in early look at new matchup
 
-Published :`2024-07-24 19:36:42`
+Published :`2024-07-24 20:15:35`
 
 ---
 
