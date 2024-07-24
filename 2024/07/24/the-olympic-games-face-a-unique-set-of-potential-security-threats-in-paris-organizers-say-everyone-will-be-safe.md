@@ -1,6 +1,6 @@
 # The Olympic Games face a unique set of potential security threats in Paris. Organizers say everyone will be safe
 
-Published :`2024-07-24 08:18:47`
+Published :`2024-07-24 08:38:36`
 
 ---
 

@@ -1,6 +1,6 @@
 # US reality show contestant kills and eats protected bird in New Zealand
 
-Published :`2024-07-24 08:18:44`
+Published :`2024-07-24 08:38:33`
 
 ---
 

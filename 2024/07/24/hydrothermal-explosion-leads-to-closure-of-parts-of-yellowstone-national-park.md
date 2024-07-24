@@ -1,6 +1,6 @@
 # Hydrothermal explosion leads to closure of parts of Yellowstone National Park
 
-Published :`2024-07-24 08:18:44`
+Published :`2024-07-24 08:38:33`
 
 ---
 
