@@ -1,24 +1,24 @@
 # Powerful Typhoon Gaemi churns toward Taiwan, expected to drench an already soaked China
 
-Published :`2024-07-24 06:41:07`
+Published :`2024-07-24 07:14:16`
 
 ---
 
-A powerful and rapidly intensifying typhoon is barreling toward Taiwan, disrupting ongoing military drills and prompting authorities to close financial markets, schools and offices.
+A powerful and rapidly intensifying typhoon is bearing down on Taiwan, disrupting ongoing military drills and prompting authorities to close financial markets, schools and offices.
 
-Typhoon Gaemi is expected to strengthen into a super typhoon before making landfall on Taiwan’s northeastern coast Wednesday evening.
+Conditions in Taiwan have worsened as Typhoon Gaemi brought heavy rainfall, gusty winds and a dangerous storm surge. The storm is expected to strengthen into a super typhoon before making landfall on Taiwan’s northeastern coast Wednesday afternoon.
 
 It is then forecast to move toward China’s Fujian province on Thursday, bringing more strong winds and downpours to a country already hit hard by weeks of extreme rain and deadly flooding.
 
-Gaemi is currently the equivalent of a Category 4 hurricane in the Atlantic, with maximum sustained winds of 220 kilometers per hour (140 miles per hour), according to the Joint Typhoon Warning Center (JTWC).
+Gaemi is currently the equivalent of a Category 4 hurricane in the Atlantic, with maximum sustained winds of 225 kilometers per hour (140 miles per hour), according to the Joint Typhoon Warning Center (JTWC).
 
-It will land near the epicenter of April’s earthquake in Hualien county. The 7.4 magnitude quake was the largest Taiwan had seen in 25 years, injuring more than 1,000 people and collapsing buildings.
+It will land along the coast of Yilan county, not far from the epicenter of April’s earthquake in Hualien. The 7.4 magnitude quake was the largest Taiwan had seen in 25 years, injuring more than 1,000 people and collapsing buildings.
 
-Taiwan is often struck by typhoons and has a generally strong track record in preparing for the damaging winds and downpours they can bring, especially in its cities. The more at-risk populations tend to be in remote and mountainous areas, especially on the east side of the island, where landslides can be pose a major danger.
+Taiwan is often struck by typhoons and has a generally strong track record in preparing for the damaging winds and downpours they can bring, especially in its cities. The more at-risk populations tend to be in remote and mountainous areas, especially on the east side of the island, where landslides can pose a major danger.
 
 Taiwan’s Central Meteorological Agency (CMA) has issued a sea and land typhoon warning for the entire main island as Gaemi’s powerful winds are expected to strengthen further to 240 kph (150 mph).
 
-Heavy rain hit Taiwan ahead of the storm’s landfall on Wednesday, with the island’s mountainous areas already reporting rainfall approaching 200 millimeters (8 inches). Rainfall well over 500 mm (20 inches) is possible for the central mountains of Taiwan, according to the CMA.
+Heavy rain hit Taiwan ahead of the storm’s landfall on Wednesday, with the island’s mountainous areas already reporting rainfall between 265mm (10.4 inches) to 417 mm (16.4 inches). Rainfall well over 500 mm (20 inches) is possible for the central mountains of Taiwan, according to the CMA.
 
 Typhoon Gaemi is strengthening in Pacific waters that have been at their warmest temperatures on record. Scientists have found that hotter oceans caused by the human-caused climate crisis are leading storms to intensify more rapidly.
 

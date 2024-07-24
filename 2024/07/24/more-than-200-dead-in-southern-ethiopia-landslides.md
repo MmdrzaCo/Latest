@@ -1,6 +1,6 @@
 # More than 200 dead in southern Ethiopia landslides
 
-Published :`2024-07-24 06:41:08`
+Published :`2024-07-24 07:14:18`
 
 ---
 
