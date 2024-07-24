@@ -1,6 +1,6 @@
 # Progressive House Democrats plan counter-programming to Netanyahu visit
 
-Published :`2024-07-24 18:20:25`
+Published :`2024-07-24 18:41:34`
 
 ---
 

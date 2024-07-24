@@ -1,6 +1,6 @@
 # Fox News proposes Trump-Harris debate on Sept. 17 after Biden pulls out of race
 
-Published :`2024-07-24 18:20:24`
+Published :`2024-07-24 18:41:33`
 
 ---
 
@@ -13,6 +13,8 @@ In letters to the Trump and Harris campaigns, Fox News President Jay Wallace and
 The letter also noted that “despite not having a Democratic debate” in 2016 or 2020, the network “was able to secure town halls with Democratic candidates” including with Hillary Clinton, Bernie Sanders, Pete Buttigieg, Julian Castro, Amy Klobuchar and Kirsten Gillibrand.
 
 The network also attached statistics and ratings which it said pointed to its “strength with key demographics such as independents in swing states.”
+
+The Trump and Harris campaigns did not immediately respond to CNN requests for comment.
 
 Trump and President Joe Biden’s campaign had previously agreed to two debates this year, one hosted by CNN in June and another to be hosted by ABC on September 10. It’s not clear if that debate will still take place now that Biden has dropped out of the race.
 

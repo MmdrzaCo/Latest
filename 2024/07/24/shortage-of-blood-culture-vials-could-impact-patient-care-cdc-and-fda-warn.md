@@ -1,6 +1,6 @@
 # Shortage of blood culture vials could impact patient care, CDC and FDA warn
 
-Published :`2024-07-24 18:20:25`
+Published :`2024-07-24 18:41:34`
 
 ---
 

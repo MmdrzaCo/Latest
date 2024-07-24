@@ -1,6 +1,6 @@
 # Dozens killed and thousands flee as Israel shrinks ‘humanitarian zone’ in Gaza
 
-Published :`2024-07-24 18:20:27`
+Published :`2024-07-24 18:41:39`
 
 ---
 
