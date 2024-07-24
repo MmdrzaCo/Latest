@@ -1,6 +1,6 @@
 # Pennsylvania state police commissioner reveals stunning details about Trump shooting
 
-Published :`2024-07-24 01:09:03`
+Published :`2024-07-24 02:21:36`
 
 ---
 
@@ -42,7 +42,7 @@ A municipal officer came face-to-face with Crooks during the several minutes the
 
 Paris said that the brief confrontation came as a pair of local officers who had learned of Crooks’ position on the roof attempted to climb up and confront the shooter. But while the officer was “dangling” from the roof, Crooks aimed his rifle at the officer and the officer fell.
 
-Paris told lawmakers that Crooks was on the roof for roughly three minutes, correcting a shorter timeframe he gave earlier, but only a few seconds passed between when the officer confronted him and when he fired at Trump
+Paris told lawmakers that Crooks was on the roof for roughly three minutes, but only a few seconds passed between when the officer confronted him and when he fired at Trump, correcting a timeframe he gave earlier in the hearing.
 
 “When the one local officer hoisted the other one up, and subsequently falls,” Paris said, Crooks was “already, I believe, close to being in his final position there. And I’m told it’s – again, sequence of events, not a timeline based on the prior criteria laid out – but seconds after that is when the first shots rang up.”
 

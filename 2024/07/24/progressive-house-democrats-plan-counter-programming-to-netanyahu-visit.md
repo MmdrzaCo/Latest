@@ -1,6 +1,6 @@
 # Progressive House Democrats plan counter-programming to Netanyahu visit
 
-Published :`2024-07-24 01:09:03`
+Published :`2024-07-24 02:21:37`
 
 ---
 
@@ -22,7 +22,7 @@ Vice President Kamala Harris, who is now the presumptive Democratic nominee, wil
 
 Ahead of Netanyahu’s address, House Speaker Mike Johnson sent a letter to lawmakers obtained by CNN informing lawmakers that there will be “an increased police presence around the Capitol complex and in the House Chamber” and emphasized that there will be a “zero-tolerance policy for disturbances in the building.”
 
-In a scathing statement announcing she would not attend the speech, Democratic Rep. Rashida Tlaib of Michigan, the only Palestinian member of Congress, called Netanyahu “a war criminal committing genocide against the Palestinian people.”
+In a scathing statement announcing she would not attend the speech, Democratic Rep. Rashida Tlaib of Michigan, the only Palestinian America member of Congress, called Netanyahu “a war criminal committing genocide against the Palestinian people.”
 
 “It is utterly disgraceful that leaders from both parties have invited him to address Congress. He should be arrested and sent to the International Criminal Court,” Tlaib added.
 

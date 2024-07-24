@@ -1,10 +1,10 @@
 # A step-by-step look at how law enforcement’s visit to Sonya Massey’s home went so wrong
 
-Published :`2024-07-24 01:09:03`
+Published :`2024-07-24 02:21:37`
 
 ---
 
-The law enforcement visit to Sonya Massey’s home in Springfield, Illinois, earlier this month began with a calm conversation between the 36-year-old Black woman and two White sheriff’s deputies at her front door and in her living room.
+The law enforcement visit to Sonya Massey’s home near Springfield, Illinois, earlier this month began with a calm conversation between the 36-year-old Black woman and two White sheriff’s deputies at her front door and in her living room.
 
 They asked how she was doing mentally and if she needed help. She said, “I love ya’ll,” and rifled through her belongings to find her ID.
 

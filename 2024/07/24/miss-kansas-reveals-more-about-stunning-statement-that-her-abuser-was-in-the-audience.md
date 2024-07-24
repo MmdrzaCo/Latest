@@ -1,6 +1,6 @@
 # Miss Kansas reveals more about stunning statement that her abuser was in the audience
 
-Published :`2024-07-24 01:09:04`
+Published :`2024-07-24 02:21:37`
 
 ---
 

@@ -1,6 +1,6 @@
 # The world’s most powerful passports for 2024 so far
 
-Published :`2024-07-24 01:09:06`
+Published :`2024-07-24 02:21:39`
 
 ---
 
