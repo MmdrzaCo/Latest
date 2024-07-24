@@ -1,6 +1,6 @@
 # Trump asks New York appeals court to throw out $454 million civil judgment
 
-Published :`2024-07-24 03:17:19`
+Published :`2024-07-24 03:37:18`
 
 ---
 
