@@ -1,6 +1,6 @@
 # A Florida school district banned ‘Ban This Book.’ Author says that’s ‘erasure of the highest order’ and wants it reinstated
 
-Published :`2024-07-24 10:17:50`
+Published :`2024-07-24 10:37:59`
 
 ---
 

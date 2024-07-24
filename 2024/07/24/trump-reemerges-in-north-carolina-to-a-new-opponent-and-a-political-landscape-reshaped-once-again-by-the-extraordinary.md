@@ -1,6 +1,6 @@
 # Trump reemerges in North Carolina to a new opponent and a political landscape reshaped once again by the extraordinary
 
-Published :`2024-07-24 10:17:49`
+Published :`2024-07-24 10:37:57`
 
 ---
 

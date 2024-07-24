@@ -1,6 +1,6 @@
 # The worst may be over for homebuyers
 
-Published :`2024-07-24 10:17:50`
+Published :`2024-07-24 10:37:59`
 
 ---
 

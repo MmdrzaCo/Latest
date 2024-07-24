@@ -1,6 +1,6 @@
 # A step-by-step look at how law enforcement’s visit to Sonya Massey’s home went so wrong
 
-Published :`2024-07-24 10:17:49`
+Published :`2024-07-24 10:37:57`
 
 ---
 
@@ -15,6 +15,8 @@ How did this visit escalate so quickly?
 With help from law enforcement analysts and 36 minutes of body-camera footage released Monday, CNN took a closer look at what the deputies did and what they could have done differently. The analysts, as well as Illinois prosecutors and the sheriff, found Grayson took several steps to escalate the situation rather than lower the temperature and reassess Massey’s needs.
 
 “The Body Worn Camera footage has now been released, and the public can see what we saw: Sonya Massey lost her life due to an unjustifiable and reckless decision by former Deputy Sean Grayson,” Sangamon County Sheriff Jack Campbell said in a statement Monday. “Grayson had other options available that he should have used. His actions were inexcusable and do not reflect the values or training of our office.”
+
+Grayson, 30, was indicted by a grand jury last week on three counts of first-degree murder and one count each of aggravated battery with a firearm and official misconduct. He has entered a not guilty plea and was denied pretrial release, according to court records.
 
 While some policing experts may be hesitant to critically analyze the actions of police officers after the fact, the Police Executive Research Forum, an independent organization focusing on best practices in law enforcement, advises department leaders to gather their officers and review controversial use-of-force incidents.
 

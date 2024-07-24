@@ -1,16 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-24 10:17:51`
+#### Latest Update : `2024-07-24 10:38:00`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Russia is offering Moscow residents a record $22,000 to fight in Ukraine](https://new-news.github.io/Latest/2024/07/24/russia-is-offering-moscow-residents-a-record-22-000-to-fight-in-ukraine 'Russia is offering Moscow residents a record $22,000 to fight in Ukraine')
-
 - [A step-by-step look at how law enforcement’s visit to Sonya Massey’s home went so wrong](https://new-news.github.io/Latest/2024/07/24/a-step-by-step-look-at-how-law-enforcements-visit-to-sonya-masseys-home-went-so-wrong 'A step-by-step look at how law enforcement’s visit to Sonya Massey’s home went so wrong')
 
 - [‘It was humiliating.’ Evictions in these cities are worse than before Covid](https://new-news.github.io/Latest/2024/07/24/it-was-humiliating-evictions-in-these-cities-are-worse-than-before-covid '‘It was humiliating.’ Evictions in these cities are worse than before Covid')
+
+- [Russia is offering Moscow residents a record $22,000 to fight in Ukraine](https://new-news.github.io/Latest/2024/07/24/russia-is-offering-moscow-residents-a-record-22-000-to-fight-in-ukraine 'Russia is offering Moscow residents a record $22,000 to fight in Ukraine')
 
 - [Biden to deliver Oval Office address on decision not to seek reelection as Harris and Trump hit the trail](https://new-news.github.io/Latest/2024/07/24/biden-to-deliver-oval-office-address-on-decision-not-to-seek-reelection-as-harris-and-trump-hit-the-trail 'Biden to deliver Oval Office address on decision not to seek reelection as Harris and Trump hit the trail')
 
