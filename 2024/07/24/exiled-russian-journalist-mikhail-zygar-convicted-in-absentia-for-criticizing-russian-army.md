@@ -1,6 +1,6 @@
 # Exiled Russian journalist Mikhail Zygar convicted in absentia for criticizing Russian army
 
-Published :`2024-07-24 07:36:40`
+Published :`2024-07-24 08:18:45`
 
 ---
 

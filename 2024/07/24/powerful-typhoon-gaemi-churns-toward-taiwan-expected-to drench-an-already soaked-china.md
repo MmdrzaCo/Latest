@@ -1,6 +1,6 @@
 # Powerful Typhoon Gaemi churns toward Taiwan, expected to drench an already soaked China
 
-Published :`2024-07-24 07:36:38`
+Published :`2024-07-24 08:18:44`
 
 ---
 
@@ -10,7 +10,7 @@ Conditions in Taiwan have worsened as Typhoon Gaemi brought heavy rainfall, gust
 
 It is then forecast to move toward China’s Fujian province on Thursday, bringing more strong winds and downpours to a country already hit hard by weeks of extreme rain and deadly flooding.
 
-Gaemi is currently the equivalent of a Category 4 hurricane in the Atlantic, with maximum sustained winds of 225 kilometers per hour (140 miles per hour), according to the Joint Typhoon Warning Center (JTWC).
+Gaemi is currently the equivalent of a Category 4 hurricane in the Atlantic, with maximum sustained winds of 230 kph (145 mph), according to the Joint Typhoon Warning Center (JTWC).
 
 It will land along the coast of Yilan county, not far from the epicenter of April’s earthquake in Hualien. The 7.4 magnitude quake was the largest Taiwan had seen in 25 years, injuring more than 1,000 people and collapsing buildings.
 
@@ -18,7 +18,7 @@ Taiwan is often struck by typhoons and has a generally strong track record in pr
 
 Taiwan’s Central Meteorological Agency (CMA) has issued a sea and land typhoon warning for the entire main island as Gaemi’s powerful winds are expected to strengthen further to 240 kph (150 mph).
 
-Heavy rain hit Taiwan ahead of the storm’s landfall on Wednesday, with the island’s mountainous areas already reporting rainfall between 265mm (10.4 inches) to 417 mm (16.4 inches). Rainfall well over 500 mm (20 inches) is possible for the central mountains of Taiwan, according to the CMA.
+Heavy rain hit Taiwan ahead of the storm’s landfall on Wednesday, with the island’s mountainous areas already reporting rainfall between 275 to 518 mm (10.8 to 20.3 inches).
 
 Typhoon Gaemi is strengthening in Pacific waters that have been at their warmest temperatures on record. Scientists have found that hotter oceans caused by the human-caused climate crisis are leading storms to intensify more rapidly.
 
@@ -44,7 +44,7 @@ Because the storm is strengthening prior to hitting Taiwan, Gaemi will also be 
 
 Though weakened, Gaemi is expected to make landfall in China as the equivalent to a strong Category 1 or low-end Category 2 hurricane with sustained winds of 145 to 160 kph (90 to 100 mph.)
 
-The worst of the winds are expected to occur in coastal areas of Fujian province, but heavy rain will spread across Fujian, southern Zhejiang and Jiangxi provinces for the rest of the week.
+The worst of the winds are expected to occur in coastal areas of Fujian province, where boats have moored to take shelter and trains will be suspended Thursday, but heavy rain will spread across Fujian, southern Zhejiang and Jiangxi provinces for the rest of the week.
 
 By the weekend, the remnants of Gaemi will likely spread heavy rainfall farther north into areas of China like Henan, Shanxi and Hebei provinces which have been hit hard by flooding in recent days.
 

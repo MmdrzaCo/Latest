@@ -1,24 +1,36 @@
 # Plane crashes during takeoff in Nepal, killing at least 18
 
-Published :`2024-07-24 07:36:38`
+Published :`2024-07-24 08:18:43`
 
 ---
 
-At least 18 people died after a small plane skidded off the runway in the Nepalese capital of Kathmandu on Wednesday, according to local officials.
+At least 18 people were killed after a small plane skidded off the runway in Nepal’s capital on Wednesday, according to local officials.
 
-One person survived the Saurya Airlines crash, the Civil Aviation Authority said in a statement. All 19 people aboard the plane were employees of the carrier, according to police.
+One person survived the Saurya Airlines crash, the Civil Aviation Authority said in a statement. All aboard - 18 Nepalis and a Yemeni citizen - were employees of the carrier, according to police.
 
 Images from Nepal police showed thick smoke billowing from the burning aircraft on the the airport runway.
 
-The aircraft crashed on a runway as it was taking off from Kathmandu to Pokhara around 11 a.m. local time on Wednesday, Gyanendra Bhul, an information officer at Tribhuvan International Airport told CNN.
+The aircraft crashed during takeoff from Kathmandu to the city of Pokhara around 11 a.m. local time, Gyanendra Bhul, an information officer at Tribhuvan International Airport told CNN.
 
-Bhul added that the aircraft was en route for technical maintenance purposes.
+The plane was en route for technical maintenance, he added.
 
-The latest crash once again highlights the dangers of air travel in Nepal, a country often referred to as one of the riskiest places to fly due to its mountainous terrain.
+“Rescue efforts were started immediately and the situation was brought under control,” the aviation authority said.
 
-The Himalayan country, home to eight of the world’s 14 highest mountains, including Everest, has a record of air accidents. Its weather can change suddenly, and airstrips are typically sited in difficult-to-reach, mountainous areas.
+The crash once again highlights the dangers of air travel in Nepal, a country often referred to as one of the riskiest places to fly due to multiple factors including its mountainous terrain.
 
-Last year, Nepal saw its worst plane crash in more than 30 years when at least 68 people died when a Yeti Airlines flight went down near the city of Pokhara.
+The Himalayan country, home to eight of the world’s 14 highest mountains including Everest, has a record of air accidents. Its weather can change suddenly, and airstrips are typically sited in difficult-to-reach, mountainous areas.
+
+Aircraft with 19 seats or fewer are more likely to have accidents due to these difficulties, according to a 2019 safety report from the Civil Aviation Authority.
+
+While the country has made improvements in safety standards in recent years, challenges remain, and a lack of investment in aging aircraft only adds to the risks of flying.
+
+Last year, Nepal saw its worst plane crash in more than 30 years when at least 68 people died when a Yeti Airlines flight went down near Pokhara.
+
+In May 2022, a Tara Air flight departing from Pokhara crashed into a mountain, killing 22 people.
+
+In early 2018, a US-Bangla Airlines flight from Bangladesh’s capital Dhaka to Kathmandu crashed on landing and caught fire, killing 51 people.
+
+And in 2016, a Tara Air flight crashed while flying the same route as the 2023 crash.
 
 This is a developing story and will be updated.
 

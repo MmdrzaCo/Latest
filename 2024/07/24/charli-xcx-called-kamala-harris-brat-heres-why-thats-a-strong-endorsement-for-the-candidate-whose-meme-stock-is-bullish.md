@@ -1,6 +1,6 @@
 # Charli XCX called Kamala Harris ‘brat.’ Here’s why that’s a strong endorsement for the candidate whose meme stock is bullish
 
-Published :`2024-07-24 07:36:39`
+Published :`2024-07-24 08:18:45`
 
 ---
 
