@@ -1,6 +1,6 @@
 # Russia is offering Moscow residents a record $22,000 to fight in Ukraine
 
-Published :`2024-07-24 23:15:49`
+Published :`2024-07-24 23:36:48`
 
 ---
 

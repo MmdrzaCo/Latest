@@ -1,6 +1,6 @@
 # Chipotle’s CEO weighs in on the burrito bowl portion size debate
 
-Published :`2024-07-24 23:15:49`
+Published :`2024-07-24 23:36:42`
 
 ---
 
@@ -16,17 +16,15 @@ In June, a Wells Fargo analyst ordered and weighed 75 Chipotle burrito bowls wit
 
 The bowls weighed roughly the same for in-store orders and online orders, but some locations served bowls that weighed 33% more than other locations. Some burrito bowls went to extremes, with one topping out at 27 ounces in one location, and a meager 14 ounces in another. The median weight was around 21.5 ounces.
 
-Some Chiptole customers began filming employees as they built their orders to ensure satisfactory portions — but some employees pushed back, claiming the TikTok trend was “stressful and dehumanizing.”
+Some Chipotle customers began filming employees as they built their orders to ensure satisfactory portions — but some employees pushed back, claiming the TikTok trend was “stressful and dehumanizing.”
 
-Niccols said the company is reemphasizing its mission of a lot of food for a fair price.
+Niccol said the company is reemphasizing its mission of a lot of food for a fair price.
 
 “We are reemphasizing training and coaching around ensuring we are consistently making bowls and burritos correctly,” Niccol said.
 
-The shrinkflation claims have not hurt Chipotle’s business, the company said Wednesday, though its fast casual peers from McDonald’s to MOD Pizza have struggled as more consumers choose to dine at home. The company beat analyst expectations, and its net sales rose about 18% in the second quarter of 2024.
+The shrinkflation claims have not hurt Chipotle’s business, the company said Wednesday, though its fast-casual peers from McDonald’s to MOD Pizza have struggled as more consumers choose to dine at home. The company beat analysts’ expectations, and its net sales rose about 18% in the second quarter.
 
-The company said more customers were drawn to the reintroduced chicken al pastor on the menu. It also said last year’s price increases helped offset pricier avocados and increased oil used to fry tortilla chips.
-
-CNN’s Nathaniel Meyersohn contributed to this report.
+Chipotle said more customers were drawn to the reintroduced chicken al pastor on the menu. It also said last year’s price increases helped offset pricier avocados and increased oil used to fry tortilla chips.
 
 ---
 

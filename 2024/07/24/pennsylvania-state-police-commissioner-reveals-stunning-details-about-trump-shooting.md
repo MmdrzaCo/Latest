@@ -1,6 +1,6 @@
 # Pennsylvania state police commissioner reveals stunning details about Trump shooting
 
-Published :`2024-07-24 23:15:49`
+Published :`2024-07-24 23:36:42`
 
 ---
 
@@ -25,6 +25,10 @@ Wednesday, Butler County DA Richard Goldinger disputed the testimony, saying tha
 “At this point, that officer ran out of the building attempting to keep eyes on Crooks until other law enforcement arrived. The other officer remained in the building, on the second floor,” Goldinger said. “The officer who ran out of the building could not locate Crooks, and he returned to the building. Both officers then heard shots fired.”
 
 Goldinger added that “neither officer could see Crooks on the other building due to the visual angle they had from their location to Crooks’ location.”
+
+When asked about the DA’s statement, a spokesperson for the Pennsylvania State Police said the agency stands by Paris’ testimony.
+
+“Our agency stands by yesterday’s testimony,” said Lieutenant Adam Reed, the state police’s director of communications. “The investigation into the shooting and its aftermath continues.”
 
 ### Crooks fired eight times
 
@@ -60,7 +64,7 @@ State Police then received a call and a text from the ESU about Crooks’ activi
 
 State Police “verbally turned right around and gave it to the Secret Service,” Paris said.
 
-This story has been updated Wednesday with the response from Butler County DA Richard Goldinger.
+This story has been updated Wednesday with responses from Butler County DA Richard Goldinger and the Pennsylvania State Police.
 
 ---
 

@@ -1,6 +1,6 @@
 # Delta’s CEO is off to Paris while his airline struggles to recover from massive meltdown
 
-Published :`2024-07-24 23:15:49`
+Published :`2024-07-24 23:36:43`
 
 ---
 
@@ -18,7 +18,11 @@ However, the union attempting to organize Delta flight attendants slammed the CE
 
 “While Ed was flying to Paris last night, crew were sleeping in airports across the country. Flight Attendants expect an apology and accountability,” the Delta Association of Flight Attendants-CWA (AFA) organizing committee said in a statement. “We provided a roadmap to recovery and care for the affected crew members.”
 
-AFA is a union is seeking to win the right to represent flight attendants working on Delta’s mainline flights and already represents flight attendants on Delta subsidiary Endeavor Air, which operates flights under the Delta Connection brand. CNN has reached out to Delta to confirm the type of seat Bastian sat in during his travels.
+AFA is a union is seeking to win the right to represent flight attendants working on Delta’s mainline flights and already represents flight attendants on Delta subsidiary Endeavor Air, which operates flights under the Delta Connection brand. CNN reached out to Delta to confirm the type of seat Bastian sat in during his travels, and an airline spokesperson responded that the airline had nothing to add.
+
+The one union with significant membership at Delta is the Air Line Pilots Association, which has about 17,000 members at the airline. Asked about Bastian’s trip to Paris, Captain Darren Hartmann, the chairman of the union’s unit at Delta, said the union wasn’t particularly concern because it has been able to talk regularly with the front-line operations executives at Delta since the service problems began.
+
+“Frankly it’s more important that we’re meeting with them every day,” Hartmann said. As far as Bastian not remaining stateside until the end of the service issues, Hartmann said “Ed has to do Ed.”
 
 Delta has been asking employees to pull extra duty to try to address the company’s problems, with its IT staff working around the clock to try to fix a tech meltdown caused by a corrupted software update from cybersecurity firm CrowdStrike late last week.
 

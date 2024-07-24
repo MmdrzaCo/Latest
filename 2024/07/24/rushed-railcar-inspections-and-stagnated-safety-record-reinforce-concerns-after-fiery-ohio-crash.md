@@ -1,6 +1,6 @@
 # Rushed railcar inspections and ‘stagnated’ safety record reinforce concerns after fiery Ohio crash
 
-Published :`2024-07-24 23:15:50`
+Published :`2024-07-24 23:36:50`
 
 ---
 

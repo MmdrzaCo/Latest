@@ -1,6 +1,6 @@
 # Trump campaign files FEC complaint trying to block Biden funds transferring to Harris
 
-Published :`2024-07-24 23:15:50`
+Published :`2024-07-24 23:36:50`
 
 ---
 

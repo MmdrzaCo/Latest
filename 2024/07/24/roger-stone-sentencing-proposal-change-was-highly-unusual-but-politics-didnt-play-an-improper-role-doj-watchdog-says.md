@@ -1,10 +1,10 @@
 # Roger Stone sentencing proposal change was ‘highly unusual’ but politics didn’t play an improper role, DOJ watchdog says
 
-Published :`2024-07-24 23:15:49`
+Published :`2024-07-24 23:36:43`
 
 ---
 
-The Justice Department’s decision to water down the sentence proposal for Roger Stone, a Donald Trump ally convicted of lying to Congress, was was “highly unusual,” the department’s internal watchdog said Wednesday, but that it did not find evidence that politics played an improper role.
+The Justice Department’s decision to water down the sentence proposal for Roger Stone, a Donald Trump ally convicted of lying to Congress, was “highly unusual,” the department’s internal watchdog said Wednesday, but that it did not find evidence that politics played an improper role.
 
 The investigation was launched after the Justice Department issued a second sentencing memo for Stone called for a prison sentence “far less” than the 7-9 year recommendation his trial team initially put forward.
 
