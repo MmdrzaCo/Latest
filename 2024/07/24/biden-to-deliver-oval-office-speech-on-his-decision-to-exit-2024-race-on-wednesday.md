@@ -1,6 +1,6 @@
 # Biden to deliver Oval Office speech on his decision to exit 2024 race on Wednesday
 
-Published :`2024-07-24 17:13:32`
+Published :`2024-07-24 17:35:59`
 
 ---
 

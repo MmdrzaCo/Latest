@@ -1,6 +1,6 @@
 # Nasdaq tracks for worst day since 2022 after Alphabet and Tesla fail to impress Wall Street
 
-Published :`2024-07-24 17:13:25`
+Published :`2024-07-24 17:35:52`
 
 ---
 

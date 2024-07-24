@@ -1,6 +1,6 @@
 # Here’s where Kamala Harris stands on climate and energy
 
-Published :`2024-07-24 17:13:30`
+Published :`2024-07-24 17:35:57`
 
 ---
 

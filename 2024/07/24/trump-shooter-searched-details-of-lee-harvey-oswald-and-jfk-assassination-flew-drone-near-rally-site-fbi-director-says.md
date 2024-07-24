@@ -1,6 +1,6 @@
 # Trump shooter searched details of Lee Harvey Oswald and JFK assassination; flew drone near rally site, FBI director says
 
-Published :`2024-07-24 17:13:25`
+Published :`2024-07-24 17:35:52`
 
 ---
 
