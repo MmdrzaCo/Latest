@@ -1,6 +1,6 @@
 # Johnson and Jeffries officially announce bipartisan task force on Trump assassination attempt
 
-Published :`2024-07-24 09:35:46`
+Published :`2024-07-24 10:17:50`
 
 ---
 

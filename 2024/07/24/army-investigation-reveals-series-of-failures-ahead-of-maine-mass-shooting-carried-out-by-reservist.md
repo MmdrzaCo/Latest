@@ -1,6 +1,6 @@
 # Army investigation reveals series of failures ahead of Maine mass shooting carried out by reservist
 
-Published :`2024-07-24 09:35:45`
+Published :`2024-07-24 10:17:50`
 
 ---
 

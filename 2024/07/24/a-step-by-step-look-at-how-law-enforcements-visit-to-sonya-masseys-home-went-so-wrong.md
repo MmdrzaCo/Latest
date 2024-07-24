@@ -1,6 +1,6 @@
 # A step-by-step look at how law enforcement’s visit to Sonya Massey’s home went so wrong
 
-Published :`2024-07-24 09:35:43`
+Published :`2024-07-24 10:17:49`
 
 ---
 
@@ -8,7 +8,7 @@ The law enforcement visit to Sonya Massey’s home near Springfield, Illinois, e
 
 They asked how she was doing mentally and if she needed help. She said, “I love ya’ll,” and rifled through her belongings to find her ID.
 
-And then in the space of about 45 seconds, the deputies took a series of actions that left Massey lying on a pool of blood on her kitchen floor and led to murder charges against one of the deputies, Sean Grayson.
+And then in the space of about 45 seconds, the deputies took a series of actions that left Massey lying in a pool of blood on her kitchen floor and led to murder charges against one of the deputies, Sean Grayson.
 
 How did this visit escalate so quickly?
 
