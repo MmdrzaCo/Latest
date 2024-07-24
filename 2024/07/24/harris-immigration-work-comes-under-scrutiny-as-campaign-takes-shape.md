@@ -1,6 +1,6 @@
 # Harris’ immigration work comes under scrutiny as campaign takes shape
 
-Published :`2024-07-24 12:28:49`
+Published :`2024-07-24 12:55:08`
 
 ---
 
@@ -21,6 +21,10 @@ As the vice president’s campaign takes shape and as immigration remains a top 
 In the first rally of her 2024 presidential campaign Tuesday, Harris didn’t mention border security. The issue has generally not been featured prominently at campaign rallies over the last year, but both Harris and Biden have recently cited the bipartisan immigration deal that was scuttled by Trump to make the case that Republicans aren’t serious about border security.
 
 The House GOP campaign arm is also encouraging lawmakers to focus on what it describes as Harris’ failed border policies, according to a memo obtained by CNN.
+
+In a statement, Kevin Munoz, a spokesperson for Harris’ presidential campaign, cast Trump’s immigration policies as “xenophobic” and blamed Trump for dysfunction at the border.
+
+“The only ‘plan’ Donald Trump has to secure our border is ripping mothers from their children and a few xenophobic placards at the Republican National Convention,” Munoz said. “He tanked the toughest bipartisan border security deal in a generation because for Donald Trump, this has never been about actually securing the border – it’s always about himself. He can make up whatever lies he wants but the fact is there’s only one candidate in this race who will fight for real solutions to help secure our nation’s border, and that’s Vice President Harris.”
 
 Harris’ root cause work dates to March 2021. During an influx of unaccompanied migrant children, Biden tasked the vice president with overseeing diplomatic efforts in Central America, seeing the assignment as a sign of respect, having done the same job himself under former President Barack Obama.
 
@@ -81,6 +85,8 @@ Honduran Minister of Investment Miguel Medina argued that having the White House
 While it’s difficult to measure the direct impact on migration, US Customs and Border Protection has seen a considerable drop in migrants arriving at the southern border from Guatemala, Honduras and El Salvador, according to federal data.
 
 “For the long term, she certainly can claim credit for having started off efforts to improve people’s lives in Central America,” said Andrew Selee, president of the Migration Policy Institute, a nonpartisan think tank.
+
+This story has been updated with additional reaction.
 
 ---
 
