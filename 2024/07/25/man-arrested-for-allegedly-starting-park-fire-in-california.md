@@ -1,6 +1,6 @@
 # Man arrested for allegedly starting Park Fire in California
 
-Published :`2024-07-25 19:12:32`
+Published :`2024-07-25 19:36:12`
 
 ---
 

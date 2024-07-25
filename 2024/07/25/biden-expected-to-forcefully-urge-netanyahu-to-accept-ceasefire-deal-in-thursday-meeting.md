@@ -1,6 +1,6 @@
 # Biden expected to forcefully urge Netanyahu to accept ceasefire deal in Thursday meeting
 
-Published :`2024-07-25 19:12:32`
+Published :`2024-07-25 19:36:12`
 
 ---
 
@@ -16,13 +16,13 @@ Biden reminisced about meeting with previous Israeli leaders before making a jok
 
 The meeting, which is Biden’s first with a world leader since announcing he would drop out of the 2024 race, comes at a fragile point in their decadeslong relationship. A resolution to end the Israel-Hamas war that began in October now looms large over Biden’s legacy as a one-term president. Progress in the negotiations for a ceasefire have come in fits and starts in recent months, and Biden and his senior national security officials have been closely involved in trying to land the deal.
 
-Biden will also have a second separate setting Thursday afternoon where he could apply firm pressure on Netanyahu to finalize the ceasefire agreement – a joint meeting with the prime minister and the families of American hostages in Gaza.
+Biden is also participating in a meeting with Netanyahu that includes families of American hostages in Gaza - a separate setting where he could apply firm pressure on Netanyahu to finalize the ceasefire agreement.
 
 “In this setting he will really be held accountable to his commitment of pursuing a ceasefire and hostage deal,” said one US official.
 
 Families of the American hostages have expressed frustration in recent months about the relative lack of outreach from Netanyahu and his office – particularly in comparison to the regular cadence of communication that has come from senior Biden administration officials since the war began.
 
-One family member who will attend the Thursday afternoon meeting with Biden and Netanyahu told CNN that they hope the president will use the setting to exert serious pressure on his Israeli counterpart – particularly now that Biden is free from the political burdens of a reelection campaign.
+One family member who is attending the Thursday afternoon meeting with Biden and Netanyahu told CNN that they hope the president will use the setting to exert serious pressure on his Israeli counterpart – particularly now that Biden is free from the political burdens of a reelection campaign.
 
 When the Biden administration proposed a joint meeting with the families, some US officials did not expect Netanyahu to accept the proposal, two US officials said.
 
@@ -57,8 +57,6 @@ Last week, Biden spoke extensively about the war in the Middle East for the firs
 Biden and Netanyahu last spoke during a 30-minute call on July 4, during which both leaders “focused” on details about a possible hostage exchange and ceasefire deal.
 
 A deal was never finalized or assured during that call.
-
-CNN’s Kylie Atwood contributed.
 
 This story and headline have been updated with additional developments.
 

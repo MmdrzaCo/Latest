@@ -1,6 +1,6 @@
 # Officer suspended after videos of police beating men at UK airport spark outcry
 
-Published :`2024-07-25 19:12:33`
+Published :`2024-07-25 19:36:12`
 
 ---
 
@@ -74,9 +74,17 @@ Four men have been arrested for assaulting an emergency worker, the statement ad
 
 “The use of such force in an arrest is an unusual occurrence and one that we understand creates alarm.”
 
-Multiple British politicians condemned the assaults shown in the videos. Andy Burnham, the mayor of Greater Manchester, called the videos “disturbing” in a post on X.
+Greater Manchester Mayor Andy Burnham said he believes “an issue” on an incoming flight to Manchester Airport led to the scenes shown in the footage.
+
+When the flight landed, two individuals were waiting for their mother, Burnham said. When she arrived, “she pointed somebody out and then there was an altercation in the arrivals hall,” he said.
+
+“And then that individual who was involved in that – or a couple – were followed by cameras through the airport, and then we get to the scene that people have seen, which is in the car park area of Manchester Airport,” he said.
+
+Multiple British politicians condemned the assaults shown in the videos.
 
 Prime Minister Keir Starmer said “understands the concern” over the videos.
+
+British Home Secretary Yvette Cooper said it is “essential” that police “have the trust of communities and the public rightly expect high standards from those in charge of keeping us safe.”
 
 Paul Waugh, the local MP for Rochdale, said in a post on X he is “extremely concerned” by the “appalling” footage from Manchester Airport, noting he has expressed his concerns to police.
 
