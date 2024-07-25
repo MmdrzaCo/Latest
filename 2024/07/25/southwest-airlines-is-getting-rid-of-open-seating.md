@@ -1,6 +1,6 @@
 # Southwest Airlines is getting rid of open seating
 
-Published :`2024-07-25 14:13:38`
+Published :`2024-07-25 14:36:30`
 
 ---
 
@@ -28,7 +28,7 @@ The company made no mention in its statement about whether it will change its ba
 
 Southwest used to be the most profitable US airline. But that is no longer the case.
 
-Thursday, it reported a 51% drop in profit to $370 million, despite reporting record revenue for the quarter that was boosted by strong passenger traffic.
+Thursday, it reported a 51% drop in adjusted profit to $370 million, despite reporting record revenue for the quarter that was boosted by strong passenger traffic.
 
 But this has been a tough environment for US airlines to make money. Significant increases in labor costs and higher fuel prices, two of the largest expenses in the industry, have eaten into profits. And relatively low average fares have exacerbated the damage.
 

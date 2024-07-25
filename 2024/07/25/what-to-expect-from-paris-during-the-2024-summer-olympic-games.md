@@ -1,6 +1,6 @@
 # What to expect from Paris during the 2024 Summer Olympic Games
 
-Published :`2024-07-25 14:13:39`
+Published :`2024-07-25 14:36:32`
 
 ---
 

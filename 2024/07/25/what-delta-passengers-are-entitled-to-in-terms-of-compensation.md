@@ -1,12 +1,14 @@
 # What Delta passengers are entitled to in terms of compensation
 
-Published :`2024-07-25 03:36:58`
+Published :`2024-07-25 14:36:30`
 
 ---
 
-Delta Air Lines faced its fifth day of operational disruptions on Tuesday stemming from a global tech outage.
+Delta Air Lines reported “a significant return to operational reliability” on Wednesday after five days of widespread disruptions stemming from a global tech outage.
 
-While most airlines affected by a CrowdStrike software update that crashed Windows systems had largely resumed normal operations by the end of the weekend, Delta was still struggling with the crew tracking system needed to staff its flights.
+And Thursday was expected to be a “normal day,” according to an update from Delta CEO Ed Bastian.
+
+While most airlines affected by a CrowdStrike software update that crashed Windows systems had largely resumed normal operations by the end of the weekend, Delta was still struggling with the crew tracking system needed to staff its flights well into the following week.
 
 Thousands of bags were separated from passengers who couldn’t make the same journeys upon which their luggage embarked. And some weary, frustrated passengers were still trying to reconstruct travel plans or abandon them for compensation. Passengers over the weekend reported wait times of six hours or more on customer service phone lines before they gave up without reaching agents.
 
@@ -20,7 +22,9 @@ Here’s what we know about what they’re entitled to and how passengers can ma
 
 ### A refund
 
-The Department of Transportation has been adamant that airlines offer money-back refunds to passengers affected by cancellations or “significant” delays, rather than e-credits for future travel. Travelers may choose e-credits, but portions of their trips not flown are refundable. Delta lists a “right to a refund upon request” in a Monday afternoon update on what it’s doing to serve affected customers. Delta refunds can be requested here.
+The Department of Transportation has been adamant that airlines offer money-back refunds to passengers affected by cancellations or “significant” delays, rather than e-credits for future travel. Travelers may choose e-credits, but portions of their trips not flown are refundable. Delta listed a “right to a refund upon request” in a Monday afternoon update on what it’s doing to serve affected customers. Delta refunds can be requested here.
+
+Delta said in a Wednesday update that it will also allow any passengers with travel booked from July 19-28 who no longer wish to travel to cancel and request a refund “regardless of whether their flight has been canceled or significantly delayed.”
 
 Transportation Secretary Pete Buttigieg hammered the refund requirement on X over the weekend.
 
@@ -40,9 +44,9 @@ Buttigieg addressed mounting complaints from passengers on Sunday: “Delta must
 
 ### Reimbursement of eligible expenses
 
-Travelers who made their own arrangements during the disruption can be reimbursed.
+Travelers who made their own arrangements during the disruption can be reimbursed for expenses such as hotels, meals and ground transportation. (Among the expenses that are not eligible for reimbursement: hotel reservations at the traveler’s destination, vacation experiences, lost wages, tickets to concerts or other events).
 
-“Customers who have incurred hotel, meal or ground transportation expenses while in transit during this operational disruption may submit eligible expenses for reimbursement,” Delta said in an outline of what travelers can expect. (Among the expenses that are not eligible for reimbursement: hotel reservations at the traveler’s destination, vacation experiences, lost wages, tickets to concerts or other events).
+In an update on Wednesday, Delta said: “We know many customers have incurred unplanned travel expenses, including purchasing tickets on other airlines, rental cars, train tickets and more. Delta will cover reasonable costs for additional categories of expenses incurred during the duration of the travel waiver (which currently applies for flights between July 19 and July 28).”
 
 Impacted passengers can submit reimbursement requests here.
 
@@ -72,7 +76,7 @@ Customers can also call 1-800-325-8224 to make a baggage claim.
 
 “We have set up an internal Baggage Command Center in Atlanta, where we are seeing the highest number of displaced baggage, in an effort to expedite the process of reuniting customers with their belongings,” Delta said on Tuesday.
 
-Delta has extended its travel waiver for travel through July 23. Details are available here.
+Delta has extended its travel waiver for travel through July 28. Details are available here.
 
 CNN’s Chris Isidore, Isabel Rosales and Amanda Musa contributed to this report.
 

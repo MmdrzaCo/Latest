@@ -1,6 +1,6 @@
 # Belgian tourist suffers 3rd-degree burns to his feet while walking in Death Valley as temperatures exceed 120 degrees
 
-Published :`2024-07-25 14:13:39`
+Published :`2024-07-25 14:36:33`
 
 ---
 

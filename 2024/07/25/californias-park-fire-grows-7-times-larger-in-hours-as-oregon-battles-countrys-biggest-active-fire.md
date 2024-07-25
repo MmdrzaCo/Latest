@@ -1,6 +1,6 @@
 # California’s Park Fire grows 7 times larger in hours as Oregon battles country’s biggest active fire
 
-Published :`2024-07-25 14:13:38`
+Published :`2024-07-25 14:36:30`
 
 ---
 
@@ -10,9 +10,15 @@ The largest active wildfire in the United States has scorched almost 270,000 acr
 
 • Durkee Fire threatens nearby communities: Three people were injured and two homes and 12 other structures were destroyed as the fire spread, according to the Oregon Department of Emergency Management. Officials have asked some residents to evacuate. Some communities do not have power, according to Oregon Gov. Tina Kotek, who has deployed resources from the National Guard to assist.
 
-• California battles its own blaze: The Park Fire in California has exploded to 45,549 acres – growing 7 times larger just over four hours overnight – and is 3% contained, according to CalFire. The blaze has forced mandatory evacuations in Butte County, where the state’s deadliest wildfire, the Camp Fire, killed more than 80 people in 2018.
+• California battles its own blaze: The Park Fire in California has exploded to 45,550 acres – growing 7 times larger just over four hours overnight – and is 3% contained, according to CalFire. The blaze has forced mandatory evacuations in Butte County, where the state’s deadliest wildfire, the Camp Fire, killed more than 80 people in 2018.
 
-• Two fires threaten national park in Canada: The flames closing in on the nation’s largest national park from two directions sent visitors and residents fleeing the town of Jasper in Alberta, where buildings are burned. Officials say the losses are significant.
+• Two fires threaten national park in Canada: The flames closing in on the nation’s largest national park from two directions sent visitors and residents fleeing the town of Jasper in Alberta, where buildings are burned. Officials say the losses are significant, and Prime Minister Justin Trudeau has deployed federal support to help battle the blaze.
+
+### California wildfire explodes in size overnight
+
+Some residents in Northern California’s Butte County were asked to evacuate, as the Park Fire grew nearly 40,000 acres overnight to an area roughly the size of Washington, DC. The fire has burned an average of nearly 50 football fields per minute since it started Wednesday afternoon. Triple-digit temperatures and high wind gusts have fueled the fire’s growth.
+
+There are more than 200 firefighters deployed to fight the blaze, according to CalFire.
 
 ### Oregon fires ‘scaled up quickly’
 
