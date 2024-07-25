@@ -1,6 +1,6 @@
 # Russian transgender politician reverses decision to detransition, saying she was acting ‘out of fear’
 
-Published :`2024-07-25 12:55:04`
+Published :`2024-07-25 13:18:14`
 
 ---
 

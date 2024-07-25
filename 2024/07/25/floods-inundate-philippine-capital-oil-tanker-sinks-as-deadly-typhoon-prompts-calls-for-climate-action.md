@@ -1,6 +1,6 @@
 # Floods inundate Philippine capital, oil tanker sinks as deadly typhoon prompts calls for climate action
 
-Published :`2024-07-25 12:54:58`
+Published :`2024-07-25 13:18:12`
 
 ---
 
@@ -32,7 +32,7 @@ All the crew members “fell into the sea and were floating there” wearing lif
 
 The island is expected to endure several more hours of torrential rain even as the typhoon’s center moved into the Taiwan Strait Thursday and headed toward China.
 
-The storm is expected to make landfall in China’s southeast coastal Fujian province, bringing more strong winds and downpours to a country already hit hard by weeks of extreme rain and deadly flooding.
+The storm made landfall in China’s southeast coastal Fujian province Thursday evening, bringing more strong winds and downpours to a country already hit hard by weeks of extreme rain and deadly flooding.
 
 ### Oil tanker capsizes
 

@@ -1,6 +1,6 @@
 # Southwest Airlines is getting rid of open seating
 
-Published :`2024-07-25 12:54:57`
+Published :`2024-07-25 13:18:11`
 
 ---
 
@@ -28,9 +28,17 @@ The company made no mention in its statement about whether it will change its ba
 
 Southwest used to be the most profitable US airline. But that is no longer the case.
 
-Thursday, it reported a 51% drop in profit to $370 million, despite reporting record revenue for the quarter.
+Thursday, it reported a 51% drop in profit to $370 million, despite reporting record revenue for the quarter that was boosted by strong passenger traffic.
+
+But this has been a tough environment for US airlines to make money. Significant increases in labor costs and higher fuel prices, two of the largest expenses in the industry, have eaten into profits. And relatively low average fares have exacerbated the damage.
+
+Rival American Airlines also reported its profit fell 44% in the second quarter, despite its own record revenue.
 
 Although Southwest still has the healthiest credit rating of any US airline, it has been struggling with a number of issues in recent years – some as a result of its own mismanagement, but some because of outside factors and changing industry dynamics.
+
+Shares of Southwest (LUV) were down more than 4% in premarket trading on its news.
+
+### Ending five decades of precedent
 
 The airline went 47 consecutive years without reporting an annual loss – until 2020, when the pandemic nearly halted all demand for air travel.
 
@@ -38,9 +46,25 @@ Southwest’s fleet is made up entirely of Boeing 737 jets. That had reduced its
 
 But its low-cost efforts also hurt Southwest at times, most notably in December 2022, when its suffered a catastrophic service meltdown that caused it to cancel about 17,000 flights, or nearly half of its schedule, during the busy holiday travel period. While other airlines recovered quickly from a winter storm that month, Southwest’s computer technology, denounced as “antiquated” by its unions, made it difficult for it to schedule its pilots and flight attendants and resume normal operations.
 
-That meltdown cost Southwest around $1 billion, including a $140 million fine. But it underwent a massive update to its technology since then, and notably, Southwest managed to recover quickly from the global tech outage last week. This time, it was rival Delta that took days to recover.
+Southwest made changes in its software and operations in the wake of those service issues. And last week, as many of the world’s airlines were forced to cancel 5,000 flights in a single day due to a flawed software update from cyber security firm CrowdStrike, Southwest was one of the few carriers that avoided the issue and did not have to cancel flights. This time it was rival Delta Air Lines that suffered the service meltdown.
 
-Shares of Southwest (LUV) were down 2% in premarket trading on its news.
+But that December 2022 meltdown cost Southwest around $1 billion, including a $140 million fine from the Department of Transportation. And it resulted in a loss in the fourth quarter of 2022 as well as the first quarter of 2023 as passengers were reluctant to book on airline in the immediate aftermath of the service problems.
+
+The company reported losses in the fourth quarter of 2023 and first quarter of 2024 as well amid higher labor and fuel costs. Losing money in four of six quarters before the most recent period is a stunning and unwanted reversal of fortunes for Southwest. The airline had previously posted losses only during the pandemic, Great Recession and after the September 11 terrorist attacks – even while its rivals were flying in and out of bankruptcy. It also brought unwanted attention from activists investors at Elliott Investment Management, which announced in June it had taken a $1.9 billion stake in the airline and called for management changes.
+
+### Incidents raise safety concerns
+
+Southwest has also gotten unwanted attention from the Federal Aviation Administration, which announced earlier this month it is stepping up oversight of its operations due to a number of potentially dangerous incidents involving its planes in recent months.
+
+In March, a Southwest jet veered off course and had a close call with an air traffic control tower during an attempted landing at New York’s LaGuardia Airport. In April, a plane plunged to within 400 feet of the surface of the Pacific Ocean off the coast of Hawaii. In June another plane came within 525 feet of the ground over an Oklahoma town when it was still nine miles away from the Oklahoma City airport. And later that month a plane took off on a closed runway at the airport in Portland Maine which had a repair vehicle on it that had to race to get out of its way. Earlier this month, a plane got within 150 feet of the ground when it was still five miles away from the airport in Tampa, according to data from Flightradar24.
+
+“The FAA has increased oversight of Southwest Airlines to ensure it is complying with federal safety regulations,” the agency said in a statement.
+
+Southwest said it has formed an internal team to also look at the incidents.
+
+“Southwest is working closely with the Federal Aviation Administration in the review of recent events,” it said.
+
+CNN’s Ross Levitt, Gregory Wallace, Chris Boyette and Pete Muntean contributed to this report.
 
 This story has been updated with additional context and developments.
 

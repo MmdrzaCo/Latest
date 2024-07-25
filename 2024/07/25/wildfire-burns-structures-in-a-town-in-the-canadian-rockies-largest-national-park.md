@@ -1,6 +1,6 @@
 # Wildfire burns structures in a town in the Canadian Rockies’ largest national park
 
-Published :`2024-07-25 12:54:58`
+Published :`2024-07-25 13:18:12`
 
 ---
 
