@@ -1,6 +1,6 @@
 # ‘It was humiliating.’ Evictions in these cities are worse than before Covid
 
-Published :`2024-07-25 05:15:06`
+Published :`2024-07-25 05:36:34`
 
 ---
 

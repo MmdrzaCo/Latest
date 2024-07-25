@@ -1,6 +1,6 @@
 # Influential Blues musician John Mayall has died at 90
 
-Published :`2024-07-25 05:15:09`
+Published :`2024-07-25 05:36:37`
 
 ---
 
