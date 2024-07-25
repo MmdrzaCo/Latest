@@ -1,6 +1,6 @@
 # What is DEI? Republicans are using the term to attack Kamala Harris, but experts say it’s widely misunderstood
 
-Published :`2024-07-25 08:39:12`
+Published :`2024-07-25 09:17:06`
 
 ---
 

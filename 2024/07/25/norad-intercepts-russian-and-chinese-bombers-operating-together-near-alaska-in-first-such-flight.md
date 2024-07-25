@@ -1,6 +1,6 @@
 # NORAD intercepts Russian and Chinese bombers operating together near Alaska in first such flight
 
-Published :`2024-07-25 08:39:12`
+Published :`2024-07-25 09:17:06`
 
 ---
 
@@ -14,17 +14,25 @@ It also marks the first time H-6 bombers, which are a derivative of older Soviet
 
 The intercept was carried out by US F-16 and F-35 fighter jets, as well as Canadian CF-18 fighter jets, according to the defense official. Support aircraft were also part of the intercept, the official said.
 
+On Thursday, China’s Defense Ministry said the Chinese and Russian air forces had organized a “joint strategic aerial patrol in the relevant airspace of the Bering Sea” as part of an existing annual cooperation plan between the two militaries.
+
+Zhang Xiaogang, a spokesperson for the ministry, told a news conference it was the eighth such patrol organized by the two militaries since 2019, which were aimed at “further testing and enhancing the level of cooperation between the two air forces, as well as deepening strategic mutual trust and practical cooperation between the two countries.”
+
+“This action is not aimed at third parties, it is in line with relevant international laws and international practices and has nothing to do with the current international and regional situation,” Zhang said.
+
 Russian flights into Alaska’s ADIZ are not uncommon. In May, Russia flew four aircraft into Alaska’s ADIZ, which NORAD said at the time “occurs regularly.”
 
 But the presence of Chinese aircraft appears to be a new development. In March, the head of US Northern Command, Gen. Gregory Guillot, said China was pushing farther north into the Arctic and he expected to see aircraft there “as soon as this year potentially.”
 
-“What I have seen is a willingness and a desire by the Chinese to act up there,” Guillot told a hearing of the Senate Armed Services Committee.  “We have seen them in the maritime. We have seen them under the cloud of a technical or scientific research, but we think it is certainly multi-mission, to include military. And then I expect to see air activity in the Alaska part of the Arctic as soon as this year, potentially.”
+“What I have seen is a willingness and a desire by the Chinese to act up there,” Guillot told a hearing of the Senate Armed Services Committee.
 
-“It is a very big concern of mine,” he said.
+“We have seen them in the maritime. We have seen them under the cloud of a technical or scientific research, but we think it is certainly multi-mission, to include military. And then I expect to see air activity in the Alaska part of the Arctic as soon as this year, potentially.
+
+“It is a very big concern of mine.”
 
 China considers itself a “near-Arctic” state and has worked to expand its presence in the far north, including through its cooperation with Russia.
 
-This story and headline have been updated with additional developments.
+This story and headline has been updated with additional developments.
 
 ---
 
