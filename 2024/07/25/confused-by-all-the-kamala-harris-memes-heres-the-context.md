@@ -1,6 +1,6 @@
 # Confused by all the Kamala Harris memes? Here’s the context
 
-Published :`2024-07-25 13:35:41`
+Published :`2024-07-25 14:13:42`
 
 ---
 

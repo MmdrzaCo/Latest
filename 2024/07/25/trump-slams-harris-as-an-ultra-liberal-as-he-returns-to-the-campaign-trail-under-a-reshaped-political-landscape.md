@@ -1,6 +1,6 @@
 # Trump slams Harris as an ‘ultra-liberal’ as he returns to the campaign trail under a reshaped political landscape
 
-Published :`2024-07-25 13:35:39`
+Published :`2024-07-25 14:13:39`
 
 ---
 

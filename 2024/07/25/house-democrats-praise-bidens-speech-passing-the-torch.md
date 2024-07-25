@@ -1,6 +1,6 @@
 # House Democrats praise Biden’s speech passing the torch
 
-Published :`2024-07-25 13:35:38`
+Published :`2024-07-25 14:13:39`
 
 ---
 

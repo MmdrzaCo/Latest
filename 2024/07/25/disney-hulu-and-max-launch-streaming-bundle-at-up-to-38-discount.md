@@ -1,6 +1,6 @@
 # Disney, Hulu and Max launch streaming bundle at up to 38% discount
 
-Published :`2024-07-25 13:35:38`
+Published :`2024-07-25 14:13:38`
 
 ---
 
@@ -10,17 +10,21 @@ The companies said the bundle of the three services, which was first announced�
 
 The lowest priced Max plan is currently offered at $9.99 a month with ads. Disney+ with Hulu is also available for $9.99 a month with ads.
 
-The new bundle offers subscribers access to a wider array of programming, including the premium service HBO, and content from ABC, CNN, Discovery, the Food Network, FX, HGTV, Hulu, Pixar, and the Star Wars franchise. The collaborative effort also brings together two major comic-book rivals, Warner Bros.’ DC and Disney’s Marvel, in a single package.
+The new bundle offers subscribers access to a wider array of programming, including the premium service HBO, and content from ABC, CNN, Discovery, Food Network, FX, HGTV, Hulu, Pixar, and the Star Wars franchise. The collaborative effort also brings together two major comic-book rivals, Warner Bros.’ DC and Disney’s Marvel, in a single package.
 
 The launch of the bundle comes as WBD, the parent company of CNN, and Disney, which owns both Disney+ and Hulu, look to woo and retain subscribers in a battle against larger streaming rivals Netflix and Amazon Prime Video.
 
-“We have found that when you bundle together with other content that more people in the family like — on a very basic level — the more often you watch product, the more people in the family that watch the product, the lower the churn,” WBD chief executive David Zaslav said this spring.
+“We have found that when you bundle together with other content that more people in the family like — on a very basic level — the more often you watch the product, the more people in the family that watch the product, the lower the churn,” WBD chief executive David Zaslav said this spring.
+
+The emergence of the combined services at a discounted rate resembles the traditional cable television bundle that consumers have relied upon for decades, offering up to hundreds of channels for one monthly price. Disney already offers its own streaming bundle that includes Disney+, Hulu, and ESPN+ at a bargain rate. In December, Verizon announced a new subscription that paired Netflix and Max’s ad-supported tiers for $10 a month, a deal that, for an additional $10, also includes Disney+, Hulu, and ESPN.
 
 Smaller streaming platforms have struggled in recent years to retain subscribers in an increasingly crowded sector that also includes NBC’s Peacock, Paramount+, and Apple TV+. Earlier this week, Peacock parent company Comcast announced the service had shed 500,000 subscribers in its most recent quarter.
 
 Others are also jumping into the already-crowded streaming fray. Earlier this month, Hallmark announced that it, too, will launch its own standalone streaming platform, Hallmark+, ahead of the holiday season.
 
-But the emergence of the combined services at a discounted price resemble traditional cable television bundles. Disney already offers its own bundle that includes Disney+, Hulu, and ESPN+. In December, Verizon announced a new streaming subscription that paired Netflix and Max’s ad-supported tiers for $10 a month, a deal that, for an additional $10, includes Disney+, Hulu, and ESPN.
+Disney, WBD and Fox Corp. are also launching the dedicated sports streaming service Venu this fall, which will combine ESPN, TNT, Fox Sports and other assets under a single streaming roof.
+
+“We’ve watched for years the decline of the linear bundle on cable and satellite and we’ve been preparing for a world where that business is not as strong as it used to be,” Disney chief executive Bob Iger told CNBC in February. “I’d rather be a disruptor than to be disrupted.”
 
 ---
 
