@@ -1,6 +1,6 @@
 # Gov. Gavin Newsom issues executive order for removal of homeless encampments in California
 
-Published :`2024-07-25 18:37:43`
+Published :`2024-07-25 19:12:32`
 
 ---
 
@@ -12,7 +12,7 @@ The move to begin dismantling thousands of encampments throughout California com
 
 The order calls on state officials “to adopt humane and dignified policies to urgently address encampments on state property.”
 
-The move has drawn the ire of homeless advocates.
+The move has drawn the ire of homeless advocates and elected officials.
 
 “Newsom could have issued this order before the (Supreme Court) decision. The only difference now is that states and localities are free to confine and arrest people even when there is no shelter available,” said Chris Herring, an assistant professor of sociology at the University of California Los Angeles.
 
@@ -24,13 +24,23 @@ In San Francisco, a spokesperson for Mayor London Breed said the city had alread
 
 “Our city encampment teams and street outreach staff have been going out every day to bring people indoors, and to clean and clear encampments,” spokesperson Parisa Safarzadeh told CNN in a statement. “This is why we are seeing a five year low in the City’s tent count on our streets.”
 
+### Study shows cleanups do little to change numbers of homeless
+
 Late last month, the results of the Los Angeles Homeless Services Authority’s point-in-time count – conducted in January – showed the homeless population in Los Angeles had dropped for the first time in six years. It showed overall homelessness and in particular unsheltered homelessness was down in both Los Angeles County and the city. According to the count, homelessness was down 2.2% in the Los Angeles and 0.27% in the county.
 
 There were still 45,253 homeless people counted in the city and 75,312 people unhoused in the county, the authority reported.
 
-Los Angeles Mayor Karen Bass at the time called the Supreme Court decision unfortunate and warned of wide-ranging implications for cities across the country, including “a new wave of criminalization” against the homeless.
+“For the first time in years, unsheltered homelessness has decreased in Los Angeles because of a comprehensive approach that leads with housing and services, not criminalization,” Los Angeles Mayor Karen Bass said Thursday.
 
-But Newsom last month praised the high court’s ruling, saying it “provides state and local officials the definitive authority to implement and enforce policies to clear unsafe encampments from our streets.”
+“Strategies that just move people along from one neighborhood to the next or give citations instead of housing do not work.”
+
+In fact, a new study by the Rand Corp’s Center on Housing and Homelessness found encampment clearing efforts in Los Angeles had no long-term effect on the number of people on the streets.
+
+The researchers looked at encampment cleanups in Venice, Hollywood and Skid Row in Los Angeles and “observed temporary declines in the unsheltered population that lasted two to three months on average” before returning to previous levels, according to the study.
+
+In Venice, for instance, encampment removals meant “the share of unhoused people living literally unsheltered (e.g., without a tent) increased from 20 percent to 46 percent,” the study said.
+
+Newsom last month praised the high court’s ruling, saying it “provides state and local officials the definitive authority to implement and enforce policies to clear unsafe encampments from our streets.”
 
 “This decision removes the legal ambiguities that have tied the hands of local officials for years and limited their ability to deliver on common-sense measures to protect the safety and well-being of our communities,” Newsom added.
 

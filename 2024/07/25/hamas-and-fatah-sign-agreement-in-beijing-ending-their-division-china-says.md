@@ -1,6 +1,6 @@
 # Hamas and Fatah sign agreement in Beijing ‘ending’ their division, China says
 
-Published :`2024-07-25 18:37:45`
+Published :`2024-07-25 19:12:33`
 
 ---
 
