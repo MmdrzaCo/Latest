@@ -1,6 +1,6 @@
 # Look of the week: Gigi Hadid’s midriff-baring look revives a 2000s fashion staple
 
-Published :`2024-07-25 02:21:46`
+Published :`2024-07-25 02:47:46`
 
 ---
 
