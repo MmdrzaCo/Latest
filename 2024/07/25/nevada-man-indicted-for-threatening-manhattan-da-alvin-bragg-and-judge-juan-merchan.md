@@ -1,6 +1,6 @@
 # Nevada man indicted for threatening Manhattan DA Alvin Bragg and Judge Juan Merchan
 
-Published :`2024-07-25 15:15:44`
+Published :`2024-07-25 15:36:01`
 
 ---
 

@@ -1,6 +1,6 @@
 # An ATV driver ran over an 80-year-old man posting Trump signs in his yard, police say
 
-Published :`2024-07-25 15:15:54`
+Published :`2024-07-25 15:36:08`
 
 ---
 

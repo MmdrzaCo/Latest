@@ -1,6 +1,6 @@
 # How Kamala Harris can beat Donald Trump
 
-Published :`2024-07-25 15:15:52`
+Published :`2024-07-25 15:36:07`
 
 ---
 

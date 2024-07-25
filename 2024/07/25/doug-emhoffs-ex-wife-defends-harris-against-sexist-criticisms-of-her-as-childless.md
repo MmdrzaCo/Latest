@@ -1,6 +1,6 @@
 # Doug Emhoff’s ex-wife defends Harris against sexist criticisms of her as childless
 
-Published :`2024-07-25 15:15:46`
+Published :`2024-07-25 15:36:02`
 
 ---
 

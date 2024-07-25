@@ -1,6 +1,6 @@
 # Officer suspended after videos of police beating men at UK airport spark outcry
 
-Published :`2024-07-25 15:15:46`
+Published :`2024-07-25 15:36:01`
 
 ---
 
@@ -16,13 +16,17 @@ But the force added that the event seen in the videos was “truly shocking” a
 
 Police said that the officer seen in the video has been suspended after earlier announcing they were removed from operational duties.
 
+Akhmed Yaqoob, a solicitor for the family of the man seen being stomped on in the incident said his medical condition worsened overnight and that a scan revealed a cyst on his brain.
+
+Speaking to reporters in Rochdale, he said the family was “traumatised” by the events, adding that the family have launched a complaint against the police.
+
 The videos began circulating Wednesday, quickly going viral on social media and sparking an outcry from both the public and some politicians.
 
 One video shows a man on the ground with at least two police officers pointing a taser at him. A male police officer moves closer to the man and starts kicking him in the face, while his taser is still drawn, before stomping on his head. A woman is heard shouting “stop it, he hasn’t done anything!”
 
-Small splatters of blood appear on the floor at the scene.
-
 Later in the same video, another man, whose hands were in the air while sitting nearby, is taken to the ground after a police officer points a taser at him. After the second man kneels on the ground, one officer starts kicking him before another wrestles him to the ground and appears to try to constrain his hands behind his back.
+
+Small splatters of blood appear on the floor at the scene.
 
 In another video of the same incident, a female officer is seen clearly in distress, crying and walking away from the scene before being assisted by another officer.
 
@@ -53,6 +57,8 @@ While the so-called Casey Report focused on the Met, it sparked accusations of i
 Manchester Police has previously disclosed several race-related incidents. Just last week, the GMP suspended five officers and put two officers on restricted duties following a report made of racial discrimination in Bury.
 
 A spokesperson for the force said GMP was “deeply concerned by the allegations and will not hesitate to take any action necessary.”
+
+Yaqoob said the two men who are seen in the video are related to a police officer who is currently serving in the Greater Manchester Police force. He said the officer was afraid to go to work as a result of the incident, fearing for his safety.
 
 ### Police called after a report of an assault
 

@@ -1,6 +1,6 @@
 # Netanyahu labels critics of war in Gaza ‘Iran’s useful idiots’ in speech to Congress
 
-Published :`2024-07-25 15:15:52`
+Published :`2024-07-25 15:36:07`
 
 ---
 
