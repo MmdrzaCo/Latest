@@ -1,12 +1,14 @@
 # The US economy is pulling off something historic
 
-Published :`2024-07-25 16:19:05`
+Published :`2024-07-25 16:41:01`
 
 ---
 
 The US economy is on the verge of an extremely rare achievement.
 
 Economic growth in the first half of the year was solid, with the economy expanding a robust 2.8% annualized rate in the second quarter, according to fresh Commerce Department figures released Thursday, which are adjusted for inflation and seasonal swings.
+
+The Dow surged by more than 500 points, or 1.3%, by midday, as investors cheered the US economy’s powerful show of resilience. The S&P 500 gained 0.9% and the Nasdaq Composite added 0.9%. That comes after the benchmark index and tech-heavy Nasdaq on Wednesday logged their worst days since 2022.
 
 Gross domestic product, the broadest measure of economic output, was much stronger in the second quarter than economists had predicted. The GDP report showed that businesses are continuing to invest and that consumers are still opening their wallets. That’s key, because consumer spending is America’s economic engine, accounting for about two-thirds of US economic output.
 

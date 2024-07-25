@@ -1,6 +1,6 @@
 # Andrew Tate’s defamation lawsuit against human trafficking accuser can proceed, judge says
 
-Published :`2024-07-25 16:19:06`
+Published :`2024-07-25 16:41:03`
 
 ---
 

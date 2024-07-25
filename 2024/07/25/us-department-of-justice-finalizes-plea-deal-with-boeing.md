@@ -1,16 +1,16 @@
 # US Department of Justice finalizes plea deal with Boeing
 
-Published :`2024-07-25 16:19:07`
+Published :`2024-07-25 16:41:01`
 
 ---
 
 The US Department of Justice on Wednesday for the first time shared details of its finalized plea deal agreement with Boeing, in which the troubled aviation company will plead guilty to a felony charge of defrauding the US government.
 
-Boeing agreed to pay a fine of $243.6 million as part of its plea agreement and admitted it defrauded the Federal Aviation Administration when seeking permission for the troubled 737 Max plane to carry passengers. The plea deal is subject to approval of a federal judge.
+Boeing agreed to pay a fine of another $243.6 million as part of its plea agreement on top of a $243.6 million it already agreed to pay in 2021 and admitted it defrauded the Federal Aviation Administration when seeking permission for the troubled 737 Max plane to carry passengers. The plea deal is subject to approval of a federal judge, who could double the amount of the fine by not granting it a credit for the fine it already paid.
 
 “We will continue to work transparently with our regulators as we take significant actions across Boeing to further strengthen our safety, quality and compliance programs,” Boeing said in a statement.
 
-Boeing agreed to plead guilty two weeks ago to one charge of conspiracy to defraud the United States for its role in two fatal 737 Max crashes, in an agreement that many critics of Boeing – including crash victims’ families – slammed as a sweetheart deal.
+Boeing agreed to plead guilty two weeks ago to one charge of conspiracy to defraud the United States for its role in two fatal 737 Max crashes, in an agreement that many critics of Boeing – including crash victims’ families – slammed as a sweetheart deal. The victims families’ attorney will now argue to the judge that the fine should be in the billions of dollars, not hundreds of millions.
 
 However, one additional condition detailed in a new filing on Wednesday is that Boeing’s board of directors will have to hold a meeting with victim families and their legal representatives within four months of the sentencing date.
 
