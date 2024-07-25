@@ -1,6 +1,6 @@
 # Man arrested for allegedly starting Park Fire in California as Oregon battles massive blaze
 
-Published :`2024-07-25 21:14:23`
+Published :`2024-07-25 21:37:28`
 
 ---
 
@@ -32,13 +32,17 @@ There are more than 200 firefighters deployed to fight the blaze, according to C
 
 The lightning-sparked Durkee Fire is the largest of 31 large wildfires currently burning across Oregon, which has been the hardest hit by fires in recent days.
 
-Officials in Malheur County and Baker County issued evacuations for areas around the Durkee Fire. Meanwhile, dense smoke from the flames impeded traffic on Interstate 84, leading to periodic closure of the freeway.
+Officials in eastern Oregon’s Malheur County and Baker County had issued evacuations for areas around the Durkee Fire since its beginning.
+
+However, as of Thursday afternoon, all evacuation recommendations for the Durkee Fire in Malheur County have been lifted, said the Malheur County Sheriff’s Office in a social media post. As for Baker County, many areas’ evacuation levels have been reduced or eliminated, according to the county’s Sheriff’s Office.
+
+Dense smoke from the flames have impeded traffic on Interstate 84, leading to periodic closure of the freeway.
 
 Kotek called it a “dynamic situation.”
 
 “The wildfires in Eastern Oregon have scaled up quickly,” Kotek said in a news release. “We are facing strong erratic winds over the region that could impact all fires. Rain is not getting through. Some communities do not have power.”
 
-More than 500 firefighters and resources from 22 states are working to fight the fire,  according to InciWeb.
+More than 500 firefighters and resources from 22 states are working to fight the fire, according to InciWeb.
 
 “We have been at this for a number of days, and those days just seem to keep getting harder and harder with the weather that we’re seeing in our area and the intense fire behavior,” Sarah Sherman of the Bureau of Land Management said in a video update.
 
