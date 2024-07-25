@@ -1,12 +1,12 @@
 # Thousands stranded by floods in Philippine capital as deadly typhoon prompts calls for climate action
 
-Published :`2024-07-25 07:36:18`
+Published :`2024-07-25 08:19:15`
 
 ---
 
 Much of the Philippine capital remained underwater Thursday after deadly Typhoon Gaemi worsened torrential monsoon rains that lashed the country, trapping thousands of people in rising flood waters and causing widespread damage.
 
-Continuous heavy rains, massive flooding and landslides across the Philippines killed at least 13 people and displaced more than 600,000, Philippine authorities said during a disaster relief briefing Thursday.
+Continuous heavy rains, massive flooding and landslides across the Philippines killed at least 13 people and displaced more than 600,000, and an oil tanker capsized off the country’s coast during strong winds and high waves, Philippine authorities said Thursday.
 
 Unlike in Taiwan, the typhoon – known locally as Carina – didn’t make landfall in the Philippines, but its powerful outer bands dumped more than 300 mm (12 inches) of rain in the Manila region and parts of the main island Luzon, prompting officials to declare a “state of calamity” in the capital on Wednesday and evacuate tens of thousands of people.
 
@@ -34,9 +34,9 @@ The island is expected to endure several more hours of torrential rain even as t
 
 The storm is expected to make landfall in China’s southeast coastal Fujian province, bringing more strong winds and downpours to a country already hit hard by weeks of extreme rain and deadly flooding.
 
-### Philippines disaster
+### Oil tanker capsizes
 
-The Philippine Coast Guard (PCG) on Thursday said it was responding to an incident involving an oil tanker that capsized off the coast of Bataan, west of Manila. PCG spokesperson CG Rear Adm. Armando Balilo said 16 crew members had been rescued with the search ongoing for one missing sailor.
+The Philippine Coast Guard (PCG) on Thursday said it was responding to an incident involving an oil tanker that capsized off the coast of Bataan, west of Manila. PCG spokesperson CG Rear Adm. Armando Balilo said 16 crew members of the MT Terra Nova had been rescued with the search ongoing for one missing sailor.
 
 Images show the coast guard launching a rescue operation and the ship almost fully submerged in rough seas.
 
