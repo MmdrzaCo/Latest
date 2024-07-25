@@ -1,6 +1,6 @@
 # Biden expected to forcefully urge Netanyahu to accept ceasefire deal in Thursday meeting
 
-Published :`2024-07-25 20:16:00`
+Published :`2024-07-25 20:36:16`
 
 ---
 

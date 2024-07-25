@@ -1,6 +1,6 @@
 # US Department of Justice finalizes plea deal with Boeing
 
-Published :`2024-07-25 20:16:01`
+Published :`2024-07-25 20:36:17`
 
 ---
 

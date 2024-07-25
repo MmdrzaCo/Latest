@@ -1,6 +1,6 @@
 # The photographer capturing climbers at dizzying heights
 
-Published :`2024-07-25 20:16:07`
+Published :`2024-07-25 20:36:21`
 
 ---
 

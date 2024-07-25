@@ -1,6 +1,6 @@
 # The world’s greatest places of 2024, according to TIME
 
-Published :`2024-07-25 20:16:00`
+Published :`2024-07-25 20:36:17`
 
 ---
 

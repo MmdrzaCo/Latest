@@ -1,6 +1,6 @@
 # Former Kentucky county clerk Kim Davis, who opposed gay marriage, appeals ruling over attorney fees
 
-Published :`2024-07-25 20:16:02`
+Published :`2024-07-25 20:36:18`
 
 ---
 
