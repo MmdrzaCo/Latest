@@ -1,6 +1,6 @@
 # Southwest Airlines is getting rid of open seating
 
-Published :`2024-07-25 17:13:03`
+Published :`2024-07-25 17:36:16`
 
 ---
 

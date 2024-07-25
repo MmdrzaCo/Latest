@@ -1,6 +1,6 @@
 # Man accused of breaking into Los Angeles Mayor Karen Bass’ home pleads no contest to felony vandalism and avoids prison time
 
-Published :`2024-07-25 17:13:08`
+Published :`2024-07-25 17:36:18`
 
 ---
 

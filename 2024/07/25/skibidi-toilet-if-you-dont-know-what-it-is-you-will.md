@@ -1,6 +1,6 @@
 # ‘Skibidi Toilet:’ If you don’t know what it is, you will
 
-Published :`2024-07-25 17:13:03`
+Published :`2024-07-25 17:36:15`
 
 ---
 
@@ -22,7 +22,7 @@ Bay, a filmmaker who is best known for his action work including the “Transfor
 
 It’s become so quickly ubiquitous among young people, “Skibidi” is now a slang filler word, there is fanfiction, unofficial merchandise and series-inspired games hosted on Roblox.
 
-Goodman, whose resume includes the “Teenage Mutant Ninja Turtles” reboot, “Mission: Impossible — Ghost Protocol,” and the “SpongeBob SquarePants,” told the Post, “I don’t think that there’s ever been anything that we’ve been involved with that mirrors the growth of [‘Skibidi Toilet’].”
+Goodman, whose resume includes the “Teenage Mutant Ninja Turtles” reboot, “Mission: Impossible – Ghost Protocol,” and the “SpongeBob SquarePants” series, told the Post, “I don’t think that there’s ever been anything that we’ve been involved with that mirrors the growth of [‘Skibidi Toilet’].”
 
 A lot of parents would likely agree.
 
