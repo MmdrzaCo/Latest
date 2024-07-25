@@ -1,6 +1,6 @@
 # Trump slams Harris as an ‘ultra-liberal’ as he returns to the campaign trail under a reshaped political landscape
 
-Published :`2024-07-25 01:08:18`
+Published :`2024-07-25 02:21:41`
 
 ---
 
@@ -19,6 +19,12 @@ Trump told the audience in Charlotte that he “was supposed to be nice,” allu
 “They say something happened to me when I got shot: I became nice,” Trump said. “If you don’t mind, I’m not going to be nice,” he added to roars from the crowd.
 
 “This November, the American people are going to tell her, ‘No thanks, Kamala. You’ve done a terrible job. You’ve been terrible at everything,’” said the former president, who slammed Harris over the border and inflation.
+
+Trump also mocked Harris’ attempts to portray the race against the former president as one between a former prosecutor – Harris is a former San Francisco district attorney and California attorney general – and a convicted felon.
+
+“Their campaign says, ‘I’m the prosecutor, and he is the convicted felon.’ That’s that campaign. I don’t think people are going to buy it. And we won our big case. You know, we won the case in Florida,” Trump said, referring to the recently dismissed classified documents case.
+
+“A vote for Kamala is a vote for four more years of dishonesty and incompetence, weakness and failure,” he added.
 
 ### Uncharted territory
 
@@ -60,7 +66,7 @@ Trump’s appearance in Charlotte provided his first opportunity to contrast him
 
 In a memo released Wednesday, the Harris campaign outlined its view of the candidate’s electoral path to victory, painting a much more optimistic picture beyond the so-called Blue Wall states to include the battleground states of the Sun Belt such as Arizona, Georgia, Nevada and North Carolina. It’s a notable change from where things stood just weeks ago when a Biden campaign memo acknowledged that those Sun Belt states were no longer as competitive.
 
-This story and headline have been updated.
+This story and headline have been updated with additional details.
 
 ---
 

@@ -1,6 +1,6 @@
 # 15 people dead, more than 195 missing after boat carrying migrants capsizes off Mauritania
 
-Published :`2024-07-25 01:08:18`
+Published :`2024-07-25 02:21:44`
 
 ---
 
