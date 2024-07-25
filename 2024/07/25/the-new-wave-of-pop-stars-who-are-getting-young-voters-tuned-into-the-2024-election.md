@@ -1,6 +1,6 @@
 # The new wave of pop stars who are getting young voters tuned into the 2024 election
 
-Published :`2024-07-25 11:36:32`
+Published :`2024-07-25 12:29:00`
 
 ---
 

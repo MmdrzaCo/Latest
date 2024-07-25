@@ -1,6 +1,6 @@
 # The USWNT kicks off in France as a team in transition – and one that’s looking to make a point
 
-Published :`2024-07-25 11:36:30`
+Published :`2024-07-25 12:28:57`
 
 ---
 
