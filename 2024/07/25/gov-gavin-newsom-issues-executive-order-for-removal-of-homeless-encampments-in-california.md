@@ -1,6 +1,6 @@
 # Gov. Gavin Newsom issues executive order for removal of homeless encampments in California
 
-Published :`2024-07-25 20:36:17`
+Published :`2024-07-25 21:14:23`
 
 ---
 
@@ -12,7 +12,11 @@ The move to begin dismantling thousands of encampments throughout California com
 
 The order calls on state officials “to adopt humane and dignified policies to urgently address encampments on state property.”
 
-The move has drawn the ire of homeless advocates and elected officials.
+California has the largest homeless population – more than 180,000 people – in the nation, according to a 2023 homelessness assessment report to Congress from the US Department of Housing and Urban Development.
+
+An estimated 653,100 people were experiencing homelessness nationwide – a jump of around 12% since 2022, according to the report.
+
+California’s policies following the Supreme Court decision are being closely watched by other cities and states, and Newsom’s order has drawn the ire of some homeless advocates and elected officials.
 
 “Newsom could have issued this order before the (Supreme Court) decision. The only difference now is that states and localities are free to confine and arrest people even when there is no shelter available,” said Chris Herring, an assistant professor of sociology at the University of California Los Angeles.
 
@@ -20,11 +24,23 @@ The move has drawn the ire of homeless advocates and elected officials.
 
 Herring said the timing of the order wasn’t surprising as Newsom seeks to “politically clear his name of the homeless crisis, especially as he’s in the national spotlight right now amid the presidential election.”
 
+Michael Weinstein, president of the AIDS Healthcare Foundation, the parent organization of the Housing is a Human Right initiative, accused Newsom of “criminalizing poverty” and “doubling down on failed policies.”
+
+“Governor Newsom, where do you expect people to go? This is a shameful moment in California history,” Weinstein said in a statement Thursday.
+
+### Order is ‘a punch in the gut,’ advocate says
+
 In San Francisco, a spokesperson for Mayor London Breed said the city had already started to take action.
 
 “Our city encampment teams and street outreach staff have been going out every day to bring people indoors, and to clean and clear encampments,” spokesperson Parisa Safarzadeh told CNN in a statement. “This is why we are seeing a five year low in the City’s tent count on our streets.”
 
-### Study shows cleanups do little to change numbers of homeless
+But Jennifer Friedenbach, executive director of the Coalition on Homelessness in San Francisco, called Newsom’s executive order “a punch in the gut.”
+
+She said there are already thousands of people on a waitlist for housing, and all shelter beds in San Francisco are already full.
+
+“They want to basically crack down on folks who have no other choice,” she said.
+
+### Study shows cleanups do little to change number of homeless
 
 Late last month, the results of the Los Angeles Homeless Services Authority’s point-in-time count – conducted in January – showed the homeless population in Los Angeles had dropped for the first time in six years. It showed overall homelessness and in particular unsheltered homelessness was down in both Los Angeles County and the city. According to the count, homelessness was down 2.2% in the Los Angeles and 0.27% in the county.
 
@@ -44,7 +60,7 @@ Newsom last month praised the high court’s ruling, saying it “provides state
 
 “This decision removes the legal ambiguities that have tied the hands of local officials for years and limited their ability to deliver on common-sense measures to protect the safety and well-being of our communities,” Newsom added.
 
-The case was the most significant appeal involving unhoused Americans to reach the Supreme Court in decades, and it was closely watched by cities and states across the nation wrestling with a sharp increase in homelessness.
+The case was the most significant appeal involving unhoused Americans to reach the Supreme Court in decades.
 
 LA County Supervisor Kathryn Barger said Newsom “rightfully points out that local government remains at the helm of homeless encampment removals.”
 

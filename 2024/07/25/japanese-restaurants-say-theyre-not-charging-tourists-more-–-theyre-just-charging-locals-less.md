@@ -1,6 +1,6 @@
 # Japanese restaurants say they’re not charging tourists more – they’re just charging locals less
 
-Published :`2024-07-25 20:36:20`
+Published :`2024-07-25 21:14:26`
 
 ---
 

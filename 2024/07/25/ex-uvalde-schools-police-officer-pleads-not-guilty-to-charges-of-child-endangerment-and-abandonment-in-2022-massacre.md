@@ -1,6 +1,6 @@
 # Ex-Uvalde schools police officer pleads not guilty to charges of child endangerment and abandonment in 2022 massacre
 
-Published :`2024-07-25 20:36:17`
+Published :`2024-07-25 21:14:24`
 
 ---
 

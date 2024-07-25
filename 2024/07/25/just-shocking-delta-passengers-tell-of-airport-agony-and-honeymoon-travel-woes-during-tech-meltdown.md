@@ -1,6 +1,6 @@
 # ‘Just shocking’: Delta passengers tell of airport agony and honeymoon travel woes during tech meltdown
 
-Published :`2024-07-25 20:36:16`
+Published :`2024-07-25 21:14:23`
 
 ---
 
@@ -10,9 +10,9 @@ But they couldn’t even get onto planes. Delta paused its unaccompanied minors 
 
 “Delta flew my kids out and won’t fly them home,” said Reed, a resident of Atlanta. He told CNN he wasn’t notified of the minors program embargo.
 
-His eldest, 15, was stuck in Charlotte for 12 hours. His middle child, 12, stayed stranded in New York’s LaGuardia Airport. His youngest, 10, was in Orlando after flying solo for the first time.
+His eldest, 15, was stuck in the Charlotte airport for 12 hours. His middle child, 12, stayed stranded in New York’s LaGuardia Airport. His youngest, 10, was in Orlando after flying solo for the first time.
 
-Reed eventually resorted to buying a ticket to New York himself to pick up his middle child, while his sister flew out to Florida to do the same for his youngest. He arranged for a car to pick up his eldest son and bring him back to Atlanta. Later, he told CNN in an update, Delta refunded his New York ticket, and his sister found an Orlando agent who allowed his youngest child to fly home on Wednesday when the embargo was lifted.
+Reed eventually resorted to buying a ticket to New York himself to pick up his middle child, while his sister bought a ticket to Atlanta to bring home his youngest. He then arranged for a car to pick up his eldest son and bring him back to Atlanta. Later, he told CNN in an update, Delta refunded his New York ticket, and his sister found an Orlando agent who allowed his youngest child to fly home on Wednesday when the embargo was lifted.
 
 “As soon as Delta made the decision to not honor any child tickets flying by themselves, their first priority should have been rebooking those passengers, and they didn’t care,” he added.
 
