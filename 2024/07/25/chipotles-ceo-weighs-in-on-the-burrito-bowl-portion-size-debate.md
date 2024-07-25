@@ -1,6 +1,6 @@
 # Chipotle’s CEO weighs in on the burrito bowl portion size debate
 
-Published :`2024-07-25 12:28:59`
+Published :`2024-07-25 12:55:00`
 
 ---
 
