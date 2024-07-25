@@ -1,6 +1,6 @@
 # Vance confronts upheaval and uncertainty in first 10 days as Trump’s running mate
 
-Published :`2024-07-25 14:36:32`
+Published :`2024-07-25 15:15:47`
 
 ---
 
