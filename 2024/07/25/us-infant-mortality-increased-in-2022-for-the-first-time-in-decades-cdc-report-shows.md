@@ -1,6 +1,6 @@
 # US infant mortality increased in 2022 for the first time in decades, CDC report shows
 
-Published :`2024-07-25 22:14:54`
+Published :`2024-07-25 22:36:36`
 
 ---
 
