@@ -1,6 +1,6 @@
 # ‘Just shocking’: Delta passengers tell of airport agony and honeymoon travel woes during tech meltdown
 
-Published :`2024-07-25 19:36:13`
+Published :`2024-07-25 20:16:00`
 
 ---
 
@@ -12,7 +12,7 @@ But they couldn’t even get onto planes. Delta paused its unaccompanied minors 
 
 His eldest, 15, was stuck in Charlotte for 12 hours. His middle child, 12, stayed stranded in New York’s LaGuardia Airport. His youngest, 10, was in Orlando after flying solo for the first time.
 
-Reed eventually resorted to buying a ticket to New York himself to pick up his middle child, while his sister flew out to Florida to do the same for his youngest. He arranged for a car to pick up his eldest son and bring him back to Atlanta.
+Reed eventually resorted to buying a ticket to New York himself to pick up his middle child, while his sister flew out to Florida to do the same for his youngest. He arranged for a car to pick up his eldest son and bring him back to Atlanta. Later, he told CNN in an update, Delta refunded his New York ticket, and his sister found an Orlando agent who allowed his youngest child to fly home on Wednesday when the embargo was lifted.
 
 “As soon as Delta made the decision to not honor any child tickets flying by themselves, their first priority should have been rebooking those passengers, and they didn’t care,” he added.
 
@@ -71,6 +71,8 @@ He told CNN the issues have cost him a significant amount of money.
 Bastian also told Delta passengers in a note on Sunday that the airline would “continue to offer meal vouchers, hotel accommodations and transportation where available. And as a gesture of apology, we’re also providing impacted customers with Delta SkyMiles and travel vouchers.”
 
 Included in the compensation being offered to Delta customers is a waiver that allows travelers who booked a flight from July 19 to 23 to make a one-time change to their itinerary as well as the option to request a refund for significantly delayed flights.
+
+This story has been updated with additional developments and context.
 
 ---
 

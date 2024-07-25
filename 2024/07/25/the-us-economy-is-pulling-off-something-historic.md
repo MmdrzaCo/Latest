@@ -1,6 +1,6 @@
 # The US economy is pulling off something historic
 
-Published :`2024-07-25 19:36:12`
+Published :`2024-07-25 20:16:00`
 
 ---
 
@@ -8,7 +8,7 @@ The US economy is on the verge of an extremely rare achievement.
 
 Economic growth in the first half of the year was solid, with the economy expanding a robust 2.8% annualized rate in the second quarter, according to fresh Commerce Department figures released Thursday, which are adjusted for inflation and seasonal swings.
 
-Stocks surged in the morning after the economy’s powerful show of resilience, but turned mixed as the day went on. The Dow rose 205 points, or 0.5% mid-afternoon, after jumping more than 500 points earlier in the session. The S&P 500 rose 0.01% and the Nasdaq Composite lost 0.2%. That comes after the benchmark index and tech-heavy Nasdaq on Wednesday logged their worst days since 2022.
+Stocks surged in the morning after the economy’s powerful show of resilience, but later lost steam and closed the day mixed. The Dow rose 81 points, or 0.2%, after jumping more than 500 points earlier in the session. The S&P 500 fell 0.5% and the Nasdaq Composite lost 0.9%. That comes after the benchmark index and tech-heavy Nasdaq on Wednesday logged their worst day since 2022.
 
 Gross domestic product, the broadest measure of economic output, was much stronger in the second quarter than economists had predicted. The GDP report showed that businesses are continuing to invest and that consumers are still opening their wallets. That’s key, because consumer spending is America’s economic engine, accounting for about two-thirds of US economic output.
 
@@ -37,6 +37,8 @@ Wall Street traders are overwhelmingly betting that the Fed will decide to cut r
 Fed Chair Jerome Powell hasn’t given a definitive signal that rate cuts are coming, but he has provided some subtle hints. Powell earlier this month told lawmakers that “elevated inflation is not the only risk we face,” pointing to how much the labor market has cooled recently. The Fed chief has said that unexpectedly higher unemployment would prompt the central bank to cut rates sooner, since in addition to stabilizing prices, the Fed is also responsible for maximizing employment.
 
 “Prices are easing and growth is strong. We had some worries about slowing GDP last June but those haven’t panned out,” David Russell, global head of market strategy at TradeStation, said in a note Thursday. “The second half could be in good shape for the bulls. Goldilocks is getting stronger and the risk of stagflation is fading. There’s not much stag and not much ‘flation.”
+
+As stocks settle after the trading day, levels might change slightly.
 
 ---
 

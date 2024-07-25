@@ -1,6 +1,6 @@
 # Judge who ordered Trump to pay $454 million says he won’t recuse himself from case
 
-Published :`2024-07-25 19:36:12`
+Published :`2024-07-25 20:16:00`
 
 ---
 
