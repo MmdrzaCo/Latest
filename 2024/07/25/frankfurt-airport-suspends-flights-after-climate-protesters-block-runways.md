@@ -1,6 +1,6 @@
 # Frankfurt airport suspends flights after climate protesters block runways
 
-Published :`2024-07-25 23:16:20`
+Published :`2024-07-25 23:36:08`
 
 ---
 

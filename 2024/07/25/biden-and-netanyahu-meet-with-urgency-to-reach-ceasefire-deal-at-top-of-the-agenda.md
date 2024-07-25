@@ -1,6 +1,6 @@
 # Biden and Netanyahu meet with urgency to reach ceasefire deal at top of the agenda
 
-Published :`2024-07-25 23:16:15`
+Published :`2024-07-25 23:36:02`
 
 ---
 
@@ -46,9 +46,11 @@ US officials remain sensitive to Israeli politics that may be shaping Netanyahu�
 
 The US does not believe, for now, that Netanyahu is standing in the way of or delaying a ceasefire and hostage deal, and believes that progress is being made amid ongoing negotiations, according to a senior administration official. Both the Israelis and Hamas, the official said, have elements they need to agree on before a deal is reached, and not one side is holding up negotiations at this point.
 
-The in-person meeting at the White House will be the first time the two men have met in person since Biden’s trip to Israel last year following the October 7 attack, although the two men have spoken frequently on the phone. It was followed by the meeting with American hostage families, and then Netanyahu met with Vice President Kamala Harris, whom Biden has endorsed to replace him on the top of the Democratic ticket.
+The in-person meeting at the White House was the first time the two men have met in person since Biden’s trip to Israel last year following the October 7 attack, although the two men have spoken frequently on the phone. It was followed by the meeting with American hostage families, and then Netanyahu met with Vice President Kamala Harris, whom Biden has endorsed to replace him on the top of the Democratic ticket.
 
-Harris welcomed Netanyahu and said they had “a lot to talk about” ahead of their conversation.
+In remarks to reporters following their meeting, Harris said that she told Netanyahu it is time to get a ceasefire deal “done,” adding that she “will not be silent” about the suffering in Gaza.
+
+Harris touted her “unwavering” support for Israel while warning Netanyahu’s government that it matters how the war is conducted.
 
 The prime minister in his remarks to Congress criticized anti-Israel protesters as “Iran’s useful idiots” and falsely downplayed the role of Israel in causing the ongoing civilian suffering in Gaza.
 

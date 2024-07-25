@@ -1,6 +1,6 @@
 # CenterPoint Energy officials apologize after lengthy Houston power outages from Hurricane Beryl
 
-Published :`2024-07-25 23:16:16`
+Published :`2024-07-25 23:36:04`
 
 ---
 

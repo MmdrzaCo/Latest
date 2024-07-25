@@ -1,6 +1,6 @@
 # Harris says she told Netanyahu to get ceasefire deal done while pledging ‘unwavering’ support for Israel
 
-Published :`2024-07-25 23:16:14`
+Published :`2024-07-25 23:36:02`
 
 ---
 
