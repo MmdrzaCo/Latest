@@ -1,6 +1,6 @@
 # Jill Biden travels to Paris Olympics as her husband passes the torch
 
-Published :`2024-07-25 22:36:36`
+Published :`2024-07-25 23:16:20`
 
 ---
 

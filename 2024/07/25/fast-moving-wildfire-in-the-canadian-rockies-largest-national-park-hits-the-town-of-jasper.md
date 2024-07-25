@@ -1,60 +1,58 @@
 # Fast-moving wildfire in the Canadian Rockies’ largest national park hits the town of Jasper
 
-Published :`2024-07-25 22:36:35`
+Published :`2024-07-25 23:16:14`
 
 ---
 
-A fast-moving wildfire hit the town of Jasper in the Canadian Rockies’ largest national park, causing significant damage and forcing thousands of people, residents and tourists alike, to flee.
+A fast-moving wildfire in the Canadian Rockies that had prompted 25,000 people to flee roared into the near-deserted town of Jasper overnight with flames higher than treetops, devastating up to half of its structures, officials said Thursday.
 
-Jasper National Park officials said the fire entered the southern edge of the community Wednesday evening and crews were battling multiple structural fires and working to protect key infrastructure. There were significant losses in some areas, they said.
+There were no immediate reports of injuries, following a mass evacuation of the picturesque resort and a neighboring national park earlier in the week, but Jasper Mayor Richard Ireland said in a letter on the town’s website that the wildfire “ravaged our beloved community.”
 
-Prime Minister Justin Trudeau said Thursday his government has approved Alberta’s request for federal assistance, saying it is deploying military resources and evacuation support, as well as coordinating firefighting and airlift assistance.
+“The destruction and loss that many you are facing and feeling is beyond description and comprehension, my deepest sympathies go out to each of you,” he said.
 
-“Alberta, we’re with you,” Trudeau posted on the social media platform X.
+Danielle Smith, the premier of Alberta province, said from 30% to 50% of the town’s structures are potentially damaged or destroyed, saying, “That’s going to be a significant rebuild and significant displacement.”
 
-Forest firefighters and others without self-contained breathing apparatus were told to evacuate to the nearby town of Hinton, with structural firefighters staying behind.
+Smith teared up talking about the beauty of Jasper, noting that many families from the province regularly visit. A postcard-perfect mountain town, Jasper is famous for hiking, skiing, kayaking and biking. It is also home to dozens of species such as elk, mountain goats, cougars, lynx, black bears and grizzly bears.
 
-Parks Canada spokesperson James Eastham told reporters outside Jasper that the town is filled with smoke and there “has been structural loss.”
+“We share the sense of loss with all who live in town,” Smith said at a news conference in Edmonton, Alberta, while pledging her government’s support for the community to rebuild.
 
-“At this point I can’t confirm how many, locations or specific structures. The fire continues to burn,” he said.
+Jasper and the neighboring Jasper National Park had been menaced by fires from both the north and south, and the town’s 5,000 full-time residents — along with 20,000 visitors – fled on short notice late Monday and Tuesday when the fires flared up.
 
-Parks Canada said firefighters are working to save “as many structures as possible and to protect critical infrastructure, including the wastewater treatment plant, communications facilities, the Trans Mountain Pipeline and others.”
+One of the fires raced into the southern edge of the community Wednesday evening as firefighters tried to limit the damage.
 
-On X, the account for the Fairmont Jasper Park Lodge says the flames have reached the hotel’s grounds, but the extent of damage, if any, is not yet known.
+Alberta Public Safety Minister Mike Ellis said a wind gust moved the wildfire about 5 kilometers (about 3 miles) in probably less than 30 minutes toward the town with a wall of fire that he estimated was 100 meters high.
 
-A few hours earlier, many first responders were ordered out of Jasper National Park for their safety.
+“People need to picture what those wildfire folks were experiencing at that time. Any firefighter will tell you there is little to nothing you can do when a wall of fire like that is coming at you,” Ellis said. “Nobody anticipated the fire to come so fast, so large.”
 
-Jasper is being menaced by fires from the north and south, and the town’s 5,000 residents — along with 20,000 more park visitors – fled on short notice late Monday night when the fires flared up.
+Pierre Martel, director of fire management at Parks Canada, said lightning, winds and drought made the fire grow rapidly on Monday and that flames were above the treetops when it entered the town Wednesday.
 
-Alberta Premier Danielle Smith said she was “heartbroken.”
+“It’s just a monster at that point. There are no tools we have in our tool box to deal with that at that point. You get out of the way, you retreat,” he said.
 
-A record number of wildfires in 2023 forced more than 235,000 people across Canada to evacuate and sent thick smoke into parts of the US, leading to hazy skies and health advisories in multiple U.S. cities.
+Parks Canada said in a post on X that there had been “no reported injuries,” adding that “approximately 25,000 people were safely evacuated from the town of Jasper and Jasper National Park. All residents, visitors and responders are safe.”
 
-The northern fire was spotted 5 kilometers (about 3 miles) from Jasper earlier in the day. The southern fire had been reported 8 kilometers (about 5 miles) away from the town, but Katie Ellsworth of Parks Canada said strong wind gusts swooping in behind it sent it racing.
+Park officials said efforts to fight the fire were continuing and that it was too early to give details of the damage. They asked for patience, and said the fire remains out of control despite a small amount of rain that fell overnight.
 
-Everything that could go wrong did go wrong as fire perimeters changed minute by minute.
+Annelies Lagger, who has owned and lived in the Austrian Haven B&B for 30 years, said she’s waiting to hear if it’s been destroyed but isn’t optimistic because all the houses nearby are gone. She said she fled with her 13 cats and dog.
 
-Ellsworth said bucketing efforts by helicopter failed. Crews using heavy equipment to build fireguards couldn’t complete the work before having to pull back for safety. Water bombers couldn’t help due to dangerous flying conditions.
+“I have no clue where I go now. Heaven or hell. It was my life. You can imagine how much work it was,” she said. “I’m think I’m in shock.”
 
-A last-ditch effort to use controlled burns to reroute the fire to natural barriers like Highway 16 and the Athabasca River failed due to “unfavorable conditions.”
+She said relatives including her daughter and son-in-law had their homes destroyed. “It was the heat that dried everything out. And now the town is gone,” she said.
 
-The hope was that rain forecast overnight would bring some relief.
+Lagger was sheltering with a kind stranger in Valemount, British Columbia, but said she eventually would need to find new homes for her family members and “for my critters.”
 
-Ellsworth said the decision to relocate all first responders to Hinton, just outside the eastern edge of the park, “has not been made lightly.”
+“I’m a very tough woman. Whatever happens I start again even though I’m 82 years old,” she said.
 
-She said, “Given the intensity of fire behavior being observed the decision has been made to limit the number of responders exposed to this risk.”
+Prime Minister Justin Trudeau said his administration has approved Alberta’s request for federal assistance, including military resources.
 
 Jasper National Park is considered a national treasure. The United Nations designated the parks that make up the Canadian Rockies, including Jasper, a World Heritage Site in 1984 for its striking mountain landscape.
 
-In 1953, Hollywood star Marilyn Monroe visited to make the movie “River of No Return.” More recently, the TV show “The Bachelorette” was filmed there.
+Alberta has been baking under scorching temperatures that have already forced another 7,500 people out of remote communities. About 176 wildfires were burning across the province, including 54 that are burning out of control.
 
-Residents and visitors streamed out by the thousands late Monday and Tuesday, and officials said Wednesday the evacuation of the town of Jasper was complete.
+Alberta Forestry and Parks Minister Todd Loewen said many of the fires are caused by lightning, and Alberta Wildfire spokesperson Christie Tucker said firefighters expect winds will raise the danger.
 
-Alberta has been baking under scorching temperatures that have already forced another 7,500 people out of remote communities. About 177 wildfires were burning across the province.
+Tucker said hundreds of firefighters from Australia, Mexico, New Zealand and South Africa are arriving to help fight the wildfires throughout the province.
 
-Jasper resident Leanne Maeva Joyeuse was relieved but exhausted after reaching the Grand Prairie evacuation center following 20 hours on the road with her grandmother, parents and younger brother.
-
-“We’re just waiting to go back home and see how many days we’re going to be stuck here,” Joyeuse said.
+A record number of wildfires in 2023 forced more than 235,000 people across Canada to evacuate and sent thick smoke into parts of the US, leading to hazy skies and health advisories in multiple US cities.
 
 ---
 

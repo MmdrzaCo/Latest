@@ -1,6 +1,6 @@
 # Delta’s CEO is off to Paris while his airline struggles to recover from massive meltdown
 
-Published :`2024-07-25 22:36:34`
+Published :`2024-07-25 23:16:18`
 
 ---
 
