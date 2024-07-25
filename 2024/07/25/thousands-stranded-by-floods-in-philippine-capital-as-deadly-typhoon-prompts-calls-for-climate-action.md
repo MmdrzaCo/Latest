@@ -1,6 +1,6 @@
 # Thousands stranded by floods in Philippine capital as deadly typhoon prompts calls for climate action
 
-Published :`2024-07-25 07:16:07`
+Published :`2024-07-25 07:36:18`
 
 ---
 
@@ -14,15 +14,21 @@ Video and images from Manila show people wading through chest-deep water and som
 
 Some parts of Metro Manila – home to 13 million people – have reported floods as high as one-story buildings, with some residents spotted waiting for rescue on roofs, according to the official Philippine News Agency.
 
+In Rizal province’s Cainta, east of the capital, floodwaters were still around waist-level on Thursday, according to local councilor Ben Ramirez Narag.
+
+“No one is prepared for this, even though we anticipated the typhoon, we could not have predicted the scale of rainfall,” he said.
+
+His team was delivering supplies to evacuation centers and assessing damage to infrastructure, he added.
+
 The southwest monsoon, supercharged by the typhoon, is still causing misery and destruction in the Philippines even after Gaemi moved north and made landfall in Taiwan early Thursday as the equivalent of a Category 3 major hurricane in the Atlantic.
 
 Heavy rainfall, gusty winds and a dangerous storm surge killed at least two people and injured nearly 300 others in Taiwan’s northeast, according to the Central Emergency Operations Center.
 
 Taiwan remained largely shut down for a second day Thursday with flights canceled and financial markets, schools and offices closed as heavy rainfall continued to pummel the island. Some mountainous regions have reported up to 1,219 mm (48 inches) of rain.
 
-A cargo ship carrying nine crew members sank off Taiwan’s coast in rough seas on Thursday, according to Taiwan’s National Fire Agency. The Tanzanian registered vessel sank around 20 miles off the coast of the southern port city of Kaohsiung and was not equipped with a lifeboat.
+A cargo ship carrying nine crew sank off Taiwan’s coast in rough seas on Thursday, according to the island’s fire agency. The Tanzanian registered vessel sank around 20 miles off the coast of the southern port city of Kaohsiung and was not equipped with a lifeboat.
 
-All nine crew members “fell into the sea and were floating there” wearing life jackets, Hsiao Huan-chang, the head of the National Fire Agency, said in a press conference.
+All the crew members “fell into the sea and were floating there” wearing life jackets, Hsiao Huan-chang, the head of the fire agency, said in a news conference.
 
 The island is expected to endure several more hours of torrential rain even as the typhoon’s center moved into the Taiwan Strait Thursday and headed toward China.
 
@@ -30,11 +36,15 @@ The storm is expected to make landfall in China’s southeast coastal Fujian pro
 
 ### Philippines disaster
 
-The Philippine Coast Guard (PCG) on Thursday said it was responding to a maritime incident involving an oil tanker that capsized off the coast of Bataan, west of Manila. PCG spokesperson, CG Rear Admiral Armando Balilo said 16 of the 17 crew on board had been rescued and search teams were continuing to look for the missing crewmember.
+The Philippine Coast Guard (PCG) on Thursday said it was responding to an incident involving an oil tanker that capsized off the coast of Bataan, west of Manila. PCG spokesperson CG Rear Adm. Armando Balilo said 16 crew members had been rescued with the search ongoing for one missing sailor.
 
 Images show the coast guard launching a rescue operation and the ship almost fully submerged in rough seas.
 
 On land, the flooding has caused widespread disruption that forced authorities to close schools, businesses and cancel more than 150 flights on Thursday.
+
+Carlito Pagaduan, a resident of northern Ilocos Sur province, told CNN that heavy rains descended early Thursday and although floodwaters had not entered his home he feared they may lose power in the hard-to-reach area.
+
+“We’re trying to save battery,” he told CNN. “Due to strong winds, we don’t know when we’ll lose electricity.” He said his family has prepared for evacuation but will stay in their home for now.
 
 Rescue services said Thursday they are continuing to pull trapped residents out of flooded buildings. Some homes could be seen completely inundated and vehicles submerged on flooded streets.
 
