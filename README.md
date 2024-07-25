@@ -1,22 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-25 21:37:30`
+#### Latest Update : `2024-07-25 22:14:56`
 
 ## Latest News Grabbing 
 
 ---
 
+- [Man arrested for allegedly starting Park Fire in California as Oregon battles massive blaze](https://new-news.github.io/Latest/2024/07/25/man-arrested-for-allegedly-starting-park-fire-in-california-as-oregon-battles-massive-blaze 'Man arrested for allegedly starting Park Fire in California as Oregon battles massive blaze')
+
+- [Gov. Gavin Newsom issues executive order for removal of homeless encampments in California](https://new-news.github.io/Latest/2024/07/25/gov-gavin-newsom-issues-executive-order-for-removal-of-homeless-encampments-in-california 'Gov. Gavin Newsom issues executive order for removal of homeless encampments in California')
+
+- [Far-right Gateway Pundit sought bankruptcy protection in ‘bad faith’ to avoid 2020 defamation suits, judge rules](https://new-news.github.io/Latest/2024/07/25/far-right-gateway-pundit-sought-bankruptcy-protection-in-bad-faith-to-avoid-2020-defamation-suits-judge-rules 'Far-right Gateway Pundit sought bankruptcy protection in ‘bad faith’ to avoid 2020 defamation suits, judge rules')
+
 - [Biden and Netanyahu meet with urgency to reach ceasefire deal at top of the agenda](https://new-news.github.io/Latest/2024/07/25/biden-and-netanyahu-meet-with-urgency-to-reach-ceasefire-deal-at-top-of-the-agenda 'Biden and Netanyahu meet with urgency to reach ceasefire deal at top of the agenda')
 
 - [Hollywood’s videogame performers to go on strike over AI, pay concerns](https://new-news.github.io/Latest/2024/07/25/hollywoods-videogame-performers-to-go-on-strike-over-ai-pay-concerns 'Hollywood’s videogame performers to go on strike over AI, pay concerns')
 
-- [Far-right Gateway Pundit sought bankruptcy protection in ‘bad faith’ to avoid 2020 defamation suits, judge rules](https://new-news.github.io/Latest/2024/07/25/far-right-gateway-pundit-sought-bankruptcy-protection-in-bad-faith-to-avoid-2020-defamation-suits-judge-rules 'Far-right Gateway Pundit sought bankruptcy protection in ‘bad faith’ to avoid 2020 defamation suits, judge rules')
-
 - [OpenAI is taking on Google with a new artificial intelligence search engine](https://new-news.github.io/Latest/2024/07/25/openai-is-taking-on-google-with-a-new-artificial-intelligence-search-engine 'OpenAI is taking on Google with a new artificial intelligence search engine')
-
-- [Man arrested for allegedly starting Park Fire in California as Oregon battles massive blaze](https://new-news.github.io/Latest/2024/07/25/man-arrested-for-allegedly-starting-park-fire-in-california-as-oregon-battles-massive-blaze 'Man arrested for allegedly starting Park Fire in California as Oregon battles massive blaze')
-
-- [Gov. Gavin Newsom issues executive order for removal of homeless encampments in California](https://new-news.github.io/Latest/2024/07/25/gov-gavin-newsom-issues-executive-order-for-removal-of-homeless-encampments-in-california 'Gov. Gavin Newsom issues executive order for removal of homeless encampments in California')
 
 - [Kamala Harris stops by ‘RuPaul’s Drag Race’ with a message for viewers](https://new-news.github.io/Latest/2024/07/25/kamala-harris-stops-by-rupauls-drag-race-with-a-message-for-viewers 'Kamala Harris stops by ‘RuPaul’s Drag Race’ with a message for viewers')
 

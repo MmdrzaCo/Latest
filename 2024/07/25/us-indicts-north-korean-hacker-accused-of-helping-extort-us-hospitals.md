@@ -1,6 +1,6 @@
 # US indicts North Korean hacker accused of helping extort US hospitals
 
-Published :`2024-07-25 21:37:28`
+Published :`2024-07-25 22:14:49`
 
 ---
 
@@ -10,7 +10,7 @@ Rim Jong Hyok is part of a group of hackers working for North Korea’s military
 
 The hacks of health care providers locked up medical records and disrupted health care services in the US, US officials said. The North Korean hackers’ victims included hospitals in Florida and Kansas, health care firms in Arkansas and Connecticut, and a medical clinic in Colorado, according to the indictment unsealed in the US District Court for the District of Kansas.
 
-The State Department offered a reward of up to $10 million reward for information on Rim.
+The State Department offered a reward of up to $10 million for information on Rim.
 
 US, South Korean and British government security agencies also on Thursday released information on the North Korean hackers’ tactics and warned that the hackers were targeting classified and other sensitive information at nuclear, aerospace and other sectors to advance Pyongyang’s military and nuclear programs.
 

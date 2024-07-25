@@ -1,6 +1,6 @@
 # Justice Elena Kagan says Supreme Court’s code of conduct should be enforced by other federal judges
 
-Published :`2024-07-25 21:37:28`
+Published :`2024-07-25 22:14:48`
 
 ---
 

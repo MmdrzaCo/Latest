@@ -1,6 +1,6 @@
 # Far-right Gateway Pundit sought bankruptcy protection in ‘bad faith’ to avoid 2020 defamation suits, judge rules
 
-Published :`2024-07-25 21:37:28`
+Published :`2024-07-25 22:14:47`
 
 ---
 
@@ -30,9 +30,19 @@ The Gateway Pundit is one of several right-wing media outlets grappling with the
 
 Additional lawsuits from Dominion and Smartmatic are progressing in the courts against Trump allies, including his former lawyers Rudy Giuliani and Sidney Powell and conspiracy theorists Mike Lindell and Patrick Byrne, who all supported Trump’s attempts to overturn the 2020 election.
 
-Meanwhile, the far-right channel One America News settled a lawsuit with Smartmatic this year. And the right-wing cable outlet Newsmax faces lawsuits from both Smartmatic and Dominion.
+Meanwhile, the far-right channel One America News settled a lawsuit with Smartmatic earlier this year. And the right-wing cable outlet Newsmax faces lawsuits from both Smartmatic and Dominion, with the Smartmatic case scheduled to go to trial in September.
 
-CNN’s Oliver Darcy contributed reporting.
+The Gateway Pundit’s three-month journey in bankruptcy court revealed previously confidential details about the inner workings and financial stability of the conspiracy-peddling website.
+
+“Publication of sensational stories has generated healthy revenues” for the outlet, Mora, the bankruptcy judge, wrote in her ruling, noting that the company made $3.1 million in gross revenue last year and $2.8 million in 2022.
+
+The Gateway Pundit’s “only employee” is Hoft, though his husband and brother are both paid for contract work and marketing services, according to the ruling. The company also has some “eye-catching” assets that it wasn’t offering to liquidate, including a 2021 Porsche Cayenne that Hoft drives while living in St. Louis, and a condo in Jensen Beach, Florida.
+
+Freeman, Moss and Coomer opposed the bankruptcy plan, which the judge said “looks a lot like bad faith” because it would have capped their potential payouts from the defamation lawsuits at three years of The Gateway Pundit’s net income. That is likely significantly smaller than what Freeman, Moss and Coomer could be awarded if they win their lawsuits. Giuliani, for instance, was ordered to pay $148 million in damages to Freeman and Moss for peddling similar lies about their role in the 2020 election. (A separate judge recently dismissed Giuliani’s bankruptcy case, after he sought similar protections.)
+
+“Bankruptcy relief is intended to foster equitable goals, not provide a Monopoly-style ‘get out of jail free’ card,” Mora wrote.
+
+CNN’s Oliver Darcy and Tierney Sneed contributed reporting.
 
 ---
 

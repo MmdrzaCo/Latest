@@ -1,6 +1,6 @@
 # Tesla stock tumbles after its profit plunged
 
-Published :`2024-07-25 21:37:30`
+Published :`2024-07-25 22:14:56`
 
 ---
 

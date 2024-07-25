@@ -1,6 +1,6 @@
 # Man arrested for allegedly starting Park Fire in California as Oregon battles massive blaze
 
-Published :`2024-07-25 21:37:28`
+Published :`2024-07-25 22:14:47`
 
 ---
 
@@ -8,7 +8,7 @@ The largest active wildfire in the United States has scorched almost 270,000 acr
 
 • California battles northern blaze: The Park Fire in California has exploded to nearly 71,500 acres and is 3% contained, according to CalFire. A suspect has been arrested after being identified pushing a car engulfed in fire 60 feet into a gully, “spreading flames that caused the Park Fire,” the Butte County District Attorney’s Office announced Thursday afternoon. The blaze has forced mandatory evacuations in Butte County, where the state’s deadliest wildfire, the Camp Fire, killed more than 80 people in 2018.
 
-• The Oregon fire is 0% contained: The Durkee Fire – which has already burned an area larger than the city of Indianapolis – started on July 17 near the Oregon-Idaho state line. Amid high temperatures, extremely dry vegetation and strong winds, the fire has grown tens of thousands of acres since Sunday and is 0% contained as of Thursday morning.
+• Oregon fire is 20% contained: The Durkee Fire, which has burned an area larger than the city of Indianapolis, started on July 17 near the Oregon-Idaho state line. Amid high temperatures, extremely dry vegetation and strong winds, the fire has grown tens of thousands of acres since Sunday and is 20% contained as of Thursday afternoon, according to InciWeb.
 
 • Durkee Fire threatens nearby communities: Three people were injured and two homes and 12 other structures were destroyed as the fire spread, according to the Oregon Department of Emergency Management. Officials have asked some residents to evacuate. Some communities do not have power, according to Oregon Gov. Tina Kotek, who has deployed resources from the National Guard to assist.
 
