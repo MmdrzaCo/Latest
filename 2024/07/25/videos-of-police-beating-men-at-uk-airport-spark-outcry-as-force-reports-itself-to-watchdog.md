@@ -1,6 +1,6 @@
 # Videos of police beating men at UK airport spark outcry as force reports itself to watchdog
 
-Published :`2024-07-25 05:36:33`
+Published :`2024-07-25 06:21:41`
 
 ---
 
