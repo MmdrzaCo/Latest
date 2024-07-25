@@ -1,6 +1,6 @@
 # We finally know what caused the global tech outage - and how much it cost
 
-Published :`2024-07-25 11:12:48`
+Published :`2024-07-25 11:36:31`
 
 ---
 

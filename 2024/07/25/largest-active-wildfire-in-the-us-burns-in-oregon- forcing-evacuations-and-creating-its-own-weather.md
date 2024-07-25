@@ -1,6 +1,6 @@
 # Largest active wildfire in the US burns in Oregon, forcing evacuations and creating its own weather
 
-Published :`2024-07-25 11:12:46`
+Published :`2024-07-25 11:36:30`
 
 ---
 

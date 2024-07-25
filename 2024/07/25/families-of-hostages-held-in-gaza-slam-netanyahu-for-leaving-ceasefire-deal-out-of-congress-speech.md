@@ -1,6 +1,6 @@
 # Families of hostages held in Gaza slam Netanyahu for leaving ceasefire deal out of Congress speech
 
-Published :`2024-07-25 11:12:45`
+Published :`2024-07-25 11:36:30`
 
 ---
 
@@ -8,11 +8,11 @@ Families of hostages held captive in Gaza condemned Benjamin Netanyahu’s speec
 
 “The speech and applause won’t erase the one sad fact: The words ‘Deal Now!’ were absent from the prime minister’s address,” The Hostage and Missing Families Forum in Israel said in a statement.
 
-People gathered at the so-called Hostages Square in Tel Aviv to watch Netanyahu’s speech on Wednesday, which drew raucous applause inside Congress but was also snubbed by dozens of Democrats.
+Although Netanyahu’s speech drew raucous applause inside Congress, dozens of Democrats refused to attend. Among those who snubbed the speech was former House Speaker Nancy Pelosi, who called it “by far the worst presentation of any foreign dignitary invited and honored with the privilege of addressing the Congress of the United States.”
 
-The Hostages and Missing Families Forum has become a potent political force in Israel since some 250 people were abducted by Hamas on October 7, and the square a regular site of protests demanding that the hostages be brought home.
+People gathered at the so-called Hostages Square in Tel Aviv to watch Netanyahu’s speech on Wednesday. The Hostages and Missing Families Forum has become a potent political force in Israel since some 250 people were abducted by Hamas on October 7, and the square a regular site of protests demanding that the hostages be brought home.
 
-“They came to watch the broadcast of the speech and hear addresses from family members of the hostages, hoping to hear the Prime Minister utter the two crucial words: ‘There’s a deal,’” the statement said.
+“They came to watch the broadcast of the speech and hear addresses from family members of the hostages, hoping to hear the Prime Minister utter the two crucial words: ‘There’s a deal,’” the statement from the Forum said.
 
 During his nearly 52-minute address, Netanyahu lashed out against critics of Israel’s war in Gaza but did not mention the status of the ceasefire negotiations, despite intense international pressure to find a deal and growing optimism that one could soon be struck.
 
@@ -40,7 +40,7 @@ Video published Thursday showed smoke billowing into the sky over Khan Younis, a
 
 Despite the warm reception by lawmakers in Congress, about 80 House Democrats skipped Netanyahu’s speech, including US Vice President Kamala Harris, who instead attended a pre-scheduled trip to a sorority event in Indiana. President Joe Biden and Harris are scheduled to meet with Netanyahu at the White House Thursday.
 
-Also among the absentees was former House Speaker Nancy Pelosi, who later blasted Netanyahu’s speech as “by far the worst presentation of any foreign dignitary invited and honored with the privilege of addressing the Congress of the United States.”
+Also among the absentees was Nancy Pelosi, who later blasted Netanyahu’s speech.
 
 “Many of us who love Israel spent time today listening to Israeli citizens whose families have suffered in the wake of the October 7th Hamas terror attack and kidnappings. These families are asking for a ceasefire deal that will bring the hostages home – and we hope the Prime Minister would spend his time achieving that goal,” she said in a statement.
 

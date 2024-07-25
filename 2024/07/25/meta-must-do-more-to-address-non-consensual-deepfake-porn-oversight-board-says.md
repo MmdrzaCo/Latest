@@ -1,6 +1,6 @@
 # Meta must do more to address non-consensual, deepfake porn, Oversight Board says
 
-Published :`2024-07-25 11:12:46`
+Published :`2024-07-25 11:36:30`
 
 ---
 
@@ -20,7 +20,9 @@ Meta said in a statement that it welcomed the board’s decision. It added that 
 
 In its report, the Oversight Board — a quasi-independent entity made up of experts in areas such as freedom of expression and human rights — laid out additional recommendations for how Meta could improve its efforts to combat sexualized deepfakes. It urged the company to make its rules clearer by updating its prohibition against “derogatory sexualized photoshop” to specifically include the word “non-consensual” and to clearly cover other photo manipulation techniques such as AI.
 
-According to the report, Meta told the board that it had not added the image of the Indian public figure to its rule-violating photo matching bank because there had not been news reports about it, whereas the media had covered the images of the US public figure. “This is worrying because many victims of deepfake intimate images are not in the public eye and are forced to either accept the spread of their non-consensual depictions or search for and report every instance,” the Board said, adding that Meta could consider other factors, including whether an image was AI-generated when determining whether to add it to the bank.
+According to the report, Meta told the board that it had not originally added the image of the Indian public figure to its rule-violating photo matching bank because there had not been news reports about it, whereas the media had covered the images of the US public figure. “This is worrying because many victims of deepfake intimate images are not in the public eye and are forced to either accept the spread of their non-consensual depictions or search for and report every instance,” the Board said, adding that Meta could consider other factors, including whether an image was AI-generated when determining whether to add it to the bank.
+
+After the board began its inquiry in April, Meta added the image to its photo matching bank.
 
 The push to fight non-consensual deepfakes is just part of Meta’s larger efforts to prevent the sexual exploitation of its users. The company on Wednesday said it had removed around 63,000 accounts in Nigeria that were engaging in financial sextortion scams, where people (often teenagers) are tricked into sending nude images and then extorted.
 
