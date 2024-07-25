@@ -1,6 +1,6 @@
 # Videos of police beating men at UK airport spark outcry as force reports itself to watchdog
 
-Published :`2024-07-25 06:41:02`
+Published :`2024-07-25 07:16:07`
 
 ---
 
@@ -20,7 +20,7 @@ Later in the same video, another man, whose hands were in the air while sitting 
 
 The video appears to show the attacks taking place on the ground level of the airport outside of several elevators.
 
-Another video shows a man in a gray t-shirt being confronted, pepper-sprayed in the face, and brought to the ground by a police officer who wrapped his arm around the man’s neck as he wrestled him down.
+Another video shows a man in a gray T-shirt being confronted, pepper-sprayed in the face, and brought to the ground by a police officer who wrapped his arm around the man’s neck as he wrestled him down.
 
 CNN cannot independently verify the events leading up to or directly after the violence captured on video.
 
@@ -45,6 +45,10 @@ A male officer has been “removed from operational duties,” Chaudhry added, 
 Protesters gathered outside the force’s divisional headquarters in the town of Rochdale on Wednesday, PA media reported.
 
 Multiple British politicians condemned the assaults shown in the videos. Andy Burnham, the mayor of Greater Manchester, called the videos “disturbing” in a post on X.
+
+Paul Waugh, the local MP for Rochdale, said in a post on X he is “extremely concerned” by the “appalling” footage from Manchester Airport, noting he has expressed his concerns to police.
+
+The man who was arrested is a Rochdale resident, Waugh said, adding in a later post that he has spoken to the man’s family and will meet them Friday.
 
 UK Home Office Minister Diana Johnson said on X that she was “aware of the disturbing footage” and “understand(s) the public concern it has prompted.”
 

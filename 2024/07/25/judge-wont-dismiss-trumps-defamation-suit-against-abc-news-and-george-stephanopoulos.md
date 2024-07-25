@@ -1,6 +1,6 @@
 # Judge won’t dismiss Trump’s defamation suit against ABC News and George Stephanopoulos
 
-Published :`2024-07-25 06:41:03`
+Published :`2024-07-25 07:16:08`
 
 ---
 

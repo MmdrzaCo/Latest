@@ -1,6 +1,6 @@
 # Thousands stranded by floods in Philippine capital as deadly typhoon prompts calls for climate action
 
-Published :`2024-07-25 06:41:02`
+Published :`2024-07-25 07:16:07`
 
 ---
 
