@@ -1,6 +1,6 @@
 # House votes to set up bipartisan task force to investigate Trump assassination attempt
 
-Published :`2024-07-25 06:21:41`
+Published :`2024-07-25 06:41:03`
 
 ---
 

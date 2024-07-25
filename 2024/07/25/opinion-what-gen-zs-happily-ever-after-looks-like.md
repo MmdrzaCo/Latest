@@ -1,6 +1,6 @@
 # Opinion: What Gen Z’s ‘happily ever after’ looks like
 
-Published :`2024-07-25 06:21:43`
+Published :`2024-07-25 06:41:06`
 
 ---
 
