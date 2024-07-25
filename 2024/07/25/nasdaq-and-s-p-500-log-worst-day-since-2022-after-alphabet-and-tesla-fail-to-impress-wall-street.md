@@ -1,6 +1,6 @@
 # Nasdaq and S&P 500 log worst day since 2022 after Alphabet and Tesla fail to impress Wall Street
 
-Published :`2024-07-25 04:39:54`
+Published :`2024-07-25 05:15:07`
 
 ---
 
