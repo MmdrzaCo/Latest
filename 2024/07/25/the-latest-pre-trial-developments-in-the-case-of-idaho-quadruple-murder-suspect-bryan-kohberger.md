@@ -1,6 +1,6 @@
 # The latest pre-trial developments in the case of Idaho quadruple murder suspect Bryan Kohberger
 
-Published :`2024-07-25 10:38:05`
+Published :`2024-07-25 11:12:51`
 
 ---
 

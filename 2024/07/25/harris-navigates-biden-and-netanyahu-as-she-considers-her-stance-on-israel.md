@@ -1,6 +1,6 @@
 # Harris navigates Biden and Netanyahu as she considers her stance on Israel
 
-Published :`2024-07-25 10:38:02`
+Published :`2024-07-25 11:12:46`
 
 ---
 

@@ -1,6 +1,6 @@
 # New York urges Supreme Court not to intervene in Trump’s hush money criminal case
 
-Published :`2024-07-25 10:38:03`
+Published :`2024-07-25 11:12:46`
 
 ---
 

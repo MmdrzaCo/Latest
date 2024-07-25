@@ -1,6 +1,6 @@
 # Ford keeps having to repair customers’ new cars and trucks. Its profit is plunging and its stock tumbled
 
-Published :`2024-07-25 10:38:04`
+Published :`2024-07-25 11:12:49`
 
 ---
 

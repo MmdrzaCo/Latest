@@ -1,6 +1,6 @@
 # Man accused of stabbing author Salman Rushdie pleads not guilty to federal terrorism-related counts, lawyer says
 
-Published :`2024-07-25 10:38:04`
+Published :`2024-07-25 11:12:50`
 
 ---
 
