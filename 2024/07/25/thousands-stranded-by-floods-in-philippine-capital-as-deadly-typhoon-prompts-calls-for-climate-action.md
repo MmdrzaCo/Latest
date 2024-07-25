@@ -1,6 +1,6 @@
 # Thousands stranded by floods in Philippine capital as deadly typhoon prompts calls for climate action
 
-Published :`2024-07-25 08:19:15`
+Published :`2024-07-25 08:39:11`
 
 ---
 
@@ -36,9 +36,9 @@ The storm is expected to make landfall in China’s southeast coastal Fujian pro
 
 ### Oil tanker capsizes
 
-The Philippine Coast Guard (PCG) on Thursday said it was responding to an incident involving an oil tanker that capsized off the coast of Bataan, west of Manila. PCG spokesperson CG Rear Adm. Armando Balilo said 16 crew members of the MT Terra Nova had been rescued with the search ongoing for one missing sailor.
+The Philippine Coast Guard (PCG) on Thursday said it was responding to an incident involving a tanker carrying over one million liters of industrial fuel oil that capsized off the coast of Bataan, west of Manila. PCG spokesperson CG Rear Adm. Armando Balilo said 16 crew members of the MT Terra Nova had been rescued with the search ongoing for one missing sailor.
 
-Images show the coast guard launching a rescue operation and the ship almost fully submerged in rough seas.
+Images show the coast guard launching a rescue operation and the ship almost fully submerged in rough seas. Coast Guard aerial assets have been deployed to monitor an oil spill with “an estimated coverage of two nautical miles (2.3 miles) carried by a strong current,” it said.
 
 On land, the flooding has caused widespread disruption that forced authorities to close schools, businesses and cancel more than 150 flights on Thursday.
 
