@@ -1,6 +1,6 @@
 # NORAD intercepts Russian and Chinese bombers operating together near Alaska in first such flight
 
-Published :`2024-07-25 15:36:03`
+Published :`2024-07-25 16:19:05`
 
 ---
 
@@ -19,6 +19,22 @@ On Thursday, China’s Defense Ministry said the Chinese and Russian air forces 
 Zhang Xiaogang, a spokesperson for the ministry, told a news conference it was the eighth such patrol organized by the two militaries since 2019, which were aimed at “further testing and enhancing the level of cooperation between the two air forces, as well as deepening strategic mutual trust and practical cooperation between the two countries.”
 
 “This action is not aimed at third parties, it is in line with relevant international laws and international practices and has nothing to do with the current international and regional situation,” Zhang said.
+
+Asked on Thursday if the interception was an example of Russia and China “testing” the US in the wake of President Joe Biden’s decision to pull out of the 2024 presidential race, Defense Secretary Lloyd Austin said that Russia and China “are always testing us.”
+
+“As to whether or not our adversaries are testing us at this particular time, they’re always testing us, and that’s no surprise to any of us,” he said at a press conference at the Pentagon.
+
+Austin said the Russian and Chinese aircraft approaching US airspace was “not a surprise to us.”
+
+“We closely monitored these aircraft, tracked the aircraft, intercepted the aircraft, which demonstrates that … our forces are at the ready all the time, and we have very good surveillance capabilities,” said Austin.
+
+Austin said the “closest point of approach” of the Russian and Chinese aircraft to the US was “about 200 miles off of our coast.”
+
+“If there’s any kind of challenge from any direction, I have every confidence that NORTHCOM and NORAD will be at the ready and will be able to intercept,” he added.
+
+He also reiterated that the US is concerned about the growing relationship between Russia and China, “mostly because we’re concerned about China providing support to Russia’s illegal and unnecessary war in Ukraine.”
+
+“We’ll see what happens and how this relationship continues to develop,” Austin said.
 
 Russian flights into Alaska’s ADIZ are not uncommon. In May, Russia flew four aircraft into Alaska’s ADIZ, which NORAD said at the time “occurs regularly.”
 

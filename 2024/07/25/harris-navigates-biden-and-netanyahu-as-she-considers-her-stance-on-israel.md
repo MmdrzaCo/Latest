@@ -1,6 +1,6 @@
 # Harris navigates Biden and Netanyahu as she considers her stance on Israel
 
-Published :`2024-07-25 15:36:02`
+Published :`2024-07-25 16:19:05`
 
 ---
 
@@ -20,7 +20,9 @@ Aides say she will make her feelings clearer on Thursday after her meeting with 
 
 Harris is going to try to emphasize her independence from Biden without breaking with him, people who know her say, and is going to try to show the same clarity she’s displayed when going after Donald Trump instead of getting caught up in a garbled attempt to please everyone by not saying anything.
 
-The uncertainty about where she stands is high enough that second gentleman Doug Emhoff made a surprise appearance on a quickly organized Zoom call Wednesday afternoon hosted by the Jewish Democratic Council of America and Jewish Women for Kamala.
+Her statement on Thursday morning condemning the protests around Netanyahu’s speech in Washington was unequivocal: “I condemn any individuals associating with the brutal terrorist organization Hamas, which has vowed to annihilate the State of Israel and kill Jews.”
+
+Yet the uncertainty about where she stands on policy toward Israel is high enough that second gentleman Doug Emhoff made a surprise appearance on a quickly organized Zoom call Wednesday afternoon hosted by the Jewish Democratic Council of America and Jewish Women for Kamala.
 
 “Let me just make this clear: The vice president has been and will be a strong supporter of Israel as a secure democratic and Jewish state, and she will always ensure that Israel can defend itself, period. Because that’s who Kamala Harris is,” Emhoff said.
 
@@ -89,6 +91,8 @@ And Emhoff has stressed that even as this campaign picks up, he is going to keep
 On the Zoom call on Wednesday, he told the story of not being with his wife on Sunday when the news broke about Biden exiting the race, dropping a little Yiddish by blaming “this flight mishigas” that had him stuck in Los Angeles.
 
 Then he made a promise to the 1,700 people listening: “I’m going to keep living openly like a Jew and maybe there will be a mezuzah on the White House, like there is on the vice president’s residence.”
+
+This story has been updated.
 
 ---
 

@@ -1,6 +1,6 @@
 # Vance confronts upheaval and uncertainty in first 10 days as Trump’s running mate
 
-Published :`2024-07-25 15:36:02`
+Published :`2024-07-25 16:19:05`
 
 ---
 
@@ -46,13 +46,15 @@ But Vance remains a largely unknown quantity, and Democrats have moved quickly t
 
 On Wednesday, the Democratic National Committee circulated a clip of Vance comparing abortion to slavery and asserted in a statement: “The Trump-Vance ticket is running on a cruel, dangerous, and wildly unpopular anti-choice agenda that the American people will reject this November.”
 
-Vance, who previously supported a nationwide abortion ban, shrugged off his views as inconsequential given Trump’s latest stance opposing new federal restrictions on the procedure.
+In November of last year, Vance wrote on social media that the anti-abortion movement should acknowledge that the public supports exceptions for victims of rape and incest. Like Trump, he has also said that the future of access will be determined by the states.
+
+Vance, who previously supported a nationwide abortion ban, shrugged off his abortion views as inconsequential given Trump’s latest stance opposing new federal restrictions on the procedure.
 
 “I’m running as the vice presidential nominee, not the presidential nominee, and if I want my views on abortion to dominate the Republican Party, then I’d run for president. I didn’t, and I haven’t,” Vance said on a plane ride from Ohio to Virginia earlier this week. “Donald Trump ran for president, and I think that it’s important as a party we say the voters have decided here. Trump having won has decided what the platform is.”
 
 ### Finding his way in Trump’s shadow
 
-In Middletown, it was clear Vance was still finding his footing on the stump. A half hour late to his event, Vance and his wife, Usha, stepped onto the stage without entrance music and fumbled through some handshakes before he somewhat awkwardly approached the lectern and she left to find her seat.
+In Middletown, it was clear Vance was still finding his footing on the stump. A half hour late to his event – he spent time greeting an overflow crowd outside the high school before entering – Vance and his wife, Usha, stepped onto the stage without entrance music and fumbled through some handshakes before he somewhat awkwardly approached the lectern and she left to find her seat.
 
 At their first joint appearance in Grand Rapids, Michigan, on Saturday, there was little doubt who between Trump and Vance was the main act and who was the warmup. Vance delivered short remarks focused mostly on the former president and then reappeared 90 minutes later, priming the audience by introducing Trump, who still wasn’t ready to take the stage, much to the crowd’s disappointment.
 
@@ -73,6 +75,8 @@ But Barbara Duerk, president of the Roanoke Valley Republican Women in Virginia,
 The age difference didn’t bother Mary May, another Roanoke voter, who connected with Vance’s stories about his mother’s addiction struggles.
 
 “We need some young blood,” May said. “He’s for the people.”
+
+This story has been updated with additional information.
 
 CNN’s Alayna Treene contributed to this report.
 

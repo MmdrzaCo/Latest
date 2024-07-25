@@ -1,6 +1,6 @@
 # Obama expected to endorse Harris soon, source says
 
-Published :`2024-07-25 15:36:01`
+Published :`2024-07-25 16:19:05`
 
 ---
 
@@ -12,7 +12,17 @@ Obama, who didn’t immediately endorse Harris following President Joe Biden’s
 
 News of Obama’s expected endorsement was first reported by NBC News.
 
-This story is breaking and will be updated.
+Regarding Obama’s statement on Sunday, an adviser told CNN that the former president was taking the same approach as he did in the 2020 Democratic primary, watching closely with the intent of being able to unify the party when a nominee is chosen – whether it was Harris or someone else.
+
+Obama’s statement was intended to keep the focus on Biden on the day he announced he was no longer seeking a second term, the adviser said.
+
+The former president was supportive of Biden’s reelection campaign as he attended multiple fundraisers that raised millions of dollars, along with participating in moderated conversations with Biden and sending messages encouraging supporters to chip in as part of fundraising efforts.
+
+Democrats have been moving quickly in the process to nominate Harris as the party adopted the rules on Wednesday that they will use to choose their presidential nominee, with voting to officially nominate Harris likely to begin on August 1.
+
+The rules call for ceremonial votes for president and vice president, as well as a vote on the party platform, during the Democratic convention, which is scheduled to take place in Chicago from August 19-22. While the ceremonial presidential vote will be conducted as a roll call, the vote for vice president is likely to be a voice vote. Harris has not yet selected a running mate.
+
+This story has been updated with additional details.
 
 ---
 

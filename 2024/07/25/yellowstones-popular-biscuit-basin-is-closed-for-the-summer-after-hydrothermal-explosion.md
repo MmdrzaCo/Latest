@@ -1,14 +1,16 @@
 # Yellowstone’s popular Biscuit Basin is closed for the summer after hydrothermal explosion
 
-Published :`2024-07-25 15:36:01`
+Published :`2024-07-25 16:19:05`
 
 ---
 
-Yellowstone National Park’s Biscuit Basin will remain closed for the remainder of the 2024 season following a hydrothermal explosion Tuesday morning that launched debris hundreds of feet in the air and damaged the surrounding area, officials with the National Park Service and the US Geological Survey said in a statement Wednesday.
+Yellowstone National Park’s Biscuit Basin will remain closed for the remainder of the 2024 season following a hydrothermal explosion Tuesday that launched debris hundreds of feet in the air and damaged the surrounding area, officials with the National Park Service and the US Geological Survey said in a statement Wednesday.
 
 Biscuit Basin – located about 2 miles northwest of the famed Old Faithful geyser in Wyoming – was shuttered for the rest of the summer out of concern for visitor safety, according to park officials.
 
 The officials said the explosion, near the Sapphire Pool around 10 a.m. local time Tuesday, destroyed the walkway that surrounds the basin.
+
+Photos from the National Park Service show the aftermath of the blast, including wooden planks strewn about the muddy area and the boardwalk covered in rocks and ash.
 
 “The explosion, which sent steam and debris to a height of hundreds of feet above the ground, destroyed a nearby boardwalk and ejected grapefruit-sized rocks tens to hundreds of feet from the source,” the USGS said in a Wednesday news release. “Some blocks closest to the explosion site are about 3 feet (1 meter) wide and weigh hundreds of pounds.”
 
