@@ -1,6 +1,6 @@
 # California’s Park Fire grows 7 times larger in hours as Oregon battles country’s biggest active fire
 
-Published :`2024-07-25 17:36:16`
+Published :`2024-07-25 18:19:48`
 
 ---
 

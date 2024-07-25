@@ -1,6 +1,6 @@
 # Southwest Airlines is getting rid of open seating
 
-Published :`2024-07-25 17:36:16`
+Published :`2024-07-25 18:19:46`
 
 ---
 
@@ -12,7 +12,7 @@ Southwest said customers were clamoring for these changes – when people switch
 
 “The research is clear and indicates that 80% of Southwest customers, and 86% of potential customers, prefer an assigned seat,” said the airline in a statement. “By moving to an assigned seating model, Southwest expects to broaden its appeal and attract more flying from its current and future customers.”
 
-Southwest did not give details about when the changes will go into effect, but it said it would be discussed further in September.
+Southwest did not give details about when the changes will go into effect, but it said it would be discussed further in September.  The premium seats, which will offer more legroom, will not be available until 2025 as it will require reconfiguring its planes.
 
 ### A tectonic shift
 
@@ -22,7 +22,9 @@ Southwest has long been known as a low-cost, low-fare carrier, but it has been f
 
 Southwest doesn’t charge for carry on bags and has long allowed passengers to check two bags for free. The airline also doesn’t charge customers to change flights.
 
-The company made no mention in its statement about whether it will change its baggage or change fee policy. The premium seats, which will offer more legroom, will not be available until 2025 as it will require reconfiguring its planes.
+CEO Bob Jordan told investors Southwest has no plans, however, to start charging for the first two bags being checked. He said the lack of a baggage fee is a major reason for customers choosing Southwest. And he said there are costs, and not just revenue, that come from charging for bags. It slows the time it takes to load a plane as passengers take more time to look for space in overhead bins for carry-on bags. And some bags have to be moved from the cabin to the cargo hold once there is no longer any room available in the overhead bins.
+
+Southwest has two to three times as many checked bags as other airlines.
 
 ### An ailing business
 
@@ -51,6 +53,10 @@ Southwest made changes in its software and operations in the wake of those servi
 But that December 2022 meltdown cost Southwest around $1 billion, including a $140 million fine from the Department of Transportation. And it resulted in a loss in the fourth quarter of 2022 as well as the first quarter of 2023 as passengers were reluctant to book on airline in the immediate aftermath of the service problems.
 
 The company reported losses in the fourth quarter of 2023 and first quarter of 2024 as well amid higher labor and fuel costs. Losing money in four of six quarters before the most recent period is a stunning and unwanted reversal of fortunes for Southwest. The airline had previously posted losses only during the pandemic, Great Recession and after the September 11 terrorist attacks – even while its rivals were flying in and out of bankruptcy. It also brought unwanted attention from activists investors at Elliott Investment Management, which announced in June it had taken a $1.9 billion stake in the airline and called for management changes.
+
+Jordan said the plans for premium seating and the end of open season were being worked on at Southwest for a year, and were not a reaction to Elliott Investment Management’s push to improve profitability.
+
+Asked by an analyst why the change wasn’t made long ago, given what Southwest knew about customer preferences for reserved seating, Jordan responded, “Hindsight is always a lot more perfect. You can always look back and criticize the timing of a decision.”
 
 ### Incidents raise safety concerns
 

@@ -1,14 +1,18 @@
 # Biden expected to forcefully urge Netanyahu to accept ceasefire deal in Thursday meeting
 
-Published :`2024-07-25 17:36:16`
+Published :`2024-07-25 18:19:47`
 
 ---
 
-President Joe Biden is expected to be as forceful as he has ever been in urging Israeli Prime Minister Benjamin Netanyahu to accept a ceasefire agreement when the two leaders meet privately at the White House Thursday afternoon, sources tell CNN, as US officials believe that a deal may be on the cusp.
+President Joe Biden is expected to be as forceful as he has ever been in urging Israeli Prime Minister Benjamin Netanyahu to accept a ceasefire agreement as the two leaders meet privately at the White House Thursday afternoon, sources tell CNN, as US officials believe that a deal may be on the cusp.
 
 “We’re closer than we’ve ever been,” one senior administration official said. “It’s up to the Israelis to accept it.”
 
 Biden’s in-person meeting with Netanyahu follows the Israeli prime minister’s speech to Congress on Wednesday, which sparked antisemitic and pro-Hamas protests in Washington, DC, that the White House condemned.
+
+In brief remarks before the meeting, Netanyahu mentioned how the two men have known each other for four decades. He added: “From a proud Jewish Zionist to a proud Irish-American Zionist, I want to thank you for 50 years of public service and 50 years of support for the State of Israel.”
+
+Biden reminisced about meeting with previous Israeli leaders before making a joke about his age: “That’s how far back it goes. I was only 12 then.” Neither leader responded to shouted questions from reporters.
 
 The meeting, which is Biden’s first with a world leader since announcing he would drop out of the 2024 race, comes at a fragile point in their decadeslong relationship. A resolution to end the Israel-Hamas war that began in October now looms large over Biden’s legacy as a one-term president. Progress in the negotiations for a ceasefire have come in fits and starts in recent months, and Biden and his senior national security officials have been closely involved in trying to land the deal.
 

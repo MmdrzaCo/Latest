@@ -1,6 +1,6 @@
 # Gov. Gavin Newsom issues executive order for removal of homeless encampments in California
 
-Published :`2024-07-25 17:36:15`
+Published :`2024-07-25 18:19:47`
 
 ---
 
@@ -24,11 +24,21 @@ In San Francisco, a spokesperson for Mayor London Breed said the city had alread
 
 “Our city encampment teams and street outreach staff have been going out every day to bring people indoors, and to clean and clear encampments,” spokesperson Parisa Safarzadeh told CNN in a statement. “This is why we are seeing a five year low in the City’s tent count on our streets.”
 
-Last month, Newsom praised the Supreme Court decision, saying it “provides state and local officials the definitive authority to implement and enforce policies to clear unsafe encampments from our streets.”
+Late last month, the results of the Los Angeles Homeless Services Authority’s point-in-time count – conducted in January – showed the homeless population in Los Angeles had dropped for the first time in six years. It showed overall homelessness and in particular unsheltered homelessness was down in both Los Angeles County and the city. According to the count, homelessness was down 2.2% in the Los Angeles and 0.27% in the county.
+
+There were still 45,253 homeless people counted in the city and 75,312 people unhoused in the county, the authority reported.
+
+Los Angeles Mayor Karen Bass at the time called the Supreme Court decision unfortunate and warned of wide-ranging implications for cities across the country, including “a new wave of criminalization” against the homeless.
+
+But Newsom last month praised the high court’s ruling, saying it “provides state and local officials the definitive authority to implement and enforce policies to clear unsafe encampments from our streets.”
 
 “This decision removes the legal ambiguities that have tied the hands of local officials for years and limited their ability to deliver on common-sense measures to protect the safety and well-being of our communities,” Newsom added.
 
 The case was the most significant appeal involving unhoused Americans to reach the Supreme Court in decades, and it was closely watched by cities and states across the nation wrestling with a sharp increase in homelessness.
+
+LA County Supervisor Kathryn Barger said Newsom “rightfully points out that local government remains at the helm of homeless encampment removals.”
+
+“Cities have an obligation to develop housing and shelter solutions in tandem with support services provided by County government,” Barger said in a statement. “This formula, which is largely based on partnerships, is how we can deliver permanent results. No single entity can achieve that.”
 
 This story has been updated with additional information.
 
