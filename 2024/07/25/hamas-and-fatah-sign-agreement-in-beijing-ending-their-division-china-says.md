@@ -1,6 +1,6 @@
 # Hamas and Fatah sign agreement in Beijing ‘ending’ their division, China says
 
-Published :`2024-07-25 04:18:44`
+Published :`2024-07-25 04:39:58`
 
 ---
 
@@ -78,7 +78,7 @@ The US State Department said that while it had not reviewed the text of the Beij
 
 “When it comes to governance of Gaza at the end of the conflict, there can’t be a role for a terrorist organization,” State Department spokesperson Matthew Miller told a press briefing, referring to Hamas specifically.
 
-Miller said he did not believe the deal would “in any way have an impact on the ongoing discussions to reach a ceasefire” and that the US wants to see a the Palestinian Authority governing “a unified Gaza and the West Bank” after the war.
+Miller said he did not believe the deal would “in any way have an impact on the ongoing discussions to reach a ceasefire” and that the US wants to see the Palestinian Authority governing “a unified Gaza and the West Bank” after the war.
 
 “But no, we do not support a role for Hamas,” said Miller, adding that Hamas has “the blood of innocent civilians, both Israeli and Palestinian, on their hands.”
 
