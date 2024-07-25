@@ -1,6 +1,6 @@
 # Texas woman’s lawsuit after being jailed on murder charge over abortion can proceed, judge rules
 
-Published :`2024-07-25 09:17:06`
+Published :`2024-07-25 09:35:49`
 
 ---
 

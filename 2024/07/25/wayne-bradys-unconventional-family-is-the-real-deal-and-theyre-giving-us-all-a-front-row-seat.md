@@ -1,6 +1,6 @@
 # Wayne Brady’s unconventional family is the real deal, and they’re giving us all a front row seat
 
-Published :`2024-07-25 09:17:07`
+Published :`2024-07-25 09:35:52`
 
 ---
 
