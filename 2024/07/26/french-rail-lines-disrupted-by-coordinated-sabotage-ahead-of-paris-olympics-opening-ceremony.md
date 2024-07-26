@@ -1,6 +1,6 @@
 # French rail lines disrupted by ‘coordinated sabotage’ ahead of Paris Olympics opening ceremony
 
-Published :`2024-07-26 15:36:16`
+Published :`2024-07-26 16:19:23`
 
 ---
 
@@ -76,7 +76,7 @@ At the same time, France has been among many European countries impacted by a wa
 
 Earlier this week, French authorities detained a Russian citizen in Paris, accusing him of preparing destabilizing events during the Olympics. Kremlin spokesperson Dmitry Peskov said Russia did not have any information on the arrest.
 
-This is a developing story and will be updated.
+This story has been updated with additional information.
 
 ---
 

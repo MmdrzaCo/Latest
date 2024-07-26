@@ -1,6 +1,6 @@
 # Inflation is inching closer toward the Fed’s 2% target
 
-Published :`2024-07-26 15:36:16`
+Published :`2024-07-26 16:19:23`
 
 ---
 
@@ -10,7 +10,7 @@ The Personal Consumption Expenditures price index — a closely watched inflatio
 
 Economists had projected the annual increase would slow to 2.5%, according to FactSet consensus estimates.
 
-Stocks jumped as investors parsed the latest inflation report. The Dow surged 568 points, or 1.4%. The S&P 500 gained 0.8% and the Nasdaq Composite added 0.6%.
+Wall Street responded favorably to the report, with the Dow surging by close to 700 points, or 1.7%. The S&P 500 and the Nasdaq Composite gained about 1%.
 
 On a monthly basis, the price index increased by 0.1%, also landing in line with expectations.
 

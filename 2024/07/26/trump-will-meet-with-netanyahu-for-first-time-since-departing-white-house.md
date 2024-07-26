@@ -1,6 +1,6 @@
 # Trump will meet with Netanyahu for first time since departing White House
 
-Published :`2024-07-26 15:36:16`
+Published :`2024-07-26 16:19:24`
 
 ---
 

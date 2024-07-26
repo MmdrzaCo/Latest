@@ -1,6 +1,6 @@
 # Harris steps out on Israel as she navigates Biden and Netanyahu
 
-Published :`2024-07-26 15:36:17`
+Published :`2024-07-26 16:19:26`
 
 ---
 

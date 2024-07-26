@@ -1,6 +1,6 @@
 # The stock market is gearing up for its rate cut era
 
-Published :`2024-07-26 15:36:16`
+Published :`2024-07-26 16:19:23`
 
 ---
 
@@ -12,7 +12,7 @@ But a slew of cooling inflation data in recent weeks has led Wall Street to bet 
 
 Data released Friday morning showed the Personal Consumption Expenditures price index, the Fed’s preferred inflation gauge, slowed to 2.5% for the 12 months ended in June — another sign for hopeful investors that inflation is continuing to ease from its four-decade high.
 
-The Dow jumped 620 points, or 1.6%, on Friday. The S&P 500 gained 1% and the Nasdaq Composite added 0.7%.
+The Dow jumped 792 points, or 2%, on Friday. The S&P 500 gained 1.4% and the Nasdaq Composite added 1.3%.
 
 Economic data has also remained remarkably resilient even as rates stay at a 23-year high. That, coupled with the slowdown in inflation, has raised hopes that the central bank could tame prices without triggering a recession, a feat it has achieved just once since the 1990s, according to some economists. Data Thursday showed the economy expanded at a robust 2.8% annualized rate during the second quarter, blowing past economists’ expectations.
 
@@ -34,7 +34,7 @@ One area that has benefited recently from the prospect of lower rates is small-c
 
 Shares of smaller companies tend to perform poorly when rates are high, since they have more floating rate debt than their larger counterparts. But they have historically tended to perform well when the Fed begins easing its high borrowing rates.
 
-The Russell 2000 index, which tracks the performance of small-cap stocks, has gained 9.6% so far this month, outperforming the S&P 500’s 0.2% loss.
+The Russell 2000 index, which tracks the performance of small-cap stocks, has gained 9.7% so far this month, outperforming the S&P 500’s 0.2% gain.
 
 Investors are also picking at other areas of the market poised to gain when rates come down. Stephen Lee, founding principal at Logan Capital, said his firm added to its position in homebuilder stocks earlier this quarter, betting that cooling inflation would allow the Fed to cut rates and ease the ultra-tight housing market.
 
