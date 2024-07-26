@@ -1,10 +1,10 @@
 # Officer suspended after videos of police beating men at UK airport spark outcry
 
-Published :`2024-07-26 14:36:28`
+Published :`2024-07-26 15:15:55`
 
 ---
 
-A British policeman has been suspended after multiple videos emerged on social media showing officers beating at least three people inside Manchester Airport in an incident the city’s own force has labeled “truly shocking.”
+A British policeman has been suspended and is facing criminal investigation after multiple videos emerged on social media showing officers beating at least three people inside Manchester Airport in an incident the city’s own force has labeled “truly shocking.”
 
 The viral videos, in which one officer could be seen kicking and stomping on the head of a man in prone position, are the latest to spark a public and political argument in Britain over police violence and drew protests accusing police of racism.
 

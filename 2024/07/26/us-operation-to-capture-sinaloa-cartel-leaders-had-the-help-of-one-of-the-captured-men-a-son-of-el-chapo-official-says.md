@@ -1,6 +1,6 @@
 # US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says
 
-Published :`2024-07-26 14:36:27`
+Published :`2024-07-26 15:15:55`
 
 ---
 
@@ -18,7 +18,15 @@ The plane instead landed near El Paso and FBI agents arrested both men, in one o
 
 “Two individuals got off the plane … and were calmly taken into custody,” by federal agents who were waiting, a worker at the Santa Teresa airport near El Paso told Reuters. “It seemed like a pretty calm, arranged thing,” the man, who declined to share his name out of concern for his safety, said.
 
-Both Zambada and Guzman Lopez face several charges for allegedly leading the cartel’s criminal operations, including its “deadly fentanyl manufacturing and trafficking networks,” Garland said.
+Mexican officials were informed of the arrests during a phone call from the US Embassy in Mexico Thursday afternoon, Mexico’s secretary of security, Rosa Icela Rodriguez, said Friday.
+
+“The Mexican government did not participate in this detention or surrender,” Rodriguez said during President Andres Manuel Lopez Obrador’s daily news conference, adding Mexico is waiting for more information from the US government.
+
+Based on information from Mexico’s National Immigration Institute, Rodriguez said, it is believed the men traveled in a Cessna 205 from Hermosillo, Mexico, to the Santa Teresa airport in Texas.
+
+Zambada has four active arrest warrants in Mexico for organized crime and other unlawful acts, Rodriquez said.
+
+In the US, both Zambada and Guzman Lopez face several charges for allegedly leading the cartel’s criminal operations, including its “deadly fentanyl manufacturing and trafficking networks,” Garland said.
 
 “Fentanyl is the deadliest drug threat our country has ever faced, and the Justice Department will not rest until every single cartel leader, member, and associate responsible for poisoning our communities is held accountable,” Garland said.
 

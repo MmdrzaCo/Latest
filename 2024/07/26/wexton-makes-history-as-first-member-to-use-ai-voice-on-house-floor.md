@@ -1,6 +1,6 @@
 # Wexton makes history as first member to use AI voice on House floor
 
-Published :`2024-07-26 14:36:29`
+Published :`2024-07-26 15:15:58`
 
 ---
 
