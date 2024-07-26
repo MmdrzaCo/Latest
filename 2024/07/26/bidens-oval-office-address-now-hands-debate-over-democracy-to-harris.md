@@ -1,6 +1,6 @@
 # Biden’s Oval Office address now hands debate over democracy to Harris
 
-Published :`2024-07-26 16:42:09`
+Published :`2024-07-26 17:13:31`
 
 ---
 
