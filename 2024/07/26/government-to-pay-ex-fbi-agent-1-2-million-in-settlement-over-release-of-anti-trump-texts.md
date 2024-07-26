@@ -1,6 +1,6 @@
 # Government to pay ex-FBI agent $1.2 million in settlement over release of anti-Trump texts
 
-Published :`2024-07-26 23:14:30`
+Published :`2024-07-26 23:36:20`
 
 ---
 
