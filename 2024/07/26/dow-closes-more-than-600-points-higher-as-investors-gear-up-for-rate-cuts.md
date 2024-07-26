@@ -1,6 +1,6 @@
 # Dow closes more than 600 points higher as investors gear up for rate cuts
 
-Published :`2024-07-26 20:17:56`
+Published :`2024-07-26 20:35:45`
 
 ---
 
