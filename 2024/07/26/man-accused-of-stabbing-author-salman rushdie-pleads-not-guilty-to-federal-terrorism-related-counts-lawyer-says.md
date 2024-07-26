@@ -1,6 +1,6 @@
 # Man accused of stabbing author Salman Rushdie pleads not guilty to federal terrorism-related counts, lawyer says
 
-Published :`2024-07-26 17:35:48`
+Published :`2024-07-26 18:19:40`
 
 ---
 
@@ -16,7 +16,7 @@ Federal authorities allege in the unsealed grand jury indictment that Matar atte
 
 The indictment alleges Matar “did knowingly attempt to kill, and did knowingly maim, commit an assault resulting in serious bodily injury, and assault with a dangerous weapon, a person within the United States.” It does not mention Rushdie by name.
 
-In a news release Friday, the US Attorney’s Office for the Western District of New York said Matar did this in an attempt “to carry out a fatwa calling for the execution of Rushdie, which he understood was endorsed by Hizbollah.”
+In a news release, the US Attorney’s Office for the Western District of New York said Matar did this in an attempt “to carry out a fatwa calling for the execution of Rushdie, which he understood was endorsed by Hizbollah.”
 
 Matar was motivated, in part, by a 2006 speech given by Hizbollah Secretary General Hassan Nasrallah, in which Nasrallah endorsed the fatwa calling for Rushdie’s death, which was originally issued in 1989, the statement from the US Attorney’s office said.
 
@@ -28,7 +28,7 @@ Barone previously told CNN his client “has maintained his innocence, not only 
 
 Matar’s next appearance in federal court is scheduled for August 7. If convicted of the federal charges, he could face life in prison, his attorney said.
 
-Matar is due to appear in state court in October, according to Barone.
+Matar is due to appear in state court in October when his trial on state charges will begin, according to Barone.
 
 Rushdie, 77, has garnered widespread acclaim and scrutiny for his literary work. His fourth novel, “The Satanic Verses,” drew condemnation from some Muslims who found it to be sacrilegious.
 

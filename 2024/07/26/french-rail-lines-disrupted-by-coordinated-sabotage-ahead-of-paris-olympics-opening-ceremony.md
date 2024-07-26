@@ -1,6 +1,6 @@
 # French rail lines disrupted by ‘coordinated sabotage’ ahead of Paris Olympics opening ceremony
 
-Published :`2024-07-26 17:35:48`
+Published :`2024-07-26 18:19:40`
 
 ---
 
@@ -44,7 +44,7 @@ Farandou explained that they have to pull the damaged cables back together one b
 
 Eurostar, the high-speed train service that connects the United Kingdom with France, is canceling a quarter of its trains this weekend due to the “coordinated acts of malice” on French lines. It is encouraging customers to postpone their trip if possible, it said in a statement.
 
-These incidents come just hours before the Olympic torch relay concludes and the opening ceremony begins, with more than 320,000 spectators expected to attend along the River Seine. The opening ceremony will go ahead as planned, a Paris 2024 spokesperson told CNN, and International Olympic Committee President Thomas Bach told reporters he has “full confidence” in the French authorities and security protocols already in place.
+These incidents happened hours before the Olympic opening ceremony began, with more than 320,000 spectators expected to attend along the River Seine. The opening ceremony went ahead later on Friday, and International Olympic Committee President Thomas Bach told reporters he has “full confidence” in the French authorities and security protocols already in place.
 
 ### ‘Coordinated sabotage’
 

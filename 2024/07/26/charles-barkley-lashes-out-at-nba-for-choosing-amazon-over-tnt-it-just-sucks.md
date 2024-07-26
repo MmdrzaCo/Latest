@@ -1,6 +1,6 @@
 # Charles Barkley lashes out at NBA for choosing Amazon over TNT: ‘It just sucks’
 
-Published :`2024-07-26 17:35:48`
+Published :`2024-07-26 18:19:40`
 
 ---
 
@@ -15,6 +15,16 @@ The comments came after the NBA on Wednesday rejected an offer from Warner Bro
 Barkley, who hosts the iconic TNT program “Inside the NBA” alongside Ernie Johnson, Kenny Smith and Shaquille O’Neal, has remained mostly mum on the situation since he condemned WBD executives in May for “screw[ing] this thing up.”
 
 “These people I work with, they screwed this thing up — clearly,” Barkley unloaded.
+
+On Friday, Barkley told The Athletic that he would field offers from NBC, ESPN, and Prime Video — with whom he said he has recently spoken with — unless WBD can guarantee his 10-year, $210 million contract will be paid.
+
+“My thing was, ‘Wait, y’all f— up, I didn’t f— up, why do I have to take a pay cut,’” Barkley said.
+
+While Barkley said that Johnson wouldn’t switch networks, he told The Athletic that he hasn’t spoken to O’Neal or Smith about their intentions pending outside offers.
+
+“It’s going to all go to streaming in 11 years,” Barkley said of sports media rights, calling the entire affair a “cash grab” because “in 11 years nobody’s going to be able to afford these rights by streaming.”
+
+“They’re kind of getting their cake and eating it, too,” Barkley said of the NBA. “They got ESPN and NBC and they got streaming.”
 
 In a statement Wednesday, WBD criticized the NBA’s decision to reject its matching offer, saying it had “grossly misinterpreted” its contractual rights and vowed to take “appropriate action.”
 

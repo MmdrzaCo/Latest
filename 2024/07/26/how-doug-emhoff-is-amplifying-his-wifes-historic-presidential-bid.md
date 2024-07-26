@@ -1,6 +1,6 @@
 # How Doug Emhoff is amplifying his wife’s historic presidential bid
 
-Published :`2024-07-26 17:35:48`
+Published :`2024-07-26 18:19:40`
 
 ---
 
@@ -78,7 +78,7 @@ Emhoff’s time as second gentleman could offer a blueprint for how he would app
 
 Like Jill Biden before him, Emhoff has already learned the structure of a White House, how to live with full-time security and how to navigate a ceremonial leadership role that puts him on the world stage.
 
-Should Harris win this November, Emhoff would a inherit a role that includes a long tradition of entertaining on a global stage and welcoming visitors to the People’s House.
+Should Harris win this November, Emhoff would inherit a role that includes a long tradition of entertaining on a global stage and welcoming visitors to the People’s House.
 
 Marshall, the former chief of protocol, told CNN that Emhoff could be instrumental in a potential Harris administration’s diplomacy and helping the White House evolve.
 
