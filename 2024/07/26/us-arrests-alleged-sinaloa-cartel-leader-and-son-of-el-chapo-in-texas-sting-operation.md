@@ -1,6 +1,6 @@
 # US arrests alleged Sinaloa cartel leader and son of ‘El Chapo’ in Texas sting operation
 
-Published :`2024-07-26 12:53:44`
+Published :`2024-07-26 13:17:52`
 
 ---
 
@@ -19,6 +19,8 @@ The sting operation to catch Zambada duped the alleged drug lord into flying to 
 Zambada and Guzman Lopez boarded a plane purportedly en route to inspect a property in Mexico, the sources said, adding that at least one of the men was unaware they were headed to the US.
 
 FBI agents arrested the two alleged drug kingpins after they landed in El Paso.
+
+“Two individuals got off the plane … and were calmly taken into custody,” by federal agents who were waiting, a worker at the Santa Teresa airport near El Paso told Reuters. “It seemed like a pretty calm, arranged thing,” the man, who declined to share his name out of concern for his safety, said.
 
 Among various criminal charges Zambada faces in the US, he was indicted by a northern Illinois grand jury in 2009, according to the US State Department.
 
