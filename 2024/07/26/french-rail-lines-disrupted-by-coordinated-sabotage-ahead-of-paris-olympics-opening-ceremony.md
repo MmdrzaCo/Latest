@@ -1,6 +1,6 @@
 # French rail lines disrupted by ‘coordinated sabotage’ ahead of Paris Olympics opening ceremony
 
-Published :`2024-07-26 11:35:55`
+Published :`2024-07-26 12:28:14`
 
 ---
 
@@ -8,13 +8,13 @@ France’s high-speed train lines were targeted by multiple “malicious” acts
 
 The French state railway company SNCF said in a post on X that “a large number of trains were diverted or canceled,” and asked “all travelers who can to postpone their trip and not go to the station.”
 
-The operator said the Atlantic, Northern and Eastern high-speed lines were impacted, with damage caused to several of its facilities, adding that one of the acts was “foiled” in the east after SNCF agents scared off several individuals.
+The operator said the Atlantic, Northern and Eastern high-speed lines were impacted, with damage caused to several of its facilities, adding that one of the acts was “foiled” in the east after SNCF agents scared off several individuals. The Atlantic line services the west and southwest of France from Paris, the Northern line takes travelers from the French capital to Lille and the Eastern line journeys from Paris to Strasbourg.
 
 SNCF CEO Jean-Pierre Farandou told journalists on Friday that cables – which are there to ensure the security of train drivers – were set on fire and taken apart but that authorities “don’t know who is behind it.”
 
 An intelligence source told CNN that French intelligence services are “fully mobilized” to find those responsible. The source added that “these methods have been used by the far-left in the past” but “there is no evidence to tie today’s actions to them.”
 
-The Paris prosecutor’s office has opened an investigation into the attack and detailed four separate charges, relating to the damage of state property and taking part in organized crime. Some of the crimes listed are punishable by up to 20 years’ imprisonment and a fine of €300,000 ($325,000).
+The Paris prosecutor’s office has opened an investigation into the attack and detailed four separate charges, relating to the damage of state property and taking part in organized crime. Some of the crimes listed are punishable by up to 20 years’ imprisonment and a fine of €300,000 ($325,000). Outgoing French Prime Minister Gabriel Attal said on Friday afternoon he was not aware of any arrests so far.
 
 ### ‘We didn’t need a day like this’
 
@@ -24,7 +24,7 @@ Passengers milled around outside Paris’ Gare du Nord train station and sat wit
 
 She told CNN she is preparing to wait another five hours in the forlorn hope of catching a train. “We didn’t need a day like this!” she said.
 
-Meanwhile, Raphaël, a SNCF user who has been waiting for his train at Montparnasse Station in the capital since 6 a.m. local time, told CNN affiliate BFMTV that “people are a little exasperated.”
+Meanwhile, a couple stuck at Gare Montparnasse were forced to watch their friends’ wedding ceremony by phone on Friday. Alexandre and Camille were hoping to reach the western city of Poitiers for the civil ceremony, according to CNN affiliate BFMTV, but watched it on a video call since they were unable to rent a car. They should be able to get to Poitiers for the secular ceremony over the weekend, Alexandre added.
 
 The Rémi Train Centre Val de Loire said travel on its railway lines would be disrupted until at least Monday, with a fire near the tracks in Courtalain, northern France impacting services to Paris.
 
@@ -36,19 +36,17 @@ Brittany, a region in the northwest France, and the north of the country are the
 
 Eurostar, the high-speed train service that connects the United Kingdom with France, is canceling a quarter of its trains this weekend due to the “coordinated acts of malice,” on French lines. It is encouraging customers to postpone their trip if possible, it said in a statement.
 
-These incidents come just hours before the Olympic torch relay concludes and the opening ceremony begins, with more than 320,000 spectators expected to attend along the River Seine. The opening ceremony will go ahead as planned, a Paris 2024 spokesperson told CNN, and organizers have “no concerns from their side in light of the overnight events on the train network.”
+These incidents come just hours before the Olympic torch relay concludes and the opening ceremony begins, with more than 320,000 spectators expected to attend along the River Seine. The opening ceremony will go ahead as planned, a Paris 2024 spokesperson told CNN, and International Olympic Committee President Thomas Bach told reporters he has “full confidence” in the French authorities and security protocols already in place.
 
 ### ‘Coordinated sabotage’
 
 The French Minister of Sports and the Olympic and Paralympic Games, Amélie Oudéa-Castera said the disruption to the train lines are “a sort of coordinated sabotage.”
 
-Speaking BFMTV, Oudéa-Castera condemned the attacks in the “strongest possible terms,” and said it is “truly appalling.”
+Speaking to BFMTV, Oudéa-Castera condemned the attacks in the “strongest possible terms,” and said it is “truly appalling.”
 
 “We will assess the impacts on travelers, athletes, and ensure the proper transport of all delegations to the competition sites,” she said.
 
-Other French officials echoed her description of the attacks being intentional. Outgoing French transport minister Patrice Vergriete and Valerie Pecresse, head of the Île-de-France region, in which Paris lies, said on Friday that “all elements” pointed towards it being a “deliberate attack.” Vergriete added those elements were “the coincidental timing, the vans found after the people had fled (and) the arson materials found on location.”
-
-Outgoing French prime minister Gabriel Attal said in a post on X that the consequences are “massive and serious” while SNCF called the disruption an “attack on France.”
+Other French officials agreed that the attacks were intentional. Attal said the incidents were “prepared and organized” in a way that “shows a kind of knowledge of the network in order to know where to strike,” while the SNCF called the disruption an “attack on France.”
 
 In response to the attacks, Paris police chief Laurent Nunez said Friday that police are stepping up security and focusing manpower on the capital’s train stations.
 

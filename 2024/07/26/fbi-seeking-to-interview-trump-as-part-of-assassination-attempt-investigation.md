@@ -1,6 +1,6 @@
 # FBI seeking to interview Trump as part of assassination attempt investigation
 
-Published :`2024-07-26 11:35:55`
+Published :`2024-07-26 12:28:14`
 
 ---
 
@@ -14,7 +14,13 @@ Questions about Trump’s wound have stoked political backlash. Trump has said h
 
 “Anyone who believes this conspiracy bullsh*t is either mentally deficient or willfully peddling falsehoods for political reasons,” Trump adviser Steven Cheung told CNN.
 
-This story is breaking and will be updated.
+During Wednesday’s wide-ranging House Judiciary hearing, Wray shared new details with lawmakers about Trump’s would-be assassin, including that he searched for details of the John F. Kennedy shooting from his laptop and flew a drone in the area near the rally just two hours before the former president took the stage.
+
+Despite later criticism from Republicans about the FBI’s pending conclusions about the nature of the projectile, Wray was commended by representatives on both sides of the aisle for offering new insight into details about the investigation into the gunman. Those bipartisan expressions of appreciation stood in stark contrast to earlier testimony by then-Secret Service director Kimberly Cheatle, who resigned Tuesday after Democrats and Republicans accused her of stonewalling them and demanded her ouster.
+
+When asked Wednesday about how close the “assassin’s bullet” came to killing the former president, Wray said, “My understanding is that either it or some shrapnel is what, you know, grazed his ear.” He then agreed that it came very close to killing the former president.
+
+This story has been updated with additional information.
 
 ---
 

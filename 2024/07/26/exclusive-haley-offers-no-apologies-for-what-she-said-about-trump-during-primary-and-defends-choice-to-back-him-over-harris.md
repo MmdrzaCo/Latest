@@ -1,6 +1,6 @@
 # Exclusive: Haley offers no apologies for what she said about Trump during primary and defends choice to back him over Harris
 
-Published :`2024-07-26 11:35:57`
+Published :`2024-07-26 12:28:15`
 
 ---
 
