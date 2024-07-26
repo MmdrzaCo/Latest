@@ -1,6 +1,6 @@
 # French rail lines disrupted by ‘coordinated sabotage’ ahead of Paris Olympics opening ceremony
 
-Published :`2024-07-26 11:13:56`
+Published :`2024-07-26 11:35:55`
 
 ---
 
@@ -34,9 +34,7 @@ Brittany, a region in the northwest France, and the north of the country are the
 
 “I don’t know where to go. I was only here to change trains,” Marguerite, a 24-year-old professor, told CNN in Gare Montparnasse as she tried to make her way home to Brittany. “I’m trying to call friends to see where I can sleep tonight … We are blocked here.”
 
-Eurostar, the high-speed train service that connects the United Kingdom with France, has been forced to cancel and divert trains due to the “coordinated acts of malice,” on French lines.
-
-In a statement to CNN, Eurostar said that the incidents have impacted travel between Paris and Lille, forcing the train network to cancel and divert journeys, and extend travel times.
+Eurostar, the high-speed train service that connects the United Kingdom with France, is canceling a quarter of its trains this weekend due to the “coordinated acts of malice,” on French lines. It is encouraging customers to postpone their trip if possible, it said in a statement.
 
 These incidents come just hours before the Olympic torch relay concludes and the opening ceremony begins, with more than 320,000 spectators expected to attend along the River Seine. The opening ceremony will go ahead as planned, a Paris 2024 spokesperson told CNN, and organizers have “no concerns from their side in light of the overnight events on the train network.”
 
