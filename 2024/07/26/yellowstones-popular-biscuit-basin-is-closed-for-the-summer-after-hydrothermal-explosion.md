@@ -1,6 +1,6 @@
 # Yellowstone’s popular Biscuit Basin is closed for the summer after hydrothermal explosion
 
-Published :`2024-07-26 06:21:39`
+Published :`2024-07-26 06:41:18`
 
 ---
 
