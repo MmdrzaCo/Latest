@@ -1,6 +1,6 @@
 # The stock market is gearing up for its rate cut era
 
-Published :`2024-07-26 15:15:55`
+Published :`2024-07-26 15:36:16`
 
 ---
 
@@ -12,7 +12,7 @@ But a slew of cooling inflation data in recent weeks has led Wall Street to bet 
 
 Data released Friday morning showed the Personal Consumption Expenditures price index, the Fed’s preferred inflation gauge, slowed to 2.5% for the 12 months ended in June — another sign for hopeful investors that inflation is continuing to ease from its four-decade high.
 
-The Dow jumped 586 points, or 1.5%, on Friday, after surging more than 600 points earlier in the session. The S&P 500 gained 0.8% and the Nasdaq Composite added 0.5%.
+The Dow jumped 620 points, or 1.6%, on Friday. The S&P 500 gained 1% and the Nasdaq Composite added 0.7%.
 
 Economic data has also remained remarkably resilient even as rates stay at a 23-year high. That, coupled with the slowdown in inflation, has raised hopes that the central bank could tame prices without triggering a recession, a feat it has achieved just once since the 1990s, according to some economists. Data Thursday showed the economy expanded at a robust 2.8% annualized rate during the second quarter, blowing past economists’ expectations.
 
@@ -34,11 +34,29 @@ One area that has benefited recently from the prospect of lower rates is small-c
 
 Shares of smaller companies tend to perform poorly when rates are high, since they have more floating rate debt than their larger counterparts. But they have historically tended to perform well when the Fed begins easing its high borrowing rates.
 
-The Russell 2000 index, which tracks the performance of small-cap stocks, has gained 10.3% so far this month, outperforming the S&P 500’s 0.4% loss.
+The Russell 2000 index, which tracks the performance of small-cap stocks, has gained 9.6% so far this month, outperforming the S&P 500’s 0.2% loss.
 
 Investors are also picking at other areas of the market poised to gain when rates come down. Stephen Lee, founding principal at Logan Capital, said his firm added to its position in homebuilder stocks earlier this quarter, betting that cooling inflation would allow the Fed to cut rates and ease the ultra-tight housing market.
 
 Sky-high interest rates have led homeowners to hold off on selling their homes to keep their pandemic-era low mortgage rates even as demand surged, driving up home prices to record levels.
+
+### More pain for Big Tech?
+
+Investors have fretted over the past year that the market’s gains are beholden to just a handful of tech stocks, making the rally more vulnerable to pullbacks a few stocks stumble. The Magnificent Seven drove about 60% of the S&P 500’s total return during the first half of the year, according to Adam Turnquist, chief technical strategist at LPL Financial.
+
+The recent gain in small-caps is making some investors hopeful that the market rally will continue to broaden.
+
+There are signs that the pain in tech shares might not be over yet. Tech stocks’ steep losses following tepid quarterly results from Alphabet and Tesla suggest that investors are growing impatient with companies investing hefty sums into artificial intelligence with little to show for it in terms of revenue gains.
+
+Many big tech firms have released AI chatbots and other flashy consumer tools since OpenAI’s ChatGPT kicked off the AI arms race two years ago, but the path to monetizing the technology remains unclear.
+
+On Alphabet’s Tuesday earnings call, UBS analyst Stephen Ju noted that the initial use cases of the AI models that Big Tech firms have invested in building “are more on the cost savings or efficiency side.”
+
+“When do you think we’ll start thinking about products that can help revenue generation for the Fortune 500, Fortune 1000 companies, which is probably something that can, hopefully, create greater value over time, versus just cutting costs?” Ju said.
+
+As the AI arms race continues to heat up, companies are unlikely to slow their spending on AI. But it’s unclear when those investments will provide a boost to their balance sheets.
+
+“The risk of underinvesting is dramatically greater than the risk of overinvesting for us here,” Alphabet CEO Sundar Pichai said on the call.
 
 This story is developing and will be updated.
 

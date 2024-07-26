@@ -1,6 +1,6 @@
 # What Delta passengers are entitled to in terms of compensation
 
-Published :`2024-07-26 15:15:59`
+Published :`2024-07-26 15:36:18`
 
 ---
 

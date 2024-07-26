@@ -1,6 +1,6 @@
 # Hollywood’s videogame performers to go on strike over AI, pay concerns
 
-Published :`2024-07-26 15:15:55`
+Published :`2024-07-26 15:36:17`
 
 ---
 
