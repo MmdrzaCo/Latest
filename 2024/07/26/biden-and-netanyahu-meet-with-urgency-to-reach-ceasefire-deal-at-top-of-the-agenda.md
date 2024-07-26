@@ -1,6 +1,6 @@
 # Biden and Netanyahu meet with urgency to reach ceasefire deal at top of the agenda
 
-Published :`2024-07-26 01:07:38`
+Published :`2024-07-26 02:21:20`
 
 ---
 
@@ -16,7 +16,11 @@ Biden reminisced about meeting with previous Israeli leaders before making a jok
 
 The meeting, which was Biden’s first with a world leader since announcing he would drop out of the 2024 race, came at a fragile point in their decadeslong relationship. A resolution to end the Israel-Hamas war that began in October now looms large over Biden’s legacy as a one-term president. Progress in the negotiations for a ceasefire have come in fits and starts in recent months, and Biden and his senior national security officials have been closely involved in trying to land the deal.
 
-Biden also participated in a meeting with Netanyahu that includes families of American hostages in Gaza - a separate setting where he could apply firm pressure on Netanyahu to finalize the ceasefire agreement.
+During the meeting, the president stressed the need to finalize the deal as soon as possible, according to a readout from the White House.
+
+“Biden expressed the need to close the remaining gaps, finalize the deal as soon as possible, bring the hostages home, and reach a durable end to the war in Gaza,” the readout said. “The President also raised the humanitarian crisis in Gaza, the need to remove any obstacles to the flow of aid and restoring basic services for those in need, and the critical importance of protecting civilian lives during military operations.”
+
+Biden also participated in a meeting with Netanyahu that included families of American hostages in Gaza - a separate setting where he could apply firm pressure on Netanyahu to finalize the ceasefire agreement.
 
 “In this setting he will really be held accountable to his commitment of pursuing a ceasefire and hostage deal,” said one US official.
 
