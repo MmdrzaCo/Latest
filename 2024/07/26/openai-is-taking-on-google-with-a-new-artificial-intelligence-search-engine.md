@@ -1,6 +1,6 @@
 # OpenAI is taking on Google with a new artificial intelligence search engine
 
-Published :`2024-07-26 08:18:26`
+Published :`2024-07-26 08:37:53`
 
 ---
 

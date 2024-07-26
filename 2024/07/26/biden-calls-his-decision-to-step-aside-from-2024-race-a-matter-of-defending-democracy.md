@@ -1,6 +1,6 @@
 # Biden calls his decision to step aside from 2024 race a matter of defending democracy
 
-Published :`2024-07-26 08:18:30`
+Published :`2024-07-26 08:37:56`
 
 ---
 

@@ -1,6 +1,6 @@
 # French rail lines disrupted by ‘coordinated sabotage’ ahead of Paris Olympics Opening Ceremony
 
-Published :`2024-07-26 08:18:25`
+Published :`2024-07-26 08:37:52`
 
 ---
 
@@ -12,9 +12,15 @@ In a post on X, SNCF said “a large number of trains were diverted or canceled,
 
 The railway operator said the disruption hit Atlantic, Northern and Eastern high-speed lines, with damage caused to several of its facilities. SNCF said one of the acts was “foiled.”
 
-Travel on these lines is “very disrupted,” with the railway network needing to divert and cancel a large number of trains, SNCF said. Disruptions were expected throughout the weekend as work crews oversee repairs, it added
+Travel on these lines is “very disrupted,” with the railway network needing to divert and cancel a large number of trains, SNCF said. Disruptions - which it estimates could impact around 800,000 travelers - were expected throughout the weekend as work crews oversee repairs, it added.
 
 The Rémi Train Centre Val de Loire said travel on its railway lines would be disrupted until at least Monday, with a fire near the tracks in Courtalain, northern France impacting services to Paris.
+
+Eurostar, the high-speed train service that connects the United Kingdom with France, has been forced to cancel and divert trains due to the “coordinated acts of malice,” on French lines.
+
+In a statement to CNN, Eurostar said that the incidents have impacted travel between Paris and Lille, forcing the train network to divert journeys and extend travel times.
+
+“Due to coordinated acts of malice in France, affecting the high speed line between Paris and Lille, all high speed trains going to and coming from Paris are being diverted via the classic line today Friday 26 July. This extends the journey time by around an hour and a half. Several trains have been cancelled,” the statement outlined.
 
 The reports come just hours before the Olympic torch relay concludes and the Opening Ceremony begins, with more than 320,000 spectators expected to attend along the River Seine.
 
@@ -26,9 +32,11 @@ Speaking to CNN affiliate BFMTV, Oudéa-Castera condemned the attacks in the “
 
 “Playing against the Games is playing against France, against your camp, against your country,” she said, according to BFMTV.
 
-Oudéa-Castera said the incidents will disrupt hamper on Friday and the weekend.
+Oudéa-Castera said the incidents will disrupt travel on Friday and the weekend.
 
 “We will assess the impacts on travelers, athletes, and ensure the proper transport of all delegations to the competition sites,” she said.
+
+Meanwhile, Valerie Pecresse, the head of the Île-de-France region, in which Paris lies, said on Friday that all elements “point towards this being a deliberate act.”
 
 In response to the attacks, Paris police chief Laurent Nunez said Friday that police are stepping up security and focusing manpower on the capital’s train stations.
 
@@ -42,7 +50,7 @@ The cause of the disruptions is currently unclear. But there has been growing do
 
 Interior Minister Darmanin confirmed security forces had detained a “member of the extreme-right” this week who was “suspected of wanting to commit violent action during the Olympic Games.” According to Darmanin, the man had an “intention to intervene during a phase of the torch relay.”
 
-This is a developing story. More to come.
+This is a developing story and will be updated.
 
 ---
 

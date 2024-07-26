@@ -1,6 +1,6 @@
 # US arrests alleged Sinaloa cartel leader and son of ‘El Chapo’ in Texas sting operation
 
-Published :`2024-07-26 08:18:26`
+Published :`2024-07-26 08:37:53`
 
 ---
 

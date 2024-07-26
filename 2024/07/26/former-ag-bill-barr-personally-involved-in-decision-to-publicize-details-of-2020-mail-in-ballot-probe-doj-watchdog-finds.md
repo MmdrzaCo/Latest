@@ -1,6 +1,6 @@
 # Former AG Bill Barr personally involved in decision to publicize details of 2020 mail-in ballot probe, DOJ watchdog finds
 
-Published :`2024-07-26 08:18:28`
+Published :`2024-07-26 08:37:55`
 
 ---
 
