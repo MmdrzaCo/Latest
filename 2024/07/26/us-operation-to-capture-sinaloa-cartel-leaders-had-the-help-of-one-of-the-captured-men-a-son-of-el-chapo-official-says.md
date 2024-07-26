@@ -1,66 +1,50 @@
 # US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says
 
-Published :`2024-07-26 22:14:53`
+Published :`2024-07-26 22:36:42`
 
 ---
 
-The arrest of two leaders of the Sinaloa cartel – one of Mexico’s most prominent drug trafficking groups – in the United States on Thursday was organized by one of the two men arrested, Joaquin Guzman Lopez, the son of infamous cartel boss Joaquin “El Chapo” Guzman.
+The arrest of two leaders of the Sinaloa cartel in the United States on Thursday was organized by one of the two men arrested, Joaquin Guzman Lopez, the son of infamous cartel boss Joaquin “El Chapo” Guzman.
 
-Guzman Lopez organized his arrest along with that of Ismael “El Mayo” Zambada, 76, who co-founded the cartel with El Chapo, by luring Zambada on a flight to examine a piece of land Zambada thought was in Mexico, an official familiar with the operation told CNN.
+Guzman Lopez organized his arrest along with that of Ismael “El Mayo” Zambada, 76, who co-founded the cartel with El Chapo, by luring Zambada on a flight to examine a piece of land he thought was in Mexico, an official familiar with the operation told CNN.
 
 Instead, the plane landed in El Paso, Texas, where federal agents, including from Homeland Security Investigations, arrested the two cartel bosses.
 
 Zambada didn’t know US investigators had exploited a rift in the cartel and Guzman Lopez was helping with Zambada’s capture, the official said. FBI agents arrested both men, in one of the biggest victories for US law enforcement against the cartels.
 
-Experts have told CNN a power struggle between Zambada and El Chapo’s sons, also known as the Chapitos, has existed for some time in the cartel and with Zambada gone, the violence inside the cartel and among other criminal organizations in Mexico, is only set to ramp up.
+The cartel, one of the world’s most powerful narcotics trafficking organizations, is thought to be responsible for the trafficking of vast amounts of cocaine, heroin, methamphetamine and fentanyl into the US. DEA Administrator Anne Milgram said the arrests strike “at the heart of the cartel that is responsible for the majority of drugs, including fentanyl and methamphetamine, killing Americans from coast to coast.”
+
+Experts have told CNN a power struggle between Zambada and El Chapo’s sons, also known as the Chapitos, has existed for some time in the cartel. With Zambada gone, violence inside the cartel and other criminal organizations in Mexico, is set to ramp up.
 
 The agents from HSI, who have been working the case since earlier this year when Attorney General Merrick Garland announced charges against El Chapo’s three sons, were skeptical when Guzman Lopez first made the offer.
 
-The entire operation, one source told CNN, went off surprisingly smoothly given the gravity of the arrests and the disruption it could cause to drug trafficking from Mexico.
+The entire operation, a source told CNN, went off surprisingly smoothly given the gravity of the arrests and the disruption it could cause to Mexican drug trafficking.
 
 Zambada entered a not-guilty plea to all charges at his first federal court appearance Friday morning in El Paso and is being held without bond on seven federal criminal counts, including continuing criminal enterprise and money laundering.
 
 He also agreed to waive his right to personally appear and to ask for bond at a hearing set for July 31.
 
-Guzman Lopez, 38, is currently in federal custody in the Chicago area, a law enforcement source familiar with the investigation told CNN. His father is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
+Guzman Lopez, 38, was flown from El Paso via an FBI jet used for extradition operations and arrived near Chicago early Friday morning, a law enforcement source familiar with the investigation said. He is currently in federal custody in the Chicago area. His father is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
+
+Both Zambada and Guzman Lopez face several charges in the US for allegedly leading the cartel’s criminal operations, including its “deadly fentanyl manufacturing and trafficking networks,” US Attorney General Merrick Garland said in a statement after the arrests.
 
 Mexican President Andres Manuel Lopez Obrador on Friday said the US government “must give a full report” on the operation that led to the arrests.
 
 “There has to be transparency,” he said during his daily news conference.
 
-Lopez Obrador was asked if he would have liked if President Joe Biden or other US authorities had reached out to his government prior to the operation, to which he replied, “We have to wait and see if the arrests took place there or here.”
-
-AMLO, as the president is known, said he is unaware if one or more of the cartel leaders turned themselves in but said the arrests show “important progress in the battle against drug trafficking.”
-
-He added, however, the arrests are not “everything,” adding the US must do more “in solving the drug consumption problem by addressing the causes.”
+AMLO, as the president is known, said the arrests show “important progress in the battle against drug trafficking.” He added, however, the arrests are not “everything,” adding the US must do more “in solving the drug consumption problem by addressing the causes.”
 
 Mexican officials were informed of the arrests during a phone call from the US Embassy in Mexico Thursday afternoon, Mexico’s secretary of security, Rosa Icela Rodriguez, said Friday.
 
 “The Mexican government did not participate in this detention or surrender,” Rodriguez said during AMLO’s daily news conference, adding Mexico is waiting for more information from the US government.
 
-Based on information from Mexico’s National Immigration Institute, Rodriguez said, it is believed the men traveled in a Cessna 205 from Hermosillo, Mexico, to the Santa Teresa airport in Texas.
+FBI Director Christopher Wray said Zambada and Guzman Lopez had “eluded law enforcement for decades” and “will now face justice in the United States.”
 
-Zambada has four active arrest warrants in Mexico for organized crime and other unlawful acts, Rodriquez said.
-
-In the US, both Zambada and Guzman Lopez face several charges for allegedly leading the cartel’s criminal operations, including its “deadly fentanyl manufacturing and trafficking networks,” Garland said.
-
-“Fentanyl is the deadliest drug threat our country has ever faced, and the Justice Department will not rest until every single cartel leader, member, and associate responsible for poisoning our communities is held accountable,” Garland said.
-
-Among various criminal charges Zambada faces in the US, he was indicted by a northern Illinois grand jury in 2009, according to the US State Department.
-
-US authorities had sought Zambada’s capture for years and in 2021 raised the reward for information leading to his arrest to $15 million.
+US authorities had sought Zambada’s capture for years and in 2021 raised the reward for information leading to his arrest to $15 million. He was indicted by a northern Illinois grand jury in 2009, according to the US State Department, and faces various criminal charges.
 
 “Ismael Mario Zambada Garcia is the long-time leader of the Zambada Garcia faction of the Sinaloa Cartel.  Zambada Garcia is unique in that he has spent his entire adult life as a major international drug trafficker, yet he has never spent a day in jail,” according to the US State Department.
 
-FBI Director Christopher Wray said Zambada and Guzman Lopez had “eluded law enforcement for decades” and “will now face justice in the United States.”
-
-The pair allegedly oversaw the trafficking of “tens of thousands of pounds of cocaine, heroin, methamphetamine, and fentanyl into the US along with related violence,” Wray added.
-
-After being taken in custody, Guzmán López was flown from El Paso via an FBI jet used for extradition operations and arrived near Chicago early Friday morning, a law enforcement source familiar with the investigation  said.
-
-Guzman Lopez was previously indicted by a federal grand jury in Illinois on narcotics, money laundering and firearms charges, according to a statement last year from prosecutors.
-
-Drug Enforcement Administration chief Anne Milgram said the pair’s arrests strike “at the heart of the cartel that is responsible for the majority of drugs, including fentanyl and methamphetamine, killing Americans from coast to coast.”
+Similarly, Guzman Lopez was previously indicted by a federal grand jury in Illinois on narcotics, money laundering and firearms charges, according to a statement last year from prosecutors.
 
 ### Powerful cartel
 
