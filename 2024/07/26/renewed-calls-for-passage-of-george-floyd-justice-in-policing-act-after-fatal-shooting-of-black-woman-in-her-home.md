@@ -1,6 +1,6 @@
 # Renewed calls for passage of George Floyd Justice in Policing Act after fatal shooting of Black woman in her home
 
-Published :`2024-07-26 09:35:42`
+Published :`2024-07-26 10:16:10`
 
 ---
 

@@ -1,36 +1,40 @@
 # French rail lines disrupted by ‘coordinated sabotage’ ahead of Paris Olympics Opening Ceremony
 
-Published :`2024-07-26 09:35:40`
+Published :`2024-07-26 10:16:08`
 
 ---
 
-France’s high-speed train lines were targeted by multiple “malicious” acts including arson on Friday, in what has been described as “coordinated sabotage” to disrupt travel ahead of the Opening Ceremony of the Paris Olympics.
+France’s high-speed train lines were targeted by multiple “malicious” acts including arson on Friday, in what has been described as “an attack on France” and “coordinated sabotage” to disrupt travel ahead of the opening ceremony of the Paris Olympics.
 
-France’s state railways company SNCF called the overnight disruption a “massive attack aimed at paralyzing the high-speed line network.”
+The French state railway company SNCF called the overnight disruption a “massive attack aimed at paralyzing the high-speed line network.”
 
 In a post on X, SNCF said “a large number of trains were diverted or canceled,” and asked “all travelers who can to postpone their trip and not go to the station.”
 
-The railway operator said the disruption hit Atlantic, Northern and Eastern high-speed lines, with damage caused to several of its facilities. SNCF said one of the acts was “foiled.”
+The operator said the Atlantic, Northern and Eastern high-speed lines were impacted, with damage caused to several of its facilities, adding that one of the acts was “foiled.”
 
-Travel on these lines is “very disrupted,” with the railway network needing to divert and cancel a large number of trains, SNCF said. Disruptions - which it estimates could impact around 800,000 travelers - were expected throughout the weekend as work crews oversee repairs, it added.
+SNCF CEO Jean-Pierre Farandou told journalists on Friday that cables – which are there to ensure the security of train drivers – were set on fire and taken apart but that authorities “don’t know who is behind it.”
 
-Passengers milled around outside Paris’ Gare du Nord train station and sat with their luggage on staircases as the disruption laid waste to their travel plans. “People are a little exasperated,” Raphaël, a SNCF user who has been waiting for his train at Montparnasse Station in Paris since 6 a.m. local time told CNN affiliate BFMTV.
+An intelligence source told CNN that French intelligence services are “fully mobilized” to find those responsible. The source added that “these methods have been used by the far-left in the past” but “there is no evidence to tie today’s actions to them.”
+
+Travel on these lines is “very disrupted,” with the railway network needing to divert and cancel a large number of trains, SNCF said. Disruptions – which it estimates could impact around 250,000 travelers today – were expected throughout the weekend, affecting 800,000 passengers, as work crews oversee repairs, it added.
+
+Passengers milled around outside Paris’ Gare du Nord train station and sat with their luggage on staircases as the disruption laid waste to their travel plans. “People are a little exasperated,” Raphaël, a SNCF user who has been waiting for his train at Montparnasse Station in Paris since 6 a.m. local time, told CNN affiliate BFMTV.
 
 The Rémi Train Centre Val de Loire said travel on its railway lines would be disrupted until at least Monday, with a fire near the tracks in Courtalain, northern France impacting services to Paris.
 
+Farandou explained that they have to pull the damaged cables back together one by one, reconnect and test them. “It’s a question of security,” he said. “We have to make sure we test them so when trains are back up and running, they are safe.”
+
 Eurostar, the high-speed train service that connects the United Kingdom with France, has been forced to cancel and divert trains due to the “coordinated acts of malice,” on French lines.
 
-In a statement to CNN, Eurostar said that the incidents have impacted travel between Paris and Lille, forcing the train network to divert journeys and extend travel times.
+In a statement to CNN, Eurostar said that the incidents have impacted travel between Paris and Lille, forcing the train network to cancel and divert journeys, and extend travel times.
 
-“Due to coordinated acts of malice in France, affecting the high speed line between Paris and Lille, all high speed trains going to and coming from Paris are being diverted via the classic line today Friday 26 July. This extends the journey time by around an hour and a half. Several trains have been cancelled,” the statement outlined.
+These incidents come just hours before the Olympic torch relay concludes and the Opening Ceremony begins, with more than 320,000 spectators expected to attend along the River Seine.
 
-The reports come just hours before the Olympic torch relay concludes and the Opening Ceremony begins, with more than 320,000 spectators expected to attend along the River Seine.
-
-CNN has reached out to the International Olympic Committee for comment. Meanwhile, the Paris 2024 Olympic Committee canceled its pre-opening ceremony press conference amid the incident, and CNN has also asked Paris 2024 for comment.
+CNN has reached out to the International Olympic Committee for comment. Meanwhile, the Paris 2024 Olympic Committee canceled its pre-opening ceremony news conference, and CNN has also asked Paris 2024 for comment.
 
 The French Minister of Sports and the Olympic and Paralympic Games, Amélie Oudéa-Castera said the disruption to the train lines are “a sort of coordinated sabotage.”
 
-Speaking to CNN affiliate BFMTV, Oudéa-Castera condemned the attacks in the “strongest possible terms,” and said it is “truly appalling.”
+Speaking BFMTV, Oudéa-Castera condemned the attacks in the “strongest possible terms,” and said it is “truly appalling.”
 
 “Playing against the Games is playing against France, against your camp, against your country,” she said, according to BFMTV.
 
@@ -39,6 +43,8 @@ Oudéa-Castera said the incidents will disrupt travel on Friday and the weekend.
 “We will assess the impacts on travelers, athletes, and ensure the proper transport of all delegations to the competition sites,” she said.
 
 Other French officials echoed her description of the attacks being intentional. Outgoing French transport minister Patrice Vergriete and Valerie Pecresse, head of the Île-de-France region, in which Paris lies, said on Friday that “all elements” pointed towards it being a “deliberate attack.” Vergriete added those elements were “the coincidental timing, the vans found after the people had fled (and) the arson materials found on location.”
+
+SNCF called the disruption an “attack on France.”
 
 In response to the attacks, Paris police chief Laurent Nunez said Friday that police are stepping up security and focusing manpower on the capital’s train stations.
 
