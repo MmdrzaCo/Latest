@@ -1,6 +1,6 @@
 # Dow surges more than 600 points as the stock market gears up for rate cuts
 
-Published :`2024-07-26 18:38:05`
+Published :`2024-07-26 19:13:34`
 
 ---
 

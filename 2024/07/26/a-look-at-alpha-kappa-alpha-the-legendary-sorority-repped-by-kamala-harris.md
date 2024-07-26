@@ -1,10 +1,10 @@
 # A look at Alpha Kappa Alpha, the legendary sorority repped by Kamala Harris
 
-Published :`2024-07-26 18:38:10`
+Published :`2024-07-26 19:13:36`
 
 ---
 
-As long as she’s been on the political scene, Vice President and likely Democratic presidential nominee Kamala Harris has proudly repped the salmon pink and apple green of Alpha Kappa Alpha.
+As long as she’s been on the political scene, Vice President and likely Democratic presidential nominee Kamala Harris has proudly repped the salmon pink and apple green of Alpha Kappa Alpha, Sorority, Inc.
 
 Alpha Kappa Alpha is a historic African American sorority, founded on the campus of Howard University, Harris’ alma mater. It was the first Black sorority of its kind, and is a part of the “Divine Nine,” a group of Black Pan-Hellenic organizations.
 
@@ -12,19 +12,19 @@ Members of Alpha Kappa Alpha and other groups in the Divine Nine have already ra
 
 The sorority has been a critical source of support and sisterhood not just for Harris, but for the 360,000 some women across the US and the world that make up its ranks. AKA members are political leaders, civil rights activists, literary icons and scientists, and the sorority’s cultural impact has deep, wide-reaching roots.
 
-“When you become a member of Alpha Kappa Alpha, you become a member for life,” Danette Anthony Reed, international president and CEO of Alpha Kappa Alpha, Incorporated, told CNN.
+“When you become a member of Alpha Kappa Alpha, you become a member for life,” Danette Anthony Reed, international president and CEO of Alpha Kappa Alpha Sorority, Inc. told CNN.
 
 Here’s a look at the history of Alpha Kappa Alpha and how it become a force in American society.
 
 ### AKA was founded by Black women at Howard University
 
-Alpha Kappa Alpha, or AKA as it’s familiarly known, was founded more than a century ago with the aim of connecting and empowering Black college-educated women. In the years since, AKA has been a springboard for its members to achieve academic and professional success, as well as leadership development and personal growth. The organization has also facilitates numerous community service initiatives across the country.
+Alpha Kappa Alpha, or AKA as it’s familiarly known, was founded more than a century ago with the aim of connecting and empowering Black college-educated women. In the years since, AKA has been a springboard for its members to achieve academic and professional success, as well as leadership development and personal growth. The organization has also facilitated numerous community service initiatives across the country.
 
 Groups like Alpha Kappa Alpha were a natural evolution of Greek life on college campuses. The first fraternities and sororities in the US formed in the late 1700s and 1800s as forums where college students could discuss current events and literature outside their strict curriculums, according to Lawrence Ross, author of “The Divine Nine: The History of African American Fraternities and Sororities.”
 
 Greek life at predominantly White institutions eventually expanded and evolved into social clubs, but it excluded students of color. In the early 1900s, at a time of intense racial segregation and disenfranchisement, African American students at White institutions and historically Black colleges and universities founded the Greek letter organizations that make up the Divine Nine with an additional mission: To uplift each other and all Black people.
 
-“It’s very much centered upon not just the college experience, but the notion that those of us who get college educations have a responsibility — not just to our own selves or our own transformation, but the transformation of our communities,” Ross, a member of the historically Black Alpha Phi Alpha fraternity, said.
+“It’s very much centered upon not just the college experience, but the notion that those of us who get college educations have a responsibility — not just to our own selves or our own transformation, but the transformation of our communities,” Ross, a member of the historically Black Alpha Phi Alpha Fraternity, Inc. said.
 
 On January 15, 1908, Ethel Hedgemon — along with Anna Easter Brown, Beulah Burke, Lillie Burke, Marjorie Hill, Margaret Flagg Holmes, Lavinia Norman, Lucy Diggs Slowe and Marie Woolfolk — founded Alpha Kappa Alpha at Howard University as a community of women with shared values and goals. They chose an ivy leaf as their symbol, drafted a constitution and extended invitations to a group of sophomores on campus.
 
@@ -64,7 +64,7 @@ Women of Alpha Kappa Alpha have populated the highest ranks of their fields, whe
 
 Constance Baker Motley was the first female attorney for the Legal Defense Fund and wrote the original complaint in Brown v. Board of Education. The late Democratic Rep. Sheila Jackson Lee, a leading champion of Black American issues in Congress, was an AKA, as was Nobel Laureate Toni Morrison.
 
-Katherine Johnson, Dorothy Vaughan and Mary Jackson — three Black mathematicians who worked for NASA in the 1950s and were at the center of the film “Hidden Figures” — also started out as Alpha Kappa Alphas. NASA astronaut Mae Jemison, the first African American woman in space, repped the pink and green, too.
+Katherine Johnson, Dorothy Vaughan and Mary Jackson — three Black mathematicians who worked for NASA in the 1950s and were at the center of the film “Hidden Figures” — also were Alpha Kappa Alphas. NASA astronaut Mae Jemison, the first African American woman in space, repped the pink and green, too.
 
 Many more women were initiated into Alpha Kappa Alpha as honorary members, including civil rights icon Rosa Parks, jazz singer Ella Fitzgerald and director Ava DuVernay.
 

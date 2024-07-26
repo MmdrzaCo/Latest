@@ -1,6 +1,6 @@
 # US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says
 
-Published :`2024-07-26 18:38:05`
+Published :`2024-07-26 19:13:33`
 
 ---
 
@@ -51,6 +51,10 @@ US authorities had sought Zambada’s capture for years and in 2021 raised the 
 FBI Director Christopher Wray said Zambada and Guzman Lopez had “eluded law enforcement for decades” and “will now face justice in the United States.”
 
 The pair allegedly oversaw the trafficking of “tens of thousands of pounds of cocaine, heroin, methamphetamine, and fentanyl into the US along with related violence,” Wray added.
+
+While Guzman Lopez’s detention status remains unclear, CNN has learned that a US Justice Department aircraft frequently used for extraditions traveled from El Paso and landed at an airport near Chicago early Friday morning.
+
+Guzman Lopez was previously indicted by a federal grand jury on narcotics, money laundering and firearms charges, according to a statement last year from prosecutors.
 
 Drug Enforcement Administration chief Anne Milgram said the pair’s arrests strike “at the heart of the cartel that is responsible for the majority of drugs, including fentanyl and methamphetamine, killing Americans from coast to coast.”
 

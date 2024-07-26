@@ -1,6 +1,6 @@
 # SpaceX cleared to launch Falcon 9 rocket after rare failure
 
-Published :`2024-07-26 18:38:05`
+Published :`2024-07-26 19:13:33`
 
 ---
 
@@ -12,11 +12,19 @@ The Federal Aviation Administration, which licenses commercial rocket launches a
 
 On its website, SpaceX has already revealed that it will put the Falcon 9 back to work as soon as Saturday, launching a batch of Starlink internet satellites.
 
+That would make SpaceX’s return to flight extremely rapid, with only about two weeks of down time. For comparison, the Falcon 9 has been grounded for months at a time after prior failures or mishaps, the last of which occurred in 2016.
+
 Approval to resume Falcon 9 launches also means that SpaceX is back on track to return to its routine but crucial work launching astronauts to the International Space Station. SpaceX’s 10th such trip — carried out on behalf of NASA — is slated to take flight in August. That mission is dubbed Crew-9, and NASA said Friday it’s on track to launch “no earlier than” August 18.
 
 “We’ve been following along, step by step with that investigation that the FAA has been doing,” Steve Stich, NASA’s commercial crew program manager, said Friday. “SpaceX has been very transparent.”
 
 Stich added that Crew-9 will launch after the conclusion of the inaugural crewed test flight of Boeing’s Starliner spacecraft. That vehicle has been at the ISS weeks longer than expected as ground teams have worked to understand several issues that plagued the first leg of its flight.
+
+Four astronauts will launch inside a SpaceX Crew Dragon capsule atop a Falcon 9 rocket for the Crew-9 mission: NASA’s Zena Cardman, Nick Hague, Stephanie Wilson, and cosmonaut Alexsandr Gorbunov of the Russian space agency, Roscosmos.
+
+During a news briefing Friday, Hague said that he is “extremely confident in the (SpaceX and NASA) team.”
+
+“And I’m excited to strap onto the rocket when the team decides it’s time to go,” Hague said, adding that SpaceX has been transparent with the astronauts about the issue from the time it occurred.
 
 SpaceX also has plans to launch a history-making private astronaut mission, called Polaris Dawn, that will send billionaire and philanthropist Jared Isaacman and three crewmates to orbit aboard a Falcon 9 to conduct the first spacewalk by private citizens. That mission had been slated to take off as soon as this month but is now on track for “late summer,” or August, said Sarah Walker, SpaceX’s director of Dragon mission management, on Friday.
 
