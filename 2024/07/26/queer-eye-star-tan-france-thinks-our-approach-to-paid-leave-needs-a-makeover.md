@@ -1,6 +1,6 @@
 # ‘Queer Eye’ star Tan France thinks our approach to paid leave needs a makeover
 
-Published :`2024-07-26 10:16:09`
+Published :`2024-07-26 10:38:06`
 
 ---
 

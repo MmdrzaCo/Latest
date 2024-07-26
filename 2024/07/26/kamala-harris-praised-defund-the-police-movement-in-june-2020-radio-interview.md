@@ -1,6 +1,6 @@
 # Kamala Harris praised ‘defund the police’ movement in June 2020 radio interview
 
-Published :`2024-07-26 10:16:08`
+Published :`2024-07-26 10:38:03`
 
 ---
 
