@@ -1,6 +1,6 @@
 # Biden and Netanyahu meet with urgency to reach ceasefire deal at top of the agenda
 
-Published :`2024-07-26 19:35:55`
+Published :`2024-07-26 20:18:00`
 
 ---
 
