@@ -1,38 +1,26 @@
 # US operation to capture the Sinaloa cartel leaders had inside help, official says
 
-Published :`2024-07-26 13:36:04`
+Published :`2024-07-26 14:13:40`
 
 ---
 
-[Breaking news update, published at 9:24 a.m. ET]
+An alleged Mexican drug kingpin suspected of flooding the United States with deadly fentanyl and who evaded authorities for decades is in US custody after he was apparently lured across the border by federal agents with another alleged leader of his cartel who was helping with his capture, according to a US law enforcement official briefed on the investigation.
 
-The US operation to capture the Sinaloa cartel leaders had the inside help of one of Chapo Guzman’s sons, according to US law enforcement official briefed on the investigation.
-
-Ismael Zambada Garcia, known as “El Mayo,” and who the US says runs a Sinaloa faction that has fueled the fentanyl trafficking into the US, boarded a plane with Joaquin Guzman Lopez, believing they were inspecting property in Mexico near the US border.
-
-Zambada didn’t know that US investigators had exploited a rift in the Sinaloa cartel and that Guzman’s son was helping with Zambada’s capture, the official said.
-
-The plane landed near El Paso, Texas, and FBI agents arrested both men, in one of the biggest victories for US law enforcement against the cartels.
-
-[Original story, published at 9:04 a.m. ET]
-
-An alleged Mexican drug kingpin suspected of flooding the United States with deadly fentanyl and who evaded authorities for decades is in US custody after he was apparently lured across the border by federal agents.
-
-Ismael “El Mayo” Zambada, 76, the alleged co-founder and leader of the powerful Sinaloa cartel, was arrested in El Paso, Texas on Thursday, Attorney General Merrick Garland said in a statement.
+Ismael “El Mayo” Zambada, 76, the alleged co-founder and leader of the powerful Sinaloa cartel, was arrested in El Paso, Texas, Thursday, Attorney General Merrick Garland said in a statement.
 
 Another alleged cartel leader, Joaquin Guzman Lopez, 38, was also arrested, he said. Guzman is a son of the cartel’s infamous co-founder and former boss Joaquin “El Chapo” Guzman, 69, who is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
+
+Zambada boarded a plane with Guzman Lopez, believing they were inspecting property in Mexico near the US border, the law enforcement official said.
+
+But Zambada didn’t know US investigators had exploited a rift in the Sinaloa cartel and Guzman Lopez was helping with Zambada’s capture, the official said.
+
+The plane instead landed near El Paso and FBI agents arrested both men, in one of the biggest victories for US law enforcement against the cartels.
+
+“Two individuals got off the plane … and were calmly taken into custody,” by federal agents who were waiting, a worker at the Santa Teresa airport near El Paso told Reuters. “It seemed like a pretty calm, arranged thing,” the man, who declined to share his name out of concern for his safety, said.
 
 Both Zambada and Guzman Lopez face several charges for allegedly leading the cartel’s criminal operations, including its “deadly fentanyl manufacturing and trafficking networks,” Garland said.
 
 “Fentanyl is the deadliest drug threat our country has ever faced, and the Justice Department will not rest until every single cartel leader, member, and associate responsible for poisoning our communities is held accountable,” Garland said.
-
-The sting operation to catch Zambada duped the alleged drug lord into flying to the US under false pretenses, two law enforcement officials familiar with the plot told CNN.
-
-Zambada and Guzman Lopez boarded a plane purportedly en route to inspect a property in Mexico, the sources said, adding that at least one of the men was unaware they were headed to the US.
-
-FBI agents arrested the two alleged drug kingpins after they landed in El Paso.
-
-“Two individuals got off the plane … and were calmly taken into custody,” by federal agents who were waiting, a worker at the Santa Teresa airport near El Paso told Reuters. “It seemed like a pretty calm, arranged thing,” the man, who declined to share his name out of concern for his safety, said.
 
 Among various criminal charges Zambada faces in the US, he was indicted by a northern Illinois grand jury in 2009, according to the US State Department.
 
