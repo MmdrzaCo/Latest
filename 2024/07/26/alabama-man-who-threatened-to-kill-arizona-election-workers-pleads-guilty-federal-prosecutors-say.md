@@ -1,6 +1,6 @@
 # Alabama man who threatened to kill Arizona election workers pleads guilty, federal prosecutors say
 
-Published :`2024-07-26 13:17:52`
+Published :`2024-07-26 13:36:04`
 
 ---
 

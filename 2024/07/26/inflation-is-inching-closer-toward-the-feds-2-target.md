@@ -1,6 +1,6 @@
 # Inflation is inching closer toward the Fed’s 2% target
 
-Published :`2024-07-26 13:17:52`
+Published :`2024-07-26 13:36:04`
 
 ---
 
@@ -11,6 +11,14 @@ The Personal Consumption Expenditures price index — a closely watched inflatio
 Economists had projected the annual increase would slow to 2.5%, according to FactSet consensus estimates.
 
 On a monthly basis, the price index increased by 0.1%, also landing in line with expectations.
+
+Friday’s data was the clincher on what was an overwhelmingly solid second quarter for the US economy and the lengthy battle to lower inflation. During the past three months, price hikes slowed — quashing fears that the first-quarter inflation flare-up was a reacceleration — while the economy grew and labor market remained on solid footing.
+
+The Fed appears to be on course to nail the elusive “soft landing” of reining in high inflation without dragging the economy into a recession.
+
+“[Friday’s] price growth numbers are fairly unexciting, which is good news when you’re hoping for an easy coasting to the Fed’s target inflation rate,” Elizabeth Renter, senior economist at personal finance site NerdWallet, wrote in a statement.
+
+The Fed meets next week for its July policymaking meeting, and markets overwhelmingly expect the central bank to hold rates steady and start cutting in September, according to the CME FedWatch Tool.
 
 Falling energy prices, which dropped 2.1% from May, continued to help put a damper on overall inflation in June, as did goods prices, which dropped 0.2%. Food and services inflation increased just 0.1% and 0.2%, respectively, for the month.
 

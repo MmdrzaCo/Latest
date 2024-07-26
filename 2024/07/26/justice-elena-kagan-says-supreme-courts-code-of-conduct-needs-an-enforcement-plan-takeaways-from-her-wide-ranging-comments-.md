@@ -1,6 +1,6 @@
 # Justice Elena Kagan says Supreme Court’s code of conduct needs an enforcement plan. Takeaways from her wide-ranging comments.
 
-Published :`2024-07-26 13:17:53`
+Published :`2024-07-26 13:36:05`
 
 ---
 

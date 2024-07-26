@@ -1,6 +1,6 @@
 # Judge who ordered Trump to pay $454 million says he was ‘accosted’ by lawyer and won’t recuse himself from case
 
-Published :`2024-07-26 13:17:53`
+Published :`2024-07-26 13:36:05`
 
 ---
 

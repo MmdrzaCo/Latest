@@ -1,6 +1,6 @@
 # Wealth of global top 1% grew by $42 trillion over past decade: Oxfam
 
-Published :`2024-07-26 13:17:54`
+Published :`2024-07-26 13:36:08`
 
 ---
 
