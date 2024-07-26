@@ -1,6 +1,6 @@
 # Officer suspended after videos of police beating men at UK airport spark outcry
 
-Published :`2024-07-26 16:19:23`
+Published :`2024-07-26 16:42:06`
 
 ---
 

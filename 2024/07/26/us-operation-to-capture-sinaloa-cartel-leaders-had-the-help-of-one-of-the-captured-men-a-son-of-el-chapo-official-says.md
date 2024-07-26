@@ -1,14 +1,16 @@
 # US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says
 
-Published :`2024-07-26 16:19:23`
+Published :`2024-07-26 16:42:06`
 
 ---
 
 An alleged Mexican drug kingpin suspected of flooding the United States with deadly fentanyl and who evaded authorities for decades is in US custody after he was apparently lured across the border by federal agents with another alleged leader of his cartel who was helping with his capture, according to a US law enforcement official briefed on the investigation.
 
-Ismael “El Mayo” Zambada, 76, the alleged co-founder and leader of the powerful Sinaloa cartel, was arrested in El Paso, Texas, Thursday, Attorney General Merrick Garland said in a statement.
+Ismael “El Mayo” Zambada, 76, the alleged co-founder and leader of the powerful Sinaloa cartel, was arrested in El Paso, Texas, Thursday, Attorney General Merrick Garland said in a statement. Zambada entered a not-guilty plea to all charges at his first federal court appearance Friday morning in El Paso and is being held without bond on seven federal criminal counts, including continuing criminal enterprise and money laundering.
 
-Another alleged cartel leader, Joaquin Guzman Lopez, 38, was also arrested, he said. Guzman is a son of the cartel’s infamous co-founder and former boss Joaquin “El Chapo” Guzman, 69, who is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
+He also agreed to waive his right to personally appear and to ask for bond at a hearing set for July 31.
+
+Another alleged cartel leader, Joaquin Guzman Lopez, 38, was also arrested, according to Garland. Guzman is a son of the cartel’s infamous co-founder and former boss Joaquin “El Chapo” Guzman, 69, who is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
 
 Zambada boarded a plane with Guzman Lopez, believing they were inspecting property in Mexico near the US border, the law enforcement official said.
 
@@ -85,6 +87,8 @@ The target was the groom and a resident of Columbus, New Mexico, whose body was 
 Police found the bodies of the groom, his brother and his uncle three days after the wedding in the bed of a pickup truck, the indictment stated.
 
 Another incident detailed in the indictment related to the kidnapping, killing and mutilation of a Texas resident in 2009 “to answer for the loss of a 670-pound load of marijuana seized by the Border Patrol,” prosecutors said.
+
+CNN’s requests for comment were not immediately returned Friday by Zambada’s attorney, Frank Perez.
 
 ---
 

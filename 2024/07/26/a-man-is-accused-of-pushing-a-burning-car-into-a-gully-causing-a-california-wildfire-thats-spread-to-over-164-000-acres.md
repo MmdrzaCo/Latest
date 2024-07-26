@@ -1,6 +1,6 @@
 # A man is accused of pushing a burning car into a gully, causing a California wildfire that’s spread to over 164,000 acres
 
-Published :`2024-07-26 16:19:23`
+Published :`2024-07-26 16:42:06`
 
 ---
 
@@ -41,6 +41,10 @@ Witnesses reported seeing someone “pushing a car that was on fire into a gully
 The DA says the man was seen “calmly leaving the area by blending in with the other citizens who were in the area and fleeing the rapidly evolving fire.” Stout was later arrested at a mobile home park in Chico, Ramsey said.
 
 Stout will likely face an arson charge, though it is unclear what count, or whether any enhancements will be added, Ramsey said. The DA’s office told CNN Stout has not retained an attorney and will be assigned a public defender at his arraignment.
+
+He was previously convicted of second degree robbery, assault with a deadly weapon and drug paraphernalia possession in Kern County, according to criminal records. He was sentenced to 21 years in prison. He was released on parole in 2018, the California Department of Corrections and Rehabilitation confirmed to CNN.
+
+He was also convicted of lewd or lascivious acts on a child under 14 in Butte County, records show.
 
 ### ‘Wall of flames’ destroys homes and businesses in Canadian tourist town
 
