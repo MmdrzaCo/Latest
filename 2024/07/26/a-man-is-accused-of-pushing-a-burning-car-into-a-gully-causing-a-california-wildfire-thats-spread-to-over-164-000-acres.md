@@ -1,6 +1,6 @@
 # A man is accused of pushing a burning car into a gully, causing a California wildfire that’s spread to over 164,000 acres
 
-Published :`2024-07-26 19:13:34`
+Published :`2024-07-26 19:35:53`
 
 ---
 

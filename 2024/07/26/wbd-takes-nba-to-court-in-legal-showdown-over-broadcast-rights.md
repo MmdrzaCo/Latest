@@ -1,20 +1,26 @@
 # WBD takes NBA to court in legal showdown over broadcast rights
 
-Published :`2024-07-26 19:13:34`
+Published :`2024-07-26 19:35:53`
 
 ---
 
-Warner Bros. Discovery has filed a lawsuit against the NBA after the league rejected its matching offer to broadcast the league’s games for the next decade, ending the media company’s four-decade relationship with the NBA.
+Warner Bros. Discovery sued the NBA on Friday after the league rejected the media company’s matching offer to continue broadcasting its live games, ending their four-decade long relationship.
 
-The suit, which was filed Thursday under seal in New York County Supreme Court, comes less than 48 hours after the NBA officially rejected WBD’s offer to match a $1.8 billion per year bid from Amazon, entering into new 11-year contracts with the ecommerce giant as well as NBCUniversal and Disney, starting with the 2025-26 season.
+The suit, which was filed in New York County Supreme Court, comes less than 48 hours after the NBA officially rejected WBD’s offer to match a $1.8 billion per year bid from Amazon, entering into new 11-year contracts with the ecommerce giant, as well as NBCUniversal and Disney, starting with the 2025-26 season.
 
 “Given the NBA’s unjustified rejection of our matching of a third-party offer, we have taken legal action to enforce our rights,” a WBD spokesperson said in a statement. “We strongly believe this is not just our contractual right, but also in the best interest of fans who want to keep watching our industry-leading NBA content with the choice and flexibility we offer them through our widely distributed WBD video-first distribution platforms - including TNT and Max.”
-
-Mike Bass, an NBA spokesperson, responded to the lawsuit’s claims Friday, saying it is “without merit and our lawyers will address them.”
 
 Under the new agreements announced Wednesday — collectively worth $76 billion — national games will be distributed across Amazon Prime Video, NBC’s broadcast network and Peacock streaming service, and Disney’s ABC and ESPN platforms. Some 75 regular-season games will be nationally broadcast on TV.
 
 “Our new global media agreements with Disney, NBCUniversal and Amazon will maximize the reach and accessibility of NBA games for fans in the United States and around the world,” Adam Silver, the NBA commissioner, said in a statement Wednesday. “These partners will distribute our content across a wide range of platforms and help transform the fan experience over the next decade.”
+
+In the 29-page complaint, WBD argued that its contractual rights should apply to the package of games Amazon was awarded, since the games were previously part of a package distributed on cable.
+
+“That is exactly what happened here: Amazon made an offer for Cable Rights as defined in the [Matching Rights Exhibit], and TBS matched it. But, in breach of the Agreement, the NBA has refused to honor TBS’s match,” WBD said in the filing. “The NBA had no right not to honor TBS’s Match.”
+
+The company added that, “unless the NBA is ordered to specifically perform its obligations before the 2025-2026 season, TBS will lose the unique and valuable distribution rights.”
+
+Mike Bass, an NBA spokesperson, responded to the lawsuit’s claims Friday, saying it is “without merit and our lawyers will address them.”
 
 The widely expected lawsuit from WBD, the parent company of TNT and CNN, comes after executives at the media conglomerate suggested in recent weeks that it would likely take legal action against the NBA to enforce matching rights in its existing contract. But the league said WBD “did not match the terms” of its deal with Amazon.
 
