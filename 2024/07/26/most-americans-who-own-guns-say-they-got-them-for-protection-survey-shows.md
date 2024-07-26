@@ -1,6 +1,6 @@
 # Most Americans who own guns say they got them for protection, survey shows
 
-Published :`2024-07-26 03:17:39`
+Published :`2024-07-26 03:37:11`
 
 ---
 
