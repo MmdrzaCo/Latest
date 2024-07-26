@@ -1,6 +1,6 @@
 # ‘A victory for generations to come:’ Puerto Rico bans hair discrimination
 
-Published :`2024-07-26 07:13:54`
+Published :`2024-07-26 07:36:07`
 
 ---
 

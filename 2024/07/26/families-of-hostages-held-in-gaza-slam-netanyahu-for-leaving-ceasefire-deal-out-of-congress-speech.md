@@ -1,6 +1,6 @@
 # Families of hostages held in Gaza slam Netanyahu for leaving ceasefire deal out of Congress speech
 
-Published :`2024-07-26 07:13:55`
+Published :`2024-07-26 07:36:07`
 
 ---
 
