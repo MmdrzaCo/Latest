@@ -1,12 +1,12 @@
 # California’s Park Fire explodes to over 145,000 acres as Oregon firefighters battle nation’s largest active wildfire
 
-Published :`2024-07-26 07:36:05`
+Published :`2024-07-26 08:18:26`
 
 ---
 
 Hot and dry weather is fueling wildfire activity in the Western United States and Canada, with fires damaging homes, causing injuries and forcing evacuations. The largest active wildfire in the US has scorched more than 280,000 acres in eastern Oregon and another blaze has exploded to over 145,000 acres in California. Here’s the latest:
 
-• Man accused of starting California wildfire is arrested: The Park Fire in the Butte County area has quickly burned an area larger than the size of Atlanta and is only 3% contained, according to Cal Fire. It is the largest of 15 big wildfires actively burning across California, according to the National Interagency Fire Center. A suspect has been arrested on suspicion of pushing a burning car 60 feet into a gully, “spreading flames that caused the Park Fire,” authorities said.
+• Man accused of starting California wildfire is arrested: A suspect has been arrested on suspicion of pushing a burning car 60 feet into a gully, “spreading flames” that caused what’s now become California’s largest wildfire of the year, authorities said. The Park Fire in the Butte County area has quickly burned an area larger than the size of Atlanta and is only 3% contained, according to Cal Fire.
 
 • Park Fire explodes in size: By Thursday morning, the wildfire had burned an average of nearly 50 football fields per minute since starting Wednesday afternoon. The blaze has forced mandatory evacuations in Butte County, where the state’s deadliest wildfire, the Camp Fire, killed more than 85 people and destroyed thousands of homes in 2018. Conditions around the Park Fire continue to be difficult for the 1,153 firefighters battling the flames as dry air, warm temperatures and gusty winds linger over the area Thursday. The area is under a red flag warning until Friday evening.
 
