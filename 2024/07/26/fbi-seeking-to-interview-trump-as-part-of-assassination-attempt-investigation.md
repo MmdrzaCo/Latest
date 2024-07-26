@@ -1,6 +1,6 @@
 # FBI seeking to interview Trump as part of assassination attempt investigation
 
-Published :`2024-07-26 12:28:14`
+Published :`2024-07-26 12:53:44`
 
 ---
 
@@ -10,7 +10,11 @@ The FBI also said in a statement Thursday that investigators continue to examine
 
 The bureau issued the statement in response to questions about FBI Director Christopher Wray’s testimony on Capitol Hill on Wednesday, in which he said there’s still “some question” about whether Trump was hit with a bullet or shrapnel.
 
-Questions about Trump’s wound have stoked political backlash. Trump has said he “took a bullet for democracy,” and his campaign pushed back on any implication otherwise.
+Questions about Trump’s wound have stoked political backlash. Trump has said he “took a bullet for democracy,” and attacked Wray on Truth Social over his testimony.
+
+“There was no glass, there was no shrapnel. The hospital called it a ‘bullet wound to the ear,’ and that is what it was. No wonder the once storied FBI has lost the confidence of America!,” Trump posted.
+
+The campaign also has pushed back on any implication otherwise.
 
 “Anyone who believes this conspiracy bullsh*t is either mentally deficient or willfully peddling falsehoods for political reasons,” Trump adviser Steven Cheung told CNN.
 
