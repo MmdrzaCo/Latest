@@ -1,6 +1,6 @@
 # California’s Park Fire burns nearly 125,000 acres in 30 hours as Oregon firefighters battle nation’s largest active fire
 
-Published :`2024-07-26 06:41:16`
+Published :`2024-07-26 07:13:50`
 
 ---
 
