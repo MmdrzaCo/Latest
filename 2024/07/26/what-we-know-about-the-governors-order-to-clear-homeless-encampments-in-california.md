@@ -1,6 +1,6 @@
 # What we know about the governor’s order to clear homeless encampments in California
 
-Published :`2024-07-26 21:36:55`
+Published :`2024-07-26 22:14:53`
 
 ---
 
@@ -62,9 +62,9 @@ Friedenbach cited examples to illustrate the challenges homeless people already 
 
 People who are living in encampments have “nowhere to go” when they are cleared, Friedenbach said. “They lose their belongings, they face increased morbidity, they lose their paperwork making it harder to get services, they lose their access to social workers,” she continued. “These kinds of efforts exacerbate homelessness.”
 
-Tescia Uribe, who works with the statewide nonprofit organization PATH that seeks to end homelessness in the state, told CNN the group will continue investing resources “into just moving people from one place to another.”
+Tescia Uribe, who works with the statewide nonprofit organization PATH that seeks to end homelessness in the state, told CNN the order “doesn’t force anyone to do anything they haven’t already been doing or want to do. It comes with no dollars, nothing to provide permanent solutions for people,” she said.
 
-“This order doesn’t force anyone to do anything they haven’t already been doing or want to do. It comes with no dollars, nothing to provide permanent solutions for people,” she said.
+The state, Uribe added, is continuing the practice of investing resources “into just moving people from one place to another.”
 
 ### Encampment clearing efforts do not lower homeless population, study shows
 
@@ -81,6 +81,8 @@ But in San Francisco, a spokesperson for Mayor London Breed said Thursday the ci
 “Our city encampment teams and street outreach staff have been going out every day to bring people indoors, and to clean and clear encampments,” spokesperson Parisa Safarzadeh said in a statement. “This is why we are seeing a five year low in the City’s tent count on our streets.”
 
 The city’s police department told CNN plans for how to clear encampments are still being developed, but will involve a coalition of partners, including the San Francisco Department of Public Health, nonprofit partners, and the San Francisco Department of Homelessness and Supportive Housing.
+
+CLARIFICATION: This story has been updated to clarify a quote by Tescia Uribe of the nonprofit organization PATH about the investment of resources for the unhoused.
 
 ---
 

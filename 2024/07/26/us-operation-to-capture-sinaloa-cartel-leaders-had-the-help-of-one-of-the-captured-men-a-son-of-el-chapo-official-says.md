@@ -1,24 +1,28 @@
 # US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says
 
-Published :`2024-07-26 21:36:54`
+Published :`2024-07-26 22:14:53`
 
 ---
 
-An alleged Mexican drug kingpin suspected of flooding the United States with deadly fentanyl and who evaded authorities for decades is in US custody after he was apparently lured across the border by federal agents with another alleged leader of his cartel who was helping with his capture, according to a US law enforcement official briefed on the investigation.
+The arrest of two leaders of the Sinaloa cartel – one of Mexico’s most prominent drug trafficking groups – in the United States on Thursday was organized by one of the two men arrested, Joaquin Guzman Lopez, the son of infamous cartel boss Joaquin “El Chapo” Guzman.
 
-Ismael “El Mayo” Zambada, 76, the alleged co-founder and leader of the powerful Sinaloa cartel, was arrested in El Paso, Texas, Thursday, Attorney General Merrick Garland said in a statement. Zambada entered a not-guilty plea to all charges at his first federal court appearance Friday morning in El Paso and is being held without bond on seven federal criminal counts, including continuing criminal enterprise and money laundering.
+Guzman Lopez organized his arrest along with that of Ismael “El Mayo” Zambada, 76, who co-founded the cartel with El Chapo, by luring Zambada on a flight to examine a piece of land Zambada thought was in Mexico, an official familiar with the operation told CNN.
+
+Instead, the plane landed in El Paso, Texas, where federal agents, including from Homeland Security Investigations, arrested the two cartel bosses.
+
+Zambada didn’t know US investigators had exploited a rift in the cartel and Guzman Lopez was helping with Zambada’s capture, the official said. FBI agents arrested both men, in one of the biggest victories for US law enforcement against the cartels.
+
+Experts have told CNN a power struggle between Zambada and El Chapo’s sons, also known as the Chapitos, has existed for some time in the cartel and with Zambada gone, the violence inside the cartel and among other criminal organizations in Mexico, is only set to ramp up.
+
+The agents from HSI, who have been working the case since earlier this year when Attorney General Merrick Garland announced charges against El Chapo’s three sons, were skeptical when Guzman Lopez first made the offer.
+
+The entire operation, one source told CNN, went off surprisingly smoothly given the gravity of the arrests and the disruption it could cause to drug trafficking from Mexico.
+
+Zambada entered a not-guilty plea to all charges at his first federal court appearance Friday morning in El Paso and is being held without bond on seven federal criminal counts, including continuing criminal enterprise and money laundering.
 
 He also agreed to waive his right to personally appear and to ask for bond at a hearing set for July 31.
 
-Another alleged cartel leader, Joaquin Guzman Lopez, 38, was also arrested, according to Garland. Guzman is a son of the cartel’s infamous co-founder and former boss Joaquin “El Chapo” Guzman, 69, who is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
-
-Zambada boarded a plane with Guzman Lopez, believing they were inspecting property in Mexico near the US border, the law enforcement official said.
-
-But Zambada didn’t know US investigators had exploited a rift in the Sinaloa cartel and Guzman Lopez was helping with Zambada’s capture, the official said.
-
-The plane instead landed near El Paso and FBI agents arrested both men, in one of the biggest victories for US law enforcement against the cartels.
-
-“Two individuals got off the plane … and were calmly taken into custody,” by federal agents who were waiting, a worker at the Santa Teresa airport near El Paso told Reuters. “It seemed like a pretty calm, arranged thing,” the man, who declined to share his name out of concern for his safety, said.
+Guzman Lopez, 38, is currently in federal custody in the Chicago area, a law enforcement source familiar with the investigation told CNN. His father is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
 
 Mexican President Andres Manuel Lopez Obrador on Friday said the US government “must give a full report” on the operation that led to the arrests.
 
@@ -52,9 +56,9 @@ FBI Director Christopher Wray said Zambada and Guzman Lopez had “eluded law en
 
 The pair allegedly oversaw the trafficking of “tens of thousands of pounds of cocaine, heroin, methamphetamine, and fentanyl into the US along with related violence,” Wray added.
 
-While Guzman Lopez’s detention status remains unclear, CNN has learned that a US Justice Department aircraft frequently used for extraditions traveled from El Paso and landed at an airport near Chicago early Friday morning.
+After being taken in custody, Guzmán López was flown from El Paso via an FBI jet used for extradition operations and arrived near Chicago early Friday morning, a law enforcement source familiar with the investigation  said.
 
-Guzman Lopez was previously indicted by a federal grand jury on narcotics, money laundering and firearms charges, according to a statement last year from prosecutors.
+Guzman Lopez was previously indicted by a federal grand jury in Illinois on narcotics, money laundering and firearms charges, according to a statement last year from prosecutors.
 
 Drug Enforcement Administration chief Anne Milgram said the pair’s arrests strike “at the heart of the cartel that is responsible for the majority of drugs, including fentanyl and methamphetamine, killing Americans from coast to coast.”
 
