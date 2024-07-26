@@ -1,6 +1,6 @@
 # Bette Midler’s secret to a happy, 40-year marriage? Separate beds
 
-Published :`2024-07-26 21:14:05`
+Published :`2024-07-26 21:36:54`
 
 ---
 

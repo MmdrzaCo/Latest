@@ -1,6 +1,6 @@
 # ABC News still ‘full steam ahead’ with presidential debate, despite Trump backing off commitment
 
-Published :`2024-07-26 21:14:05`
+Published :`2024-07-26 21:36:54`
 
 ---
 
@@ -20,9 +20,9 @@ Even before President Joe Biden dropped out of the race, the campaigns did away 
 
 A person familiar with the matter said Friday that NBC is “in ongoing discussion with the campaigns,” but it’s unclear whether that involves plans for a debate, or other events like town halls with the candidates.
 
-Both the Biden and Trump campaigns had agreed to a debate hosted by CNN on June 27, a debate hosted by ABC on September 10 and a vice presidential debate hosted by CBS, although a date had not been set for the VP showdown before Biden dropped out.
+Both the Biden and Trump campaigns had agreed to a debate hosted by CNN on June 27, a debate hosted by ABC on September 10, and Harris had agreed to a vice presidential debate hosted by CBS, though a date had not been set before Biden exited the race.
 
-The CNN debate will go down in history as one of the most – if not the most – consequential presidential debates in history, withBiden’s poor performance turbocharging calls for the 81-year-old president to step bow out of the race.
+The CNN debate will go down in history as one of the most – if not the most – consequential presidential debates in history, with Biden’s poor performance turbocharging calls for the 81-year-old president to bow out of the race.
 
 After Biden dropped out and endorsed Harris, Trump suggested the ABC debate should be moved to the right-wing network Fox News. Earlier this week, Fox sent letters to both campaigns offering to host their own presidential debate. Neither campaign has publicly responded to the offer.
 
