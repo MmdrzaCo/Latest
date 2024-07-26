@@ -1,6 +1,6 @@
 # A look at Alpha Kappa Alpha, the legendary sorority repped by Kamala Harris
 
-Published :`2024-07-26 10:38:05`
+Published :`2024-07-26 11:14:02`
 
 ---
 

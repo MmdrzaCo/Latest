@@ -1,6 +1,6 @@
 # California’s Park Fire explodes to over 145,000 acres as Oregon firefighters battle nation’s largest active wildfire
 
-Published :`2024-07-26 10:38:03`
+Published :`2024-07-26 11:13:57`
 
 ---
 
