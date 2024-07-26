@@ -1,6 +1,6 @@
 # US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says
 
-Published :`2024-07-26 22:36:42`
+Published :`2024-07-26 23:14:30`
 
 ---
 
@@ -27,6 +27,8 @@ He also agreed to waive his right to personally appear and to ask for bond at a 
 Guzman Lopez, 38, was flown from El Paso via an FBI jet used for extradition operations and arrived near Chicago early Friday morning, a law enforcement source familiar with the investigation said. He is currently in federal custody in the Chicago area. His father is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
 
 Both Zambada and Guzman Lopez face several charges in the US for allegedly leading the cartel’s criminal operations, including its “deadly fentanyl manufacturing and trafficking networks,” US Attorney General Merrick Garland said in a statement after the arrests.
+
+Zambada’s attorney told the Los Angeles Times his client did not voluntarily surrender to law enforcement. He told the paper Zambada “was brought against his will.”
 
 Mexican President Andres Manuel Lopez Obrador on Friday said the US government “must give a full report” on the operation that led to the arrests.
 
@@ -88,7 +90,7 @@ Police found the bodies of the groom, his brother and his uncle three days after
 
 Another incident detailed in the indictment related to the kidnapping, killing and mutilation of a Texas resident in 2009 “to answer for the loss of a 670-pound load of marijuana seized by the Border Patrol,” prosecutors said.
 
-CNN’s requests for comment were not immediately returned Friday by Zambada’s attorney, Frank Perez.
+CNN’s requests for comment were not immediately returned Friday by Zambada’s attorney, Frank Perez. CNN has reached out to law enforcement for comment.
 
 ---
 
