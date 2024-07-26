@@ -1,6 +1,6 @@
 # Gov. Gavin Newsom issues executive order for removal of homeless encampments in California
 
-Published :`2024-07-26 02:47:29`
+Published :`2024-07-26 03:17:39`
 
 ---
 

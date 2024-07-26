@@ -1,6 +1,6 @@
 # Fact-checking Israeli Prime Minister Benjamin Netanyahu’s address to Congress
 
-Published :`2024-07-26 02:47:29`
+Published :`2024-07-26 03:17:39`
 
 ---
 
@@ -24,7 +24,7 @@ CNN has reported on Israel’s arbitrary and contradictory criteria for the entr
 
 Claim: Netanyahu said a commander in Rafah told him that there practically no civilian deaths in the city with the exception of “a single incident where shrapnel from a bomb hit a Hamas weapons depot and unintentionally killed two dozen people.”
 
-Fact: There have been multiple reports of several strikes in Rafah that have resulted in civilian casualties.
+Fact: There have been multiple reports of several Israeli strikes in Rafah that have caused civilian casualties.
 
 The incident Netanyahu appeared to refer to occurred in May and killed at least 45 people at a camp for displaced Palestinians. The airstrike injured more than 200 after a fire broke out at the camp following the strike, most of them women and children, according to the Gaza Health Ministry and Palestinian medics.
 
@@ -46,15 +46,17 @@ Gaza’s Ministry of Health doesn’t distinguish in its reporting between comba
 
 Open-source monitoring by watchdog group Airwars found a “high correlation” between the Palestinian Ministry of Health’s civilian casualty data and what Palestinian civilians “reported online,” according to a new  report.
 
-More than 39,000 people have died in in Gaza since October, when Israel launched a war against Hamas after it attacked Israel on October 7, killing 1,200 people and taking more than 250 hostages.
+More than 39,000 people have been killed in Gaza since October, when Israel launched a war against Hamas after it attacked Israel on October 7, killing 1,200 people and taking more than 250 hostages.
 
 ### Iran funding US protesters
 
 Claim: Netanyahu said that the US director of national intelligence recently revealed “that Iran is funding and promoting anti-Israel protests in America.” He also said: “When the tyrants of Tehran, who hang gays from cranes and murder women for not covering their hair, are praising, promoting and funding you, you have officially become Iran’s useful idiots.
 
-Fact: The suggestion that most or all anti-war protesters are pawns of Iran is not accurate, but US intelligence has indicated that Iranian government actors have tried to pay some protesters.
+Fact: The suggestion that most or all anti-war protesters are pawns of Iran is not accurate. US intelligence has indicated that Iranian government actors have tried to pay some protesters. CNN cannot independently verify that.
 
 Last month, the Director of National Intelligence Avril Haines said that Iran is attempting to covertly stoke protests in the US related to the war in Gaza, posing as activists online and, in some cases, providing financial support to protesters. But Haines also said she wanted “to be clear that I know Americans who participate in protests are, in good faith, expressing their views on the conflict in Gaza,” adding that the intelligence “does not indicate otherwise.”
+
+Netanyahu however, painted the protestors with a broad brush, claiming that they “stand with Hamas” and “stand with rapists and murderers.”
 
 ### Starving Gazans
 
@@ -63,6 +65,8 @@ Claim: Netanyahu said the International Criminal Court’s allegation that Isr
 Fact: On October 9, Israel declared a “complete siege” on Gaza, with Defense Minister Yoav Gallant saying he would halt the supply of electricity, food, water and fuel to the enclave.
 
 Israel has since eased some of those restrictions, but aid agencies say the food that is getting into the strip is only a fraction of what is needed, leading to widespread hunger. Israel’s military operations in Gaza, they say, also hinder the safe distribution of food. In April, USAID Administrator Samantha Power said it is “credible” to assess that famine is already occurring in parts of Gaza.
+
+According to the UN, 96% of the population of Gaza currently faces “crisis or worse levels of food insecurity.”
 
 Human Rights Watch has accused Israel of using starvation as a weapon of war, noting that high ranking Israeli officials “have made public statements expressing their aim to deprive civilians in Gaza of food, water and fuel” and that the “policy” is “being carried out by Israeli forces.”
 
