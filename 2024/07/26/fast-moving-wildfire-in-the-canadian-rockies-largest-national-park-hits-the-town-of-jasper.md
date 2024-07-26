@@ -1,6 +1,6 @@
 # Fast-moving wildfire in the Canadian Rockies’ largest national park hits the town of Jasper
 
-Published :`2024-07-26 20:35:47`
+Published :`2024-07-26 21:14:06`
 
 ---
 

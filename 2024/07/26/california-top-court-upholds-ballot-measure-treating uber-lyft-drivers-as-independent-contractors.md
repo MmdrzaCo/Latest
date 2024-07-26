@@ -1,6 +1,6 @@
 # California top court upholds ballot measure treating Uber, Lyft drivers as independent contractors
 
-Published :`2024-07-26 20:35:48`
+Published :`2024-07-26 21:14:07`
 
 ---
 
