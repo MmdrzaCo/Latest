@@ -1,6 +1,6 @@
 # US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says
 
-Published :`2024-07-26 17:13:24`
+Published :`2024-07-26 17:35:48`
 
 ---
 
@@ -20,9 +20,19 @@ The plane instead landed near El Paso and FBI agents arrested both men, in one o
 
 “Two individuals got off the plane … and were calmly taken into custody,” by federal agents who were waiting, a worker at the Santa Teresa airport near El Paso told Reuters. “It seemed like a pretty calm, arranged thing,” the man, who declined to share his name out of concern for his safety, said.
 
+Mexican President Andres Manuel Lopez Obrador on Friday said the US government “must give a full report” on the operation that led to the arrests.
+
+“There has to be transparency,” he said during his daily news conference.
+
+Lopez Obrador was asked if he would have liked if President Joe Biden or other US authorities had reached out to his government prior to the operation, to which he replied, “We have to wait and see if the arrests took place there or here.”
+
+AMLO, as the president is known, said he is unaware if one or more of the cartel leaders turned themselves in but said the arrests show “important progress in the battle against drug trafficking.”
+
+He added, however, the arrests are not “everything,” adding the US must do more “in solving the drug consumption problem by addressing the causes.”
+
 Mexican officials were informed of the arrests during a phone call from the US Embassy in Mexico Thursday afternoon, Mexico’s secretary of security, Rosa Icela Rodriguez, said Friday.
 
-“The Mexican government did not participate in this detention or surrender,” Rodriguez said during President Andres Manuel Lopez Obrador’s daily news conference, adding Mexico is waiting for more information from the US government.
+“The Mexican government did not participate in this detention or surrender,” Rodriguez said during AMLO’s daily news conference, adding Mexico is waiting for more information from the US government.
 
 Based on information from Mexico’s National Immigration Institute, Rodriguez said, it is believed the men traveled in a Cessna 205 from Hermosillo, Mexico, to the Santa Teresa airport in Texas.
 
@@ -33,8 +43,6 @@ In the US, both Zambada and Guzman Lopez face several charges for allegedly lead
 “Fentanyl is the deadliest drug threat our country has ever faced, and the Justice Department will not rest until every single cartel leader, member, and associate responsible for poisoning our communities is held accountable,” Garland said.
 
 Among various criminal charges Zambada faces in the US, he was indicted by a northern Illinois grand jury in 2009, according to the US State Department.
-
-While his whereabouts are unclear, CNN has learned that a US Justice Department aircraft frequently used for extraditions traveled from El Paso and landed at an airport near Chicago early Friday morning.
 
 US authorities had sought Zambada’s capture for years and in 2021 raised the reward for information leading to his arrest to $15 million.
 
