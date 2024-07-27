@@ -1,6 +1,6 @@
 # Trump campaign says it won’t commit to Harris debate until she’s confirmed as nominee
 
-Published :`2024-07-27 01:07:19`
+Published :`2024-07-27 02:17:55`
 
 ---
 

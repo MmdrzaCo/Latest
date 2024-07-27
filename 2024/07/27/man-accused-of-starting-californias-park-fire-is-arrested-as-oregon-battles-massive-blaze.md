@@ -1,6 +1,6 @@
 # Man accused of starting California’s Park Fire is arrested as Oregon battles massive blaze
 
-Published :`2024-07-27 01:07:21`
+Published :`2024-07-27 02:17:56`
 
 ---
 
