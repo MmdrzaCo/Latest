@@ -1,6 +1,6 @@
 # New York prosecutors say evidence in Trump trial was ‘overwhelming’ and conviction should stand
 
-Published :`2024-07-27 02:17:57`
+Published :`2024-07-27 02:45:12`
 
 ---
 

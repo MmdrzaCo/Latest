@@ -1,6 +1,6 @@
 # Jennifer Aniston criticizes JD Vance for ‘childless cat ladies’ remarks: ‘I pray that your daughter is fortunate enough to bear children’
 
-Published :`2024-07-27 02:17:56`
+Published :`2024-07-27 02:45:11`
 
 ---
 

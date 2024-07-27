@@ -1,10 +1,10 @@
 # California’s Park Fire now among state’s top 13 largest ever as it consumes 239,000 acres
 
-Published :`2024-07-27 02:17:54`
+Published :`2024-07-27 02:45:08`
 
 ---
 
-Hot and dry weather is fueling wildfire activity in the Western United States and Canada, with fires damaging homes, causing injuries and forcing evacuations. The largest active wildfire in the US has scorched more than 280,000 acres in eastern Oregon and another blaze has exploded to more than 178,000 acres in California. Here’s the latest:
+Hot and dry weather is fueling wildfire activity in the Western United States and Canada, with fires damaging homes, causing injuries and forcing evacuations. The largest active wildfire in the US has scorched more than 280,000 acres in eastern Oregon and another blaze has exploded to more than 239,000 acres in California. Here’s the latest:
 
 • Park Fire roars across parts of Butte and Tehama counties, north of Sacramento, California: As of Friday evening, the Park Fire has burned more than 239,000 acres, or about 373 square miles, about the size of San Diego, which makes it the 13th largest in state history. More than 1,600 firefighters are working to slow its progress. Cal Fire reported the blaze was 0% contained Friday, with 134 structures destroyed and another 4,200 threatened. Gov. Gavin Newsom declared a state of emergency for both counties Friday. The state also secured a grant from the Federal Emergency Management Agency to ensure there are enough resources to fight the fire.
 
