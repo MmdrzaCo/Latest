@@ -1,6 +1,6 @@
 # Trump once trashed bitcoin as ‘based on thin air.’ Now, he’s addressing crypto’s largest convention
 
-Published :`2024-07-27 13:35:40`
+Published :`2024-07-27 14:13:15`
 
 ---
 

@@ -1,6 +1,6 @@
 # What we know about the governor’s order to clear homeless encampments in California
 
-Published :`2024-07-27 13:35:40`
+Published :`2024-07-27 14:13:17`
 
 ---
 

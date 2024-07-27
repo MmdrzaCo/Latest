@@ -1,10 +1,10 @@
 # California’s Park Fire destroys buildings and forces thousands to flee as a fast-moving fire ravages Canadian tourist town
 
-Published :`2024-07-27 13:35:40`
+Published :`2024-07-27 14:13:15`
 
 ---
 
-California’s largest wildfire of the year has burned an area larger the size of the entire city of Los Angeles, destroyed dozens of buildings and forced thousands of residents to flee their homes as wildfires wreak havoc in the Western United States. Meanwhile, homes and businesses in a popular Canadian resort town were incinerated as a wildfire continued to roar through the area. Here’s the latest:
+California’s largest wildfire of the year has burned an area larger than the size of the city of Los Angeles, destroyed dozens of buildings and forced thousands of residents to flee their homes as wildfires wreak havoc in the Western United States. Meanwhile, homes and businesses in a popular Canadian resort town were incinerated as a wildfire continued to roar through the area. Here’s the latest:
 
 • California’s Park Fire now state’s 8th largest: As the Park Fire exploded across parts of Butte and Tehama counties, north of Sacramento, California, it scorched 134 buildings and threatened another 4,200. The fast moving blaze has burned more than 307,000 acres, or about 480 square miles, making it the eighth largest wildfire in recorded state history. More than 2,400 firefighters are working to slow the fire’s progress as it remains 0% contained, according to Cal Fire.
 

@@ -1,6 +1,6 @@
 # FBI says investigators are still examining evidence from Trump assassination attempt
 
-Published :`2024-07-27 13:35:42`
+Published :`2024-07-27 14:13:20`
 
 ---
 

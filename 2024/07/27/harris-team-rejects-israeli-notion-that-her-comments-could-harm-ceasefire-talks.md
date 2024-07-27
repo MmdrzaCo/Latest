@@ -1,6 +1,6 @@
 # Harris’ team rejects Israeli notion that her comments could harm ceasefire talks
 
-Published :`2024-07-27 13:35:41`
+Published :`2024-07-27 14:13:18`
 
 ---
 
@@ -20,7 +20,7 @@ Harris’s office pointed out that her comments on Thursday “tracked with her 
 
 “She started with rock-solid support for Israel and then she expressed her concern about civilian causalities and the humanitarian crisis in Gaza, as she always does,” said the aide, responding to reporters’ questions.
 
-But her comments marked the first time that she spoke about the conflict since becoming the presumptive republican nominee as she is faced with the challenge of defining her position on the politically charged issue of the Israel-Hamas war.
+But her comments marked the first time that she spoke about the conflict since becoming the presumptive Democratic nominee as she is faced with the challenge of defining her position on the politically charged issue of the Israel-Hamas war.
 
 Her remarks on Thursday were not a major surprise to some administration officials who have been privy to her team’s views in interagency meetings.
 
