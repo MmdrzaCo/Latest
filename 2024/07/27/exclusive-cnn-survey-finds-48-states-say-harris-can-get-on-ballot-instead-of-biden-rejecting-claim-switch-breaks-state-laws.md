@@ -1,6 +1,6 @@
 # Exclusive: CNN survey finds 48 states say Harris can get on ballot instead of Biden, rejecting claim switch breaks state laws
 
-Published :`2024-07-27 09:36:46`
+Published :`2024-07-27 10:14:59`
 
 ---
 

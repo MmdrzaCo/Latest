@@ -1,6 +1,6 @@
 # Boar’s Head recalls more than 200,000 pounds of deli meat products due to listeria concerns
 
-Published :`2024-07-27 09:36:45`
+Published :`2024-07-27 10:14:58`
 
 ---
 
