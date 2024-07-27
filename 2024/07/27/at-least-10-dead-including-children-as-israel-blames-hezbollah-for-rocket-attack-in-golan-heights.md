@@ -1,10 +1,10 @@
 # At least 10 dead including children as Israel blames Hezbollah for rocket attack in Golan Heights
 
-Published :`2024-07-27 19:38:03`
+Published :`2024-07-27 20:14:51`
 
 ---
 
-At least 10 people, including children, were killed when multiple rockets hit a village in the Golan Heights Saturday – an attack described by the Israeli authorities as the deadliest assault on Israeli civilians since October 7.
+At least 10 people, including children, were killed when multiple rockets hit a village in the Golan Heights Saturday – in what Israel described as the deadliest attack against it since October 7.
 
 Israel said it had identified “approximately 30 projectiles” crossing from Lebanon into Israeli territory and blamed the Iran-backed Lebanese militant group Hezbollah for the barrage. Hezbollah rejected the accusation, saying it “firmly denied” firing the rockets.
 
@@ -24,9 +24,17 @@ Israeli President Isaac Herzog decried the attack as a “terrible and shocking 
 
 Israel’s Magen David Adom (MDA) emergency service reported that the fatalities included “teenagers and young adults” whose ages ranged from 10 to 20 years old. It said a further 29 people were injured, six of whom were in a serious condition.
 
-The government of Lebanon condemned “all acts of violence and attacks against all civilians,” after a rocket attack killed at least 10 people in the town of Majdal Shams in the Golan Heights on Saturday, Lebanese state news agency NNA.
+The Lebanese government said it condemned “all acts of violence and attacks against all civilians,” after the rocket attack, Lebanese state news agency NNA reported.
 
-The government also called for “an immediate cessation of hostilities on all fronts” and emphasized that “targeting civilians constitutes a blatant violation of international law and is contrary to the principles of humanity,” NNA reported.
+The government also called for “an immediate cessation of hostilities on all fronts” and said that “targeting civilians constitutes a blatant violation of international law and is contrary to the principles of humanity,” NNA reported.
+
+### ‘Dire sights’
+
+Adeeb Safadi, a resident of Majdal Shams, told CNN that those killed in the rocket attack on the soccer field were all Druze children from local villages, boys between the ages of eight and 15.
+
+“They were attending a football training class with a coach whose fate is still unknown. Ten of the killed have been identified, but there are more who were torn apart and are still unidentified,” said Safadi, who lives some 600 meters from the site of the attack.
+
+He said he saw black smoke and heard an explosion. About four seconds after the explosion, he heard sirens warning people about an imminent attack.
 
 Evacuation helicopters, ambulances and intensive care vehicles have been dispatched to the scene.
 
