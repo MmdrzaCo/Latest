@@ -1,6 +1,6 @@
 # California’s Park Fire destroys buildings and forces thousands to flee as a fast-moving fire ravages Canadian tourist town
 
-Published :`2024-07-27 10:14:57`
+Published :`2024-07-27 10:36:31`
 
 ---
 
