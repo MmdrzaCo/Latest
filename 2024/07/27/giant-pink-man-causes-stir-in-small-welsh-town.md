@@ -1,6 +1,6 @@
 # Giant pink man causes stir in small Welsh town
 
-Published :`2024-07-27 13:15:44`
+Published :`2024-07-27 13:35:41`
 
 ---
 
