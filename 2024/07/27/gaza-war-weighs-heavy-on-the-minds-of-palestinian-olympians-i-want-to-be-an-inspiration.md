@@ -1,6 +1,6 @@
 # Gaza war weighs heavy on the minds of Palestinian Olympians: ‘I want to be an inspiration’
 
-Published :`2024-07-27 04:18:10`
+Published :`2024-07-27 04:38:05`
 
 ---
 
