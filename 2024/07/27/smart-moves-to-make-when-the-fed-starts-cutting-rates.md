@@ -1,6 +1,6 @@
 # Smart moves to make when the Fed starts cutting rates
 
-Published :`2024-07-27 17:36:29`
+Published :`2024-07-27 18:19:50`
 
 ---
 
