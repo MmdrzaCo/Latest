@@ -1,6 +1,6 @@
 # Trump meets with Netanyahu for first time since departing White House
 
-Published :`2024-07-27 02:45:08`
+Published :`2024-07-27 03:17:47`
 
 ---
 
@@ -21,6 +21,18 @@ Ahead of Netanyahu’s remarks, Harris’ office rejected on Friday the suggesti
 “I don’t know what they’re talking about,” a Harris aide told CNN, in response to a senior Israeli official being quoted in The Times of Israel.
 
 “President Biden and Vice President Harris delivered the same message in their private meetings to Prime Minister Netanyahu: it is time to get the ceasefire and hostage deal done,” the aide to the vice president told reporters, adding that Harris’ meeting with Netanyahu was “serious and collegial.”
+
+Trump elaborated on his own meeting with Netanyahu while continuing to slam Harris during a speech in West Palm Beach, Florida, on Friday night.
+
+“She doesn’t like Jewish people. She doesn’t like Israel. That’s the way it is, and that’s the way it’s always gonna be,” Trump said. Harris’ husband Doug Emhoff is Jewish.
+
+The former president said he asked Netanyahu during their meeting how a Jewish person can vote Democrat.
+
+“I said, ‘How can a Jewish person or a person that loves Israel vote, think of this, vote for this, these parties?’ How can they vote Democrat? How can they vote for these horrible, these horrible people?”
+
+“We came to the conclusion, it’s mostly habit,” Trump said.
+
+### An opportunity to reset relations
 
 Friday marks an opportunity for Trump and Netanyahu to reset relations at critical moments in both the war between Israel and Hamas and the 2024 election cycle.
 
@@ -51,6 +63,8 @@ Sources familiar with the meeting said that there is no set agenda or overarchin
 Asked about the meeting during an interview with Fox News on Thursday, Trump said: “I want him to finish up and get it done quickly. You gotta get it done quickly, because they are getting decimated with this publicity. And you know, Israel is not very good at public relations.”
 
 He also asserted during the interview that the October 7 attack wouldn’t have happened if he were president, a claim he repeats frequently on the campaign trail.
+
+### Arab American and Jewish Trump supporters watching
 
 Arab Americans who have said they will support Trump will also be watching the meeting on Friday closely, they told CNN. They were “saddened and bewildered” when Trump called Biden a Palestinian in a derogatory manner during the debate last month, said Bishara Bahbah, who lives in Arizona and has worked to rally the Arab-American community for Trump after the lifelong Democrat soured on Biden over his approach to the Israel-Hamas war.
 

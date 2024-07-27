@@ -1,6 +1,6 @@
 # Remember when Taylor Swift did drag in a Versace shirt?
 
-Published :`2024-07-27 02:45:11`
+Published :`2024-07-27 03:17:49`
 
 ---
 
