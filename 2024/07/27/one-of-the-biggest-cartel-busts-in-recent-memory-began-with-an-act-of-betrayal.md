@@ -1,6 +1,6 @@
 # One of the biggest cartel busts in recent memory began with an act of betrayal
 
-Published :`2024-07-27 21:36:19`
+Published :`2024-07-27 22:13:14`
 
 ---
 
@@ -56,7 +56,7 @@ In 2021, US authorities raised the reward for information leading to Zambada’s
 
 Over the years, Zambada’s storied ability to evade capture was referenced in narcocorrido ballads about him. The 2022 corrido “Señor Zambada,” performed by El Fantasma and Enigma Norteño from Zambada’s perspective, includes the lines: “I know very well that they want to catch me, that the government wanted to lock me up. But they are going to keep wanting that, because no matter how much they look, they are not going to find me.”
 
-His elusive reputation also caught the attention of his enemies, former Drug Enforcement Administration agent Matt Vigil told CNN.
+His elusive reputation also caught the attention of his enemies, former Drug Enforcement Administration agent Mike Vigil told CNN.
 
 “Mayo Zambada, prior to (Thursday) and over 50 years of involvement in the drug trade had never been captured, never served any time,” Vigil said, “so he is highly respected even by his rivals.”
 

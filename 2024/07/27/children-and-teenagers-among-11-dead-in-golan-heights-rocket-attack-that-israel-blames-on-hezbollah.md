@@ -1,6 +1,6 @@
 # Children and teenagers among 11 dead in Golan Heights rocket attack that Israel blames on Hezbollah
 
-Published :`2024-07-27 21:36:19`
+Published :`2024-07-27 22:13:14`
 
 ---
 
@@ -34,7 +34,15 @@ The strikes have become more frequent in recent weeks and both Hezbollah and Isr
 
 It is unclear how Israel will respond. The Government Press Office said Minister of Defense Yoav Gallant was conducting a situation assessment together with the IDF Chief of the General Staff and senior defense officials.
 
+Speaking later on Saturday, Gallant said “we will hit back at the enemy harshly.”
+
 Meanwhile, Netanyahu held a security consultation with his military secretary General Roman Gofman, and will hold a security situation assessment with all the heads of the defense establishment later on Saturday, his office said.
+
+Israeli opposition leader Benny Gantz traveled to Majdal Shams on Saturday, calling on Netanyahu to increase IDF presence in the area.
+
+Some IDF units previously stationed along the country’s northern border have been redeployed to southern Israel following the October 7 terror attack by Hamas and the subsequent Israeli ground invasion of Gaza.
+
+“We have a moral obligation in the south to return the hostages home, and we have a strategic obligation to return security to the north and the people to their homes. This has gone on for too long. I told the prime minister that he must turn the resources to the north at the same time as the work in the south for the return of the hostages – this is the main task.”
 
 The Lebanese government said after the attack that it condemned “all acts of violence and attacks against all civilians,” after the rocket attack, Lebanese state news agency NNA reported.
 
@@ -70,6 +78,8 @@ While the IDF has blamed the attack on Hezbollah, the militant group denied invo
 
 “We confirm that the Islamic Resistance has no connection to the incident whatsoever and firmly denies all false claims in this regard,” the statement continued.
 
+Earlier on Saturday, Hezbollah had said it targeted an Israeli military site in a different part of the occupied Golan Heights.
+
 The IDF said its analysis showed the rocket launched at Majdal Shams was “carried out from an area located north of the village of Chebaa in southern Lebanon.”
 
 Hagari, the IDF spokesperson, said Hezbollah was lying when denying it was behind the attack. “Our intelligence is clear – Hezbollah is responsible for killing innocent children. Ten-year-old children and once again, the brutality of Hezbollah as a terrorist organization was exposed,” he said.
@@ -83,8 +93,6 @@ The White House on Saturday condemned the attack and reiterated its “iron-clad
 Meanwhile, the EU foreign policy chief Josep Borrell called for an independent international investigation into the attacks and urged restraint.
 
 “Shocking images from the soccer field in the Druze town of Majdal Shams. I strongly condemn this bloodbath. We urge all parties to exercise utmost restraint and avoid further escalation,” he said in a statement posted on X.
-
-This is a developing story. More to come.
 
 ---
 

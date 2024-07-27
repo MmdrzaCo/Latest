@@ -1,6 +1,6 @@
 # Spicy dispute over the origins of Flamin’ Hot Cheetos winds up in court
 
-Published :`2024-07-27 21:36:22`
+Published :`2024-07-27 22:13:19`
 
 ---
 

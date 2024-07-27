@@ -1,6 +1,6 @@
 # How Kamala Harris’ warp-speed campaign launch has changed the 2024 race
 
-Published :`2024-07-27 21:36:24`
+Published :`2024-07-27 22:13:23`
 
 ---
 
