@@ -1,6 +1,6 @@
 # Fact-checking Israeli Prime Minister Benjamin Netanyahu’s address to Congress
 
-Published :`2024-07-27 07:14:29`
+Published :`2024-07-27 07:35:44`
 
 ---
 
