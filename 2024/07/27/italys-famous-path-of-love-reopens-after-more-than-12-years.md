@@ -1,12 +1,12 @@
 # Italy’s famous ‘Path of Love’ reopens after more than 12 years
 
-Published :`2024-07-27 03:17:47`
+Published :`2024-07-27 03:37:06`
 
 ---
 
 One of the most iconic and romantic trails in the world — Italy’s Via dell’Amore (“Path of Love”) – will reopen Saturday, July 27, after a lengthy refurbishment and an overall investment of more than $24 million, the Italian Tourism Ministry announced Friday.
 
-The 900-meter (2,950-foot) panoramic route overlooking the sea is located in the Municipality of Riomaggiore. That’s in the northern region of Liguria at the heart of the natural paradise of the Cinque Terre, which was declared a World Heritage Site by UNESCO in 1997.
+The 900-meter (2,950-foot) panoramic route overlooking the sea is located between the municipalities of Riomaggiore and Manarola. That’s in the northern region of Liguria at the heart of the natural paradise of the Cinque Terre, which was declared a World Heritage Site by UNESCO in 1997.
 
 The trail had been closed since September 2012 after a landslide that injured four Australian tourists.
 

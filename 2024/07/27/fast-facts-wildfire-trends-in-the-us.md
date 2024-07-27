@@ -1,6 +1,6 @@
 # Fast Facts: Wildfire trends in the US
 
-Published :`2024-07-27 03:17:50`
+Published :`2024-07-27 03:37:16`
 
 ---
 
