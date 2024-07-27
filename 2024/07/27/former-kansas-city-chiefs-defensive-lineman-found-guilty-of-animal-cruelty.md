@@ -1,6 +1,6 @@
 # Former Kansas City Chiefs defensive lineman found guilty of animal cruelty
 
-Published :`2024-07-27 10:36:41`
+Published :`2024-07-27 11:13:07`
 
 ---
 

@@ -1,6 +1,6 @@
 # Government to pay former FBI officials $2 million in settlements over release of anti-Trump texts
 
-Published :`2024-07-27 10:36:32`
+Published :`2024-07-27 11:13:03`
 
 ---
 
