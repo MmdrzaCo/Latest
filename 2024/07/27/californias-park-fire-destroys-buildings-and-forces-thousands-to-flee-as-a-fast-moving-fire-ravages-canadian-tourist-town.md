@@ -1,16 +1,18 @@
 # California’s Park Fire destroys buildings and forces thousands to flee as a fast-moving fire ravages Canadian tourist town
 
-Published :`2024-07-27 08:17:08`
+Published :`2024-07-27 08:36:53`
 
 ---
 
-California’s largest wildfire of the year has burned an area about the size of San Diego, destroying dozens of buildings and forcing thousands of residents to flee their homes as wildfires wreak havoc in the Western United States. Meanwhile, homes and businesses in a popular Canadian resort town were incinerated as a wildfire continued to roar through the area. Here’s the latest:
+California’s largest wildfire of the year has burned an area larger the size of the entire city of Los Angeles, destroyed dozens of buildings and forced thousands of residents to flee their homes as wildfires wreak havoc in the Western United States. Meanwhile, homes and businesses in a popular Canadian resort town were incinerated as a wildfire continued to roar through the area. Here’s the latest:
 
-• California’s Park Fire destroys more than 100 structures: As the Park Fire exploded across parts of Butte and Tehama counties, north of Sacramento, California, it scorched 134 buildings and threatened another 4,200. The fast moving blaze has burned more than 239,000 acres, or about 373 square miles, making it the 13th largest wildfire in state history. More than 2,400 firefighters are working to slow the fire’s progress as it remains 0% contained, according to Cal Fire.
+• California’s Park Fire now state’s 8th largest: As the Park Fire exploded across parts of Butte and Tehama counties, north of Sacramento, California, it scorched 134 buildings and threatened another 4,200. The fast moving blaze has burned more than 307,000 acres, or about 480 square miles, making it the eighth largest wildfire in recorded state history. More than 2,400 firefighters are working to slow the fire’s progress as it remains 0% contained, according to Cal Fire.
 
 • California governor declares state of emergency: Gov. Gavin Newsom declared a state of emergency for both counties Friday. The state also secured a federal grant to ensure there are enough resources to fight the blaze. The fire is advancing at 4,000 to 5,000 acres per hour, Billy See, incident commander for Cal Fire, said Friday. With winds forecast to die down overnight and higher humidity moving into the area, See believes firefighters will have a better chance to slow the fire down.
 
 • A man is accused of igniting Park Fire: A 42-year-old man, identified as Ronnie Dean Stout II, was arrested on suspicion of pushing a burning car 60 feet into a gully, “spreading flames that caused the Park Fire,” authorities said. The DA says the man was seen “calmly leaving the area by blending in with the other citizens who were in the area and fleeing the rapidly evolving fire.” Stout, who has not retained an attorney, will likely face an arson charge, the DA’s office told CNN.
+
+• Pilot dies while fighting Oregon fire: A firefighting pilot was found dead in a single-engine air tanker on Friday after going missing the night before while working in the vicinity of the 219-square-mile Falls Fire burning in the Malheur National Forest, according to officials. The fire, which was 55% contained as of Saturday morning, is among a number of large wildfires burning across Oregon. The largest active wildfire in the state is the Durkee Fire, which has scorched about 451 square miles and was 27% contained as of Saturday morning.
 
 • Fire wipes out many of a Canadian town’s buildings: A fast-moving wildfire sent thousands of visitors and residents fleeing the town of Jasper in Alberta, where flames devastated an estimated 30% of the town’s structures. Officials say the losses are significant, and Prime Minister Justin Trudeau has deployed federal support to help battle the blaze. Cool temperatures are expected to calm fire behavior, which will help the 154 firefighters in Jasper fight the blaze, Jasper National Park said on Facebook Friday night. High winds, however, could increase fire activity.
 

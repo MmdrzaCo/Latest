@@ -1,6 +1,6 @@
 # Israel warns it will ‘forcefully operate’ in part of Gaza’s Khan Younis, issues evacuation order
 
-Published :`2024-07-27 08:17:08`
+Published :`2024-07-27 08:36:53`
 
 ---
 
