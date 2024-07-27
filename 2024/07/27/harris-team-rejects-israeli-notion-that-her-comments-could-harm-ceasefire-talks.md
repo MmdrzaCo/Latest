@@ -1,6 +1,6 @@
 # Harris’ team rejects Israeli notion that her comments could harm ceasefire talks
 
-Published :`2024-07-27 15:37:28`
+Published :`2024-07-27 16:18:11`
 
 ---
 

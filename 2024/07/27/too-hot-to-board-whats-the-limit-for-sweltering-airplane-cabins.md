@@ -1,6 +1,6 @@
 # Too hot to board: What’s the limit for sweltering airplane cabins?
 
-Published :`2024-07-27 15:37:32`
+Published :`2024-07-27 16:18:16`
 
 ---
 

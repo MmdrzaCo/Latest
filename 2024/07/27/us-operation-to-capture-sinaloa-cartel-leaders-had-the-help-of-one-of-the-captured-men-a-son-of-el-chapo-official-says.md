@@ -1,6 +1,6 @@
 # US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says
 
-Published :`2024-07-27 15:37:29`
+Published :`2024-07-27 16:18:11`
 
 ---
 
@@ -24,7 +24,7 @@ Zambada entered a not-guilty plea to all charges at his first federal court appe
 
 He also agreed to waive his right to personally appear and to ask for bond at a hearing set for July 31.
 
-Guzman Lopez, 38, was flown from El Paso via an FBI jet used for extradition operations and arrived near Chicago early Friday morning, a law enforcement source familiar with the investigation said. He is currently in federal custody in the Chicago area. His father is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
+Guzman Lopez, 38, was flown from El Paso via an FBI jet used for extradition operations and arrived near Chicago early Friday, a law enforcement source familiar with the investigation said. He is currently being held in a Chicago federal prison, according to the Federal Bureau of Prisons’ inmate locator. His father is serving a life sentence in a US prison after he was convicted five years ago on multiple charges.
 
 Both Zambada and Guzman Lopez face several charges in the US for allegedly leading the cartel’s criminal operations, including its “deadly fentanyl manufacturing and trafficking networks,” US Attorney General Merrick Garland said in a statement after the arrests.
 

@@ -1,12 +1,12 @@
 # At least 30 killed in an Israeli airstrike on a school in Gaza, Palestinian officials say
 
-Published :`2024-07-27 15:37:28`
+Published :`2024-07-27 16:18:11`
 
 ---
 
 At least 30 people have been killed and over 100 injured in an Israeli airstrike on a school in Deir-al Balah, central Gaza, where thousands were sheltering, Palestinian officials said.
 
-The Israeli military it had launched the strike in order to destroy a Hamas command and control center inside the compound.
+The Israeli military said it had launched the strike in order to destroy a Hamas command and control center inside the compound.
 
 Most of the victims from the school arriving to Al-Aqsa Martyrs Hospital in the aftermath of the attack were women and children, according to Dr. Khalil Al-Daqran, a spokesperson for the hospital.
 
