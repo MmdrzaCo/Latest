@@ -1,6 +1,6 @@
 # Restaurant not responsible for man’s injury after bone from ‘boneless’ wing got stuck in his throat, Ohio Supreme Court rules
 
-Published :`2024-07-27 21:12:54`
+Published :`2024-07-27 21:36:24`
 
 ---
 

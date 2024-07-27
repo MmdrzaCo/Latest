@@ -1,6 +1,6 @@
 # Children and teenagers among 11 dead in Golan Heights rocket attack that Israel blames on Hezbollah
 
-Published :`2024-07-27 21:12:48`
+Published :`2024-07-27 21:36:19`
 
 ---
 
@@ -74,9 +74,15 @@ The IDF said its analysis showed the rocket launched at Majdal Shams was “carr
 
 Hagari, the IDF spokesperson, said Hezbollah was lying when denying it was behind the attack. “Our intelligence is clear – Hezbollah is responsible for killing innocent children. Ten-year-old children and once again, the brutality of Hezbollah as a terrorist organization was exposed,” he said.
 
-The White House on Saturday condemned the attack that has killed at least 10 people, including kids, in a rocket attack that hit a village in the Golan Height Saturday. Israel has blamed Iran-backed Hezbollah for the attack, which the group has denied.
+The White House on Saturday condemned the attack and reiterated its “iron-clad” support fro Israel.
 
-Israel seized the Golan Heights from Syria in 1967 during the Six-Day War and annexed the land in 1981. There are approximately 53,000 people living in the narrow strip of land, split almost evenly between Israeli settlers and Syrian Druze, as well as a small population of Alawites.
+“Israel continues to face severe threats to its security, as the world saw today, and the United States will continue to support efforts to end these terrible attacks along the Blue Line, which must be a top priority,” a National Security Council Spokesperson said in a written statement to CNN, referring to the demarcation line between Israel and Lebanon.
+
+“Our support for Israel’s security is iron-clad and unwavering against all Iranian backed terrorist groups, including Lebanese Hezbollah,” the spokesperson added.
+
+Meanwhile, the EU foreign policy chief Josep Borrell called for an independent international investigation into the attacks and urged restraint.
+
+“Shocking images from the soccer field in the Druze town of Majdal Shams. I strongly condemn this bloodbath. We urge all parties to exercise utmost restraint and avoid further escalation,” he said in a statement posted on X.
 
 This is a developing story. More to come.
 
