@@ -1,14 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-27 19:12:01`
+#### Latest Update : `2024-07-27 19:38:11`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Thirteen hikers, including children, rescued from high heat on Arizona trail](https://new-news.github.io/Latest/2024/07/27/thirteen-hikers-including-children-rescued-from-high-heat-on-arizona-trail 'Thirteen hikers, including children, rescued from high heat on Arizona trail')
-
 - [At least 10 dead including children as Israel blames Hezbollah for rocket attack in Golan Heights](https://new-news.github.io/Latest/2024/07/27/at-least-10-dead-including-children-as-israel-blames-hezbollah-for-rocket-attack-in-golan-heights 'At least 10 dead including children as Israel blames Hezbollah for rocket attack in Golan Heights')
+
+- [How ‘cat lady’ became an insult for women of a certain age](https://new-news.github.io/Latest/2024/07/27/how-cat-lady-became-an-insult-for-women-of-a-certain-age 'How ‘cat lady’ became an insult for women of a certain age')
+
+- [Thirteen hikers, including children, rescued from high heat on Arizona trail](https://new-news.github.io/Latest/2024/07/27/thirteen-hikers-including-children-rescued-from-high-heat-on-arizona-trail 'Thirteen hikers, including children, rescued from high heat on Arizona trail')
 
 - [Like ‘little bombs,’ soda cans are exploding on Southwest flights. Here’s why](https://new-news.github.io/Latest/2024/07/27/like-little-bombs-soda-cans-are-exploding-on-southwest-flights-heres-why 'Like ‘little bombs,’ soda cans are exploding on Southwest flights. Here’s why')
 
@@ -43,8 +45,6 @@
 - [California’s Park Fire destroys buildings and forces thousands to flee as a fast-moving fire ravages Canadian tourist town](https://new-news.github.io/Latest/2024/07/27/californias-park-fire-destroys-buildings-and-forces-thousands-to-flee-as-a-fast-moving-fire-ravages-canadian-tourist-town 'California’s Park Fire destroys buildings and forces thousands to flee as a fast-moving fire ravages Canadian tourist town')
 
 - [Missing Henry VIII portrait spotted on X by eagle-eyed art historian](https://new-news.github.io/Latest/2024/07/27/missing-henry-viii-portrait-spotted-on-x-by-eagle-eyed-art-historian 'Missing Henry VIII portrait spotted on X by eagle-eyed art historian')
-
-- [How ‘cat lady’ became an insult for women of a certain age](https://new-news.github.io/Latest/2024/07/27/how-cat-lady-became-an-insult-for-women-of-a-certain-age 'How ‘cat lady’ became an insult for women of a certain age')
 
 - [After Sonya Massey’s death, Springfield becomes the center of calls for racial justice. It’s not the first time](https://new-news.github.io/Latest/2024/07/27/after-sonya-masseys-death-springfield-becomes-the-center-of-calls-for-racial-justice-its-not-the-first-time 'After Sonya Massey’s death, Springfield becomes the center of calls for racial justice. It’s not the first time')
 
