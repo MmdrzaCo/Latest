@@ -1,6 +1,6 @@
 # Why Southwest just broke its 50-year boarding tradition
 
-Published :`2024-07-27 18:38:21`
+Published :`2024-07-27 19:11:57`
 
 ---
 
