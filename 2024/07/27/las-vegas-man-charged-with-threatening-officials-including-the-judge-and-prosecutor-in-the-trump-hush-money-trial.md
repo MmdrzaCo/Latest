@@ -1,6 +1,6 @@
 # Las Vegas man charged with threatening officials including the judge and prosecutor in the Trump hush money trial
 
-Published :`2024-07-27 22:35:36`
+Published :`2024-07-27 23:15:56`
 
 ---
 

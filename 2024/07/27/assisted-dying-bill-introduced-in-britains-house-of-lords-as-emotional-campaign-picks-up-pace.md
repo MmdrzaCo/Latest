@@ -1,6 +1,6 @@
 # Assisted dying bill introduced in Britain’s House of Lords, as emotional campaign picks up pace
 
-Published :`2024-07-27 22:35:38`
+Published :`2024-07-27 23:15:56`
 
 ---
 
