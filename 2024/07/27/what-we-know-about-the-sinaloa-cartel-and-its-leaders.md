@@ -1,6 +1,6 @@
 # What we know about the Sinaloa cartel and its leaders
 
-Published :`2024-07-27 14:35:40`
+Published :`2024-07-27 15:14:30`
 
 ---
 
@@ -65,6 +65,8 @@ Vanda Felbab-Brown, a senior fellow at the Brookings Institute who covers drug m
 Some experts say internal fighting may result in the downfall of the Sinaloa cartel, but Felbab-Brown warned that other Mexican cartels stand ready to take their place, including the Jalisco New Generation Cartel (CJNG).
 
 “This would have very complicated ripple effects across global drug markets,” Felbab-Brown said of the Sinaloa cartel’s potential downfall, “but as long as there is (CJNG), we will end up with a drug market on our doorstep that’s run by a much more vicious, much nastier, much less restrained group than the current one.”
+
+CNN’s Holmes Lybrand contributed to this report.
 
 ---
 

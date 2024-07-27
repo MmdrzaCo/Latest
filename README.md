@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-27 14:35:42`
+#### Latest Update : `2024-07-27 15:14:34`
 
 ## Latest News Grabbing 
 
 ---
+
+- [What we know about the Sinaloa cartel and its leaders](https://new-news.github.io/Latest/2024/07/27/what-we-know-about-the-sinaloa-cartel-and-its-leaders 'What we know about the Sinaloa cartel and its leaders')
+
+- [At least 30 killed in an Israeli airstrike on a school in Gaza, Palestinian officials say](https://new-news.github.io/Latest/2024/07/27/at-least-30-killed-in-an-israeli-airstrike-on-a-school-in-gaza-palestinian-officials-say 'At least 30 killed in an Israeli airstrike on a school in Gaza, Palestinian officials say')
 
 - [Harris’ team rejects Israeli notion that her comments could harm ceasefire talks](https://new-news.github.io/Latest/2024/07/27/harris-team-rejects-israeli-notion-that-her-comments-could-harm-ceasefire-talks 'Harris’ team rejects Israeli notion that her comments could harm ceasefire talks')
 
@@ -14,8 +18,6 @@
 
 - [California’s Park Fire destroys buildings and forces thousands to flee as a fast-moving fire ravages Canadian tourist town](https://new-news.github.io/Latest/2024/07/27/californias-park-fire-destroys-buildings-and-forces-thousands-to-flee-as-a-fast-moving-fire-ravages-canadian-tourist-town 'California’s Park Fire destroys buildings and forces thousands to flee as a fast-moving fire ravages Canadian tourist town')
 
-- [What we know about the Sinaloa cartel and its leaders](https://new-news.github.io/Latest/2024/07/27/what-we-know-about-the-sinaloa-cartel-and-its-leaders 'What we know about the Sinaloa cartel and its leaders')
-
 - [Missing Henry VIII portrait spotted on X by eagle-eyed art historian](https://new-news.github.io/Latest/2024/07/27/missing-henry-viii-portrait-spotted-on-x-by-eagle-eyed-art-historian 'Missing Henry VIII portrait spotted on X by eagle-eyed art historian')
 
 - [How ‘cat lady’ became an insult for women of a certain age](https://new-news.github.io/Latest/2024/07/27/how-cat-lady-became-an-insult-for-women-of-a-certain-age 'How ‘cat lady’ became an insult for women of a certain age')
@@ -23,8 +25,6 @@
 - [After Sonya Massey’s death, Springfield becomes the center of calls for racial justice. It’s not the first time](https://new-news.github.io/Latest/2024/07/27/after-sonya-masseys-death-springfield-becomes-the-center-of-calls-for-racial-justice-its-not-the-first-time 'After Sonya Massey’s death, Springfield becomes the center of calls for racial justice. It’s not the first time')
 
 - [Who was behind the sabotage of France’s railway network? Here’s what we know](https://new-news.github.io/Latest/2024/07/27/who-was-behind-the-sabotage-of-frances-railway-network-heres-what-we-know 'Who was behind the sabotage of France’s railway network? Here’s what we know')
-
-- [At least 30 killed and over 100 injured in an Israeli airstrike on a school in Gaza, Palestinian officials say](https://new-news.github.io/Latest/2024/07/27/at-least-30-killed-and-over-100-injured-in-an-israeli-airstrike-on-a-school-in-gaza-palestinian-officials-say 'At least 30 killed and over 100 injured in an Israeli airstrike on a school in Gaza, Palestinian officials say')
 
 - [Olympic gold in tennis faces tough competition from injuries, illnesses and dreams of Grand Slam glory](https://new-news.github.io/Latest/2024/07/27/olympic-gold-in-tennis-faces-tough-competition-from-injuries-illnesses-and-dreams-of-grand-slam-glory 'Olympic gold in tennis faces tough competition from injuries, illnesses and dreams of Grand Slam glory')
 
