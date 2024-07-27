@@ -1,6 +1,6 @@
 # Justin Timberlake’s attorney disputes he was intoxicated when arrested for DWI
 
-Published :`2024-07-27 20:14:54`
+Published :`2024-07-27 20:36:49`
 
 ---
 
