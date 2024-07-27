@@ -1,6 +1,6 @@
 # 5 takeaways from the opening ceremony of the 2024 Paris Olympics
 
-Published :`2024-07-27 20:36:48`
+Published :`2024-07-27 21:12:50`
 
 ---
 

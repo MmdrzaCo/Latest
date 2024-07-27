@@ -1,6 +1,6 @@
 # From ‘one of the lowest points’ of his life to interim UFC heavyweight champion: the rise of Tom Aspinall
 
-Published :`2024-07-27 20:36:50`
+Published :`2024-07-27 21:12:53`
 
 ---
 
