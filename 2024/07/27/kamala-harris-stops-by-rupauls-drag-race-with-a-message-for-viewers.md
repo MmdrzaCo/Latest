@@ -1,6 +1,6 @@
 # Kamala Harris stops by ‘RuPaul’s Drag Race’ with a message for viewers
 
-Published :`2024-07-27 08:37:04`
+Published :`2024-07-27 09:15:14`
 
 ---
 
