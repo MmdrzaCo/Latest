@@ -1,6 +1,6 @@
 # US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says
 
-Published :`2024-07-27 23:15:55`
+Published :`2024-07-27 23:35:51`
 
 ---
 

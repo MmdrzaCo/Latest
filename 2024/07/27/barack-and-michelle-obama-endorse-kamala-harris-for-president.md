@@ -1,6 +1,6 @@
 # Barack and Michelle Obama endorse Kamala Harris for president
 
-Published :`2024-07-27 23:15:56`
+Published :`2024-07-27 23:35:54`
 
 ---
 

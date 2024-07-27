@@ -1,6 +1,6 @@
 # Trump plans to return to Butler, Pennsylvania, to honor slain supporter and those injured during assassination attempt
 
-Published :`2024-07-27 23:15:56`
+Published :`2024-07-27 23:35:52`
 
 ---
 
