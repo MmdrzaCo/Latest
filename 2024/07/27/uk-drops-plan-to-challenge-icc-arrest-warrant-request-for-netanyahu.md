@@ -1,6 +1,6 @@
 # UK drops plan to challenge ICC arrest warrant request for Netanyahu
 
-Published :`2024-07-27 18:19:53`
+Published :`2024-07-27 18:38:20`
 
 ---
 

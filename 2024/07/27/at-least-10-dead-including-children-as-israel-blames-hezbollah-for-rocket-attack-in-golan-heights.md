@@ -1,12 +1,14 @@
 # At least 10 dead including children as Israel blames Hezbollah for rocket attack in Golan Heights
 
-Published :`2024-07-27 18:19:49`
+Published :`2024-07-27 18:38:16`
 
 ---
 
-At least 10 people, including children, are dead after multiple rockets hit a village in the Israeli-annexed Golan Heights, Israeli authorities said Saturday.
+At least 10 people, including children, are dead after multiple rockets hit a village in the Golan Heights Saturday, in what Israeli authorities have described as the deadliest attack on Israeli citizens since October 7.
 
-Israel blamed the Iran-backed Lebanese militant group Hezbollah for the attack in the Majdal Shams area, which also injured at least 29 people, saying it had identified “approximately 30 projectiles” crossing from Lebanon into Israeli territory. Among the sites hit was a soccer field where children were playing.
+Israel blamed the Iran-backed Lebanese militant group Hezbollah for the attack in the Majdal Shams area, which also injured at least 29 people, saying it had identified “approximately 30 projectiles” crossing from Lebanon into Israeli territory.
+
+Among the sites hit was a soccer field where children and teenagers had been playing, said Israel Defense Forces (IDF) spokesperson Daniel Hagari, who described the attack as “the deadliest attack on Israeli civilians since October 7.”
 
 Hezbollah, however, said it “firmly denies” firing the rockets.
 
