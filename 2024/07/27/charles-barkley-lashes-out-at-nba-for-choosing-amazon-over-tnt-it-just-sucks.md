@@ -1,6 +1,6 @@
 # Charles Barkley lashes out at NBA for choosing Amazon over TNT: ‘It just sucks’
 
-Published :`2024-07-27 11:36:30`
+Published :`2024-07-27 12:28:48`
 
 ---
 
@@ -16,7 +16,7 @@ Barkley, who hosts the iconic TNT program “Inside the NBA” alongside Ernie J
 
 “These people I work with, they screwed this thing up — clearly,” Barkley unloaded.
 
-On Friday, Barkley told The Athletic that he would field offers from NBC, ESPN, and Prime Video — with whom he said he has recently spoken with — unless WBD can guarantee his 10-year, $210 million contract will be paid.
+On Friday, Barkley told The Athletic that he would field offers from NBC, ESPN, and Prime Video — with whom he said he has recently spoken — unless WBD can guarantee his 10-year, $210 million contract will be paid.
 
 “My thing was, ‘Wait, y’all f— up, I didn’t f— up, why do I have to take a pay cut,’” Barkley said.
 
@@ -30,7 +30,7 @@ In a statement Wednesday, WBD criticized the NBA’s decision to reject its matc
 
 “We have matched the Amazon offer, as we have a contractual right to do, and do not believe the NBA can reject it,” a TNT spokesperson said in a statement. “In doing so, they are rejecting the many fans who continue to show their unwavering support for our best-in-class coverage, delivered through the full combined reach of WBD’s video-first distribution platforms — including TNT, home to our four-decade partnership with the league, and Max, our leading streaming service. We think they have grossly misinterpreted our contractual rights with respect to the 2025-26 season and beyond, and we will take appropriate action.”
 
-WBD executives have suggested in recent weeks that if the NBA declined to accept its matching offer it could bring a lawsuit to enforce its contractual rights to match another bid.
+On Friday, WBD sued the NBA for rejecting its matching offer to continue broadcasting live games, ending their four-decade long relationship.
 
 The months of dealmaking and uncertainty over the NBA media rights had set off alarms both inside and out of WBD, raising the prospect that TNT Sports’ nearly four decades as an NBA partner and home to the beloved “Inside the NBA” show could come to an end.
 
