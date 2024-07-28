@@ -1,12 +1,12 @@
 # ‘Deadpool & Wolverine’ opening weekend surpasses $200 million, biggest R-rated debut
 
-Published :`2024-07-28 20:15:32`
+Published :`2024-07-28 20:36:01`
 
 ---
 
 “Deadpool & Wolverine” barreled through the $200 million benchmark, cementing the blockbuster as the record holder for the highest grossing opening weekend for an R-rated movie.
 
-According to studio estimates, “Deadpool & Wolverine” — the 34th movie in the Marvel Cinematic Universe lineup — has grossed $205 million dollars in domestic sales and $438.3 million globally in its debut.
+According to studio estimates, “Deadpool & Wolverine” — the 34th movie in the Marvel Cinematic Universe lineup — has grossed $205 million in domestic sales and $438.3 million globally in its debut.
 
 The first Deadpool movie set the record for the highest grossing opening weekend for an R-rated film when it was released in 2016 to roughly $132 million, and “Deadpool 2” cinched the second-place spot with $125 million in domestic sales in 2018. But even adjusted for inflation, both films pale in comparison with the third installation’s debut.
 

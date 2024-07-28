@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-28 20:15:31`
+Published :`2024-07-28 20:36:01`
 
 ---
 
@@ -52,17 +52,39 @@ Israel’s initial overnight response appeared to stop short of the kind of atta
 
 Iran on Sunday warned Israel against “any new adventures” aimed at Lebanon, in a statement issued by foreign ministry spokesperson Nasser Kanaani. The statement said Israel “does not have the minimum moral authority to comment and judge about the incident that happened in Majdal Shams area, and the claims of this regime against others will not be heard either.”
 
-Israel Prime Minister Benjamin Netanyahu cut short by several hours his visit to the United States and returned to Israel and is convening a meeting of the security cabinet in Tel Aviv to discuss the situation.
+Israel Prime Minister Benjamin Netanyahu cut short by several hours his visit to the United States and returned to Israel to convene a meeting of the security cabinet in Tel Aviv to discuss the situation. His office said following the meeting that the cabinet had “authorized the prime minister and the minister of defense to decide on the nature of the response against the terror organization Hezbollah, and on its’ timing.”
 
-The prime minister said he was “shocked” by the attack. “I can say that the State of Israel will not be silent about this. We will not put this off the agenda,” he said.
+The prime minister said earlier that he was “shocked” by the attack. “I can say that the State of Israel will not be silent about this. We will not put this off the agenda,” he said.
+
+### ‘It won’t be Hezbollah alone’: Lebanese FM
+
+The Lebanese foreign minister warned that if Israel responded by invading Lebanon it risked dragging the whole region into war.
+
+“[A] war against Lebanon is a regional war,” caretaker Foreign Minister Abdallah Bou Habib told CNN’s Senior International Correspondent Ben Wedeman Sunday in Beirut. “It’s not going to be Hezbollah against Israel…You have the Houthis, you have the Iraqi militias, you have militias in Syria who are not Syrians: Pakistani, Afghani militias. They’re all going to get involved in that.”
+
+He said in the case of a war, Lebanon would not get involved but would stand behind Hezbollah.
+
+“If there is a war, we’re supporting Hezbollah, definitely,” Bou Habib said. “Not because of conviction but because of any attack on our country, we support Hezbollah in this regard.”
+
+A war between Lebanon and Israel in 2006 devastated much of Lebanon, yet Hezbollah foiled Israel’s ultimate plan to dismantle the group. Throughout the 34-day war, Hezbollah is estimated to have fired around 4,000 rockets – a daily average of 117.
+
+Bou Habib stressed that another war would not only be detrimental to Lebanon, but to Israel as well.
+
+“[Israel] will return to the stone ages as well, it’s not by the Lebanese government,” he said, referring to comments by Israel’s Minister of Defense Yoav Gallant back in June 2023, in which he said the Israeli military could send Lebanon “back to the Stone Age.”
+
+Meanwhile, Bou Habib told CNN Lebanon wants peace and not war but added that will not happen until there is peace between the Israelis and the Palestinians.
+
+“We have to wait for the Palestinian peace with the Israelis, for the two-state solution and then we’ll have peace,” he said.
+
+He further said that while the government and Hezbollah talk and negotiate, Lebanon cannot control nor stop Hezbollah from firing on Israel. Yet, he said he neither thinks nor knows Hezbollah was behind the Golan Heights attack.
+
+Lebanon has called for an international investigation into the attack to determine who was responsible.
 
 Egypt’s foreign minister on Sunday warned “of the dangers of opening a new war front in Lebanon.” It called on “influential forces in the international community to intervene immediately” to prevent a drawn-out conflict.
 
-The spokesperson for United Nations Secretary General António Guterres said he “condemns the killing of 12 civilians, mainly children and teenagers in the Druze village of Majdal Shams, in the Israeli-occupied Golan.”
+The spokesperson for United Nations Secretary General António Guterres said he called on “all parties to exercise maximum restraint and reiterates once again his consistent call on all concerned to avoid any further escalation,” according to the spokesperson.
 
-The Secretary-General called on “all parties to exercise maximum restraint and reiterates once again his consistent call on all concerned to avoid any further escalation,” according to the spokesperson.
-
-Lebanon’s Middle East Airlines (MEA) announced Sunday it had delayed six of its return flights to Beirut until Monday.
+Meanwhile, Lebanon’s Middle East Airlines (MEA) announced Sunday it had delayed six of its return flights to Beirut until Monday.
 
 The flights will be departing London, Copenhagen, Doha, Dammam, Dubai and Jeddah Monday morning, MEA said in a statement that did not specify a reason for the delays.
 
