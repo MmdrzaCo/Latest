@@ -1,6 +1,6 @@
 # California’s Park Fire is now bigger than Phoenix while in Canada a blaze is scorching one of the largest national parks
 
-Published :`2024-07-28 02:25:55`
+Published :`2024-07-28 02:49:49`
 
 ---
 
@@ -12,7 +12,7 @@ California’s largest wildfire of the year has burned an area larger than the s
 
 • A man is accused of igniting Park Fire: Ronnie Dean Stout II, 42, was arrested on suspicion of pushing a burning car 60 feet into a gully, “spreading flames that caused the Park Fire,” authorities said. The DA says the man was seen “calmly leaving the area by blending in with the other citizens who were in the area and fleeing the rapidly evolving fire.” Stout, who has not retained an attorney, will likely face an arson charge, the DA’s office told CNN.
 
-• Pilot dies while fighting Oregon fire: A firefighting pilot was found dead in a single-engine air tanker on Friday after going missing the night before while working in the vicinity of the 141,000-acre (221 square miles) Falls Fire burning in the Malheur National Forest, according to officials. The fire, which was 57% contained as of Saturday afternoon, is among a number of large wildfires burning across Oregon. The largest active wildfire in the state is the Durkee Fire, which has scorched about 451 square miles and was 27% contained as of Saturday morning.
+• Pilot dies while fighting Oregon fire: A firefighting pilot was found dead in a single-engine air tanker on Friday after going missing the night before while working in the vicinity of the 141,000-acre (221 square miles) Falls Fire burning in the Malheur National Forest, according to officials. The fire, which was 57% contained as of Saturday afternoon, is among a number of large wildfires burning across Oregon. The largest active wildfire in the state is the Durkee Fire, which has scorched about 451 square miles and was 49% contained as of Saturday evening, according to Oregon Wildfire Response and Recovery.
 
 • Fire wipes out many of a Canadian town’s buildings: Flames are still out of control in the Canadian Rockies largest national park, according to the Jasper National Park Facebook page. The fire complex sent thousands of visitors, season workers and residents fleeing the municipality of Jasper in Alberta, where flames devastated an estimated 30% of the town’s structures. “Recent fire activity has been low,” officials said Saturday midday. “Today will see a return to slightly warmer and drier weather. Some areas, which did not receive rain, may see an increase in fire behaviour in the coming days.”
 

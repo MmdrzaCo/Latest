@@ -1,6 +1,6 @@
 # Martin Indyk, former US ambassador to Israel, dies at 73
 
-Published :`2024-07-28 02:25:58`
+Published :`2024-07-28 02:49:51`
 
 ---
 
