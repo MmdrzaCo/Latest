@@ -1,6 +1,6 @@
 # US to ‘reconfigure’ military forces in Japan as regional tensions mount
 
-Published :`2024-07-28 08:17:08`
+Published :`2024-07-28 08:36:09`
 
 ---
 

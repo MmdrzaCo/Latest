@@ -1,18 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-28 08:17:13`
+#### Latest Update : `2024-07-28 08:36:19`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Children and teens among 12 dead in Golan Heights attack that Israel blames on Hezbollah, raising fears of major escalation](https://new-news.github.io/Latest/2024/07/28/children-and-teens-among-12-dead-in-golan-heights-attack-that-israel-blames-on-hezbollah-raising-fears-of-major-escalation 'Children and teens among 12 dead in Golan Heights attack that Israel blames on Hezbollah, raising fears of major escalation')
 
 - [US to ‘reconfigure’ military forces in Japan as regional tensions mount](https://new-news.github.io/Latest/2024/07/28/us-to-reconfigure-military-forces-in-japan-as-regional-tensions-mount 'US to ‘reconfigure’ military forces in Japan as regional tensions mount')
 
 - [What we know about the Sinaloa cartel and its leaders](https://new-news.github.io/Latest/2024/07/28/what-we-know-about-the-sinaloa-cartel-and-its-leaders 'What we know about the Sinaloa cartel and its leaders')
 
 - [Black women are quickly joining forces to support Kamala Harris’ presidential bid. Here’s what that looks like](https://new-news.github.io/Latest/2024/07/28/black-women-are-quickly-joining-forces-to-support-kamala-harris-presidential-bid-heres-what-that-looks-like 'Black women are quickly joining forces to support Kamala Harris’ presidential bid. Here’s what that looks like')
-
-- [Children and teens among 12 dead in Golan Heights attack that Israel blames on Hezbollah, raising fears of major escalation](https://new-news.github.io/Latest/2024/07/28/children-and-teens-among-12-dead-in-golan-heights-attack-that-israel-blames-on-hezbollah-raising-fears-of-major-escalation 'Children and teens among 12 dead in Golan Heights attack that Israel blames on Hezbollah, raising fears of major escalation')
 
 - [California town decimated by 2018 wildfire threatened again by state’s largest this year as fires plague Oregon and Canada](https://new-news.github.io/Latest/2024/07/28/california-town-decimated-by-2018-wildfire-threatened-again-by-states-largest-this-year-as-fires-plague-oregon-and-canada 'California town decimated by 2018 wildfire threatened again by state’s largest this year as fires plague Oregon and Canada')
 
