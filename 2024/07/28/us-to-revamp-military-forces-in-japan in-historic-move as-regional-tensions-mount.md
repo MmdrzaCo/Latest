@@ -1,6 +1,6 @@
 # US to revamp military forces in Japan in ‘historic’ move as regional tensions mount
 
-Published :`2024-07-28 11:11:40`
+Published :`2024-07-28 11:36:44`
 
 ---
 
@@ -44,7 +44,7 @@ China has been aggressively asserting its claims in the contested waters of the 
 
 The ministers also said Taiwan’s “political transition period should not be used as a pretext for provocative actions across the Taiwan Strait,” a statement that follows Chinese military drills encircling the self-ruled democracy Beijing claims just days after Taiwan swore in a new president in May.
 
-When asked during the press conference about the relationship between the new command and concerns about China, Austin said the decision to strengthen the command was “not based upon any threat from China.” “It’s based on our desire and our our ability to work closer together and to be more effective,” the defense chief said.
+When asked during the press conference about the relationship between the new command and concerns about China, Austin said the decision to strengthen the command was “not based upon any threat from China.” “It’s based on our desire and our ability to work closer together and to be more effective,” the defense chief said.
 
 In the statement, the ministers also condemned North Korea’s missile testing and nuclear weapons programs, and condemned deepening Russia-North Korea cooperation, including Russia’s “procurement of ballistic missiles and other materiel from North Korea” for use in Ukraine.
 
