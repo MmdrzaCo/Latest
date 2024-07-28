@@ -1,6 +1,6 @@
 # Lady Gaga flutters in dazzling feathery performance to kick off Olympic Games in Paris
 
-Published :`2024-07-28 13:36:44`
+Published :`2024-07-28 14:12:50`
 
 ---
 
