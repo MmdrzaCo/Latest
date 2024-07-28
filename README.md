@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-28 18:38:38`
+#### Latest Update : `2024-07-28 19:11:07`
 
 ## Latest News Grabbing 
 
 ---
+
+- [What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them](https://new-news.github.io/Latest/2024/07/28/what-gov-gavin-newsoms-order-to-clear-homeless-encampments-means-for-the-people-who-live-in-them 'What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them')
+
+- [California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada](https://new-news.github.io/Latest/2024/07/28/california-town-decimated-by-2018-wildfire-threatened-again-by-states-largest-this-year-as-fires-plague-oregon-and-canada 'California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada')
 
 - [Opinion: Americans don’t have enough in the bank to weather unrelenting disasters](https://new-news.github.io/Latest/2024/07/28/opinion-americans-dont-have-enough-in-the-bank-to-weather-unrelenting-disasters 'Opinion: Americans don’t have enough in the bank to weather unrelenting disasters')
 
@@ -20,8 +24,6 @@
 
 - [Customs officers seize illegal drugs twice in one week from the same traveler](https://new-news.github.io/Latest/2024/07/28/customs-officers-seize-illegal-drugs-twice-in-one-week-from-the-same-traveler 'Customs officers seize illegal drugs twice in one week from the same traveler')
 
-- [California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada](https://new-news.github.io/Latest/2024/07/28/california-town-decimated-by-2018-wildfire-threatened-again-by-states-largest-this-year-as-fires-plague-oregon-and-canada 'California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada')
-
 - [Delta passengers are angry, but will be back. They have little choice](https://new-news.github.io/Latest/2024/07/28/delta-passengers-are-angry-but-will-be-back-they-have-little-choice 'Delta passengers are angry, but will be back. They have little choice')
 
 - [Robert Downey Jr. is returning to the Marvel Cinematic Universe in new ‘Avengers’ movie](https://new-news.github.io/Latest/2024/07/28/robert-downey-jr-is-returning-to-the-marvel-cinematic-universe in-new-avengers-movie 'Robert Downey Jr. is returning to the Marvel Cinematic Universe in new ‘Avengers’ movie')
@@ -31,8 +33,6 @@
 - [Trump and Harris enter final 100-day stretch of a rapidly evolving 2024 race](https://new-news.github.io/Latest/2024/07/28/trump-and-harris-enter-final-100-day-stretch-of-a-rapidly-evolving-2024-race 'Trump and Harris enter final 100-day stretch of a rapidly evolving 2024 race')
 
 - [3 members of Nelons, Hall of Fame gospel group, among 7 killed in Wyoming plane crash](https://new-news.github.io/Latest/2024/07/28/3-members-of-nelons-hall-of-fame-gospel-group-among-7-killed-in-wyoming-plane-crash '3 members of Nelons, Hall of Fame gospel group, among 7 killed in Wyoming plane crash')
-
-- [What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them](https://new-news.github.io/Latest/2024/07/28/what-gov-gavin-newsoms-order-to-clear-homeless-encampments-means-for-the-people-who-live-in-them 'What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them')
 
 - [The Israel-Hezbollah war that no one wants could finally blow up](https://new-news.github.io/Latest/2024/07/28/the israel-hezbollah war that-no one-wants could finally-blow up 'The Israel-Hezbollah war that no one wants could finally blow up')
 

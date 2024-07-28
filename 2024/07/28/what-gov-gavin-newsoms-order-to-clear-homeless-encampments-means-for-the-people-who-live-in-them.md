@@ -1,12 +1,12 @@
 # What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them
 
-Published :`2024-07-28 18:38:32`
+Published :`2024-07-28 19:11:05`
 
 ---
 
 After California Gov. Gavin Newsom issued a directive ordering state officials to take down homeless encampments, John Janosko returned to a dead-end street in Oakland where he once lived for years in one of the state’s largest camps.
 
-Longtime residents of the makeshift shelters at the sprawling Wood Street encampment have largely moved on since state and local officials razed it two years ago. Some ended up in tiny cabins provided by the city. A handful, like Janosko, have recently secured permanent housing with the help of nonprofits.
+Longtime residents of the makeshift shelters at the sprawling Wood Street encampment have largely moved on since state and local officials razed it more than a year ago. Some ended up in tiny cabins provided by the city. A handful, like Janosko, have recently secured permanent housing with the help of nonprofits.
 
 But many of the 200 or so regulars remain unhoused, according to Janosko. They sleep in cars, RVs and handmade dwellings erected behind a Target store up the road and other parts of West Oakland.
 
