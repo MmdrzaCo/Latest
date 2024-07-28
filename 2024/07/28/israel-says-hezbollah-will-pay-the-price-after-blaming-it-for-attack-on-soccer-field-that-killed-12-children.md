@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-28 15:36:11`
+Published :`2024-07-28 16:18:55`
 
 ---
 
@@ -37,6 +37,10 @@ Israel and Hezbollah have been trading rocket fire on a near-daily basis since H
 While Hezbollah admitted striking the Golan Heights on Saturday, it rejected responsibility for the attack on Majdal Shams.
 
 “We confirm that the Islamic Resistance has no connection to the incident whatsoever and firmly denies all false claims in this regard,” a statement read.
+
+Analysing footage of the explosion and the aftermath, experts told CNN the blast and damage were consistent with the types of munitions fired at northern Israel and the Golan Heights from Lebanon and Syria.
+
+Trevor Ball, a former US Army explosive ordnance disposal technician, told CNN Sunday that weapon fragments at the scene indicated the rocket was fired by Hezbollah or another militant group. Ball said that based on the available evidence, he ruled out the possibility of the blast having been caused by an Israeli interceptor missile, such as those fired by the Iron Dome air defense system.
 
 Hezbollah’s head of media relations unit, Mohammad Afif, told CNN on Sunday the militant group was in a “state of mobilization,” and had vacated some military posts as a result of Israel’s airstrikes overnight. He did not provide further details on the location or the number of the positions involved.
 

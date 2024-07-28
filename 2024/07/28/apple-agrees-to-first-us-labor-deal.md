@@ -1,6 +1,6 @@
 # Apple agrees to first US labor deal
 
-Published :`2024-07-28 15:36:14`
+Published :`2024-07-28 16:18:56`
 
 ---
 

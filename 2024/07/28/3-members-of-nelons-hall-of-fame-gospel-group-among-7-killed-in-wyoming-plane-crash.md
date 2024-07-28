@@ -1,6 +1,6 @@
 # 3 members of Nelons, Hall of Fame gospel group, among 7 killed in Wyoming plane crash
 
-Published :`2024-07-28 15:36:13`
+Published :`2024-07-28 16:18:55`
 
 ---
 
@@ -8,7 +8,7 @@ Three members of the Nelons, a Georgia-based family gospel group, were among se
 
 Kelly Nelon Clark, her husband, Jason Clark, and their daughter Amber Kistler died in the crash Friday afternoon, according to a statement by daughter Autumn Nelon Streetman, who was not on the plane, that was included with the Gaither Music Group announcement.
 
-“Thank you for the prayers that have been extended already to me, my husband, Jamie, and our soon-to-be-born baby boy, as well as Jason’s parents, Dan and Linda Clark,” said Nelon Streetman. who had traveled to Seattle with her husband. “We appreciate your continued prayers, love and support as we navigate the coming days.”
+“Thank you for the prayers that have been extended already to me, my husband, Jamie, and our soon-to-be-born baby boy, as well as Jason’s parents, Dan and Linda Clark,” said Nelon Streetman, who had traveled to Seattle with her husband. “We appreciate your continued prayers, love and support as we navigate the coming days.”
 
 Also killed in the crash were Kistler’s husband, Nathan Kistler, and their assistant, Melodi Hodges, along with the plane’s pilot, Larry Haynie, and his wife, Melissa.
 

@@ -1,14 +1,18 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-28 15:36:23`
+#### Latest Update : `2024-07-28 16:18:57`
 
 ## Latest News Grabbing 
 
 ---
 
-- [What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them](https://new-news.github.io/Latest/2024/07/28/what-gov-gavin-newsoms-order-to-clear-homeless-encampments-means-for-the-people-who-live-in-them 'What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them')
+- [Trump and Harris enter final 100-day stretch of a rapidly evolving 2024 race](https://new-news.github.io/Latest/2024/07/28/trump-and-harris-enter-final-100-day-stretch-of-a-rapidly-evolving-2024-race 'Trump and Harris enter final 100-day stretch of a rapidly evolving 2024 race')
 
 - [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/28/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
+
+- [3 members of Nelons, Hall of Fame gospel group, among 7 killed in Wyoming plane crash](https://new-news.github.io/Latest/2024/07/28/3-members-of-nelons-hall-of-fame-gospel-group-among-7-killed-in-wyoming-plane-crash '3 members of Nelons, Hall of Fame gospel group, among 7 killed in Wyoming plane crash')
+
+- [What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them](https://new-news.github.io/Latest/2024/07/28/what-gov-gavin-newsoms-order-to-clear-homeless-encampments-means-for-the-people-who-live-in-them 'What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them')
 
 - [The Israel-Hezbollah war that no one wants could finally blow up](https://new-news.github.io/Latest/2024/07/28/the israel-hezbollah war that-no one-wants could finally-blow up 'The Israel-Hezbollah war that no one wants could finally blow up')
 
@@ -46,8 +50,6 @@
 
 - [Tammy Baldwin looks to maintain edge over top of the ticket in battleground Wisconsin](https://new-news.github.io/Latest/2024/07/28/tammy-baldwin-looks-to-maintain-edge-over-top-of-the-ticket-in-battleground-wisconsin 'Tammy Baldwin looks to maintain edge over top of the ticket in battleground Wisconsin')
 
-- [Trump and Harris enter final 100-day stretch of a rapidly evolving 2024 race](https://new-news.github.io/Latest/2024/07/28/trump-and-harris-enter-final-100-day-stretch-of-a-rapidly-evolving-2024-race 'Trump and Harris enter final 100-day stretch of a rapidly evolving 2024 race')
-
 - [California’s Park Fire is now bigger than Phoenix while in Canada a blaze is scorching one of the largest national parks](https://new-news.github.io/Latest/2024/07/28/californias-park-fire-is-now-bigger-than-phoenix-while-in-canada-a-blaze-is-scorching-one-of-the-largest-national-parks 'California’s Park Fire is now bigger than Phoenix while in Canada a blaze is scorching one of the largest national parks')
 
 - [Container of hazardous materials catches fire, closing crucial highway connecting Los Angeles and Las Vegas for over 30 hours](https://new-news.github.io/Latest/2024/07/28/container-of-hazardous-materials-catches-fire-closing-crucial-highway-connecting-los-angeles-and-las-vegas-for-over-30-hours 'Container of hazardous materials catches fire, closing crucial highway connecting Los Angeles and Las Vegas for over 30 hours')
@@ -59,8 +61,6 @@
 - [Trump, who once trashed bitcoin as ‘based on thin air,’ addresses crypto’s largest convention](https://new-news.github.io/Latest/2024/07/28/trump-who-once-trashed-bitcoin as-based-on-thin-air-addresses-cryptos-largest-convention 'Trump, who once trashed bitcoin as ‘based on thin air,’ addresses crypto’s largest convention')
 
 - [Here’s what a Harris presidency could look like](https://new-news.github.io/Latest/2024/07/28/heres-what-a-harris-presidency-could-look-like 'Here’s what a Harris presidency could look like')
-
-- [3 members of Nelons, Hall of Fame gospel group, among 7 killed in Wyoming plane crash](https://new-news.github.io/Latest/2024/07/28/3-members-of-nelons-hall-of-fame-gospel-group-among-7-killed-in-wyoming-plane-crash '3 members of Nelons, Hall of Fame gospel group, among 7 killed in Wyoming plane crash')
 
 - [Deputy who killed Sonya Massey was removed from the Army, had DUIs and needed ‘high stress decision’ classes, records show](https://new-news.github.io/Latest/2024/07/28/deputy-who-killed-sonya-massey-was-removed-from-the-army-had-duis-and-needed-high-stress-decision-classes-records-show 'Deputy who killed Sonya Massey was removed from the Army, had DUIs and needed ‘high stress decision’ classes, records show')
 
