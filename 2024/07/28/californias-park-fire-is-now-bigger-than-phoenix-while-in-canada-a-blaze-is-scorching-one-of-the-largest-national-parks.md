@@ -1,10 +1,10 @@
 # California’s Park Fire is now bigger than Phoenix while in Canada a blaze is scorching one of the largest national parks
 
-Published :`2024-07-28 02:49:49`
+Published :`2024-07-28 03:16:40`
 
 ---
 
-California’s largest wildfire of the year has burned an area larger than the size of the city of Los Angeles, destroyed dozens of buildings and forced thousands of residents to flee their homes as wildfires wreak havoc in the Western United States. Meanwhile, homes and businesses in a popular Canadian resort town were incinerated as a wildfire continued to roar through the area. Here’s the latest:
+California’s largest wildfire of the year has burned an area larger than the size of the city of Phoenix, destroyed dozens of buildings and forced thousands of residents to flee their homes as wildfires wreak havoc in the Western United States. Meanwhile, homes and businesses in a popular Canadian resort town were incinerated as a wildfire continued to roar through the area. Here’s the latest:
 
 • California’s Park Fire now state’s 7th largest: Even with Saturday’s weather working in favor of firefighters, the massive Park Fire continued to devour huge amounts of land in parts of Butte and Tehama counties, north of Sacramento, California. The blaze has grown to more than 350,000 acres, or 546 square miles, according to Cal Fire, making it the seventh-largest wildfire in recorded state history. Containment for the fire, which is now bigger than the city of Los Angeles, is now at 10%.
 

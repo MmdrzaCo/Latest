@@ -1,6 +1,6 @@
 # A $1 million starter home is now the norm in more than 200 US cities
 
-Published :`2024-07-28 02:49:51`
+Published :`2024-07-28 03:16:44`
 
 ---
 
