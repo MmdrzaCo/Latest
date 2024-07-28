@@ -1,6 +1,6 @@
 # Harris and Trump want to strengthen the middle class. It could use the help
 
-Published :`2024-07-28 21:15:13`
+Published :`2024-07-28 21:35:39`
 
 ---
 

@@ -1,12 +1,10 @@
 # Attorney for Mexican drug lord says client ‘forcibly kidnapped’ by El Chapo’s son
 
-Published :`2024-07-28 21:15:11`
+Published :`2024-07-28 21:35:38`
 
 ---
 
 The attorney for Ismael “El Mayo” Zambada, the alleged co-founder of the Sinaloa cartel, says his client “neither surrendered nor negotiated any terms with the U.S. government,” but was instead kidnapped.
-
-U.S. law enforcement officials had previously told CNN that Joaquín Guzmán López had duped Zambada and orchestrated their arrest by making him believe they were flying to northern Mexico to look at real estate. Instead, the officials said, their small private plane landed north of the border near El Paso, Texas, where US authorities were waiting on the tarmac.
 
 Zambada’s attorney forcefully denied any suggestion previously raised by Mexican officials that his client may have surrendered of his own volition or willingly come to the United States as part of a deal.
 
@@ -15,6 +13,8 @@ In a phone conversation and a statement sent to CNN Sunday, Frank Pérez said th
 “Joaquín Guzmán López forcibly kidnapped my client. He was ambushed, thrown to the ground, and handcuffed by six men in military uniforms and Joaquin. His legs were tied, and a black bag was placed over his head,” Pérez said in the statement.
 
 “He was then thrown into the back of a pickup truck and taken to a landing strip. There, he was forced onto a plane, his legs tied to the seat by Joaquin, and brought to the U.S. against his will. The only people on the plane were the pilot, Joaquín and my client,” Pérez added.
+
+U.S. law enforcement officials had previously told CNN that Joaquín Guzmán López had duped Zambada and orchestrated their arrest by making him believe they were flying to northern Mexico to look at real estate. Instead, the officials said, their small private plane landed north of the border near El Paso, Texas, where US authorities were waiting on the tarmac.
 
 Zambada has been one of the most elusive figures in the criminal world.  He was able to lead the Sinaloa cartel for decades and, up until now, hadn’t seen a jail cell.  Mike Vigil, a former Drug Enforcement Administration agent who served with the agency for 31 years, described the alleged Mexican drug lord as “astute.”
 
