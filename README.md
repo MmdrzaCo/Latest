@@ -1,12 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-28 22:37:33`
+#### Latest Update : `2024-07-28 23:15:28`
 
 ## Latest News Grabbing 
 
 ---
 
 - [Venezuelans vote in crucial presidential election as opposition signal high voter turnout](https://new-news.github.io/Latest/2024/07/28/venezuelans-vote-in-crucial presidential election-as-opposition signal-high-voter-turnout 'Venezuelans vote in crucial presidential election as opposition signal high voter turnout')
+
+- [One of the biggest cartel busts in recent memory began with an act of betrayal](https://new-news.github.io/Latest/2024/07/28/one-of-the-biggest-cartel-busts-in-recent-memory-began-with-an-act-of-betrayal 'One of the biggest cartel busts in recent memory began with an act of betrayal')
 
 - [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/28/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
 
@@ -17,8 +19,6 @@
 - [California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada](https://new-news.github.io/Latest/2024/07/28/california-town-decimated-by-2018-wildfire-threatened-again-by-states-largest-this-year-as-fires-plague-oregon-and-canada 'California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada')
 
 - [The Israel-Hezbollah war that no one wants could finally blow up](https://new-news.github.io/Latest/2024/07/28/the israel-hezbollah war that-no one-wants could finally-blow up 'The Israel-Hezbollah war that no one wants could finally blow up')
-
-- [One of the biggest cartel busts in recent memory began with an act of betrayal](https://new-news.github.io/Latest/2024/07/28/one-of-the-biggest-cartel-busts-in-recent-memory-began-with-an-act-of-betrayal 'One of the biggest cartel busts in recent memory began with an act of betrayal')
 
 - [What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them](https://new-news.github.io/Latest/2024/07/28/what-gov-gavin-newsoms-order-to-clear-homeless-encampments-means-for-the-people-who-live-in-them 'What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them')
 

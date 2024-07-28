@@ -1,6 +1,6 @@
 # One of the biggest cartel busts in recent memory began with an act of betrayal
 
-Published :`2024-07-28 22:37:31`
+Published :`2024-07-28 23:15:22`
 
 ---
 
@@ -14,17 +14,19 @@ US officials who’ve spoken with CNN say a key player in the operation to arres
 
 Joaquín Guzmán López, one of the sons of convicted cartel boss Joaquín “El Chapo” Guzmán, duped Zambada and orchestrated their arrest, officials told CNN.
 
-Zambada, 76, thought he and Guzmán López were flying to northern Mexico to look at real estate, officials said. But instead, their small private plane landed north of the border near El Paso, Texas, where US authorities were waiting on the tarmac.
+Zambada’s lawyer described what happened in harsher terms Sunday, accusing Guzmán López of kidnapping.
 
-But how was Guzmán López able to pull off the act of deception officials have described? And why did he turn on Zambada?
+“Joaquín Guzmán López forcibly kidnapped my client. He was ambushed, thrown to the ground, and handcuffed by six men in military uniforms and Joaquin. His legs were tied, and a black bag was placed over his head,” attorney Frank Pérez said in a statement sent to CNN.
 
-So far, we haven’t heard either man’s account of what happened. Zambada pleaded not guilty to all charges in his first federal court appearance Friday.
+“He was then thrown into the back of a pickup truck and taken to a landing strip. There, he was forced onto a plane, his legs tied to the seat by Joaquin, and brought to the U.S. against his will. The only people on the plane were the pilot, Joaquín and my client,” Pérez added.
 
-“Typically, I do not comment on my criminal cases. However, I will say that my client did not come to the U.S. voluntarily,” his attorney, Frank Perez, told CNN.
+U.S. officials had previously told CNN that Zambada, 76, thought he and Guzmán López were flying to northern Mexico to look at real estate. But instead, the officials said, their small private plane landed north of the border near El Paso, Texas, where US authorities were waiting on the tarmac.
 
-Guzmán López, 38, is expected to appear in federal court Tuesday in Chicago, his attorney, Jeffrey Lichtman, told CNN.
+So far, we haven’t heard Guzmán López’s account of what happened. The 38-year-old is expected to appear in federal court Tuesday in Chicago, his attorney, Jeffrey Lichtman, told CNN.
 
-Lichtman said in an email that he’d appear in court with Guzmán López and added, “I’m looking forward to seeing Joaquin and working on the case with him.” He declined further comment.
+Lichtman said in an email Saturday that he’d appear in court with Guzmán López and added, “I’m looking forward to seeing Joaquin and working on the case with him.” He declined further comment.
+
+Zambada pleaded not guilty to all charges in his first federal court appearance Friday. Sunday’s accusation from his attorney was the latest twist in a case that seems to get murkier with each account that emerges.
 
 One cartel expert told CNN he’s dubious of some details officials have shared.
 
@@ -48,7 +50,7 @@ At the time, Zambada told Proceso that fear about being captured weighed on him 
 
 “I’m terrified that they’ll lock me up,” he said.
 
-That 2010 interview was one of his last known public appearances for the notably lower-profile Zambada. His name surged into international headlines in 2018 and 2019 during the high-profile trial of Guzmán, whose lawyer argued that Zambada was the cartel’s true leader.
+That 2010 interview was one of the last known public appearances for the notably lower-profile Zambada. His name surged into international headlines in 2018 and 2019 during the high-profile trial of Guzmán, whose lawyer argued that Zambada was the cartel’s true leader.
 
 Lichtman, the defense attorney, also represented the elder Guzmán and alleged at the time that Zambada had bribed the Mexican government to frame El Chapo and remain free to run the cartel.
 
@@ -96,7 +98,7 @@ Experts say there’s little doubt that these arrests, like past high-profile ki
 
 And no matter what new details emerge about how they happened, the surprising and dramatic arrests won’t soon be forgotten.
 
-CNN’s Ione Molinares, Fidel Gutierrez, Rafael Romo, Abel Alvarado and Amanda Musa contributed to this report.
+CNN’s Ione Molinares, Fidel Gutiérrez, Abel Alvarado and Amanda Musa contributed to this report.
 
 ---
 

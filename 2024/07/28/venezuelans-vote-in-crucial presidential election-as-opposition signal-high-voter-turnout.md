@@ -1,14 +1,14 @@
 # Venezuelans vote in crucial presidential election as opposition signal high voter turnout
 
-Published :`2024-07-28 22:37:31`
+Published :`2024-07-28 23:15:22`
 
 ---
 
 Venezuelans voted Sunday in a highly consequential presidential election in which the country’s longtime strongman, Nicolas Maduro, faces one of his greatest political challenges yet, say analysts.
 
-Long lines began to form outside polling centers in the capital, Caracas, before they were due to open at 6 a.m. ET. The opposition coalition later said there had been a high voter turnout of more than 11 million people as of Sunday afternoon.
+Long lines began to form outside polling centers in the capital, Caracas, before they were due to open at 6 a.m. ET and continued through the day. Polls officially closed at 6 p.m but will remain open for those waiting to vote, though it remains unclear when the electoral authorities will announce the results.
 
-Voters in Caracas appeared optimistic. “[After] 25 years, I see that there is a real chance to change. I see a lot of people getting together to vote,” voter Mariana Schemel said.
+Some voters in Caracas appeared optimistic for change. “[After] 25 years, I see that there is a real chance to change. I see a lot of people getting together to vote,” voter Mariana Schemel said.
 
 Others spoke about wanting to help their country, which has seen an exodus of Venezuelans fleeing economic collapse. “I’m doing this for my children and my grandchildren,” voter Amelia Perez told CNN. She has three sons, one of whom is living in Washington, D.C. “I want him to come back and I don’t want my children to leave. All the rest of my family already left.
 
@@ -28,7 +28,7 @@ There has been mounting concern that the opposition will not see a fair contest 
 
 The opposition coalition reported what they said were minor irregularities on Sunday, but voting proceedings appeared to be smooth in most of the country.
 
-People came out in droves to vote on Sunday. Outside a polling station in Caracas, Venezuelans chanted “we want to vote” as they waited for hours in line to get to the ballot box. Abroad, Venezuelan expatriates rallied in Miami, Florida, and the Peruvian capital Lima.
+People came out in droves to vote on Sunday, according to the opposition coalition. Outside a polling station in Caracas, Venezuelans chanted “we want to vote” as they waited for hours in line to get to the ballot box. Abroad, Venezuelan expatriates rallied in Miami, Florida, and the Peruvian capital Lima.
 
 More than 21 million people are registered to vote, both in the country and abroad. The opposition coalition reported later on Sunday afternoon a 54.8% voter turnout, representing at least 11.7 million voters.
 
@@ -57,8 +57,6 @@ Latin American leaders, including Brazilian President Luiz Inácio Lula da Silva
 How the army reacts to the outcome could be an important factor in any scenario, but analysts say it impossible to parse where it stands.
 
 “The military is absolutely key. But I must also say that the military is very hermetic, [and] it is very difficult to access information about what it is thinking,” Laura Cristina Dib, the Venezuela Program Director of Venezuela Program at the Washington Office on Latin America (WOLA), told CNN.
-
-Polls were due to close from 6 p.m ET but will remain open if there are still queues of people waiting to vote.
 
 With reporting from CNN’s Abel Alvarado, David Shortell and Michael Rios.
 
