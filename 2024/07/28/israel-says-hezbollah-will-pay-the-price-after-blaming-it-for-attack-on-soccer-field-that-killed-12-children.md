@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-28 10:36:27`
+Published :`2024-07-28 11:11:40`
 
 ---
 
@@ -16,21 +16,27 @@ And on a visit to the town of Majdal Shams near the Syrian and Lebanese borders,
 
 The Saturday attacks on the region involved “approximately 30 projectiles” crossing from Lebanon into Israeli territory, in a barrage Israel’s military quickly blamed on the Iran-backed militant group.
 
-Among the sites hit in the attack was a soccer field where children and teenagers had been playing, IDF spokesperson Daniel Hagari said.
-
-All 12 victims of Saturday’s strike were children, according to a list from Israel’s Ministry of Foreign Affairs and residents who spoke to CNN.
+All 12 victims of Saturday’s strike were children who had been playing on a soccer field, according to a list from Israel’s Ministry of Foreign Affairs and residents who spoke to CNN. US Secretary of State Anthony Blinken on Sunday backed Israel’s assessment, saying “every indication” suggested the strike was a rocket fired by Hezbollah.
 
 Some 20,000 Druze Arabs live in the Golan Heights, an area Israel seized from Syria in 1967 during the Six-Day War and annexed in 1981. Considered occupied territory under international law and UN Security Council resolutions, the area is also home to about 50,000 Israeli Jewish settlers. Most Druze there identify as Syrian and have rejected offers of Israeli citizenship.
 
+Hundreds of mourners lined streets on Sunday for a funeral procession honouring the victims of the strike. People dressed in black sang as white coffins were carried to a funeral home, with others carrying flower wreaths.
+
+Israeli opposition leader Yair Lapid spoke at the funeral, saying “the children who died on that football field could have been any of our children. Therefore, they are indeed the children of each of us. These are our children.”
+
 Israel and Hezbollah have been trading rocket fire on a near-daily basis since Hamas’ attacks on Israel on October 7, and those exchanges have become increasingly volatile, sparking fears on several occasions that Israel’s war with Hamas in Gaza would spiral into a conflict on multiple fronts across the Middle East.
 
-While Hezbollah admitted striking the Golan Heights on Saturday it rejected responsibility for the attack on Majdal Shams.
+While Hezbollah admitted striking the Golan Heights on Saturday, it rejected responsibility for the attack on Majdal Shams.
 
 “We confirm that the Islamic Resistance has no connection to the incident whatsoever and firmly denies all false claims in this regard,” a statement read.
 
 Israel’s initial overnight response appeared to stop short of the kind of attack that would launch an all-out war, but it gave rise to an incredibly tense day in the region.
 
 Iran on Sunday warned Israel against “any new adventures” aimed at Lebanon, in a statement issued by foreign ministry spokesperson Nasser Kanaani. The statement said Israel “does not have the minimum moral authority to comment and judge about the incident that happened in Majdal Shams area, and the claims of this regime against others will not be heard either.”
+
+Israel Prime Minister Benjamin Netanyahu on Saturday announced he was cutting short by several hours his visit to the United States and returning to Israel because of the attack, and said he would convene a security cabinet meeting immediately upon his return.
+
+The prime minister said he was “shocked” by the attack. “I can say that the State of Israel will not be silent about this. We will not put this off the agenda,” he said.
 
 ---
 

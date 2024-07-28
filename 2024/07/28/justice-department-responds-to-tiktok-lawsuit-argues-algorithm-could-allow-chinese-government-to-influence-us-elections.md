@@ -1,6 +1,6 @@
 # Justice Department responds to TikTok lawsuit, argues algorithm could allow Chinese government to influence US elections
 
-Published :`2024-07-28 10:36:28`
+Published :`2024-07-28 11:11:41`
 
 ---
 

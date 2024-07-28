@@ -1,6 +1,6 @@
 # Inflation is inching closer toward the Fed’s 2% target
 
-Published :`2024-07-28 10:36:30`
+Published :`2024-07-28 11:11:43`
 
 ---
 
