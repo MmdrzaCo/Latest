@@ -1,6 +1,6 @@
 # Irish museum pulls Sinéad O’Connor waxwork after just one day due to backlash
 
-Published :`2024-07-28 03:36:33`
+Published :`2024-07-28 04:17:01`
 
 ---
 

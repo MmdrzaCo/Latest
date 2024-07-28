@@ -1,6 +1,6 @@
 # The state with the largest school district in the nation bans realistic active shooter drills
 
-Published :`2024-07-28 03:36:31`
+Published :`2024-07-28 04:16:59`
 
 ---
 
