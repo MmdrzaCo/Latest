@@ -1,6 +1,6 @@
 # See where inflation is the highest and lowest in America
 
-Published :`2024-07-28 17:35:50`
+Published :`2024-07-28 18:20:05`
 
 ---
 

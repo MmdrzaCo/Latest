@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-28 17:35:49`
+Published :`2024-07-28 18:20:05`
 
 ---
 
@@ -50,11 +50,33 @@ Israel’s initial overnight response appeared to stop short of the kind of atta
 
 Iran on Sunday warned Israel against “any new adventures” aimed at Lebanon, in a statement issued by foreign ministry spokesperson Nasser Kanaani. The statement said Israel “does not have the minimum moral authority to comment and judge about the incident that happened in Majdal Shams area, and the claims of this regime against others will not be heard either.”
 
-Israel Prime Minister Benjamin Netanyahu cut short by several hours his visit to the United States and returned to Israel and is holding a security assessment meeting with cabinet ministers and senior security officers.
+Israel Prime Minister Benjamin Netanyahu cut short by several hours his visit to the United States and returned to Israel and is convening a meeting of the security cabinet in Tel Aviv to discuss the situation.
 
 The prime minister said he was “shocked” by the attack. “I can say that the State of Israel will not be silent about this. We will not put this off the agenda,” he said.
 
 Egypt’s foreign minister on Sunday warned “of the dangers of opening a new war front in Lebanon.” It called on “influential forces in the international community to intervene immediately” to prevent a drawn-out conflict.
+
+The spokesperson for United Nations Secretary General António Guterres said he “condemns the killing of 12 civilians, mainly children and teenagers in the Druze village of Majdal Shams, in the Israeli-occupied Golan.”
+
+The Secretary-General called on “all parties to exercise maximum restraint and reiterates once again his consistent call on all concerned to avoid any further escalation,” according to the spokesperson.
+
+### Questions over alert system
+
+In the wake of the strike, some residents of Majdal Shams have questioned whether the area’s early warning system was working properly.
+
+An eyewitness to the strike on the soccer field told CNN’s Jeremy Diamond that the rocket hit less than five seconds after the sirens sounded.
+
+Majdal Shams resident Taymor Wili said he was in his apartment overlooking the soccer field when the rocket hit. He said there was no time for the children on the field to react between the first alert siren and the moment of impact.
+
+He also said the safety shelter was only yards from the soccer field and if those on the field had had more time, they likely could have made it to the shelter. Video of the safety shelter shows it yards away from the crater made by the rocket’s impact.
+
+In addition to the eyewitness testimony, in several videos from Majdal Shams, sirens can  be heard for several seconds before the rocket hits.
+
+In a response to a question from CNN, the IDF said a preliminary examination showed the alert system was working properly before the rocket hit. “The time for sheltering in this area is immediate,” the IDF said.
+
+It added that the IDF “makes all feasible efforts to provide the public with the required warning time as part of the effort to save lives.”
+
+The IDF said it sends “condolences to the families and will continue to work in order to make life-saving alerts accessible.”
 
 Correction: This story has been updated to correct the number of Israeli Jewish settlers in the Golan Heights.
 
