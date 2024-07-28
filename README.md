@@ -1,14 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-28 04:36:41`
+#### Latest Update : `2024-07-28 05:15:37`
 
 ## Latest News Grabbing 
 
 ---
 
-- [California town decimated by 2018 wildfire threatened again by state’s largest this year as fires plague Oregon and Canada](https://new-news.github.io/Latest/2024/07/28/california-town-decimated-by-2018-wildfire-threatened-again-by-states-largest-this-year-as-fires-plague-oregon-and-canada 'California town decimated by 2018 wildfire threatened again by state’s largest this year as fires plague Oregon and Canada')
-
 - [US Defense Secretary Austin holds trilateral meeting with Japanese, South Korean counterparts, first in 15 years](https://new-news.github.io/Latest/2024/07/28/us-defense-secretary-austin-holds-trilateral-meeting-with-japanese-south-korean-counterparts-first-in-15-years 'US Defense Secretary Austin holds trilateral meeting with Japanese, South Korean counterparts, first in 15 years')
+
+- [California town decimated by 2018 wildfire threatened again by state’s largest this year as fires plague Oregon and Canada](https://new-news.github.io/Latest/2024/07/28/california-town-decimated-by-2018-wildfire-threatened-again-by-states-largest-this-year-as-fires-plague-oregon-and-canada 'California town decimated by 2018 wildfire threatened again by state’s largest this year as fires plague Oregon and Canada')
 
 - [California’s Park Fire is now bigger than Phoenix while in Canada a blaze is scorching one of the largest national parks](https://new-news.github.io/Latest/2024/07/28/californias-park-fire-is-now-bigger-than-phoenix-while-in-canada-a-blaze-is-scorching-one-of-the-largest-national-parks 'California’s Park Fire is now bigger than Phoenix while in Canada a blaze is scorching one of the largest national parks')
 
