@@ -1,10 +1,14 @@
 # Venezuelans vote in crucial election as opposition challenges Maduro
 
-Published :`2024-07-28 16:18:55`
+Published :`2024-07-28 16:39:05`
 
 ---
 
-Venezuelans headed to the polls on Sunday to vote in a highly consequential presidential election where the country’s longtime strongman, Nicolas Maduro, will face one of his greatest political challenges yet, say analysts.
+Venezuelans headed to the polls on Sunday to vote in a highly consequential presidential election in which the country’s longtime strongman, Nicolas Maduro, will face one of his greatest political challenges yet, say analysts.
+
+Long lines began to form outside polling centers in the capital, Caracas, before they were due to open at 6 a.m. ET. Some people told CNN that they were there to vote for the future of their country, which has seen an exodus of Venezuelans fleeing economic collapse.
+
+“I’m doing this for my children and my grandchildren,” voter Amelia Perez told CNN, saying she has three sons, one of whom is living in Washington, D.C. “I want him to come back and I don’t want my children to leave. All the rest of my family already left.”
 
 Maduro, who took the mantle of the ruling Chavismo movement after his predecessor Hugo Chavez’s death in 2013, is seeking his third consecutive six-year term in office. Of the nine other candidates running for the presidency, his biggest challenger is a unified opposition movement that overcame their divisions to form a coalition known as the Democratic Unitary Platform.
 
@@ -15,6 +19,10 @@ The vote has come at a crucial moment for Venezuela, which has experienced viole
 Punishing sanctions on the regime by the United States and European Union have failed to topple the populist incumbent, who argues that Venezuela’s woes are due to being a victim of an “economic war.”
 
 Around eight million Venezuelans have fled the country amid shortages of vital goods and soaring inflation.
+
+Maduro voted at 6 a.m. in Caracas, where he urged citizens to respect the results of the election.
+
+The opposition coalition reported minor irregularities, but as of 11 a.m. ET, voting proceedings appeared to be smooth in most of the country, with a high turnout.
 
 There has been mounting concern that the opposition will not see a fair contest as Maduro’s government controls all public institutions in Venezuela and has been accused of rigging previous votes, which it denied. Experts note, however, that concerns of vote tampering may be mitigated by the planned presence of opposition party representatives at each polling station.
 
