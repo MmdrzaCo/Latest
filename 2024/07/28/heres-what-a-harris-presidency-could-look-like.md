@@ -1,6 +1,6 @@
 # Here’s what a Harris presidency could look like
 
-Published :`2024-07-28 03:16:41`
+Published :`2024-07-28 03:36:31`
 
 ---
 
