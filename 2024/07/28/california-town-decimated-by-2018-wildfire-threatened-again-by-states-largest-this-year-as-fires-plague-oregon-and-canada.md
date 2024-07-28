@@ -1,6 +1,6 @@
 # California town decimated by 2018 wildfire threatened again by state’s largest this year as fires plague Oregon and Canada
 
-Published :`2024-07-28 06:19:51`
+Published :`2024-07-28 06:39:43`
 
 ---
 
@@ -20,11 +20,11 @@ Meanwhile, wildfires are burning across the mountain west, in the US and north o
 
 There are 86 large wildfires burning across the US, including 37 in Oregon and 14 in California, according to the Interagency Fire Center, and hundreds in Canada reported by its Fire Center. Here’s a brief rundown of some of the largest fires:
 
-• Park Fire – Butte and Tehama counties, California: The Park Fire has become California’s largest wildfire this year, covering more than 350,000 acres, or 546 square miles, which is bigger than Phoenix. President Joe Biden has directed his administration to do “everything” possible to support ongoing fire suppression efforts, according to a White House official. It began Wednesday in the Chico area, forcing thousands of people to evacuate.
+• Park Fire – Butte, Tehama, Plumas and Shasta counties, California: The Park Fire has become California’s largest wildfire this year, covering more than 350,000 acres, or 546 square miles, which is bigger than Phoenix. President Joe Biden has directed his administration to do “everything” possible to support ongoing fire suppression efforts, according to a White House official. It began Wednesday in the Chico area, forcing thousands of people to evacuate. While lower temperatures and higher humidity reduced fire activity Saturday, the fire continues to spread, Cal Fire said.
 
 • Durkee Fire – Baker and Malheur counties in Oregon: The largest active wildfire in Oregon is the Durkee Fire, which has burned more than 288,000 acres. It started July 17 near the Oregon-Idaho state line. Amid high temperatures, extremely dry vegetation and strong winds, the fire was 49% contained as of Saturday evening, according to Oregon Wildfire Response and Recovery.
 
-• Jasper National Park Fire – Jasper, Alberta: Large sections of the largest national park in the Canadian Rockies are being consumed by “a wall of flames.” As of Saturday evening, the fire is at just under 80,000 acres, according to park officials, making it the largest wildfire in more than 100 years in Jasper National Park. Thousands of visitors and residents fled as flames devastated an estimated 30% of the town’s structures. Around 134 wildfires are burning throughout Alberta as firefighters from eastern Canada and internationally have been recruited to help with the fight, 34 of which remain out of control, officials said Saturday.
+• Jasper National Park Fire – Jasper, Alberta: Large sections of the largest national park in the Canadian Rockies are being consumed by “a wall of flames.” As of Saturday evening, the fire is at just under 80,000 acres, according to park officials, making it the largest wildfire in more than 100 years in Jasper National Park. Thousands of visitors and residents fled as flames devastated nearly 40% of the town’s structures. Around 134 wildfires are burning throughout Alberta as firefighters from eastern Canada and internationally have been recruited to help with the fight, 34 of which remain out of control, officials said Saturday. The fire is expected to become more active over the coming days with warmer weather ahead, Parks Canada said.
 
 ### Firefighting pilot found dead while battling wildfire
 
@@ -42,7 +42,9 @@ In Alberta, two wildfires converged in the Jasper National Park area, becoming w
 
 “Homes and businesses have been lost to a wildfire that people are calling a ‘wall of flames,’” Alberta Premier Danielle Smith said.
 
-In Jasper, a popular tourist town in Alberta, 25,000 residents and visitors were forced to evacuate from a fast-moving blaze, which has damaged 30% of the town’s structures, officials said during a news conference Thursday.
+In Jasper, a popular tourist town in Alberta, 25,000 residents and visitors were forced to evacuate from a fast-moving blaze, which has damaged nearly 40% of the town’s structures, officials said.
+
+“The pain our town is feeling is beyond comprehension. Our homes were full of memories and hubs for family, friendship and community,” Jasper Mayor Richard Ireland said in a statement Saturday. “We have rallied many times in the past to support each other. I know this will be the darkest week in our community’s history. I am confident that together we will see brighter days are ahead.”
 
 It remains difficult to measure exactly how big the complex – which also includes a third nearby fire – is due to extreme fire behavior and thick smoke cover.
 

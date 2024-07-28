@@ -1,6 +1,6 @@
 # How Doug Emhoff is amplifying his wife’s historic presidential bid
 
-Published :`2024-07-28 06:19:52`
+Published :`2024-07-28 06:39:46`
 
 ---
 
