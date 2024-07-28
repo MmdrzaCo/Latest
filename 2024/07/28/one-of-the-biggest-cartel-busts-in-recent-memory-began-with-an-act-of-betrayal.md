@@ -1,6 +1,6 @@
 # One of the biggest cartel busts in recent memory began with an act of betrayal
 
-Published :`2024-07-28 01:13:32`
+Published :`2024-07-28 02:25:55`
 
 ---
 
@@ -18,9 +18,9 @@ Zambada, 76, thought he and Guzmán López were flying to northern Mexico to loo
 
 But how was Guzmán López able to pull off the act of deception officials have described? And why did he turn on Zambada?
 
-So far, we haven’t heard either man’s account of what happened. Zambada pleaded not guilty to all charges in his first federal court appearance Friday. His attorney hasn’t responded to CNN’s request for comment, but he did share one detail with the Los Angeles Times.
+So far, we haven’t heard either man’s account of what happened. Zambada pleaded not guilty to all charges in his first federal court appearance Friday.
 
-“I have no comment except to state that he did not surrender voluntarily,” attorney Frank Perez said. He went on to the tell the newspaper that Zambada was “brought against his will.”
+“Typically, I do not comment on my criminal cases. However, I will say that my client did not come to the U.S. voluntarily,” his attorney, Frank Perez, told CNN.
 
 Guzmán López, 38, is expected to appear in federal court Tuesday in Chicago, his attorney, Jeffrey Lichtman, told CNN.
 
