@@ -1,12 +1,12 @@
 # Harris and Trump want to strengthen the middle class. It could use the help
 
-Published :`2024-07-28 11:36:44`
+Published :`2024-07-28 12:26:46`
 
 ---
 
 As soon as Vice President Kamala Harris hit the campaign trail this week, she made it clear what one of her top priorities would be if she wins the presidential election in November.
 
-“Building up the middle class will be a defining goal of my presidency,” she said at a Wisconsin rally on Tuesday. “Because here’s the thing we all here (in) Wisconsin know: When our middle class is strong, American is strong.”
+“Building up the middle class will be a defining goal of my presidency,” she said at a Wisconsin rally on Tuesday. “Because here’s the thing we all here (in) Wisconsin know: When our middle class is strong, America is strong.”
 
 Similarly, former President Donald Trump has also promised to help the middle class, which he says has been hurt by the steep rise in prices in recent years.
 
