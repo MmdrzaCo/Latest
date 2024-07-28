@@ -1,6 +1,6 @@
-# California town decimated by 2018 wildfire threatened again by state’s largest this year as fires plague Oregon and Canada
+# California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada
 
-Published :`2024-07-28 16:39:06`
+Published :`2024-07-28 17:12:51`
 
 ---
 
@@ -20,7 +20,7 @@ Meanwhile, wildfires are burning across the mountain west, in the US and north o
 
 There are 86 large wildfires burning across the US, including 37 in Oregon and 14 in California, according to the Interagency Fire Center, and hundreds in Canada reported by its Fire Center. Here’s a brief rundown of some of the largest fires:
 
-• Park Fire – Butte, Tehama, Plumas and Shasta counties, California: The Park Fire has become California’s largest wildfire this year, covering more than 350,000 acres, or 546 square miles, which is bigger than Phoenix. President Joe Biden has directed his administration to do “everything” possible to support ongoing fire suppression efforts, according to a White House official. It began Wednesday in the Chico area, forcing thousands of people to evacuate. While lower temperatures and higher humidity reduced fire activity Saturday, the fire continues to spread, Cal Fire said.
+• Park Fire – Butte, Tehama, Plumas and Shasta counties, California: The Park Fire has become California’s largest wildfire this year, covering more than 350,000 acres, or 546 square miles – larger than the city of Phoenix – and it’s still spreading. President Joe Biden has directed his administration to do everything possible to support ongoing fire suppression efforts, according to a White House official. The fire began Wednesday in the Chico area, forcing thousands of people to evacuate. CalFire said Saturday a preliminary air assessment showed over 100 structures impacted by the fire, and officials on the ground confirmed 20 structures have been destroyed.
 
 • Durkee Fire – Baker and Malheur counties in Oregon: The largest active wildfire in Oregon is the Durkee Fire, which has burned more than 288,000 acres. It started July 17 near the Oregon-Idaho state line. Amid high temperatures, extremely dry vegetation and strong winds, the fire was 49% contained as of Saturday evening, according to Oregon Wildfire Response and Recovery.
 
@@ -38,7 +38,7 @@ Evacuation recommendations in Malheur County have been lifted as of Thursday aft
 
 ### Fire moves across Canada’s Jasper National Park
 
-In Alberta, two wildfires converged in the Jasper National Park area, becoming what authorities are referring to as the Jasper Wildfire Complex. Officials say the losses are significant, and Canadian Prime Minister Justin Trudeau has deployed federal support to help battle the blaze.
+In Alberta, two wildfires converged in the Jasper National Park area, forming what authorities are referring to as the Jasper Wildfire Complex. Officials say the losses are significant, and Canadian Prime Minister Justin Trudeau has deployed federal support to help battle the blaze.
 
 “Homes and businesses have been lost to a wildfire that people are calling a ‘wall of flames,’” Alberta Premier Danielle Smith said.
 

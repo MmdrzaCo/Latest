@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-28 16:39:05`
+Published :`2024-07-28 17:12:51`
 
 ---
 
@@ -48,7 +48,7 @@ Israel’s initial overnight response appeared to stop short of the kind of atta
 
 Iran on Sunday warned Israel against “any new adventures” aimed at Lebanon, in a statement issued by foreign ministry spokesperson Nasser Kanaani. The statement said Israel “does not have the minimum moral authority to comment and judge about the incident that happened in Majdal Shams area, and the claims of this regime against others will not be heard either.”
 
-Israel Prime Minister Benjamin Netanyahu on Saturday announced he was cutting short by several hours his visit to the United States and returning to Israel because of the attack, and said he would convene a security cabinet meeting immediately upon his return.
+Israel Prime Minister Benjamin Netanyahu cut short by several hours his visit to the United States and returned to Israel and is holding a security assessment meeting with cabinet ministers and senior security officers.
 
 The prime minister said he was “shocked” by the attack. “I can say that the State of Israel will not be silent about this. We will not put this off the agenda,” he said.
 

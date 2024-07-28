@@ -1,6 +1,6 @@
 # ‘Deadpool & Wolverine’ fuels an already hot summer box office, opens at $96 million
 
-Published :`2024-07-28 16:39:06`
+Published :`2024-07-28 17:12:52`
 
 ---
 
@@ -10,7 +10,7 @@ The summer blockbuster is on track to exceed $200 million domestically for the w
 
 “It is a major industry benchmark for an R-rated movie to open (at) $200 million, literally unheard of until this title,” said Daniel Loria, editorial director at Box Office Pro.
 
-The first Deadpool movie set the record for the highest grossing opening weekend when it was released in 2016 with roughly $132 million, and “Deadpool 2” cinched the second-place spot with $125 million in domestic sales in 2018. But even adjusted for inflation, both films pale in comparison with the third installation’s anticipated $200 to $220 million, according to Loria.
+The first Deadpool movie set the record for the highest grossing opening weekend for an R-rated film when it was released in 2016 with roughly $132 million, and “Deadpool 2” cinched the second-place spot with $125 million in domestic sales in 2018. But even adjusted for inflation, both films pale in comparison with the third installation’s anticipated $200 to $220 million, according to Loria.
 
 An opening weekend of this magnitude would cement “Deadpool & Wolverine” alongside some of Marvel’s highest-grossing flagship films, including 2012’s “The Avengers” ($207 million) and 2018’s “Black Panther” ($202 million).
 
