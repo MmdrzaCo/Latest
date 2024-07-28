@@ -1,6 +1,6 @@
-# US to ‘reconfigure’ military forces in Japan as regional tensions mount
+# US to reconfigure military forces in Japan as regional tensions mount
 
-Published :`2024-07-28 08:36:09`
+Published :`2024-07-28 09:16:22`
 
 ---
 
@@ -12,7 +12,7 @@ US Defense Secretary Lloyd Austin, US Secretary of State Antony Blinken and thei
 
 The move is likely to stoke the ire of Beijing, which has watched warily as the US has bolstered ties with regional allies in a part of the world where observers say China seeks to be the dominant power – and where it’s accused the US of fostering a Cold War-style bloc mentality.
 
-Under the new configuration, US forces in Japan would be reconstituted as a joint force headquarters reporting to the Commander of US Indo-Pacific Command to “facilitate deeper interoperability and cooperation on joint bilateral operations in peacetime and during contingencies,” according to the statement.
+Under the new plan, US forces in Japan would be “reconstituted” as a joint force headquarters reporting to the Commander of US Indo-Pacific Command to “facilitate deeper interoperability and cooperation on joint bilateral operations in peacetime and during contingencies,” according to the statement.
 
 In April, US President Joe Biden and Japanese Prime Minister Fumio Kishida vowed during a summit in Washington to “upgrade” their respective command-and-control framework “to strengthen deterrence and promote a free and open Indo-Pacific in the face of pressing regional security challenges.”
 
