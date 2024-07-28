@@ -1,6 +1,6 @@
 # California’s Park Fire now among state’s top 13 largest ever as it consumes 239,000 acres
 
-Published :`2024-07-28 14:35:37`
+Published :`2024-07-28 15:14:42`
 
 ---
 

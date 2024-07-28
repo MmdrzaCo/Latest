@@ -1,6 +1,6 @@
 # The show must go on: Fashion week to return to Kyiv for the first time since 2022
 
-Published :`2024-07-28 14:35:39`
+Published :`2024-07-28 15:14:44`
 
 ---
 

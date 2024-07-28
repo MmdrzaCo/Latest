@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-28 14:35:36`
+Published :`2024-07-28 15:14:42`
 
 ---
 
@@ -20,7 +20,7 @@ It killed 12 children and left 44 people injured, according to Prime Minister Be
 
 The children killed in the strike had been playing on a soccer field, according to a list from Israel’s Ministry of Foreign Affairs and residents who spoke to CNN. US Secretary of State Antony Blinken on Sunday backed Israel’s assessment, saying “every indication” suggested the strike was a rocket fired by Hezbollah.
 
-Some 20,000 Druze Arabs live in the Golan Heights, an area Israel seized from Syria in 1967 during the Six-Day War and annexed in 1981. Considered occupied territory under international law and UN Security Council resolutions, the area is also home to about 50,000 Israeli Jewish settlers.
+Some 20,000 Druze Arabs live in the Golan Heights, an area Israel seized from Syria in 1967 during the Six-Day War and annexed in 1981. Considered occupied territory under international law and UN Security Council resolutions, the area is also home to about 25,000 Israeli Jewish settlers.
 
 Most Druze there identify as Syrian and have rejected offers of Israeli citizenship. The Regional Council of Majdal Shams said Sunday that none of the 12 children killed had Israeli citizenship.
 
@@ -47,6 +47,10 @@ Iran on Sunday warned Israel against “any new adventures” aimed at Lebanon, 
 Israel Prime Minister Benjamin Netanyahu on Saturday announced he was cutting short by several hours his visit to the United States and returning to Israel because of the attack, and said he would convene a security cabinet meeting immediately upon his return.
 
 The prime minister said he was “shocked” by the attack. “I can say that the State of Israel will not be silent about this. We will not put this off the agenda,” he said.
+
+Egypt’s foreign minister on Sunday warned “of the dangers of opening a new war front in Lebanon.” It called on “influential forces in the international community to intervene immediately” to prevent a drawn-out conflict.
+
+Correction: This story has been updated to correct the number of Israeli Jewish settlers in the Golan Heights.
 
 ---
 
