@@ -1,12 +1,12 @@
 # California’s Park Fire now among state’s top 13 largest ever as it consumes 239,000 acres
 
-Published :`2024-07-28 10:14:32`
+Published :`2024-07-28 10:36:27`
 
 ---
 
 Hot and dry weather is fueling wildfire activity in the Western United States and Canada, with fires damaging homes, causing injuries and forcing evacuations. The largest active wildfire in the US has scorched more than 280,000 acres in eastern Oregon and another blaze has exploded to more than 239,000 acres in California. Here’s the latest:
 
-• Park Fire roars across parts of Butte and Tehama counties, north of Sacramento, California: As of Friday evening, the Park Fire has burned more than 239,000 acres, or about 373 square miles, about the size of San Diego, which makes it the 13th largest in state history. More than 1,600 firefighters are working to slow its progress. Cal Fire reported the blaze was 0% contained Friday, with 134 structures destroyed and another 4,200 threatened. Gov. Gavin Newsom declared a state of emergency for both counties Friday. The state also secured a grant from the Federal Emergency Management Agency to ensure there are enough resources to fight the fire.
+• Park Fire roars across parts of Butte and Tehama counties, north of Sacramento, California: As of Friday evening, the Park Fire has burned more than 239,000 acres, or about 373 square miles, about the size of San Diego, which makes it the 13th largest in state history. More than 1,600 firefighters are working to slow its progress. Cal Fire reported the blaze was 0% contained Friday, with at least 20 structures destroyed and another 4,200 threatened. Gov. Gavin Newsom declared a state of emergency for both counties Friday. The state also secured a grant from the Federal Emergency Management Agency to ensure there are enough resources to fight the fire.
 
 Billy See, incident commander for Cal Fire, said the fire is advancing at 4,000 to 5,000 acres per hour but with winds forecast to die down overnight and higher humidity moving into the area, See believes it will give firefighters a better chance to slow the fire down. He noted fire crews are working to hold the fire south of California Highway 36.
 
@@ -35,6 +35,8 @@ A former news anchor told CNN affiliate KOVR she watched her Butte County house 
 Looking at the remnants of her home, Yarbough said she felt numb.
 
 “It’s surreal,” she said. “It probably won’t hit me till later, I’m pretty sure.”
+
+Cal Fire initially estimated the fire had destroyed more than 100 structures, but later said crews on the ground have so far confirmed 20 structures destroyed as work to assess the damage continues.
 
 Triple-digit temperatures and high wind gusts have fueled the explosive growth of the Park Fire amid an active fire season in California. An estimated 343,253 acres have burned across the state so far in 2024, compared to 22,439 acres burned by this time last year, according to Cal Fire.
 
@@ -75,6 +77,8 @@ Jasper Mayor Richard Ireland said residents will work together to rebuild after 
 Prime Minister Justin Trudeau said all federal agencies are working together to provide resources to Jasper, support evacuations and strengthen response efforts on the ground.
 
 “Our governments are working together to keep Albertans safe and supported through this,” he said on Facebook.
+
+This story has been updated with additional information.
 
 ---
 
