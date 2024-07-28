@@ -1,10 +1,10 @@
 # Children and teens among 12 dead in Golan Heights attack that Israel blames on Hezbollah, raising fears of major escalation
 
-Published :`2024-07-28 07:36:43`
+Published :`2024-07-28 08:17:08`
 
 ---
 
-At least 12 people, including children, were killed when multiple rockets hit a village in Israeli-controlled Golan Heights Saturday, Israeli officials said, in an attack that has raised fears of a major escalation in the long-running conflict.
+At least 12 people, including children, were killed when a rocket hit a village in the Israeli-controlled Golan Heights Saturday, Israeli officials said, in an attack that has raised fears of a major escalation in the long-running conflict.
 
 Israel said it had identified “approximately 30 projectiles” crossing from Lebanon into Israeli territory in a barrage it blamed on the Iran-backed Lebanese militant group Hezbollah and described as the deadliest against it since October 7. Hezbollah has said it “firmly denies” firing the rockets.
 

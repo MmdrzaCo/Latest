@@ -1,6 +1,6 @@
 # What we know about the Sinaloa cartel and its leaders
 
-Published :`2024-07-28 07:36:45`
+Published :`2024-07-28 08:17:08`
 
 ---
 
@@ -50,6 +50,10 @@ The DEA says most of the fentanyl that enters the US comes from ingredients made
 
 The men boarded a plane in Mexico and were arrested when it landed near El Paso, a law enforcement official briefed on the investigation told CNN. Zambada believed they were inspecting property in the Mexican side of the US border and was not aware Guzman Lopez was helping US investigators, the official said.
 
+The lure operation resulting in the arrests has prompted a furious behind-the-scenes reaction from Mexican government officials who are demanding senior US law enforcement officials explain exactly what transpired, according to a US official familiar with the operation.
+
+Officials in Mexico were not briefed ahead of the planned captures, the official said. CNN has reached out to Mexican officials for comment.
+
 Samuel González, a legal expert and former chief of Mexico’s anti-drug unit, told CNN the potentially deceptive circumstances of the arrest could reflect possible negotiations between Guzman Lopez and his brother Ovidio, who was extradited to the US last year and is facing drug and money laundering charges.
 
 “If Ovidio had not surrendered, Mayo (Zambada) would not have fallen either,” González said.
@@ -65,8 +69,6 @@ Vanda Felbab-Brown, a senior fellow at the Brookings Institute who covers drug m
 Some experts say internal fighting may result in the downfall of the Sinaloa cartel, but Felbab-Brown warned that other Mexican cartels stand ready to take their place, including the Jalisco New Generation Cartel (CJNG).
 
 “This would have very complicated ripple effects across global drug markets,” Felbab-Brown said of the Sinaloa cartel’s potential downfall, “but as long as there is (CJNG), we will end up with a drug market on our doorstep that’s run by a much more vicious, much nastier, much less restrained group than the current one.”
-
-CNN’s Holmes Lybrand contributed to this report.
 
 ---
 
