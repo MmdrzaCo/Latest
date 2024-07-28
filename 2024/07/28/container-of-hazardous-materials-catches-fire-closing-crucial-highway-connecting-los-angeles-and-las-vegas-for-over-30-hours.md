@@ -1,6 +1,6 @@
 # Container of hazardous materials catches fire, closing crucial highway connecting Los Angeles and Las Vegas for over 30 hours
 
-Published :`2024-07-28 12:50:51`
+Published :`2024-07-28 13:15:49`
 
 ---
 
