@@ -1,6 +1,6 @@
 # Children and teens among 12 dead in Golan Heights attack that Israel blames on Hezbollah, raising fears of major escalation
 
-Published :`2024-07-28 06:39:44`
+Published :`2024-07-28 07:13:40`
 
 ---
 
@@ -12,11 +12,11 @@ Overnight following the attack, Israeli warplanes conducted airstrikes against H
 
 The Golan Heights attack risks significantly escalating the situation at the countries’ border, with Israeli Prime Minister Benjamin Netanyahu’s office on Saturday vowing Hezbollah will “pay a heavy price.”
 
-Israel and Hezbollah have been trading fire across the demarcation line for almost 10 months with increasing ferocity and even before Saturday’s attack regional leaders had warned the conflict is reaching a boiling point.
+Israel and Hezbollah have been trading fire across the demarcation line for almost 10 months with increasing ferocity. Even before Saturday’s attack regional leaders had warned the conflict is reaching a boiling point.
 
 In addition to the 12 deaths, at least 29 people were injured in the attack in Majdal Shams, a village that is home to a large Druze community.
 
-Some 20,000 Druze Arabs live in the Golan Heights, an area Israel seized from Syria in 1967 during the Six-Day War and annexed in 1981. Considered occupied territory under international law and UN Security Council resolutions, the area is home to about 50,000 Israeli Jewish settlers and Druze. Most Druze there identify as Syrian and have rejected offers of Israeli citizenship.
+Some 20,000 Druze Arabs live in the Golan Heights, an area Israel seized from Syria in 1967 during the Six-Day War and annexed in 1981. Considered occupied territory under international law and UN Security Council resolutions, the area is also home to about 50,000 Israeli Jewish settlers. Most Druze there identify as Syrian and have rejected offers of Israeli citizenship.
 
 Among the sites hit in the attack was a soccer field where children and teenagers had been playing, IDF spokesperson Daniel Hagari said. He described the barrage as “the deadliest attack on Israeli civilians since October 7.”
 
@@ -28,9 +28,9 @@ Netanyahu on Saturday announced he was cutting short by several hours his visit 
 
 The prime minister said he was “shocked” by the attack. “I can say that the State of Israel will not be silent about this. We will not put this off the agenda,” he said.
 
-On Saturday, Israel’s Minister of Defense Yoav Gallant spoke with the Druze community’s spiritual leader and promised the military would respond, according to a statement from his office.
+On Sunday, Israel’s Defense Minister Yoav Gallant visited Majdal Shams and told local leaders the country and army were mourning with them.
 
-“During our discussion I stopped and emphasized – we will hit the enemy hard,” Gallant said.
+“Hezbollah is responsible for this and they will pay the price,” he said.
 
 ### ‘Dire sights’
 
