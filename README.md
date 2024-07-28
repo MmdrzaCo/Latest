@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-28 13:15:57`
+#### Latest Update : `2024-07-28 13:36:45`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/28/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
 
 - [The latest three-year cruise is running two months late](https://new-news.github.io/Latest/2024/07/28/the-latest-three-year-cruise-is-running-two-months-late 'The latest three-year cruise is running two months late')
 
@@ -13,8 +15,6 @@
 - [A man missing for 14 days in Kentucky’s wilderness was found on the last day of the search for him](https://new-news.github.io/Latest/2024/07/28/a-man-missing-for-14-days-in-kentuckys-wilderness-was-found-on-the-last-day-of-the-search-for-him 'A man missing for 14 days in Kentucky’s wilderness was found on the last day of the search for him')
 
 - [Hungary’s Orban says Russia stands to gain as ‘irrational’ West loses power](https://new-news.github.io/Latest/2024/07/28/hungarys-orban-says-russia-stands-to-gain-as-irrational-west-loses-power 'Hungary’s Orban says Russia stands to gain as ‘irrational’ West loses power')
-
-- [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/28/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
 
 - [US to revamp military forces in Japan in ‘historic’ move as regional tensions mount](https://new-news.github.io/Latest/2024/07/28/us-to-revamp-military-forces-in-japan in-historic-move as-regional-tensions-mount 'US to revamp military forces in Japan in ‘historic’ move as regional tensions mount')
 
