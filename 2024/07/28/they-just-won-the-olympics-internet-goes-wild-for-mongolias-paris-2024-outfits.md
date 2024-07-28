@@ -1,6 +1,6 @@
 # ‘They just won the Olympics’: Internet goes wild for Mongolia’s Paris 2024 outfits
 
-Published :`2024-07-28 14:12:50`
+Published :`2024-07-28 14:35:38`
 
 ---
 
