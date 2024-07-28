@@ -1,6 +1,6 @@
 # Black women are quickly joining forces to support Kamala Harris’ presidential bid. Here’s what that looks like
 
-Published :`2024-07-28 15:14:42`
+Published :`2024-07-28 15:36:12`
 
 ---
 
