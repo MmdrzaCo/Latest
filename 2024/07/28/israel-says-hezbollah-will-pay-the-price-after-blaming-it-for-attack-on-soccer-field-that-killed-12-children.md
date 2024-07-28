@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-28 17:12:51`
+Published :`2024-07-28 17:35:49`
 
 ---
 
@@ -41,6 +41,8 @@ While Hezbollah admitted striking the Golan Heights on Saturday, it rejected res
 Analysing footage of the explosion and the aftermath, experts told CNN the blast and damage were consistent with the types of munitions fired at northern Israel and the Golan Heights from Lebanon and Syria.
 
 Trevor Ball, a former US Army explosive ordnance disposal technician, told CNN Sunday that weapon fragments at the scene indicated the rocket was fired by Hezbollah or another militant group. Ball said that based on the available evidence, he ruled out the possibility of the blast having been caused by an Israeli interceptor missile, such as those fired by the Iron Dome air defense system.
+
+A Western official familiar with the intelligence told CNN there was no doubt the strike was done by Hezbollah, but it was not believed to be intentional. The expectation is that Israel will respond but has no desire to escalate to a broader conflict, the official said, adding that Hezbollah knows the response is coming and will hopefully be rational in its own response.
 
 Hezbollah’s head of media relations unit, Mohammad Afif, told CNN on Sunday the militant group was in a “state of mobilization,” and had vacated some military posts as a result of Israel’s airstrikes overnight. He did not provide further details on the location or the number of the positions involved.
 

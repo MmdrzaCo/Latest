@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-28 17:12:57`
+#### Latest Update : `2024-07-28 17:36:00`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/28/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
+
+- [Venezuelans vote in crucial election as opposition challenges Maduro](https://new-news.github.io/Latest/2024/07/28/venezuelans-vote-in-crucial election-as-opposition-challenges-maduro 'Venezuelans vote in crucial election as opposition challenges Maduro')
 
 - [Mark Meadows seeks Supreme Court intervention in bid for immunity from Georgia election subversion prosecution](https://new-news.github.io/Latest/2024/07/28/mark-meadows-seeks-supreme-court-intervention-in-bid-for-immunity-from-georgia-election-subversion-prosecution 'Mark Meadows seeks Supreme Court intervention in bid for immunity from Georgia election subversion prosecution')
 
@@ -16,11 +20,7 @@
 
 - [Robert Downey Jr. is returning to the Marvel Cinematic Universe in new ‘Avengers’ movie](https://new-news.github.io/Latest/2024/07/28/robert-downey-jr-is-returning-to-the-marvel-cinematic-universe in-new-avengers-movie 'Robert Downey Jr. is returning to the Marvel Cinematic Universe in new ‘Avengers’ movie')
 
-- [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/28/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
-
 - [What is the Golan Heights and who are the Druze?](https://new-news.github.io/Latest/2024/07/28/what-is-the-golan-heights-and-who-are-the-druze 'What is the Golan Heights and who are the Druze?')
-
-- [Venezuelans vote in crucial election as opposition challenges Maduro](https://new-news.github.io/Latest/2024/07/28/venezuelans-vote-in-crucial election-as-opposition-challenges-maduro 'Venezuelans vote in crucial election as opposition challenges Maduro')
 
 - [Trump and Harris enter final 100-day stretch of a rapidly evolving 2024 race](https://new-news.github.io/Latest/2024/07/28/trump-and-harris-enter-final-100-day-stretch-of-a-rapidly-evolving-2024-race 'Trump and Harris enter final 100-day stretch of a rapidly evolving 2024 race')
 
