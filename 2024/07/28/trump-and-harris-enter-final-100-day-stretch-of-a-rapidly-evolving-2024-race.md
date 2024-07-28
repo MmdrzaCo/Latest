@@ -1,6 +1,6 @@
 # Trump and Harris enter final 100-day stretch of a rapidly evolving 2024 race
 
-Published :`2024-07-28 18:20:05`
+Published :`2024-07-28 18:38:32`
 
 ---
 
@@ -120,13 +120,13 @@ Vance said it’s a “catastrophic problem” that the United States has the �
 
 Harris, on the other hand, has been the beneficiary of a series of viral moments.
 
-Charli XCX, the British pop singer, declared the vice president “brat,” which is the title of her sixth studio album and a Gen Z summer soundtrack. It set off an avalanche of posts on TikTok, Twitter and other social media platforms featuring the same shade of bright green as the album cover and video compilations of Harris.
+Charli XCX, the British pop singer, declared the vice president “brat,” which is the title of her sixth studio album and a Gen Z summer soundtrack. It set off an avalanche of posts on TikTok, X and other social media platforms featuring the same shade of bright green as the album cover and video compilations of Harris.
 
 Then, there were the coconut memes, revisiting a May 2023 speech in which Harris spoke about “a difference between equality and equity.”
 
 “None of us just live in a silo. Everything is in context,” she said in that speech. “My mother used to – she would give us a hard time sometimes – and she would say to us, ‘I don’t know what’s wrong with you young people. You think you just fell out of a coconut tree? You exist in the context of all in which you live and what came before you.’”
 
-Since then, coconuts and coconut tree imagery have been used online in support of Harris, with Colorado Gov. Jared Polis even posting an endorsement of the vice president on social media that was communicated through three emojis: a coconut, a palm tree and an American flag.
+Since then, coconuts and coconut tree imagery have been used online in support of Harris, with Colorado Gov. Jared Polis even posting an endorsement of the vice president communicated through three emojis: a coconut, a palm tree and an American flag.
 
 “What we’re seeing is a really classic example of when pop culture really gets intertwined with politics, and it takes a special kind of candidate and a special kind of leader to inspire that,” Florida Rep. Maxwell Frost, a 27-year-old Democrat, said on CNN. “It has to be organic. You can’t make it happen.”
 
