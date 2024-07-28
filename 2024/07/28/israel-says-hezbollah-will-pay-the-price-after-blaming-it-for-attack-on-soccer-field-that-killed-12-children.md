@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-28 20:36:01`
+Published :`2024-07-28 21:15:11`
 
 ---
 
@@ -60,7 +60,7 @@ The prime minister said earlier that he was “shocked” by the attack. “I ca
 
 The Lebanese foreign minister warned that if Israel responded by invading Lebanon it risked dragging the whole region into war.
 
-“[A] war against Lebanon is a regional war,” caretaker Foreign Minister Abdallah Bou Habib told CNN’s Senior International Correspondent Ben Wedeman Sunday in Beirut. “It’s not going to be Hezbollah against Israel…You have the Houthis, you have the Iraqi militias, you have militias in Syria who are not Syrians: Pakistani, Afghani militias. They’re all going to get involved in that.”
+“[A] war against Lebanon is a regional war,” caretaker Foreign Minister Abdallah Bou Habib told CNN’s Senior International Correspondent Ben Wedeman Sunday in Beirut. “It’s not going to be Hezbollah against Israel…You have the Houthis, you have the Iraqi militias, you have militias in Syria who are not Syrians: Pakistani, Afghan militias. They’re all going to get involved in that.”
 
 He said in the case of a war, Lebanon would not get involved but would stand behind Hezbollah.
 
@@ -72,11 +72,7 @@ Bou Habib stressed that another war would not only be detrimental to Lebanon, bu
 
 “[Israel] will return to the stone ages as well, it’s not by the Lebanese government,” he said, referring to comments by Israel’s Minister of Defense Yoav Gallant back in June 2023, in which he said the Israeli military could send Lebanon “back to the Stone Age.”
 
-Meanwhile, Bou Habib told CNN Lebanon wants peace and not war but added that will not happen until there is peace between the Israelis and the Palestinians.
-
-“We have to wait for the Palestinian peace with the Israelis, for the two-state solution and then we’ll have peace,” he said.
-
-He further said that while the government and Hezbollah talk and negotiate, Lebanon cannot control nor stop Hezbollah from firing on Israel. Yet, he said he neither thinks nor knows Hezbollah was behind the Golan Heights attack.
+However, Bou Habib told the Lebanese Al Jadeed News TV channel that Lebanon had received reassurances from third countries that Israel’s response would be “limited.” He added that Hezbollah would in turn limit its actions. Pressed by the anchor to identify the countries that had offered this reassurance, he hinted that the “US and France are very concerned about the issue.”
 
 Lebanon has called for an international investigation into the attack to determine who was responsible.
 

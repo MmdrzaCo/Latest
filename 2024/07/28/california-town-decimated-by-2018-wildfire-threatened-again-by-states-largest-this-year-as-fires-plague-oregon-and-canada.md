@@ -1,6 +1,6 @@
 # California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada
 
-Published :`2024-07-28 20:36:01`
+Published :`2024-07-28 21:15:11`
 
 ---
 
@@ -24,7 +24,7 @@ There are 86 large wildfires burning across the US, including 37 in Oregon and 1
 
 • Durkee Fire – Baker and Malheur counties in Oregon: The largest active wildfire in Oregon is the Durkee Fire, which has burned more than 288,000 acres. It started July 17 near the Oregon-Idaho state line. Amid high temperatures, extremely dry vegetation and strong winds, the fire was 49% contained as of Saturday evening, according to Oregon Wildfire Response and Recovery.
 
-• Jasper National Park Fire – Jasper, Alberta: Large sections of the largest national park in the Canadian Rockies are being consumed by “a wall of flames.” As of Saturday evening, the fire is at just under 80,000 acres, according to park officials, making it the largest wildfire in more than 100 years in Jasper National Park. Thousands of visitors and residents fled as flames devastated nearly 40% of the town’s structures. Around 134 wildfires are burning throughout Alberta as firefighters from eastern Canada and internationally have been recruited to help with the fight, 34 of which remain out of control, officials said Saturday. The fire is expected to become more active over the coming days with warmer weather ahead, Parks Canada said.
+• Jasper National Park Fire – Jasper, Alberta: Large sections of the largest national park in the Canadian Rockies are being consumed by “a wall of flames.” As of Saturday evening, the fire is at just under 80,000 acres, according to park officials, making it the largest wildfire in more than 100 years in Jasper National Park. Thousands of visitors and residents fled as flames devastated nearly 40% of the town’s structures. There are currently 135 wildfires burning in the forest protection area of the province, 34 of which are out of control, authorities said Sunday afternoon. The fire is expected to become more active over the coming days with warmer weather ahead, Parks Canada said.
 
 ### Firefighting pilot found dead while battling wildfire
 
@@ -53,6 +53,10 @@ It remains difficult to measure exactly how big the complex – which also inclu
 The owner of Maligne Lodge in Jasper told CNN news partner CTV News she was shocked when she saw a photo of the 98-room hotel up in flames. It had been in the family since 1961 after her father purchased the property, and she had been working there since she was a child.
 
 “As soon as we’re given the go-ahead, we’ll be in there rebuilding our hotel,” Karyn Decore said.
+
+“Significant amounts of rain” over three days has helped firefighters get a handle on many of the Alberta wildfires, Melissa Story, a provincial wildfire information officer with Alberta Wildfire, said during a news conference Sunday.
+
+But crews are preparing for warmer weather in the days ahead, which is expected to intensify the fires, especially in the southern areas of the province where rain was scarce.
 
 ### Fires keep Paradise residents on edge
 
