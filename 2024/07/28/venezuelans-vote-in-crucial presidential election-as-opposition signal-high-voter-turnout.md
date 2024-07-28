@@ -1,12 +1,12 @@
 # Venezuelans vote in crucial presidential election as opposition signal high voter turnout
 
-Published :`2024-07-28 22:14:00`
+Published :`2024-07-28 22:37:31`
 
 ---
 
-Venezuelans headed to the polls on Sunday to vote in a highly consequential presidential election in which the country’s longtime strongman, Nicolas Maduro, will face one of his greatest political challenges yet, say analysts.
+Venezuelans voted Sunday in a highly consequential presidential election in which the country’s longtime strongman, Nicolas Maduro, faces one of his greatest political challenges yet, say analysts.
 
-Long lines began to form outside polling centers in the capital, Caracas, before they were due to open at 6 a.m. ET. Opposition leaders later said there had been a high voter turnout of more than 9 million people as of Sunday afternoon.
+Long lines began to form outside polling centers in the capital, Caracas, before they were due to open at 6 a.m. ET. The opposition coalition later said there had been a high voter turnout of more than 11 million people as of Sunday afternoon.
 
 Voters in Caracas appeared optimistic. “[After] 25 years, I see that there is a real chance to change. I see a lot of people getting together to vote,” voter Mariana Schemel said.
 
@@ -28,9 +28,11 @@ There has been mounting concern that the opposition will not see a fair contest 
 
 The opposition coalition reported what they said were minor irregularities on Sunday, but voting proceedings appeared to be smooth in most of the country.
 
-More than 21 million people are registered to vote, both in the country and abroad. Machado reported a 41% voter turnout by Sunday afternoon, which represents more than 9 million voters.
+People came out in droves to vote on Sunday. Outside a polling station in Caracas, Venezuelans chanted “we want to vote” as they waited for hours in line to get to the ballot box. Abroad, Venezuelan expatriates rallied in Miami, Florida, and the Peruvian capital Lima.
 
-“This is huge. If this continues, it will be a historic participation figure,” Machado said in a statement released Sunday afternoon. “What you are seeing is the most important civic act in our history.”
+More than 21 million people are registered to vote, both in the country and abroad. The opposition coalition reported later on Sunday afternoon a 54.8% voter turnout, representing at least 11.7 million voters.
+
+“This is huge. If this continues, it will be a historic participation figure,” opposition leader Machado said in a statement released Sunday afternoon. “What you are seeing is the most important civic act in our history.”
 
 Machado’s statement also spoke of reported “problems” at some voting stations. “In our monitoring there were 1,300 stations in which there were problems for our observers to enter. At this time there are only 13 tables with problems.”
 
@@ -56,7 +58,7 @@ How the army reacts to the outcome could be an important factor in any scena
 
 “The military is absolutely key. But I must also say that the military is very hermetic, [and] it is very difficult to access information about what it is thinking,” Laura Cristina Dib, the Venezuela Program Director of Venezuela Program at the Washington Office on Latin America (WOLA), told CNN.
 
-Polls will close at 6 p.m ET.
+Polls were due to close from 6 p.m ET but will remain open if there are still queues of people waiting to vote.
 
 With reporting from CNN’s Abel Alvarado, David Shortell and Michael Rios.
 

@@ -1,6 +1,6 @@
 # The alleged Mexican drug cartel bosses arrested or extradited in recent years
 
-Published :`2024-07-28 22:14:01`
+Published :`2024-07-28 22:37:32`
 
 ---
 

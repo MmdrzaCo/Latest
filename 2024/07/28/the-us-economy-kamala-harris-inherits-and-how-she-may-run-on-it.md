@@ -1,6 +1,6 @@
 # The US economy Kamala Harris inherits and how she may run on it
 
-Published :`2024-07-28 22:14:01`
+Published :`2024-07-28 22:37:32`
 
 ---
 
