@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-28 19:35:52`
+Published :`2024-07-28 20:15:31`
 
 ---
 
@@ -44,7 +44,9 @@ Trevor Ball, a former US Army explosive ordnance disposal technician, told CNN S
 
 A Western official familiar with the intelligence told CNN there was no doubt the strike was done by Hezbollah, but it was not believed to be intentional. The expectation is that Israel will respond but has no desire to escalate to a broader conflict, the official said, adding that Hezbollah knows the response is coming and will hopefully be rational in its own response.
 
-Hezbollah’s head of media relations unit, Mohammad Afif, told CNN on Sunday the militant group was in a “state of mobilization,” and had vacated some military posts as a result of Israel’s airstrikes overnight. He did not provide further details on the location or the number of the positions involved.
+Hezbollah’s head of media relations unit, Mohammad Afif, told CNN on Sunday the militant group was in a “state of mobilization,” and had vacated some military posts after the escalation in threats from Israel. He did not provide further details on the location or the number of the positions involved.
+
+“The state of mobilization and preparedness, and the vacating some of the military positions here and there is a normal part of the war, especially since the escalation in Israeli threats since yesterday,” he said. Afif described the confrontations between Israel and Hezbollah which began on October 8 as a “state of war.”
 
 Israel’s initial overnight response appeared to stop short of the kind of attack that would launch an all-out war, but it gave rise to an incredibly tense day in the region.
 
@@ -59,6 +61,10 @@ Egypt’s foreign minister on Sunday warned “of the dangers of opening a new w
 The spokesperson for United Nations Secretary General António Guterres said he “condemns the killing of 12 civilians, mainly children and teenagers in the Druze village of Majdal Shams, in the Israeli-occupied Golan.”
 
 The Secretary-General called on “all parties to exercise maximum restraint and reiterates once again his consistent call on all concerned to avoid any further escalation,” according to the spokesperson.
+
+Lebanon’s Middle East Airlines (MEA) announced Sunday it had delayed six of its return flights to Beirut until Monday.
+
+The flights will be departing London, Copenhagen, Doha, Dammam, Dubai and Jeddah Monday morning, MEA said in a statement that did not specify a reason for the delays.
 
 ### Questions over alert system
 

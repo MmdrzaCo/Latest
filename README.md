@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-28 19:35:55`
+#### Latest Update : `2024-07-28 20:15:33`
 
 ## Latest News Grabbing 
 
 ---
+
+- [One of the biggest cartel busts in recent memory began with an act of betrayal](https://new-news.github.io/Latest/2024/07/28/one-of-the-biggest-cartel-busts-in-recent-memory-began-with-an-act-of-betrayal 'One of the biggest cartel busts in recent memory began with an act of betrayal')
+
+- [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/28/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
 
 - [What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them](https://new-news.github.io/Latest/2024/07/28/what-gov-gavin-newsoms-order-to-clear-homeless-encampments-means-for-the-people-who-live-in-them 'What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them')
 
@@ -13,8 +17,6 @@
 - [Opinion: Americans don’t have enough in the bank to weather unrelenting disasters](https://new-news.github.io/Latest/2024/07/28/opinion-americans-dont-have-enough-in-the-bank-to-weather-unrelenting-disasters 'Opinion: Americans don’t have enough in the bank to weather unrelenting disasters')
 
 - [‘Deadpool & Wolverine’ opening weekend surpasses $200 million, biggest R-rated debut](https://new-news.github.io/Latest/2024/07/28/deadpool-wolverine-opening-weekend-surpasses-200-million-biggest-r-rated-debut '‘Deadpool & Wolverine’ opening weekend surpasses $200 million, biggest R-rated debut')
-
-- [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/28/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
 
 - [Container of hazardous materials catches fire, closing crucial highway connecting Los Angeles and Las Vegas for 48 hours](https://new-news.github.io/Latest/2024/07/28/container-of-hazardous-materials-catches-fire-closing-crucial-highway-connecting-los-angeles-and-las-vegas-for-48-hours 'Container of hazardous materials catches fire, closing crucial highway connecting Los Angeles and Las Vegas for 48 hours')
 
@@ -67,8 +69,6 @@
 - [Tammy Baldwin looks to maintain edge over top of the ticket in battleground Wisconsin](https://new-news.github.io/Latest/2024/07/28/tammy-baldwin-looks-to-maintain-edge-over-top-of-the-ticket-in-battleground-wisconsin 'Tammy Baldwin looks to maintain edge over top of the ticket in battleground Wisconsin')
 
 - [California’s Park Fire is now bigger than Phoenix while in Canada a blaze is scorching one of the largest national parks](https://new-news.github.io/Latest/2024/07/28/californias-park-fire-is-now-bigger-than-phoenix-while-in-canada-a-blaze-is-scorching-one-of-the-largest-national-parks 'California’s Park Fire is now bigger than Phoenix while in Canada a blaze is scorching one of the largest national parks')
-
-- [One of the biggest cartel busts in recent memory began with an act of betrayal](https://new-news.github.io/Latest/2024/07/28/one-of-the-biggest-cartel-busts-in-recent-memory-began-with-an-act-of-betrayal 'One of the biggest cartel busts in recent memory began with an act of betrayal')
 
 - [The US says it has successfully practiced using a low-cost bomb to sink a major surface ship. China is taking note](https://new-news.github.io/Latest/2024/07/28/the-us-says-it-has-successfully-practiced-using-a-low-cost-bomb-to-sink-a-major-surface-ship-china-is-taking-note 'The US says it has successfully practiced using a low-cost bomb to sink a major surface ship. China is taking note')
 
