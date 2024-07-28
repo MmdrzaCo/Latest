@@ -1,6 +1,6 @@
 # What is the Golan Heights and who are the Druze?
 
-Published :`2024-07-28 21:35:39`
+Published :`2024-07-28 22:14:00`
 
 ---
 
