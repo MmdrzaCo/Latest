@@ -1,6 +1,6 @@
 # Surprising element found in traces of Tycho Brahe’s alchemy lab confounds scientists
 
-Published :`2024-07-29 21:16:21`
+Published :`2024-07-29 21:36:02`
 
 ---
 

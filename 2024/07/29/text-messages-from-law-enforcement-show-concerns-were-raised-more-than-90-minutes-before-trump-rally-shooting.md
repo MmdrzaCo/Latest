@@ -1,6 +1,6 @@
 # Text messages from law enforcement show concerns were raised more than 90 minutes before Trump rally shooting
 
-Published :`2024-07-29 21:16:18`
+Published :`2024-07-29 21:35:55`
 
 ---
 

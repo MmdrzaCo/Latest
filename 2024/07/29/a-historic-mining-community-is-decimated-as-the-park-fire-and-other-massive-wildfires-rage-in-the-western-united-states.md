@@ -1,6 +1,6 @@
 # A historic mining community is decimated as the Park Fire and other massive wildfires rage in the Western United States
 
-Published :`2024-07-29 21:16:17`
+Published :`2024-07-29 21:35:52`
 
 ---
 
@@ -16,7 +16,7 @@ Wildfires are raging out of control in the Western United States and Canada – 
 
 • Progress fighting Durkee Fire in Oregon: The Durkee Fire is the largest wildfire burning in Oregon, at more than 288,000 acres. It has injured three people and destroyed four homes. The fire was 49% contained as of Monday morning, according to InciWeb, and the containment could improve as winds calm and humidity levels moderate.
 
-• Crews to see more challenges in Jasper, Alberta: Though weekend rain helped firefighters combat the Jasper Wildfire Complex – the park’s largest wildfire in more than a century – warmer weather in the days ahead might present further challenges. Temperatures in the area have dropped and there is a chance of showers Monday, with highs expected in the upper 60s to mid-70s and rising through the week. Wildfire danger for the southern areas of the province remain very high to extreme, said Melissa Story, spokesperson for Alberta Wildfire. “This area did not see the moisture as the other areas of the province did,” Story said.
+• Crews to see more challenges in Jasper, Alberta: Though weekend rain helped firefighters combat the Jasper Wildfire Complex – the park’s largest wildfire in more than a century – and extinguish 60 fires across the province, warmer weather in the days ahead might present further challenges. Temperatures in the area have dropped and there is a chance of showers Monday, with highs expected in the upper 60s to mid-70s and rising through the week. Wildfire danger for the southern areas of the province remain very high to extreme, said Melissa Story, spokesperson for Alberta Wildfire. “This area did not see the moisture as the other areas of the province did,” Story said.
 
 • Air tanker pilot who died fighting fire in Oregon identified: James Bailey Maxwell, an experienced pilot who logged about 24,000 hours of flight time in his 54 years of flying, died after his single-engine air tanker crashed while working near the Falls Fire in Oregon Thursday, according to a statement from the US Forest Service – Malheur National Forest. “He is survived by and will be missed by family members in Idaho, Oregon, and Washington,” the statement said. The Falls Fire began on July 10 and has since burned more than 142,000 acres and is 57% contained as of Sunday, according to InciWeb.
 
@@ -94,15 +94,17 @@ Hey said he drove through the blaze to safety, but burned his arm in the process
 
 “I tried to outrun it,” he said. “I wouldn’t have gotten burned if I hadn’t rolled down the window to look in the rearview mirror. I was right in the middle of it, and I was trying to put it in reverse.”
 
-### Nearly 80,000 acres burned in Jasper, Alberta
+### Around 17,000 evacuated due to wildfire in Jasper, Alberta
 
 Jasper, a popular tourist town in the middle of Alberta’s Jasper National Park, has suffered widespread destruction due to the Jasper Wildlife Complex Fire, which has scorched nearly 80,000 acres.
 
 Almost 40% of all structures in the city have been destroyed by the blaze, according to data released Saturday by the Municipality of Jasper.
 
-Of the 1,113 structures in the town, 410 were reported destroyed, and 10 sustained visible damage, the Jasper Rapid Visual Damage Assessment said.
+Of the 1,113 structures in the town, 410 were reported destroyed, and 10 sustained visible damage, the Jasper Rapid Visual Damage Assessment said. But critical infrastructure “has been protected,” Stephen Carr, field operations director at the Alberta Emergency Management Agency, said at a Monday afternoon news conference.
 
-The fire remains “out-of-control and is expected to become more active over the coming days with warmer weather,” Parks Canada said.
+While the fire remains out of control in the park, firefighters have extinguished all structural hot spots within the town of Jasper, according to Carr. Around 17,000 people have evacuated from Jasper, he said.
+
+Across Alberta’s forest protection area, a total of 124 fires are still burning as of Monday afternoon, according to Alberta Wildfire Public Information Officer Melissa Story. Of those, 25 are out of control, 47 are “being held,” and 52 are under control.
 
 ---
 
