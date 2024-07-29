@@ -1,6 +1,6 @@
 # ‘A point of no return:’ Why Europe has become an epicenter for anti-tourism protests this summer
 
-Published :`2024-07-29 07:36:18`
+Published :`2024-07-29 08:19:39`
 
 ---
 
