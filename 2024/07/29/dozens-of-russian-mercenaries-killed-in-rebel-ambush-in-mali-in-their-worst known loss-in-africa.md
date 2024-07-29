@@ -1,6 +1,6 @@
 # Dozens of Russian mercenaries killed in rebel ambush in Mali, in their worst known loss in Africa
 
-Published :`2024-07-29 22:16:50`
+Published :`2024-07-29 22:38:38`
 
 ---
 
@@ -46,7 +46,7 @@ Another Wagner-linked social media account spoke of a “heavy unequal battle, a
 
 There is no way to verify the exact number of Russian casualties (some Russian channels say the death toll was not as high as 80), nor how many Malian troops were killed. The Malian armed forces said Friday that only two soldiers had died but that clashes were taking place in a region that “remains a bastion of concentration of terrorists and smugglers of all stripes.”
 
-CNN is reaching out to the Russian Ministry of Defense for comment. Korotkov, who works with the London-based Dossier Center, noted that “not a single official body of the Russian Federation has spoken on this issue. Neither the Ministry of Defense, nor the Ministry of Foreign Affairs, nor the Kremlin commented on the deaths of dozens of Russian citizens in clashes on the African continent outside the special military operation zone.”
+CNN is reaching out to the Russian Ministry of Defense for comment. Denis Korotkov, who works with the London-based Dossier Center, noted that “not a single official body of the Russian Federation has spoken on this issue. Neither the Ministry of Defense, nor the Ministry of Foreign Affairs, nor the Kremlin commented on the deaths of dozens of Russian citizens in clashes on the African continent outside the special military operation zone.”
 
 ### A big blow in Africa
 
