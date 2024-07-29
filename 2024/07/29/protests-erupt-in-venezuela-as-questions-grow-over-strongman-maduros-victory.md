@@ -1,14 +1,14 @@
 # Protests erupt in Venezuela as questions grow over strongman Maduro’s victory
 
-Published :`2024-07-29 22:38:38`
+Published :`2024-07-29 23:14:31`
 
 ---
 
 Protests broke out in several Venezuelan cities on Monday after authoritarian leader Nicolás Maduro was formally declared a winner by the county’s electoral authority in a presidential race marred by accusations of electoral fraud.
 
-In the capital of Caracas, security forces deployed tear gas to disperse a large crowd of protesters, while hundreds more were seen walking down a main road banging pots and pans as anger rose over Maduro’s victory on Sunday. At the city’s main military base, where Maduro lives, people were seen setting fire to the strongman’s election posters.
+In the capital of Caracas, security forces deployed tear gas to disperse a large crowd of protesters, while crowds of people were seen walking down a main road banging pots and pans as anger rose over Maduro’s victory on Sunday. PROVEA, a Venezuelan human rights organization, said pro-Maduro armed groups shot at peaceful demonstrators in Avenue Urdaneta.
 
-Protests were also reported in other cities, including Maracay, where opposition activist Esthefania Natera told CNN that people were on the streets “to yell and demand to tell the truth because we know the real results.” She said police were using teargas on peaceful protesters. In the coastal state of Falcón, demonstrators toppled a statue of Maduro, video on social media showed.
+Protests were also reported in other cities, including Maracay, where opposition activist Esthefania Natera told CNN that people were on the streets “to yell and demand to tell the truth because we know the real results.” In the coastal state of Falcón, demonstrators toppled a statue of Maduro, video on social media showed.
 
 The next 24 hours will be key in seeing how Maduro responds to the allegations against him. Analysts say there could be a new wave of unrest in the country if there are widespread protests against the regime. Street demonstrations in previous years were crushed by the country’s military, which has long supported Maduro and his predecessor, the late Hugo Chavez.
 
@@ -17,6 +17,8 @@ Maduro smiled as he entered the National Electoral Council (CNE) before a Mond
 “Venezuela has the best electoral system in the world!” CNE president Elvis Amoroso announced before proceeding with the formal announcement.
 
 But the vote was riddled with claims of irregularities. It included opposition witnesses being denied access to the National Electoral Council (CNE) headquarters as votes were counted and the electoral authority allegedly prevented more votes from being processed. The government has also been accused of rigging votes in the past, which it denied.
+
+The US on Monday joined Venezuelan civil society groups and the opposition by calling on Venezuela’s government to “immediately” release specific data on the presidential election, citing concerns about the credibility of Maduro’s victory.
 
 Maduro’s government controls almost all state institutions, including the CNE, which was accused in 2017 of manipulating turnout figures by a software company that provided the voting technology. The CNE previously denied the assertion.
 
@@ -36,13 +38,13 @@ Only a very limited number of election observers were allowed to monitor the vot
 
 “The Carter Center has a big responsibility on their shoulders,” Laura Cristina Dib, the Venezuela Program director at the Washington Office on Latin America (WOLA), told CNN, explaining that it is the only international technical observation mission that can issue a public report on the results. It is unclear when it will be issued.
 
-The US on Monday joined Venezuelan civil society groups and the opposition by calling on Venezuela’s government to “immediately” release specific data on the presidential election, citing concerns about the credibility of Maduro’s victory.
-
 Senior Biden administration officials said Venezuelan election authorities must release the “detailed precinct-level results” from the election. One senior administration official noted that this data is required under Venezuela law and should be immediately available. Another said that if the election results are credible, “then this should be a very simple act and one that they would be able to fulfill quite easily.”
 
 The officials declined to give specifics on the actions the US or international community would be prepared to take if the Venezuelan authorities do not release the data or if the results are determined to be fraudulent, but they did not rule out sanctions.
 
-US sanctions against Venezuela were first imposed in 2017 and gradually increased as the South American country’s political crisis deepened in the following years. The opposition’s accusations cast doubt on Venezuela’s return to the international stage after Maduro pledged last year to hold free and fair elections in US-brokered talks, in exchange for sanctions relief.
+US sanctions against Venezuela were first imposed in 2017 and gradually increased as the South American country’s political crisis deepened in the following years.
+
+The opposition’s accusations cast doubt on Venezuela’s return to the international stage after Maduro pledged last year to hold free and fair elections in US-brokered talks, in exchange for sanctions relief.
 
 The vote’s outcome is expected to be felt across the Americas – including the US – in the form of migration.
 

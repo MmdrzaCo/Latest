@@ -1,26 +1,30 @@
 # Biden calls for major Supreme Court reforms, including term limits, at Civil Rights Act event Monday
 
-Published :`2024-07-29 22:38:38`
+Published :`2024-07-29 23:14:31`
 
 ---
 
 President Joe Biden called for major Supreme Court reforms Monday, a long-shot move that would make him the first sitting president in generations to back seismic changes to the way the nation’s highest court operates.
 
+“I have great respect for our institutions and the separation of powers laid out in our Constitution,” Biden said Monday in Austin, Texas. “But what’s happening now is not consistent with that doctrine of separation of powers.”
+
 Biden’s proposals — a constitutional amendment stripping the president of immunity for crimes committed while in office, term limits for Supreme Court justices, and a binding code of conduct for the high court — stand little chance of going anywhere with a divided Congress. But they serve as an election-year message designed to excite the Democrats’ progressive base. Vice President Kamala Harris, now the presumptive Democratic presidential nominee, quickly endorsed the proposed changes, which come at a time of deep unpopularity for the high court.
 
-Biden’s announcement, which he made at an event in Austin, Texas, commemorating the Civil Rights Act, follows this month’s monumental decision by the Supreme Court granting presidents full immunity for some actions taken while in office and after a tide of revelations about justices accepting vacations and gifts from wealthy conservative donors. Democrats on the campaign trail frequently point to the Supreme Court’s conservative majority – solidified by former President Donald Trump – to underscore what they see as the high stakes of the 2024 election.
+Biden’s announcement, which he made at an event commemorating the Civil Rights Act, follows this month’s monumental decision by the Supreme Court granting presidents full immunity for some actions taken while in office and after a tide of revelations about justices accepting vacations and gifts from wealthy conservative donors.
 
-“In recent years, extreme opinions that the Supreme Court has handed down have undermined long-established civil rights principles and protections,” Biden said Monday, listing a litany of recent cases, including the 2022 decision overturning Roe v. Wade and this month’s immunity decision.
+Democrats have frequently pointed to the Supreme Court’s conservative majority – solidified by former President Donald Trump – to underscore what they see as the high stakes of the 2024 election. Biden continued that argument on Monday, also praising his vice president and her ability to carry on the fight.
 
-Biden is also calling for an amendment dubbed the “No One Is Above the Law Amendment,” which will state the Constitution “does not confer any immunity from federal criminal indictment, trial, conviction, or sentencing by virtue of previously serving as President.”
+“In recent years, extreme opinions that the Supreme Court has handed down have undermined long-established civil rights principles and protections,” Biden said, listing a litany of recent cases, including the 2022 decision overturning Roe v. Wade and this month’s immunity decision.
+
+“No one is above the law,” Biden said, adding that for “all practical purposes” the recent ruling would allow a president to “flout” the law and “face no consequences.”
+
+Biden is calling for an amendment dubbed the “No One Is Above the Law Amendment,” which will state the Constitution “does not confer any immunity from federal criminal indictment, trial, conviction, or sentencing by virtue of previously serving as President.”
 
 “I share our Founders’ belief that the president must answer to the law,” Biden said.
 
 In what would be another major change, Biden also called for term limits for Supreme Court justices, who serve lifetime appointments. That move, Biden said, would make the timing for the nomination process “more predictable and less arbitrary.”
 
 The reforms Biden is proposing would require congressional approval, which would be difficult to achieve before his term ends, as Republicans control the House and Democrats have a slim majority in the Senate. The constitutional amendment, meanwhile, would require a more complicated process involving the states that seems nearly impossible to succeed.
-
-The reforms, which will face heavy resistance, are meant to “restore trust and accountability when it comes to the presidency and the United States Supreme Court,” a White House official said.
 
 Ahead of Biden’s announcement, White House officials acknowledged the reform package faces an uphill battle, declining in a gaggle with reporters Monday to say whether Biden believes the proposal is “realistic.”
 
@@ -32,9 +36,7 @@ Biden’s proposals drew sharp and swift pushback from Republicans, including Ho
 
 “It is telling that Democrats want to change the system that has guided our nation since its founding simply because they disagree with some of the court’s recent decisions,” Johnson said. “This dangerous gambit of the Biden-Harris administration is dead on arrival in the House.”
 
-Biden, asked about Johnson’s assertion that the proposal would be dead on arrival in the House, responded after landing in Texas: “I think that’s what he is. Dead on arrival.”
-
-Pressed on how he’d pass the measures on Capitol Hill, Biden said, “We’re going to figure a way.”
+Biden responded to Johnson’s assertion during his remarks on Monday, saying he believed the speaker’s “thinking is dead on arrival.”
 
 Senate Minority Leader Mitch McConnell said “the Supreme Court is under attack” in a speech on the Senate floor Monday, calling for Biden and Harris to accept rulings from the court instead of responding “with a full schedule attack on the justices who ruled against them.”
 

@@ -1,6 +1,6 @@
 # Earthquake shakes Los Angeles, with epicenter near Barstow
 
-Published :`2024-07-29 22:38:39`
+Published :`2024-07-29 23:14:31`
 
 ---
 
@@ -15,6 +15,8 @@ The USGS also reported quakes of 3.5 and 2.7 magnitude in the minutes following 
 At the Warner Bros. Discovery – CNN’s parent company – offices in Burbank, about 115 miles southwest of the epicenter, the quake began as a slow roll and gained in intensity, lasting about 20 seconds.
 
 Most of Southern California felt the earthquake, and the USGS detected shaking as far east as Las Vegas, Nevada.
+
+No immediate reports of damage have surfaced, though assessments are ongoing.
 
 This is a developing story and will be updated.
 
