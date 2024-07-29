@@ -1,6 +1,6 @@
 # Israeli attacks kill at least 19 Palestinians, including children, across Gaza
 
-Published :`2024-07-29 03:17:39`
+Published :`2024-07-29 03:37:41`
 
 ---
 
