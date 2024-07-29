@@ -1,6 +1,6 @@
 # Biden to call for major Supreme Court reforms, including term limits, at Civil Rights Act event Monday
 
-Published :`2024-07-29 16:19:50`
+Published :`2024-07-29 16:40:45`
 
 ---
 
@@ -12,7 +12,7 @@ Biden’s announcement, which he is set to make at an event in Austin, Texas, co
 
 The White House official said Biden will call for an amendment dubbed the “No One Is Above the Law Amendment,” which will state the Constitution “does not confer any immunity from federal criminal indictment, trial, conviction, or sentencing by virtue of previously serving as President.”
 
-In what would be another change to the Constitution, Biden will also call for term limits for Supreme Court justices, who serve lifetime appointments.
+In what would be another major change, Biden will also call for term limits for Supreme Court justices, who serve lifetime appointments.
 
 The reforms Biden is proposing would require congressional approval, which would be difficult to achieve before his term ends, as Republicans control the House and Democrats have a slim majority in the Senate. The constitutional amendment, meanwhile, would require a more complicated process involving the states that seems nearly impossible to succeed.
 
@@ -20,7 +20,23 @@ The reforms, which will face heavy resistance, are meant to “restore trust a
 
 CNN reported this month that Biden was seriously considering endorsing major Supreme Court reforms, actions that liberal lawmakers and groups have been pushing in recent years.
 
-The Monday announcement will come more than three years after Biden created a commission to study structural changes at the Supreme Court, including term limits and proposals to increase the number of justices. The group submitted its report to the White House in late 2021, but the administration did not pursue any of the ideas discussed in the document.
+Biden’s proposals drew sharp and swift pushback from Republicans, including House Speaker Mike Johnson. Johnson said the proposal would go nowhere in the House, assuming Republicans retain control of the chamber next year.
+
+“It is telling that Democrats want to change the system that has guided our nation since its founding simply because they disagree with some of the court’s recent decisions,” Johnson said. “This dangerous gambit of the Biden-Harris administration is dead on arrival in the House.”
+
+Leonard Leo, a conservative legal advocate whom Democrats accuse of playing a central role in some of the ethics controversies swirling around the court, also criticized the Biden administration proposals in a rare statement.
+
+“No conservative justice has made any decision in any big case that surprised anyone, so let’s stop pretending this is about undue influence,” Leo said. “It’s about Democrats destroying a court they don’t agree with.”
+
+Leo, board co-chairman of the influential Federalist Society, was subpoenaed by Senate Democrats in April. The Senate Judiciary Committee is seeking to better understand whether specific individuals and groups have used undisclosed gifts to gain access to the justices. Leo called the subpoena “unlawful” and “politically motivated” and told CNN at the time that he was “not capitulating” to that request.
+
+Others praised the administration’s ideas.
+
+Sen. Sheldon Whitehouse, a Rhode Island Democrat and member of the Judiciary Committee who has proposed legislation to tighten ethics rules at the court, described the Biden announcement as a “strong” proposal.
+
+“This court has proven time after time that it cannot police itself,” he said.
+
+The Monday announcement comes more than three years after Biden created a commission to study structural changes at the Supreme Court, including term limits and proposals to increase the number of justices. The group submitted its report to the White House in late 2021, but the administration did not pursue any of the ideas discussed in the document.
 
 The debate over proposed structural changes at the Supreme Court has become deeply partisan, with Republicans widely opposed. But the issue has drawn renewed attention after it was reported in May that controversial flags were previously hoisted on properties owned by conservative Justice Samuel Alito. Both of the flags were flown by rioters during the January 6, 2021, attack on the US Capitol, though Alito has denied any connection to that incident and has said his wife hoisted them for different reasons – including a spat with neighbors.
 
@@ -41,6 +57,8 @@ She also said there was a “clear crisis of confidence facing the Supreme Court
 Biden, a former chairman of the Senate Judiciary Committee who has resisted calls from his party to expand the court, has become increasingly critical of its makeup. He has described the Supreme Court as “out of kilter” and has warned of the impact a second Trump presidency could have on the nation’s highest court.
 
 Biden, who is making his first trip since bowing out of the 2024 race, will call for the changes at the presidential library honoring President Lyndon B. Johnson, who ended his own reelection bid in 1968. Biden will also use his remarks to celebrate the 60th anniversary of the Civil Rights Act, the landmark legislation that cemented Johnson’s legacy.
+
+This story has been updated with additional reaction.
 
 ---
 
