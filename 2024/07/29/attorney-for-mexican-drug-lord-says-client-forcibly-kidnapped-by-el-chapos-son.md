@@ -1,6 +1,6 @@
 # Attorney for Mexican drug lord says client ‘forcibly kidnapped’ by El Chapo’s son
 
-Published :`2024-07-29 14:14:34`
+Published :`2024-07-29 14:37:17`
 
 ---
 
