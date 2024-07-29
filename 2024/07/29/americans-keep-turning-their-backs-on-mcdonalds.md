@@ -1,6 +1,6 @@
 # Americans keep turning their backs on McDonald’s
 
-Published :`2024-07-29 15:36:31`
+Published :`2024-07-29 16:19:50`
 
 ---
 
@@ -16,11 +16,11 @@ But McDonald’s also has said for the past several quarters that some customers
 
 “Beginning last year we warned of a more discriminating consumer, particularly among lower income households — and as this year progressed, those pressures have deepened and broadened,” said CEO Chris Kempczinski on a conference call with investors Monday morning.
 
-So the company at its March investor day unveiled its new strategic plan, dubbed “Accelerating the Arches,” to lure back price-conscious customers. The plan focuses on value meal plans like the popular $5 meal introduced earlier this summer.
+So the company in December unveiled an expansion of its strategic plan to lure back price-conscious customers. The plan focuses on value meal plans like the popular $5 meal introduced earlier this summer.
 
 Those meals, which have shown early signs of popularity, hadn’t fully taken effect until recent weeks and weren’t fully baked into last quarter’s results. The $5 meal deal sales have exceeded expectations, the company said Monday. But Kempczinski said on the call that the company has more work to do, noting, “It’s clear that our value leadership gap has recently shrunk.”
 
-“We are confident that ‘Accelerating the Arches’ is the right playbook for our business and as consumers are more discriminating with their spend, we are focused on the outstanding execution of delivering reliable, everyday value and accelerating strategic growth drivers like chicken and loyalty,” said Kempczinski in a statement.
+“As consumers are more discriminating with their spend, we are focused on the outstanding execution of delivering reliable, everyday value and accelerating strategic growth drivers like chicken and loyalty,” said Kempczinski in a statement.
 
 Kempczinski also said McDonald’s will continue to innovate and change as customer demands shift. He pointed to McDonald’s new emphasis on chicken, which is now on par with beef sales at restaurants. And the company is testing out a new burger, called the Big Arch, which features two patties, cheese, crispy topping and tangy sauce.
 

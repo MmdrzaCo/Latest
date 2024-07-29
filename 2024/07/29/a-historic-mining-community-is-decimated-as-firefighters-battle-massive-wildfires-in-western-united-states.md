@@ -1,6 +1,6 @@
 # A historic mining community is decimated as firefighters battle massive wildfires in Western United States
 
-Published :`2024-07-29 15:36:32`
+Published :`2024-07-29 16:19:50`
 
 ---
 

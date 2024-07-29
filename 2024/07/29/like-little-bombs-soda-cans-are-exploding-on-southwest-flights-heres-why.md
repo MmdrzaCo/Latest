@@ -1,6 +1,6 @@
 # Like ‘little bombs,’ soda cans are exploding on Southwest flights. Here’s why
 
-Published :`2024-07-29 15:36:35`
+Published :`2024-07-29 16:19:53`
 
 ---
 
