@@ -1,6 +1,6 @@
 # Google’s Olympics ad went viral for all the wrong reasons
 
-Published :`2024-07-29 21:35:53`
+Published :`2024-07-29 22:16:50`
 
 ---
 
@@ -17,6 +17,10 @@ It’s a striking miss for the tech giant, which has positioned Gemini as its an
 “The Google commercial where the dad has his daughter use AI to construct a note to her favorite athlete rather than encourage her to write what she actually wants to tell her hero takes a little chunk out of my soul every time I see it,” writer and founder of sports blog Deadspin Will Leitch said on X, in a post that was reposted more than 3,000 times.
 
 “These people have lost the plot,” another person said of the ad in a post on Threads, calling AI ads in general “just mortifying.”
+
+A Google spokesperson said in a statement that the company believes “that AI can be a great tool for enhancing human creativity, but can never replace it.”
+
+“Our goal was to create an authentic story celebrating Team USA,” the statement reads. “It showcases a real-life track enthusiast and her father, and aims to show how the Gemini app can provide a starting point, thought starter, or early draft for someone looking for ideas for their writing.”
 
 The backlash underscored a broader fear about artificial intelligence, as the technology permeates more and more areas of our lives: Tech companies have promised that AI will make our lives easier by removing the need for humans to complete menial tasks, like grocery shopping, coding or translation, that could otherwise be done by computers, freeing them up to spend time on more meaningful pursuits. But many early AI tools seem to do the opposite, instead enabling computers to generate traditionally human creative outputs such as art, music and stories.
 
