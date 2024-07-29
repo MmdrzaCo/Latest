@@ -1,12 +1,12 @@
 # Olympics commentator dropped over sexist comments about women’s swim team
 
-Published :`2024-07-29 18:20:01`
+Published :`2024-07-29 18:39:31`
 
 ---
 
 Olympics commentator Bob Ballard was dropped from Eurosport, the European pay TV company, on Monday after the veteran sportscaster made sexist comments about the Australian women’s swim team.
 
-Following the conclusion of Sunday’s 4x100 meter freestyle relay, during which Team Australia won the gold medal, Ballard commented on the team’s apparent delay in exiting the Paris Aquatic Centre as they celebrated.
+Following the conclusion of Saturday 4x100 meter freestyle relay, during which Team Australia won the gold medal, Ballard commented on the team’s apparent delay in exiting the Paris Aquatic Centre as they celebrated.
 
 “Well, the women just finishing off. You know what women are like, hanging around, doing their makeup,” Ballard said.
 
