@@ -1,6 +1,6 @@
 # Biden to call for major Supreme Court reforms, including term limits, at Civil Rights Act event Monday
 
-Published :`2024-07-29 13:35:58`
+Published :`2024-07-29 14:14:33`
 
 ---
 
@@ -31,6 +31,12 @@ Last year, the high court adopted its own code of conduct. But the measure was h
 Biden’s proposal comes as polling indicates support for the court is hovering near historic lows. A Marquette Law School poll in May found that 61% of Americans disapprove of the job the court is doing. Just four years ago, the same poll found the court had a 66% approval rating.
 
 Democrats have sought to use public disapproval of the court – particularly its 2022 ruling overturning Roe v. Wade – to drive voters. Biden and Vice President Kamala Harris, now the presumptive Democratic nominee, have made that decision a central part of their campaign arguments, hoping the issue of abortion rights will galvanize voters heading into November.
+
+Harris endorsed the proposed changes in a statement released by her campaign Monday, saying they would “restore confidence in the Court, strengthen our democracy, and ensure no one is above the law.”
+
+She also said there was a “clear crisis of confidence facing the Supreme Court.”
+
+“In the course of our Nation’s history, trust in the Supreme Court of the United States has been critical to achieving equal justice under law,” Harris wrote. “President Biden and I strongly believe that the American people must have confidence in the Supreme Court. Yet today, there is a clear crisis of confidence facing the Supreme Court as its fairness has been called into question after numerous ethics scandals and decision after decision overturning long-standing precedent.”
 
 Biden, a former chairman of the Senate Judiciary Committee who has resisted calls from his party to expand the court, has become increasingly critical of its makeup. He has described the Supreme Court as “out of kilter” and has warned of the impact a second Trump presidency could have on the nation’s highest court.
 

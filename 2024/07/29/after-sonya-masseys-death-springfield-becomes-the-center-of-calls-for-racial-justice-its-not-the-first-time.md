@@ -1,6 +1,6 @@
 # After Sonya Massey’s death, Springfield becomes the center of calls for racial justice. It’s not the first time
 
-Published :`2024-07-29 13:36:00`
+Published :`2024-07-29 14:14:40`
 
 ---
 
