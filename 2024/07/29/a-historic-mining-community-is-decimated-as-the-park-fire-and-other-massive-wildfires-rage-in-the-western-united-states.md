@@ -1,6 +1,6 @@
 # A historic mining community is decimated as the Park Fire and other massive wildfires rage in the Western United States
 
-Published :`2024-07-29 19:12:23`
+Published :`2024-07-29 19:37:09`
 
 ---
 

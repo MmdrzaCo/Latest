@@ -1,6 +1,6 @@
 # Delta passengers are angry, but will be back. They have little choice
 
-Published :`2024-07-29 19:12:25`
+Published :`2024-07-29 19:37:10`
 
 ---
 

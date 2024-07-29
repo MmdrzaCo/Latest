@@ -1,10 +1,10 @@
 # Two children killed and nine injured in knife attack at dance class in northern England
 
-Published :`2024-07-29 19:12:23`
+Published :`2024-07-29 19:37:09`
 
 ---
 
-Two children have been killed and nine others injured in a knife attack targeting a Taylor Swift-themed dance class in a town in northern England on Monday, police said.
+Two children have been killed and nine people injured in a knife attack targeting a Taylor Swift-themed dance class in a town in northern England on Monday, police said.
 
 Merseyside Police’s Chief Constable Serena Kennedy said six of the injured children are in critical condition, and added that the attack has also left two adults in critical condition.
 
@@ -26,7 +26,7 @@ The businessman said he had directed police to an address in Hart Street behind 
 
 “It’s like something from America, not like sunny Southport,” Parry said.
 
-One resident, who lives in Hart Street but did not wish to be naed, told PA Media that a woman pulled up outside his house in her car, screaming. He said: “She was screaming ‘my daughter’s been stabbed’.
+One resident, who lives in Hart Street but did not wish to be named, told PA Media that a woman pulled up outside his house in her car, screaming. He said: “She was screaming ‘my daughter’s been stabbed’.
 
 “The woman was in hysterics. Then two police cars rushed up the street the other way. It was a mum with her 10-year-old daughter who had been stabbed.”
 
