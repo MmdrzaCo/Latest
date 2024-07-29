@@ -1,6 +1,6 @@
 # More than half of American renters who want to buy a home fear they’ll never afford one
 
-Published :`2024-07-29 17:13:57`
+Published :`2024-07-29 17:36:38`
 
 ---
 
