@@ -1,12 +1,12 @@
 # Biden to call for major Supreme Court reforms, including term limits, at Civil Rights Act event Monday
 
-Published :`2024-07-29 14:37:16`
+Published :`2024-07-29 15:16:30`
 
 ---
 
-President Joe Biden is set to call for major Supreme Court reforms Monday, according to a White House official, a move that would make him the first sitting president in generations to back seismic changes to the way the nation’s highest court operates.
+President Joe Biden is set to call for major Supreme Court reforms Monday, according to a White House official, a move that would make him the first sitting president in generations to back seismic changes to the way the nation’s highest court operates.
 
-Biden’s election-year push comes amid deep unpopularity for the high court but stands little chance of going anywhere. He will call for a constitutional amendment stripping the president of immunity for crimes committed while in office, term limits for Supreme Court justices, and a binding code of conduct for the high court, the White House official said.
+In calling for a constitutional amendment stripping the president of immunity for crimes committed while in office, term limits for Supreme Court justices, and a binding code of conduct for the high court, Biden’s proposed reforms stand little chance of going anywhere with a divided Congress. But it serves as an election-year message designed to excite the Democrats’ progressive base. Vice President Kamala Harris, now the presumptive Democratic presidential nominee, quickly endorsed the proposed changes, which come at a time of deep unpopularity for the high court.
 
 Biden’s announcement, which he is set to make at an event in Austin, Texas, commemorating the Civil Rights Act, follows this month’s monumental decision by the Supreme Court granting presidents full immunity for some actions taken while in office and after a tide of revelations about justices accepting vacations and gifts from wealthy conservative donors. Democrats on the campaign trail frequently point to the Supreme Court’s conservative majority – solidified by former President Donald Trump – to underscore what they see as the high stakes of the 2024 election.
 
@@ -30,7 +30,7 @@ Last year, the high court adopted its own code of conduct. But the measure was h
 
 Biden’s proposal comes as polling indicates support for the court is hovering near historic lows. A Marquette Law School poll in May found that 61% of Americans disapprove of the job the court is doing. Just four years ago, the same poll found the court had a 66% approval rating.
 
-Democrats have sought to use public disapproval of the court – particularly its 2022 ruling overturning Roe v. Wade – to drive voters. Biden and Vice President Kamala Harris, now the presumptive Democratic nominee, have made that decision a central part of their campaign arguments, hoping the issue of abortion rights will galvanize voters heading into November.
+Democrats have sought to use public disapproval of the court – particularly its 2022 ruling overturning Roe v. Wade – to drive voters. Biden and Harris have made that decision a central part of their campaign arguments, hoping the issue of abortion rights will galvanize voters heading into November.
 
 Harris endorsed the proposed changes in a statement released by her campaign Monday, saying they would “restore confidence in the Court, strengthen our democracy, and ensure no one is above the law.”
 

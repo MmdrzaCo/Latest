@@ -1,6 +1,6 @@
 # The Israel-Hezbollah war that no one wants could finally blow up
 
-Published :`2024-07-29 14:37:18`
+Published :`2024-07-29 15:16:30`
 
 ---
 
@@ -26,7 +26,7 @@ And yet, over the past near-10 months of fighting, Israel, Hezbollah and Iran h
 
 The status quo, of course, can’t continue either. Tens of thousands of Israelis have been displaced from their homes. Large swathes of northern Israel are like ghost towns. A similar picture plays out in southern Lebanon. The best way to avoid all-out war between Israel and Hezbollah, says Blinken, is to get a ceasefire in Gaza. Talks aimed at achieving that resume on Sunday.
 
-But that would only be a short-term fix. Israel wants to remove the Hezbollah threat entirely, moving it back to the Litani River, in accordance with the UN Security Council Resolution that ended the last major war between the two in 2006. “If the world doesn’t get Hezbollah away from the border, Israel will do it,” said Israeli Defense Minister Yoav Gallant in December.
+But that would only be a short-term fix. Israel wants to remove the Hezbollah threat entirely, moving it back to the Litani River, in accordance with the UN Security Council Resolution that ended the last major war between the two in 2006. “If the world doesn’t get Hezbollah away from the border, Israel will do it,” said former Israeli war cabinet member Benny Gantz in December.
 
 And so despite the bombast, domestic pressures, the fears and the escalations, the fighting between Israel and Hezbollah continues to simmer rather than boil over. No one seems to want this war. But as Hochstein warned in that same webinar: “Wars have started historically around the world even when leaders didn’t want them, because they had no choice.”
 

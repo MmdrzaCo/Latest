@@ -1,6 +1,6 @@
 # ‘Your jokes are great, but you’re just dressed too f***ing sexy.’ Why what these comedians wear on stage matters
 
-Published :`2024-07-29 14:37:16`
+Published :`2024-07-29 15:16:31`
 
 ---
 
@@ -10,7 +10,7 @@ Today, female comics are more likely to be seen in vintage Versace, Gucci or Ale
 
 Out on the stand-up circuit, some comedians are arriving on-stage dressed to the nines, stepping out in vintage luxury fashion and statement shoes. Earlier this year, New York-based comic Mary Beth Barone released her first independent special, “Thought Provoking,” on YouTube. To the uninitiated, Barone wore a sparkly silver dress. To those interested in fashion, it was a piece of history. The archival Versace chainmail slip dress was previously worn by Kate Moss on the arm of Naomi Campbell at a London charity gala in 1999. According to Moss, she “walked straight off the Versace runway” to the event.
 
-While promoting her show on Instagram, Barone nodded to this strange collision of worlds in the caption: “When the brilliant designers at Versace made this dress for Kate Moss in 1999, I do not think they imagined it would be worn 25 years later by a standup comedian!” Barone then appeared on The Tonight Show Starring Jimmy Fallon in a Fall-Winter 2003 Gucci little black dress, designed by Tom Ford during his tenure as creative director — a niche period in Gucci’s history revered by only the most in-the-know fashionistas.
+While promoting her show on Instagram, Barone nodded to this strange collision of worlds in the caption: “When the brilliant designers at Versace made this dress for Kate Moss in 1999, I do not think they imagined it would be worn 25 years later by a standup comedian!” Barone then appeared on The Tonight Show Starring Jimmy Fallon in a Fall-Winter 2003 Gucci little black dress, designed by Tom Ford during his tenure as creative director — a niche period in Gucci’s history revered by only the most studious fashionistas.
 
 “I love fashion, first and foremost,” Barone told CNN during a video call from her apartment in New York. “It was the culture I grew up with; Britney Spears, Mary-Kate and Ashley Olsen, Paris Hilton, all these people that were so influential.” Barone’s feminine, runway-ready wardrobe often stands in stark contrast to her deadpan punchline delivery, two disparate threads coming together to create an intriguing stage presence. She proudly attributes herself to the “pop star generation,” inspired not just by the off-duty fashion of these early noughties celebrities, but their commitment to clothes as part of their act — elevating a show’s production value. “Those pop stars were so powerful and willing to own their aesthetic and their persona as performers. I just felt like at a certain point, why can’t comedians do that?”
 
@@ -20,7 +20,7 @@ Flamboyant female comedians aren’t new. Phyllis Diller, Jean Carroll and Joan 
 
 “For a long time, female comedians were pressured into dressing like their male counterparts,” said Barone. “When I started taking improv, there was a manual you would buy and read alongside classes. In it, it said you should never wear shorts or dresses on stage because if the audience can see your legs it’s distracting and it will take away from the comedy.” Barone remembers after one particular set, she was followed outside by the booker. “He was like, ‘Your jokes are great, but you’re just dressed too f***ing sexy.”
 
-Cohen, too, felt an expectation that, in her early years, influenced what she wore. “When I first started I felt more shy,” she said, “and I was more hesitant to lead into my persona. I remember once wearing overalls and a T-shirt to a show. Like no, babe. That was not me.”
+Cohen, too, felt an expectation that, in her early years, influenced what she wore. “When I first started I felt more shy,” she said, “and I was more hesitant to lean into my persona. I remember once wearing overalls and a T-shirt to a show. Like no, babe. That was not me.”
 
 Margaret Cho — named one of Rolling Stone’s top 50 comedians of all time — has long flown the flag for fashion, performing on-stage in the 1990s in Betsy Johnson, Todd Oldham and Gemma Kong; despite rising to fame during one of the industry’s most chauvinistic eras. The comedic landscape of the 1980s and ‘90s was ruled by men such as Andrew Dice Clay (whose vulgar nursery rhymes got him banned from MTV in 1989) and Louis C.K., who was accused of sexual misconduct by five women in 2017. Given that women were so often the butt of the joke, any sign of weakness — including an outlandish outfit — could undermine a performance. “You had to approach ‘attractiveness’ in a certain way, you didn’t want to go into hyper-feminine mode,” Cho said in a video call from LA. “Because then it would automatically negate what you were saying. It was hard to get people to trust you as a comedian if you were ‘attractive.’ There was such a culture of misogyny.”
 
@@ -28,7 +28,9 @@ But Cho still relished the act of dressing up, partly in defiance of the male do
 
 As the world’s of comedy and couture inch ever-closer, perhaps one day a stand-up set will become as lucrative for fashion brands as a Harry Styles world tour. (During his last series of gigs in 2022, which according to Forbes earnt Styles $617.3 million, the artist almost exclusively wore Gucci.) “It’s just like rock and roll,” Cho said. “You want your rock star to be fully aware of their style. The brand of a comedian, that really includes style.” She already feels optimistic about Ayo Edebiri, Rachel Sennott and the comedic invasion of luxury fashion houses. “(Sennott and Edebiri) are so perfect for bringing in new energy to these old houses. It’s a twist on the ingénue, like let’s actually use a comedian. It’s really special. ”
 
-Cohen agrees. “Before, people maybe felt like (dressing) wasn’t crucial to what they were doing artistically. But now, I think it only adds to what I do.” Barone — who has recently been seen wearing Y/Project and archival Dior — will have no doubt packed a treasure trove of vintage pieces for her the US leg of her new tour, “Pillow Talk” this August. “I don’t want it to seem like I’m saying I’m the first person to ever wear a dress to do stand up comedy,” she said. “But it feels like there’s a shift happening. And I’m excited about it.”
+Cohen agrees. “Before, people maybe felt like (dressing) wasn’t crucial to what they were doing artistically. But now, I think it only adds to what I do.”
+
+Barone — who has recently been seen wearing Y/Project and archival Dior — will have no doubt packed a treasure trove of vintage pieces for the US leg of her new tour, “Pillow Talk” this August. “I don’t want it to seem like I’m saying I’m the first person to ever wear a dress to do stand up comedy,” she said. “But it feels like there’s a shift happening. And I’m excited about it.”
 
 ---
 

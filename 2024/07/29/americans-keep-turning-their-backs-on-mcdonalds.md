@@ -1,6 +1,6 @@
 # Americans keep turning their backs on McDonald’s
 
-Published :`2024-07-29 14:37:16`
+Published :`2024-07-29 15:16:30`
 
 ---
 
@@ -36,7 +36,7 @@ McDonald’s in particular, has been the focus of some consumers’ ire. A viral
 
 Whether or not that viral post was the final straw for McDonald’s customers, Americans have been punishing the company ever since. Sales have been sinking, and the company’s profit margin, once rising steadily in the post-pandemic years, has fallen back to where it was pre-Covid. The company on Monday said prices keep rising, but as it absorbs some of that additional cost, McDonald’s will continue to look for ways to grow its profit — even as customers demand more value.
 
-McDonald’s (MCD) stock, which rose less than 1% in premarket trading Monday, has fallen 15% this year, missing out on a larger market rally.
+McDonald’s (MCD) stock rose more than 3% Monday but has fallen 12% this year, missing out on a larger market rally.
 
 ---
 
