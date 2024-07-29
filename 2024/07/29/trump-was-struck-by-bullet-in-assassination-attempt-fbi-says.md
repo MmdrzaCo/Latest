@@ -1,6 +1,6 @@
 # Trump was struck by bullet in assassination attempt, FBI says
 
-Published :`2024-07-29 07:15:05`
+Published :`2024-07-29 07:36:19`
 
 ---
 

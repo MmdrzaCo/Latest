@@ -1,6 +1,6 @@
 # The US says it has successfully practiced using a low-cost bomb to sink a major surface ship. China is taking note
 
-Published :`2024-07-29 07:15:01`
+Published :`2024-07-29 07:36:16`
 
 ---
 

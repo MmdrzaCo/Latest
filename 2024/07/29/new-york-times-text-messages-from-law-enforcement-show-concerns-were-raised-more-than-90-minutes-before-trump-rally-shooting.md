@@ -1,6 +1,6 @@
 # New York Times: Text messages from law enforcement show concerns were raised more than 90 minutes before Trump rally shooting
 
-Published :`2024-07-29 07:14:59`
+Published :`2024-07-29 07:36:11`
 
 ---
 
