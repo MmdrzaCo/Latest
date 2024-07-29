@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-29 02:25:04`
+#### Latest Update : `2024-07-29 02:49:52`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/29/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
 
 - [Why Thailand is making it easier for travelers to stay longer](https://new-news.github.io/Latest/2024/07/29/why-thailand-is-making-it-easier-for-travelers-to-stay-longer 'Why Thailand is making it easier for travelers to stay longer')
 
@@ -19,8 +21,6 @@
 - [The Israel-Hezbollah war that no one wants could finally blow up](https://new-news.github.io/Latest/2024/07/29/the israel-hezbollah war that-no one-wants could finally-blow up 'The Israel-Hezbollah war that no one wants could finally blow up')
 
 - [‘They were just kids. What did they do wrong?’: In Majdal Shams, a town caught between Israel and Hezbollah mourns its young](https://new-news.github.io/Latest/2024/07/29/they-were-just-kids-what-did-they-do-wrong-in-majdal-shams-a-town-caught-between-israel-and-hezbollah-mourns-its-young '‘They were just kids. What did they do wrong?’: In Majdal Shams, a town caught between Israel and Hezbollah mourns its young')
-
-- [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/29/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
 
 - [Rescue crew saves Rottweiler and four puppies stranded in Park Fire](https://new-news.github.io/Latest/2024/07/29/rescue-crew-saves-rottweiler-and-four-puppies-stranded-in-park-fire 'Rescue crew saves Rottweiler and four puppies stranded in Park Fire')
 

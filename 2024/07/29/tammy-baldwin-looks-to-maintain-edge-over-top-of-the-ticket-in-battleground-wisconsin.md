@@ -1,6 +1,6 @@
 # Tammy Baldwin looks to maintain edge over top of the ticket in battleground Wisconsin
 
-Published :`2024-07-29 02:24:59`
+Published :`2024-07-29 02:49:50`
 
 ---
 

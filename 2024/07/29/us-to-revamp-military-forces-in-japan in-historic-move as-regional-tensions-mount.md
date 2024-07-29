@@ -1,6 +1,6 @@
 # US to revamp military forces in Japan in ‘historic’ move as regional tensions mount
 
-Published :`2024-07-29 02:24:58`
+Published :`2024-07-29 02:49:50`
 
 ---
 
@@ -48,7 +48,7 @@ When asked during the press conference about the relationship between the new co
 
 In the statement, the ministers also condemned North Korea’s missile testing and nuclear weapons programs, and condemned deepening Russia-North Korea cooperation, including Russia’s “procurement of ballistic missiles and other materiel from North Korea” for use in Ukraine.
 
-The meeting follows a trilateral meeting earlier Sunday between defense chiefs from the United States, Japan and South Korea, the first of its kind in 15 years – and yet another sign of the tightening coordination of regional US allies.
+The meeting follows a trilateral meeting earlier Sunday between defense chiefs from the United States, Japan and South Korea, the first of its kind in Tokyo – and yet another sign of the tightening coordination of regional US allies.
 
 That came nearly one year after a landmark summit between the three countries held by Biden at Camp David. The burgeoning trilateral coordination between the US, Japan and South Korea marks a shift in regional relations, with Seoul and Tokyo – both long-standing US allies – widely seen as working to put aside historic animosity and mistrust to better address shared security threats.
 
