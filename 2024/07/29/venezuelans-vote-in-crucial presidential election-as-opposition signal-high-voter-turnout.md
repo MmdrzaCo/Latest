@@ -1,6 +1,6 @@
 # Venezuelans vote in crucial presidential election as opposition signal high voter turnout
 
-Published :`2024-07-29 01:10:22`
+Published :`2024-07-29 02:24:58`
 
 ---
 
@@ -20,7 +20,11 @@ The vote has come at a crucial moment for Venezuela, which has experienced viole
 
 Punishing sanctions on the regime by the United States and European Union have failed to topple the populist incumbent, who argues that Venezuela’s woes are due to being a victim of an “economic war.”
 
-Around eight million Venezuelans have fled the country amid shortages of vital goods and soaring inflation.
+Around eight million Venezuelans have fled the country amid shortages of vital goods and soaring inflation, and others will feel compelled to leave if Maduro wins, says the opposition coalition that has promised to restore Venezuela’s democracy.
+
+Fleeing Venezuelans “would create huge pressure and destabilization in the region. And of course, in the south border of the United States, but in the country,” opposition leader Machado said Sunday.
+
+“A peaceful transition to democracy would mean that not only the flow will stop, but that millions of Venezuelans will come back home,” she added.
 
 ### ‘A historic participation figure’
 
@@ -32,7 +36,7 @@ People came out in droves to vote on Sunday, according to the opposition coaliti
 
 More than 21 million people are registered to vote, both in the country and abroad. The opposition coalition reported later on Sunday afternoon a 54.8% voter turnout, representing at least 11.7 million voters.
 
-“This is huge. If this continues, it will be a historic participation figure,” opposition leader Machado said in a statement released Sunday afternoon. “What you are seeing is the most important civic act in our history.”
+“This is huge. If this continues, it will be a historic participation figure,” Machado said in a statement released Sunday afternoon. “What you are seeing is the most important civic act in our history.”
 
 Machado’s statement also spoke of reported “problems” at some voting stations. “In our monitoring there were 1,300 stations in which there were problems for our observers to enter. At this time there are only 13 tables with problems.”
 
@@ -53,6 +57,10 @@ The government has also created significant impediments for the millions of Vene
 A limited group of election observers, including a team from The Carter Center – a non-profit organization set up by former US President Jimmy Carter – will be on the ground. But several international election observers have announced this week that they will no longer travel to Venezuela to monitor the vote.
 
 Latin American leaders, including Brazilian President Luiz Inácio Lula da Silva, have called on Maduro to commit to stepping down if he loses. Venezuelan opposition figures have also appealed to the country’s military, that has long supported Maduro and his predecessor, to respect the results. The Venezuelan leader has said his victory will ensure “peace” in the country.
+
+The Biden administration has been monitoring the elections, telling reporters on Friday that the US stands prepared to levy additional sanctions against Venezuela if the democratic process is not allowed to unfold.
+
+Vice President Kamala Harris said “the will of the Venezuelan people must be respected” in a post on X, adding that “despite the many challenges, we will continue to work toward a more democratic, prosperous, and secure future for the people of Venezuela.”
 
 How the army reacts to the outcome could be an important factor in any scenario, but analysts say it impossible to parse where it stands.
 
