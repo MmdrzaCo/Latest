@@ -1,6 +1,6 @@
 # Thirteen hikers, including children, rescued from high heat on Arizona trail
 
-Published :`2024-07-29 05:37:18`
+Published :`2024-07-29 06:21:55`
 
 ---
 
