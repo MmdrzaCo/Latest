@@ -1,6 +1,6 @@
 # Heat is testing the limits of human survivability. Here’s how it kills
 
-Published :`2024-07-29 10:17:31`
+Published :`2024-07-29 10:39:12`
 
 ---
 
@@ -28,7 +28,7 @@ Heat is the deadliest type of extreme weather, and the human-caused climate cris
 
 Kreycik had almost everything on his side when he went running on that hot day: he was extremely fit, relatively young and was an experienced runner.
 
-While some people are more vulnerable to heat than others, including the very old and young, no one is immune — not even the world’s top athletes. Many are expressing anxiety as temperatures are forecast to soar past 95 degrees in Paris this week as the Olympic Games get underway.
+While some people are more vulnerable to heat than others, including the very old and young, no one is immune — not even the world’s top athletes. Many are expressing anxiety as temperatures are forecast to soar past 95 degrees this week in Paris, as the Olympic Games get underway.
 
 Scientists are still trying to unravel the many ways heat attacks the body. One way they do this is with environmental chambers: rooms where they can test human response to a huge range of temperature and humidity.
 
