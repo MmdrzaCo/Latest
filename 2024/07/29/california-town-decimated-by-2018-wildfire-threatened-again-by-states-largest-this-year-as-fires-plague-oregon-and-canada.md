@@ -1,6 +1,6 @@
 # California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada
 
-Published :`2024-07-29 02:49:50`
+Published :`2024-07-29 03:17:39`
 
 ---
 
@@ -18,13 +18,13 @@ Ava Elsner, who lived through the fire six years ago, told CNN she fears for her
 
 Meanwhile, wildfires are burning across the mountain west, in the US and north of the border in Canada, as firefighters deal with strong winds, low humidity and high temperatures to try to get the blazes under control.
 
-There are 86 large wildfires burning across the US, including 37 in Oregon and 14 in California, according to the Interagency Fire Center, and hundreds in Canada reported by its Fire Center. Here’s a brief rundown of some of the largest fires:
+There were 103 large wildfires burning across the US as of Sunday morning, including 36 in Oregon and 15 in California, according to the Interagency Fire Center, and hundreds in Canada reported by its Fire Center. Here’s a brief rundown of some of the largest fires:
 
-• Park Fire – Butte, Tehama, Plumas and Shasta counties, California: The Park Fire has become California’s largest wildfire this year, covering more than 350,000 acres, or 546 square miles – larger than the city of Phoenix – and it’s still spreading. The fire was 12% contained as of Sunday morning, according to CalFire. President Joe Biden has directed his administration to do everything possible to support ongoing fire suppression efforts, according to a White House official. The fire began Wednesday in the Chico area, forcing thousands of people to evacuate. CalFire said Saturday a preliminary air assessment showed over 100 structures impacted by the fire, and officials on the ground confirmed 20 structures have been destroyed.
+• Park Fire – Butte, Tehama, Plumas and Shasta counties, California: The Park Fire has become California’s largest wildfire this year, covering more than 360,000 acres, or 562 square miles – larger than the city of Phoenix – and it’s still spreading. The fire was 12% contained as of Sunday afternoon, according to CalFire. President Joe Biden has directed his administration to do everything possible to support ongoing fire suppression efforts, according to a White House official. The fire began Wednesday in the Chico area, forcing thousands of people to evacuate. CalFire said Saturday a preliminary air assessment showed over 100 structures impacted by the fire, and officials on the ground confirmed 20 structures have been destroyed.
 
-• Durkee Fire – Baker and Malheur counties in Oregon: The largest active wildfire in Oregon is the Durkee Fire, which has burned more than 288,000 acres. It started July 17 near the Oregon-Idaho state line. Amid high temperatures, extremely dry vegetation and strong winds, the fire was 49% contained as of Saturday evening, according to Oregon Wildfire Response and Recovery.
+• Durkee Fire – Baker and Malheur counties in Oregon: The largest active wildfire in Oregon is the Durkee Fire, which has burned more than 288,000 acres. It started July 17 near the Oregon-Idaho state line. Amid high temperatures, extremely dry vegetation and strong winds, the fire was 49% contained as of Sunday evening, according to Oregon Wildfire Response and Recovery.
 
-• Jasper National Park Fire – Jasper, Alberta: Large sections of the largest national park in the Canadian Rockies are being consumed by “a wall of flames.” As of Saturday evening, the fire is at just under 80,000 acres, according to park officials, making it the largest wildfire in more than 100 years in Jasper National Park. Thousands of visitors and residents fled as flames devastated nearly 40% of the town’s structures. There are currently 135 wildfires burning in the forest protection area of the province, 34 of which are out of control, authorities said Sunday afternoon. The fire is expected to become more active over the coming days with warmer weather ahead, Parks Canada said.
+• Jasper National Park Fire – Jasper, Alberta: Large sections of the largest national park in the Canadian Rockies are being consumed by “a wall of flames.” As of Sunday afternoon, the fire was at just under 80,000 acres, according to park officials, making it the largest wildfire in more than 100 years in Jasper National Park. Thousands of visitors and residents fled as flames devastated nearly 40% of the town’s structures. There are currently 135 wildfires burning in the forest protection area of the province, 34 of which are out of control, authorities said Sunday afternoon. The fire is expected to become more active over the coming days with warmer weather ahead, Parks Canada said.
 
 ### Firefighting pilot found dead while battling wildfire
 

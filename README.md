@@ -1,18 +1,22 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-29 02:49:52`
+#### Latest Update : `2024-07-29 03:17:42`
 
 ## Latest News Grabbing 
 
 ---
+
+- [California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada](https://new-news.github.io/Latest/2024/07/29/california-town-decimated-by-2018-wildfire-threatened-again-by-states-largest-this-year-as-fires-plague-oregon-and-canada 'California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada')
+
+- [Venezuelans vote in crucial presidential election as opposition signal high voter turnout](https://new-news.github.io/Latest/2024/07/29/venezuelans-vote-in-crucial presidential election-as-opposition signal-high-voter-turnout 'Venezuelans vote in crucial presidential election as opposition signal high voter turnout')
+
+- [US to revamp military forces in Japan in ‘historic’ move as regional tensions mount](https://new-news.github.io/Latest/2024/07/29/us-to-revamp-military-forces-in-japan in-historic-move as-regional-tensions-mount 'US to revamp military forces in Japan in ‘historic’ move as regional tensions mount')
 
 - [Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children](https://new-news.github.io/Latest/2024/07/29/israel-says-hezbollah-will-pay-the-price-after-blaming-it-for-attack-on-soccer-field-that-killed-12-children 'Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children')
 
 - [Why Thailand is making it easier for travelers to stay longer](https://new-news.github.io/Latest/2024/07/29/why-thailand-is-making-it-easier-for-travelers-to-stay-longer 'Why Thailand is making it easier for travelers to stay longer')
 
 - [‘House of the Dragon’ Season 2, episode 7 recap: Dragonrider hopefuls feel the burn](https://new-news.github.io/Latest/2024/07/29/house-of-the-dragon-season-2-episode-7-recap-dragonrider-hopefuls-feel-the-burn '‘House of the Dragon’ Season 2, episode 7 recap: Dragonrider hopefuls feel the burn')
-
-- [Venezuelans vote in crucial presidential election as opposition signal high voter turnout](https://new-news.github.io/Latest/2024/07/29/venezuelans-vote-in-crucial presidential election-as-opposition signal-high-voter-turnout 'Venezuelans vote in crucial presidential election as opposition signal high voter turnout')
 
 - [Attorney for Mexican drug lord says client ‘forcibly kidnapped’ by El Chapo’s son](https://new-news.github.io/Latest/2024/07/29/attorney-for-mexican-drug-lord-says-client-forcibly-kidnapped-by-el-chapos-son 'Attorney for Mexican drug lord says client ‘forcibly kidnapped’ by El Chapo’s son')
 
@@ -27,8 +31,6 @@
 - [One of the biggest cartel busts in recent memory began with an act of betrayal](https://new-news.github.io/Latest/2024/07/29/one-of-the-biggest-cartel-busts-in-recent-memory-began-with-an-act-of-betrayal 'One of the biggest cartel busts in recent memory began with an act of betrayal')
 
 - [Israeli attacks kill at least 19 Palestinians, including children, across Gaza](https://new-news.github.io/Latest/2024/07/29/israeli-attacks-kill-at-least-19-palestinians-including-children-across-gaza 'Israeli attacks kill at least 19 Palestinians, including children, across Gaza')
-
-- [California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada](https://new-news.github.io/Latest/2024/07/29/california-town-decimated-by-2018-wildfire-threatened-again-by-states-largest-this-year-as-fires-plague-oregon-and-canada 'California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada')
 
 - [What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them](https://new-news.github.io/Latest/2024/07/29/what-gov-gavin-newsoms-order-to-clear-homeless-encampments-means-for-the-people-who-live-in-them 'What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them')
 
@@ -61,8 +63,6 @@
 - [A man missing for 14 days in Kentucky’s wilderness was found on the last day of the search for him](https://new-news.github.io/Latest/2024/07/29/a-man-missing-for-14-days-in-kentuckys-wilderness-was-found-on-the-last-day-of-the-search-for-him 'A man missing for 14 days in Kentucky’s wilderness was found on the last day of the search for him')
 
 - [Hungary’s Orban says Russia stands to gain as ‘irrational’ West loses power](https://new-news.github.io/Latest/2024/07/29/hungarys-orban-says-russia-stands-to-gain-as-irrational-west-loses-power 'Hungary’s Orban says Russia stands to gain as ‘irrational’ West loses power')
-
-- [US to revamp military forces in Japan in ‘historic’ move as regional tensions mount](https://new-news.github.io/Latest/2024/07/29/us-to-revamp-military-forces-in-japan in-historic-move as-regional-tensions-mount 'US to revamp military forces in Japan in ‘historic’ move as regional tensions mount')
 
 - [The Re-Dream Team: LeBron James leads a star-studded roster as Team USA goes for Olympic gold](https://new-news.github.io/Latest/2024/07/29/the-re-dream-team-lebron-james-leads-a-star-studded-roster-as-team-usa-goes-for-olympic-gold 'The Re-Dream Team: LeBron James leads a star-studded roster as Team USA goes for Olympic gold')
 

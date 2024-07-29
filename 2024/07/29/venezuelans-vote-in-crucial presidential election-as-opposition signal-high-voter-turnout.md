@@ -1,10 +1,10 @@
 # Venezuelans vote in crucial presidential election as opposition signal high voter turnout
 
-Published :`2024-07-29 02:49:50`
+Published :`2024-07-29 03:17:39`
 
 ---
 
-Venezuelans voted Sunday in a highly consequential presidential election in which the country’s longtime strongman, Nicolas Maduro, faces one of his greatest political challenges yet, say analysts.
+Venezuelans are anxiously awaiting the result of a highly consequential presidential election after casting their votes Sunday, in which the country’s longtime strongman, Nicolas Maduro, faces one of his greatest political challenges yet, say analysts.
 
 Long lines began to form outside polling centers in the capital, Caracas, before they were due to open at 6 a.m. ET and continued through the day. Polls officially closed at 6 p.m but will remain open for those waiting to vote, though it remains unclear when the electoral authorities will announce the results.
 

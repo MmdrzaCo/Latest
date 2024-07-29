@@ -1,6 +1,6 @@
 # Why Thailand is making it easier for travelers to stay longer
 
-Published :`2024-07-29 02:49:50`
+Published :`2024-07-29 03:17:39`
 
 ---
 
