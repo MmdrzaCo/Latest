@@ -1,24 +1,26 @@
 # Firefighters cautiously watch the weather as Western wildfires spread
 
-Published :`2024-07-29 08:19:37`
+Published :`2024-07-29 08:39:04`
 
 ---
 
 Wildfires are burning across the Western United States and Canada, damaging homes, causing injuries and forcing evacuations. The largest active wildfire in the US has scorched more than 360,000 acres – an area larger than the city of Phoenix – and firefighters are watching to see if the weather will help give them an advantage. Here is the latest:
 
-• Hope for stopping wildfires’ spread: The weather forecast for the Northwest calls for lighter winds than the area has seen in recent days, giving firefighters some optimism about slowing the progress of the Park Fire, along with more than 100 large wildfires are burning across the region, consuming thousands of acres. Temperatures across much of the West will actually be at or below average to start this week, with forecast highs through Tuesday range between the 60s and 70s along the Pacific Coast and the 70s and 80s in the inland Pacific Northwest.
+• Hope for stopping wildfires’ spread: The weather forecast for the Northwest calls for lighter winds than the area has seen in recent days, giving firefighters some optimism about slowing the progress of the Park Fire, along with more than 100 large wildfires burning across the region, consuming thousands of acres. Temperatures across much of the West will be at or below average to start this week, with forecast highs through Tuesday ranging between the 60s and 70s along the Pacific Coast and the 70s and 80s in the inland Pacific Northwest.
 
-• Park Fire is largest active wildfire in the US: The Park Fire, the seventh-largest wildfire in California history, is now at more than 360,000 acres or 560 square miles. The fire has destroyed 100 structures and threatens thousands more, according to Cal Fire. It was 12% contained as of Monday morning but evacuations warnings or orders remained in Butte, Tehama, Plumas and Shasta counties. Lower winds from the south could help take pressure off the fire’s eastern edge. President Joe Biden has directed his administration to do everything possible to support ongoing fire suppression efforts, according to a White House official.
+• Park Fire is largest active wildfire in the US: The Park Fire, the seventh-largest wildfire in California history, is now at more than 360,000 acres or 560 square miles. The fire has destroyed 100 structures and threatens thousands more, according to CalFire. It was 12% contained as of Monday morning but evacuations warnings or orders remained in Butte, Tehama, Plumas and Shasta counties. Lower winds from the south could help take pressure off the fire’s eastern edge. President Joe Biden has directed his administration to do everything possible to support ongoing fire suppression efforts, according to a White House official.
 
 • Arson suspect to be arraigned Monday: A 42-year-old man, identified as Ronnie Dean Stout II, has been arrested after being accused of igniting the Park Fire. The man is suspected of pushing a burning car 60 feet into a gully, spreading flames that caused the inferno, Butte County District Attorney Mike Ramsey said.
 
 • Progress fighting Durkee Fire in Oregon: The Durkee Fire is the largest wildfire burning in Oregon, at more than 288,000 acres. It has injured three people and destroyed four residences. The fire was 49% contained as of Monday morning, according to InciWeb, and the figure could improve as winds calm and humidity levels moderate.
 
+• Borel Fire damages historic mining community: The fire in Kern County, California, “swept through the community of Havilah and Piute Meadows Ranches,” CalFire said. Havilah was discovered in 1864 and for more than 20 years served as an active mining center, according to California State Parks. The Borel Fire had burned more than 50,000 acres and had zero containment as of Sunday night.
+
 • Crews to see more challenges in Jasper, Alberta: Though weekend rain helped firefighters combat the Jasper Wildfire Complex – the park’s largest wildfire in more than a century – warmer weather in the days ahead might present further challenges. Temperatures in the area have dropped and there is a chance of showers Monday, with highs expected in the upper 60s to mid-70s and rising through the week. Wildfire danger for the southern areas of the province remain very high to extreme, according to Melissa Story, spokesperson for Alberta Wildfire. “This area did not see the moisture as the other areas of the province did,” Story said.
 
 ### Firefighters make progress in California
 
-Cloud and smoke coverage allowed firefighters to increase containment lines around the Park Fire Saturday, but the challenges returned on Sunday, Cal Fire Incident Commander Billy See said.
+Cloud and smoke coverage allowed firefighters to increase containment lines around the Park Fire Saturday, but the challenges returned on Sunday, CalFire Incident Commander Billy See said.
 
 While some areas were downgraded from evacuation orders to warnings, spot fires prevented officials from lifting or changing more orders and warnings, officials said.
 
