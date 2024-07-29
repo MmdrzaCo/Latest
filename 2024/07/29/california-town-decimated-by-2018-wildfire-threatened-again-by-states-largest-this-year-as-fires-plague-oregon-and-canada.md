@@ -1,6 +1,6 @@
 # California town decimated by 2018 wildfire threatened again by state’s largest this year, as fires plague Oregon and Canada
 
-Published :`2024-07-29 17:36:39`
+Published :`2024-07-29 18:20:02`
 
 ---
 
