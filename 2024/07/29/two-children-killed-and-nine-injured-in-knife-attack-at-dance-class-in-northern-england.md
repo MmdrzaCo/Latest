@@ -1,6 +1,6 @@
 # Two children killed and nine injured in knife attack at dance class in northern England
 
-Published :`2024-07-29 20:16:02`
+Published :`2024-07-29 20:36:06`
 
 ---
 
@@ -37,6 +37,20 @@ One resident, who lives in Hart Street but did not wish to be named, told PA Med
 The Alder Hey Children’s Hospital Trust in Liverpool, about 20 miles from Southport, declared a “major incident.”
 
 “The Trust is working with other emergency services to respond to this incident and our Emergency Department is currently extremely busy,” the hospital said in a statement posted to its website. “We ask parents to only bring their children to the Emergency Department if it is urgent,” it said.
+
+### King and country shocked
+
+King Charles III and his wife, Queen Camilla said they were “profoundly shocked” by the incident.
+
+“My wife and I have been profoundly shocked to hear of the utterly horrific incident in Southport,” King Charles said in a statement shared on the Royal Family official social media channels on Monday.
+
+The couple went on to send their “most heartfelt condolences” to the “families and loved ones of those who have so tragically lost their lives” and all those impacted by the incident.
+
+The Prince and Princess of Wales also released a statement thanking the emergency responders and sending their “love, thoughts and prayers to all those involved in this horrid and heinous attack.”
+
+UK Prime Minister Keir Starmer also responded to the events, saying in a clip shared with broadcasters that the “whole country” has been left “deeply shocked at what they’ve seen” in Southport.
+
+“I know I speak for everybody in the whole country in saying our thoughts and condolences with the victims, their families, their friends and the wider community. And it’s almost impossible to imagine the grief that they’re going through, the trauma that they’re going through,” Starmer said, also paying tribute to emergency services for their response to what he described as an “awful incident.”
 
 The British MP representing Southport, Patrick Hurley says he was “deeply concerned” about the “incident.”
 
