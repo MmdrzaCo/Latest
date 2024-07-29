@@ -1,16 +1,16 @@
 # More than half of American renters who want to buy a home fear they’ll never afford one
 
-Published :`2024-07-29 16:40:46`
+Published :`2024-07-29 17:13:57`
 
 ---
 
-The dream of home ownership feels out of reach for many American families.
+The dream of homeownership feels out of reach for many American families.
 
-The vast majority (86%) of current renters in the United States say they would like to buy a home – but can’t afford one, according to a CNN poll conducted by SSRS released Monday.
+The vast majority (86%) of current renters in the United States say they would like to buy a home — but can’t afford one, according to a CNN poll conducted by SSRS released Monday.
 
 Among those same renters who can’t afford to buy a home right now, 54% think it’s unlikely they’ll ever be able to, the poll found.
 
-The findings underscore the damage done by the one-two punch of surging home prices and elevated mortgage rates, creating an affordability crisis. And given that home ownership is the ticket to wealth generation in America, that pessimism exacerbates the risk that the divide between the haves and have-nots will only grow.
+The findings underscore the damage done by the one-two punch of surging home prices and elevated mortgage rates, creating an affordability crisis. And given that homeownership is the ticket to wealth generation in America, that pessimism exacerbates the risk that the divide between the haves and have-nots will only grow.
 
 Younger people especially are having trouble buying a home right now. The CNN poll found that 90% of renters younger than 45 say they’d like to buy but can’t afford it, compared with 79% of those age 45 and above.
 
@@ -18,23 +18,23 @@ Not surprisingly, younger Americans are more hopeful that situation will change.
 
 Most adults (53%) younger than 45 who want to buy but can’t afford it believe it’s at least somewhat likely they’ll eventually be able to buy a home. That’s compared with just 32% of those 45 and older.
 
-### ‘Home ownership seems impossible’
+### ‘Homeownership seems impossible’
 
 Even some working parents in high-paying jobs are struggling to keep up with the spike in home prices.
 
-Brent Bjornsen, a 39-year-old pediatrician and father of two in Phoenix, Arizona, is renting a home as he digs out from student debt.
+Brent Bjornsen, a 39-year-old pediatrician and father of two in Phoenix is renting a home as he digs out from student debt.
 
 “Buying a home is absolutely something we would love to do,” Bjornsen told CNN. “It seems out of reach.”
 
 Bjornsen said his wife works part-time at an elementary school. The couple was dealt a financial setback when Hurricane Harvey flooded their Houston apartment.
 
-“We’re straddled with seemingly insurmountable debt,” he said. “Home ownership seems impossible…and that hurts for two kids of Baby Boomers and feels like a disappointment.”
+“We’re straddled with seemingly insurmountable debt,” he said. “Homeownership seems impossible…and that hurts for two kids of Baby Boomers and feels like a disappointment.”
 
 Two-thirds of Americans currently renting (68%) say their family owned a home when they were growing up, according to the CNN poll.
 
 ### High rates. Even higher prices
 
-The good news is that mortgage rates – one of the main obstacles to home ownership – have eased a bit. in recent months. And if the Federal Reserve is able to deliver interest rate cuts this fall and winter, rates could fall further.
+The good news is that mortgage rates — one of the main obstacles to homeownership — have eased a bit. in recent months. And if the Federal Reserve is able to deliver interest rate cuts this fall and winter, rates could fall further.
 
 However, home prices continue to rise. A price spike that began during the pandemic has pushed home ownership out of reach for many.
 
@@ -46,7 +46,7 @@ Nearly a third (31%) say the biggest obstacle to buying a home is high interest 
 
 ### ‘We have given up’
 
-Jeremy Andersson, a digital marketing specialist living north of Atlanta, Georgia, is among those Millennials who have lost hope.
+Jeremy Andersson, a digital marketing specialist living north of Atlanta, is among those Millennials who have lost hope.
 
 “We have given up on homeownership,” Andersson told CNN.
 
@@ -76,7 +76,7 @@ Even among households earning $100,000 a year or more, most doubt they’d be ab
 
 This situation has taken an emotional toll on Andersson.
 
-“At first, I wondered if I was a failure as a father or husband because I can’t get my kids a lawn to play on,” he said. “It’s taken a lot of soul-searching to understand this is not my fault. It’s the fault of a poorly-planned system.”
+“At first, I wondered if I was a failure as a father or husband because I can’t get my kids a lawn to play on,” he said. “It’s taken a lot of soul-searching to understand this is not my fault. It’s the fault of a poorly planned system.”
 
 ---
 
