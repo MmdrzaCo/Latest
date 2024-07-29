@@ -1,6 +1,6 @@
 # ‘Deadpool & Wolverine’ opening weekend surpasses $200 million, biggest R-rated debut
 
-Published :`2024-07-29 12:29:48`
+Published :`2024-07-29 12:56:54`
 
 ---
 
