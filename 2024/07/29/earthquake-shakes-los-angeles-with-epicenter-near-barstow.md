@@ -1,6 +1,6 @@
 # Earthquake shakes Los Angeles, with epicenter near Barstow
 
-Published :`2024-07-29 23:14:31`
+Published :`2024-07-29 23:36:55`
 
 ---
 
@@ -18,7 +18,7 @@ Most of Southern California felt the earthquake, and the USGSÂ detected shakingÂ
 
 No immediate reports of damage have surfaced, though assessments are ongoing.
 
-This is a developing story and will be updated.
+This is a developing story and has been updated.
 
 ---
 

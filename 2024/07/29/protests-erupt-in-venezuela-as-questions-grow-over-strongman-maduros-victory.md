@@ -1,6 +1,6 @@
 # Protests erupt in Venezuela as questions grow over strongman Maduro’s victory
 
-Published :`2024-07-29 23:14:31`
+Published :`2024-07-29 23:36:55`
 
 ---
 
@@ -72,7 +72,7 @@ The strongman has allies on the global stage, including Russia, China, Nicaragua
 
 “Remember that you are always a welcome guest on Russian soil.”
 
-CNN’s Michael Rios, Mia Alberti, Ivana Kottasová, Jessie Yeung contributed to this report.
+Journalist Mary Triny Mena contributed reporting as did CNN’s Michael Rios, Ivana Kottasová, and Jessie Yeung.
 
 ---
 
