@@ -1,6 +1,6 @@
 # Israel says Hezbollah will ‘pay the price’ after blaming it for attack on soccer field that killed 12 children
 
-Published :`2024-07-29 15:16:31`
+Published :`2024-07-29 15:36:32`
 
 ---
 

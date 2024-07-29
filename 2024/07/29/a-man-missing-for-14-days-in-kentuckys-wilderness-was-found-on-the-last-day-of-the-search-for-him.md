@@ -1,6 +1,6 @@
 # A man missing for 14 days in Kentucky’s wilderness was found on the last day of the search for him
 
-Published :`2024-07-29 15:16:33`
+Published :`2024-07-29 15:36:34`
 
 ---
 
