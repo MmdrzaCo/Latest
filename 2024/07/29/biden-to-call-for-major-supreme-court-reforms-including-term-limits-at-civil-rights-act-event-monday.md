@@ -1,6 +1,6 @@
 # Biden to call for major Supreme Court reforms, including term limits, at Civil Rights Act event Monday
 
-Published :`2024-07-29 19:37:09`
+Published :`2024-07-29 20:16:01`
 
 ---
 
@@ -18,11 +18,17 @@ The reforms Biden is proposing would require congressional approval, which would
 
 The reforms, which will face heavy resistance, are meant to “restore trust and accountability when it comes to the presidency and the United States Supreme Court,” the White House official said.
 
+Ahead of Biden’s announcement, White House officials acknowledged the reform package faces an uphill battle, declining in a gaggle with reporters Monday to say whether Biden believes the proposal is “realistic.”
+
+Steve Benjamin, the White House director of public engagement, said the proposed reforms “will require some type of legislative action,” but he struck a hopeful tone that voters will be able to sway their representatives in Congress.
+
 CNN reported this month that Biden was seriously considering endorsing major Supreme Court reforms, actions that liberal lawmakers and groups have been pushing in recent years.
 
 Biden’s proposals drew sharp and swift pushback from Republicans, including House Speaker Mike Johnson. Johnson said the proposal would go nowhere in the House, assuming Republicans retain control of the chamber next year.
 
 “It is telling that Democrats want to change the system that has guided our nation since its founding simply because they disagree with some of the court’s recent decisions,” Johnson said. “This dangerous gambit of the Biden-Harris administration is dead on arrival in the House.”
+
+Senate Minority Leader Mitch McConnell said “the Supreme Court is under attack” in a speech on the Senate floor Monday, calling for Biden and Harris to accept rulings from the court instead of responding “with a full schedule attack on the justices who ruled against them.”
 
 Leonard Leo, a conservative legal advocate whom Democrats accuse of playing a central role in some of the ethics controversies swirling around the court, also criticized the Biden administration proposals in a rare statement.
 
@@ -35,6 +41,8 @@ Others praised the administration’s ideas.
 Sen. Sheldon Whitehouse, a Rhode Island Democrat and member of the Judiciary Committee who has proposed legislation to tighten ethics rules at the court, described the Biden announcement as a “strong” proposal.
 
 “This court has proven time after time that it cannot police itself,” he said.
+
+Senate Judiciary Chairman Dick Durbin acknowledged that there is only a “remote possibility” that the chamber could pass court ethics legislation, but noted that they are “urging” Democratic Majority Leader Chuck Schumer to bring up Whitehouse’s bill before the end of the year.
 
 The Monday announcement comes more than three years after Biden created a commission to study structural changes at the Supreme Court, including term limits and proposals to increase the number of justices. The group submitted its report to the White House in late 2021, but the administration did not pursue any of the ideas discussed in the document.
 
@@ -53,6 +61,10 @@ Harris endorsed the proposed changes in a statement released by her campaign Mon
 She also said there was a “clear crisis of confidence facing the Supreme Court.”
 
 “In the course of our Nation’s history, trust in the Supreme Court of the United States has been critical to achieving equal justice under law,” Harris wrote. “President Biden and I strongly believe that the American people must have confidence in the Supreme Court. Yet today, there is a clear crisis of confidence facing the Supreme Court as its fairness has been called into question after numerous ethics scandals and decision after decision overturning long-standing precedent.”
+
+White House press secretary Karine Jean-Pierre told reporters on Monday that Harris was closely involved in the proposal.
+
+“The president consulted her closely,” Jean-Pierre said. “Let’s not forget that she was a former member of the Senate Judiciary Committee, as well as a former attorney general, so he certainly listened to her expertise in this arena as well.”
 
 Biden, a former chairman of the Senate Judiciary Committee who has resisted calls from his party to expand the court, has become increasingly critical of its makeup. He has described the Supreme Court as “out of kilter” and has warned of the impact a second Trump presidency could have on the nation’s highest court.
 

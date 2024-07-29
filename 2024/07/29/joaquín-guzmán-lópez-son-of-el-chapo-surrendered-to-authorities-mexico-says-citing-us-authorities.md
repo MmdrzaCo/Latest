@@ -1,6 +1,6 @@
 # Joaquín Guzmán López, son of ‘El Chapo,’ surrendered to authorities, Mexico says, citing US authorities
 
-Published :`2024-07-29 19:37:09`
+Published :`2024-07-29 20:16:02`
 
 ---
 
@@ -12,7 +12,7 @@ According to the report, US authorities were notified on several occasions Guzm�
 
 “US law enforcement authorities were informed at approximately 2:40 p.m., once the plane was in the air, that Ismael Zambada García might also be on board the aircraft,” Rodríguez said.
 
-The comments offer further details about the stunning arrests of two central figures in the infamous Sinaloa Cartel last week in a case which featured dramatic allegations of a high-level power struggle, the betrayal of one co-founder by another co-founder’s son and a secret flight ending in American law enforcement’s custody.
+The comments offer further details about the stunning arrests of two central figures in the infamous Sinaloa cartel last week in a case which featured dramatic allegations of a high-level power struggle, the betrayal of one co-founder by another co-founder’s son and a secret flight ending in American law enforcement’s custody.
 
 Zambada, the cartel’s alleged co-founder, and Guzmán López, one of the “Chapitos,” or sons of “El Chapo,” were arrested Thursday by US authorities in El Paso, Texas. They face several charges for allegedly leading the criminal operations of what is considered to be one of the world’s most powerful and deadly drug trafficking operations.
 

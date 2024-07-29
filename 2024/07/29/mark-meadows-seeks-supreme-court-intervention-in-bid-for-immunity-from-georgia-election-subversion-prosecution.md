@@ -1,6 +1,6 @@
 # Mark Meadows seeks Supreme Court intervention in bid for immunity from Georgia election subversion prosecution
 
-Published :`2024-07-29 19:37:10`
+Published :`2024-07-29 20:16:06`
 
 ---
 

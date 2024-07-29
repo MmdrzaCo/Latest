@@ -1,6 +1,6 @@
 # Prince’s ‘Purple Rain’ turns 40, and one thing still rings true: Its authenticity
 
-Published :`2024-07-29 19:37:12`
+Published :`2024-07-29 20:16:10`
 
 ---
 
