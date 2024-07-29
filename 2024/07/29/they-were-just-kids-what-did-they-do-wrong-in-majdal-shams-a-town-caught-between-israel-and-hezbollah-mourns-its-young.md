@@ -1,6 +1,6 @@
 # ‘They were just kids. What did they do wrong?’: In Majdal Shams, a town caught between Israel and Hezbollah mourns its young
 
-Published :`2024-07-29 06:21:53`
+Published :`2024-07-29 06:41:12`
 
 ---
 
