@@ -1,6 +1,6 @@
 # What Gov. Gavin Newsom’s order to clear homeless encampments means for the people who live in them
 
-Published :`2024-07-29 20:36:08`
+Published :`2024-07-29 21:16:19`
 
 ---
 

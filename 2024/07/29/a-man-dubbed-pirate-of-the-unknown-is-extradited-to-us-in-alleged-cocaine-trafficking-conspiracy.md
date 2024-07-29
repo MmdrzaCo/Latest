@@ -1,12 +1,16 @@
 # A man dubbed ‘pirate of the unknown’ is extradited to US in alleged cocaine trafficking conspiracy
 
-Published :`2024-07-29 20:36:07`
+Published :`2024-07-29 21:16:17`
 
 ---
 
-A citizen of Montenegro nicknamed the “pirate of the unknown” has been extradited to New York City from Italy to face charges connected to what US authorities called an international drug ring that transported tons of cocaine around the world.
+A citizen of Montenegro nicknamed the “pirate of the unknown” was extradited to New York City from Italy to face charges connected to what US authorities called an international drug ring that transported tons of cocaine around the world.
 
-Milos Radonjic, 34, arrived in Brooklyn on Friday and is scheduled to be arraigned in federal court Monday, according to federal prosecutors and officials with the Department of Homeland Security and FBI. A federal grand jury indicted him and several other people last year on charges of conspiracy and attempt to violate the Maritime Drug Law Enforcement Act.
+Milos Radonjic, 34, arrived in Brooklyn on Friday, according to federal prosecutors and officials with the Department of Homeland Security and FBI. He pleaded not guilty Monday at his arraignment, a federal court spokesperson told CNN.
+
+Magistrate Judge Cheryl Pollak found Radonjic to be a flight risk and ordered him detained pending trial, the spokesperson said. His next court appearance is August 26.
+
+A federal grand jury indicted Radonjic and several other people last year on charges of conspiracy and attempt to violate the Maritime Drug Law Enforcement Act.
 
 According to court filings, Radonjic was a high-ranking member of a transnational drug organization that used commercial cargo ships, including some registered to deliver goods to the US, to transport tons of cocaine from South America to Europe for drug cartels in the Balkans. Ship crew members knowingly took part in the alleged trafficking, court documents say.
 

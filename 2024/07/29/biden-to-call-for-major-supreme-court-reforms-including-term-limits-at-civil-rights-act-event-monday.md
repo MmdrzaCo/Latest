@@ -1,6 +1,6 @@
 # Biden to call for major Supreme Court reforms, including term limits, at Civil Rights Act event Monday
 
-Published :`2024-07-29 20:36:06`
+Published :`2024-07-29 21:16:17`
 
 ---
 
@@ -27,6 +27,10 @@ CNN reported this month that Biden was seriously considering endorsing major Sup
 Biden’s proposals drew sharp and swift pushback from Republicans, including House Speaker Mike Johnson. Johnson said the proposal would go nowhere in the House, assuming Republicans retain control of the chamber next year.
 
 “It is telling that Democrats want to change the system that has guided our nation since its founding simply because they disagree with some of the court’s recent decisions,” Johnson said. “This dangerous gambit of the Biden-Harris administration is dead on arrival in the House.”
+
+Biden, asked about Johnson’s assertion that the proposal would be dead on arrival in the House, responded after landing in Texas: “I think that’s what he is. Dead on arrival.”
+
+Pressed on how he’d pass the measures on Capitol Hill, Biden said, “We’re going to figure a way.”
 
 Senate Minority Leader Mitch McConnell said “the Supreme Court is under attack” in a speech on the Senate floor Monday, calling for Biden and Harris to accept rulings from the court instead of responding “with a full schedule attack on the justices who ruled against them.”
 

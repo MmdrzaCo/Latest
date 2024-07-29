@@ -1,6 +1,6 @@
 # Biden administration announces new $1.7 billion lethal aid package for Ukraine
 
-Published :`2024-07-29 20:36:07`
+Published :`2024-07-29 21:16:17`
 
 ---
 
@@ -10,6 +10,10 @@ The US is committing $1.5 billion in new weapons and equipment to Ukraine throug
 
 The Defense Department is also sending Ukraine up to $200 million worth of weapons and equipment directly from US Department of Defense stockpiles via Presidential Drawdown Authority, which includes “air defense interceptors; munitions for rocket systems and artillery; and anti-tank weapons,” according to the news release.
 
+In a statement, Secretary of State Antony Blinken said the assistance would be delivered “as quickly as possible to bolster Ukraine’s defense of its territory and its people.”
+
+“As President Biden has made clear, the United States and the international coalition we have assembled will continue to stand with Ukraine,” Blinken said.
+
 The administration says this is their 20th “USAI package and sixty-second tranche of equipment to be provided from DoD inventories for Ukraine and since August 2021,” according to the release.
 
 The USAI package includes missiles for Ukraine’s National Advanced Surface-to-Air Missile Systems (NASAMS), a key air defense platform.
@@ -17,6 +21,8 @@ The USAI package includes missiles for Ukraine’s National Advanced Surface-to-
 It also includes ammunition for Ukraine’s High Mobility Artillery Rocket System (HIMARS), a weapons platform that Ukraine has recently been using to strike effectively in Russian territory.
 
 The package also includes artillery ammunition, one of Ukraine’s top requests.
+
+This story has been updated with additional developments.
 
 ---
 

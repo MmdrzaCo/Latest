@@ -1,6 +1,6 @@
 # A historic mining community is decimated as the Park Fire and other massive wildfires rage in the Western United States
 
-Published :`2024-07-29 20:36:06`
+Published :`2024-07-29 21:16:17`
 
 ---
 
@@ -10,7 +10,7 @@ Wildfires are raging out of control in the Western United States and Canada – 
 
 • Hope for stopping wildfires’ spread: The weather forecast for the Northwest calls for lighter winds than the area has seen in recent days, giving firefighters some optimism about slowing the progress of the Park Fire and more than 100 other large wildfires burning across the region. Temperatures across much of the West will be at or below average to start this week, with forecast highs through Tuesday ranging between the 60s and 70s along the Pacific Coast and the 70s and 80s in the inland Pacific Northwest.
 
-• Park Fire is largest active wildfire in the US: The Park Fire, the seventh-largest wildfire in California history, has now torched more than 360,000 acres, or 560 square miles – an area larger than Phoenix. The fire has destroyed 100 structures and threatens thousands more, according to CalFire. It was 12% contained as of Monday morning, but evacuations warnings or orders remained in Butte, Tehama, Plumas and Shasta counties. Lower winds from the south could help take pressure off the fire’s eastern edge. President Joe Biden has directed his administration to do everything possible to support ongoing fire suppression efforts, a White House official said.
+• Park Fire is largest active wildfire in the US: The Park Fire, the seventh-largest wildfire in California history, has now torched more than 360,000 acres, or 560 square miles – an area larger than Phoenix. The fire has destroyed 100 structures and threatens thousands more, according to CalFire. It was 12% contained as of Monday morning, but evacuations warnings or orders remained in Butte, Tehama, Plumas and Shasta counties. President Joe Biden has directed his administration to do everything possible to support ongoing fire suppression efforts, a White House official said. Although an increase in humidity dampened fire activity early Monday morning, CalFire officials expect an increase in fire activity Monday afternoon because of southwest winds and dry vegetation.
 
 • Arson suspect to be arraigned Monday: A 42-year-old man, Ronnie Dean Stout II, has been arrested and accused of igniting the Park Fire. Stout is suspected of pushing a burning car 60 feet into a gully, spreading flames that caused the inferno, Butte County District Attorney Mike Ramsey said.
 
@@ -35,6 +35,12 @@ Despite 1,200 personnel assigned to the inferno, the blaze was 0% contained as o
 “Some of those edges of the fire, with rapid growth, we’re having to chase down rather than stand in front of it,” Snow said. “We have had some light injuries on the incident – a lot of heat-related injuries.”
 
 ### Firefighters make progress in California
+
+The blaze stayed active overnight Sunday into Monday, especially on ridges and slopes in the area, CalFire said in an update.
+
+In the early morning, “an increase in humidity caused the fire activity to moderate. Through the night, smoke blanketed the fire area, also causing some dampening of the activity,” the update read, though an increase in activity is expected later Monday.
+
+Over the weekend, Gov. Gavin Newsom secured additional federal assistance to help with the ongoing firefighting effort, his office said in a news release.
 
 Cloud and smoke coverage allowed firefighters to increase containment lines around the Park Fire Saturday, but the challenges returned on Sunday, CalFire Incident Commander Billy See said.
 
