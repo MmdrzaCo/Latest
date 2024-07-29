@@ -1,6 +1,6 @@
 # Here’s what a Harris presidency could look like
 
-Published :`2024-07-29 18:39:35`
+Published :`2024-07-29 19:12:23`
 
 ---
 
@@ -44,9 +44,17 @@ Affordable housing was also on Harris’ radar. As a senator, she introduced the
 
 Harris called housing a human right and said in a 2019 news release on the bill that every American deserves to have basic security and dignity in their own home.
 
-Hefty student debt loads are also an area of interest to Harris. As vice president, she has promoted the Biden administration’s initiatives on student debt, which have so far forgiven more than $168 billion for nearly 4.8 million borrowers. In mid-July, Harris said in a post on X that “nearly 950,000 public servants have benefitted” from student debt forgiveness, compared with only 7,000 when Biden was inaugurated.
+### Debt
+
+Hefty debt loads, which weigh on people’s finances and hurt their ability to buy homes, get car loans or start small businesses, are also an area of interest to Harris.
+
+As vice president, she has promoted the Biden administration’s initiatives on student debt, which have so far forgiven more than $168 billion for nearly 4.8 million borrowers. In mid-July, Harris said in a post on X that “nearly 950,000 public servants have benefitted” from student debt forgiveness, compared with only 7,000 when Biden was inaugurated.
 
 A potential Harris administration could keep that momentum going – though some of Biden’s efforts have gotten tangled up in litigation, such as a program aimed at cutting monthly student loan payments for roughly 3 million borrowers enrolled in a repayment plan the administration implemented last year.
+
+The vice president has also been a leader in the White House efforts to ban medical debt from credit reports, noting that those with medical debt are no less likely to repay a loan than those who don’t have unpaid medical bills.
+
+In a late July statement praising North Carolina’s move to relieve the medical debt of about 2 million residents, Harris said that she is “committed to continuing to relieve the burden of medical debt and creating a future where every person has the opportunity to build wealth and thrive.”
 
 ### Health care
 
@@ -101,6 +109,8 @@ Harris is committed to supporting Ukraine in its fight against Russian aggressio
 At the Munich Security Conference earlier this year, Harris said: “I will make clear President Joe Biden and I stand with Ukraine. In partnership with supportive, bipartisan majorities in both houses of the United States Congress, we will work to secure critical weapons and resources that Ukraine so badly needs. And let me be clear: The failure to do so would be a gift to Vladimir Putin.”
 
 “More broadly, NATO is central to our approach to global security. For President Biden and me, our sacred commitment to NATO remains ironclad. And I do believe, as I have said before, NATO is the greatest military alliance the world has ever known,” she said.
+
+This story has been updated with additional information.
 
 ---
 

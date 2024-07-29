@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-29 18:39:37`
+#### Latest Update : `2024-07-29 19:12:27`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Here’s what a Harris presidency could look like](https://new-news.github.io/Latest/2024/07/29/heres-what-a-harris-presidency-could-look-like 'Here’s what a Harris presidency could look like')
 
 - [A historic mining community is decimated as the Park Fire and other massive wildfires rage in the Western United States](https://new-news.github.io/Latest/2024/07/29/a-historic-mining-community-is-decimated-as-the-park-fire-and-other-massive-wildfires-rage-in-the-western-united-states 'A historic mining community is decimated as the Park Fire and other massive wildfires rage in the Western United States')
 
@@ -165,8 +167,6 @@
 - [The US says it has successfully practiced using a low-cost bomb to sink a major surface ship. China is taking note](https://new-news.github.io/Latest/2024/07/29/the-us-says-it-has-successfully-practiced-using-a-low-cost-bomb-to-sink-a-major-surface-ship-china-is-taking-note 'The US says it has successfully practiced using a low-cost bomb to sink a major surface ship. China is taking note')
 
 - [Trump, who once trashed bitcoin as ‘based on thin air,’ addresses crypto’s largest convention](https://new-news.github.io/Latest/2024/07/29/trump-who-once-trashed-bitcoin as-based-on-thin-air-addresses-cryptos-largest-convention 'Trump, who once trashed bitcoin as ‘based on thin air,’ addresses crypto’s largest convention')
-
-- [Here’s what a Harris presidency could look like](https://new-news.github.io/Latest/2024/07/29/heres-what-a-harris-presidency-could-look-like 'Here’s what a Harris presidency could look like')
 
 - [Deputy who killed Sonya Massey was removed from the Army, had DUIs and needed ‘high stress decision’ classes, records show](https://new-news.github.io/Latest/2024/07/29/deputy-who-killed-sonya-massey-was-removed-from-the-army-had-duis-and-needed-high-stress-decision-classes-records-show 'Deputy who killed Sonya Massey was removed from the Army, had DUIs and needed ‘high stress decision’ classes, records show')
 
