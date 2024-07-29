@@ -1,18 +1,18 @@
 # Both Venezuela strongman Nicolas Maduro and opposition claim election win, as US voices ‘serious concerns’
 
-Published :`2024-07-29 06:41:11`
+Published :`2024-07-29 07:14:59`
 
 ---
 
 Venezuela’s President Nicolás Maduro and his political opponents both claimed to have won the presidential election on Monday, as the United States and multiple regional nations voiced skepticism about official results handing victory to the strongman leader.
 
-With 80% of votes counted, the longtime strongman won more than 51% of the vote, besting the Democratic Unitary Platform (PUD) candidate Edmundo González Urrutia, who gained more than 44%, according to a statement by the National Electoral Council (CNE).
+With 80% of votes counted, Maduro won more than 51% of the vote, besting the Democratic Unitary Platform (PUD) candidate Edmundo González Urrutia, who gained more than 44%, according to a statement by the National Electoral Council (CNE).
 
 But the opposition painted a very different picture of the results. Opposition leader María Corina Machado said in a news conference that their own records showed their candidate Edmundo González Urrutia had received 70% of the vote against Maduro’s 30%.
 
-“We won, and everyone knows it,” Machado said, saying the opposition would “defend the truth.”
+“We won, and everyone knows it,” Machado said, adding that the opposition would “defend the truth.”
 
-“The entire international community knows what happened in Venezuela and how people voted for change,” she added.
+“The entire international community knows what happened in Venezuela and how people voted for change,” she said.
 
 Gonzalez, also at the news conference, alleged that rules had been violated during the election.
 

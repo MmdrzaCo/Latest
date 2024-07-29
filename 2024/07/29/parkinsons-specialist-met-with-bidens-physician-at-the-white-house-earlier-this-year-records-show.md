@@ -1,6 +1,6 @@
 # Parkinson’s specialist met with Biden’s physician at the White House earlier this year, records show
 
-Published :`2024-07-29 06:41:22`
+Published :`2024-07-29 07:15:05`
 
 ---
 
