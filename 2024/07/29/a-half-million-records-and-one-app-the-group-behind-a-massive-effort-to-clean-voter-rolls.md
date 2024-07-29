@@ -1,6 +1,6 @@
 # A half-million records and one app: The group behind a massive effort to ‘clean’ voter rolls
 
-Published :`2024-07-29 11:12:43`
+Published :`2024-07-29 11:36:15`
 
 ---
 

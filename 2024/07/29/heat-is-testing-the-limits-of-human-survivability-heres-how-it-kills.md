@@ -1,6 +1,6 @@
 # Heat is testing the limits of human survivability. Here’s how it kills
 
-Published :`2024-07-29 11:12:43`
+Published :`2024-07-29 11:36:15`
 
 ---
 
@@ -116,7 +116,7 @@ Richer countries will fare better but will not escape unscathed. Hotspots of ext
 
 Today’s searing-hot summers will likely seem cool by future standards, and the heat we experience is changing in ways that are not in our favor.
 
-Extreme, humid heat is persisting at nighttime, depriving the body of vital time to recuperate.
+Extreme, humid heat is persisting at night time, depriving the body of vital time to recuperate.
 
 And we can expect more back-to-back heat waves, slamming regions with successive cycles of brutal heat, said Jane Baldwin, assistant professor of Earth system science at the University of California Irvine.
 

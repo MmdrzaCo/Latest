@@ -1,6 +1,6 @@
 # Trump meets with Netanyahu for first time since departing White House
 
-Published :`2024-07-29 11:12:47`
+Published :`2024-07-29 11:36:17`
 
 ---
 
