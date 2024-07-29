@@ -1,6 +1,6 @@
 # Lady Gaga introduces Michael Polansky as her fiancé in Paris
 
-Published :`2024-07-29 09:17:15`
+Published :`2024-07-29 09:35:55`
 
 ---
 

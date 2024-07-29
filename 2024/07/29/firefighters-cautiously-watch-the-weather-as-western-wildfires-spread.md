@@ -1,6 +1,6 @@
 # Firefighters cautiously watch the weather as Western wildfires spread
 
-Published :`2024-07-29 09:17:14`
+Published :`2024-07-29 09:35:55`
 
 ---
 
@@ -17,6 +17,8 @@ Wildfires are burning across the Western United States and Canada, damaging home
 • Borel Fire damages historic mining community: The fire in Kern County, California, “swept through the community of Havilah and Piute Meadows Ranches,” CalFire said. Havilah was discovered in 1864 and for more than 20 years served as an active mining center, according to California State Parks. The Borel Fire had burned more than 50,000 acres and had zero containment as of Sunday night.
 
 • Crews to see more challenges in Jasper, Alberta: Though weekend rain helped firefighters combat the Jasper Wildfire Complex – the park’s largest wildfire in more than a century – warmer weather in the days ahead might present further challenges. Temperatures in the area have dropped and there is a chance of showers Monday, with highs expected in the upper 60s to mid-70s and rising through the week. Wildfire danger for the southern areas of the province remain very high to extreme, according to Melissa Story, spokesperson for Alberta Wildfire. “This area did not see the moisture as the other areas of the province did,” Story said.
+
+• Air tanker pilot who died fighting fire in Oregon identified: James Bailey Maxwell, an experienced pilot who logged about 24,000 hours of flight time in his 54 years of flying, died after his single-engine air tanker crashed while working near the Falls Fire in Oregon Thursday, according to a statement from the US Forest Service – Malheur National Forest. “He is survived by and will be missed by family members in Idaho, Oregon, and Washington,” the statement said. The Falls Fire began on July 10 and has since burned more than 142,000 acres and is 57% contained as of Sunday, according to InciWeb.
 
 ### Firefighters make progress in California
 
