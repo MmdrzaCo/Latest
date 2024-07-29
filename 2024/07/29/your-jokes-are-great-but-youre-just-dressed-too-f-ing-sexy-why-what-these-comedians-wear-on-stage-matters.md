@@ -1,12 +1,12 @@
 # ‘Your jokes are great, but you’re just dressed too f***ing sexy.’ Why what these comedians wear on stage matters
 
-Published :`2024-07-29 12:56:52`
+Published :`2024-07-29 13:21:15`
 
 ---
 
 Close your eyes and imagine a stand-up comedian. Perhaps they’re standing in a basement in front of an exposed brick wall. Or sitting on a wooden stool in the middle of a black curtained stage. What are they wearing? A shirt tucked into belted pants? A Rat-Pack-style suit and a loud tie? A graphic T-shirt and skinny jeans?
 
-Today, female comics are more likely to be seen in vintage Versace, Gucci or Alessandra Rich than a denim button-down. Last year, American comedian and host of the YouTube show “Baited,” Ziwe, conducted an explosive mock network interview with George Santos while wearing an archival 1980s red Jean Paul Gautlier skirt suit. Ayo Edibiri — best known for her role as Sydney on “The Bear” — began her career as a stand-up comic, although these days you’re more likely to see her sitting front row at Prada, Loewe or Thom Browne. Rachel Sennott, another former stand-up comic-turned-A24-actor, is an official Balenciaga ambassador; whereas Saturday Night Live mainstay Maya Rudolph has been donning in-the-know brands such as Khaite, Rodarte and Schiaparelli while promoting the second season of her show, “Loot.”
+Today, female comics are more likely to be seen in vintage Versace, Gucci or Alessandra Rich than a denim button-down. Last year, American comedian and host of the YouTube show “Baited,” Ziwe, conducted an explosive mock network interview with George Santos while wearing an archival 1980s red Jean Paul Gautlier skirt suit. Ayo Edebiri — best known for her role as Sydney on “The Bear” — began her career as a stand-up comic, although these days you’re more likely to see her sitting front row at Prada, Loewe or Thom Browne. Rachel Sennott, another former stand-up comic-turned-A24-actor, is an official Balenciaga ambassador; whereas Saturday Night Live mainstay Maya Rudolph has been donning in-the-know brands such as Khaite, Rodarte and Schiaparelli while promoting the second season of her show, “Loot.”
 
 Out on the stand-up circuit, some comedians are arriving on-stage dressed to the nines, stepping out in vintage luxury fashion and statement shoes. Earlier this year, New York-based comic Mary Beth Barone released her first independent special, “Thought Provoking,” on YouTube. To the uninitiated, Barone wore a sparkly silver dress. To those interested in fashion, it was a piece of history. The archival Versace chainmail slip dress was previously worn by Kate Moss on the arm of Naomi Campbell at a London charity gala in 1999. According to Moss, she “walked straight off the Versace runway” to the event.
 
