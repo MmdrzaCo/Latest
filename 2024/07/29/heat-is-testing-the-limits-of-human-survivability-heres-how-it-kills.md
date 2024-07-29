@@ -1,6 +1,6 @@
 # Heat is testing the limits of human survivability. Here’s how it kills
 
-Published :`2024-07-29 10:39:12`
+Published :`2024-07-29 11:12:43`
 
 ---
 
@@ -132,7 +132,7 @@ Heat lacks the blunt force of a hurricane, the scorched earth of a wildfire or t
 
 Instead, heat is a creeping threat, a steady hum in the background. Its worst damage is not to property but to our bodies, Venkat said. And it is an “invisible, silent killer.”
 
-CreditsReporters: Laura Paddison, Jen Christensen, Mary GilbertStory Editors: Angela Dewan and Angela Fritz﻿Visual Editor: Mark OliverVideo producer: Henry ZerkisVideo Editor: Angelica Pursley﻿Motion Designer: Yukari SchrickelMotion Editor: Elisa Solinas﻿Data and Graphics Editor: Lou RobinsonIllustrator: Way Mullery
+CreditsReporters: Laura Paddison, Jen Christensen, Mary GilbertStory Editors: Angela Dewan and Angela Fritz﻿Visual Editor: Mark OliverVideo producer: Henry ZerisVideo Editor: Angelica Pursley﻿Motion Designer: Yukari SchrickelMotion Editor: Elisa Solinas﻿Data and Graphics Editor: Lou RobinsonIllustrator: Way Mullery
 
 ---
 

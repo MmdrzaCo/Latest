@@ -1,6 +1,6 @@
 # The arrest of two high-profile Sinaloa cartel leaders soon heads to the courtroom
 
-Published :`2024-07-29 10:39:12`
+Published :`2024-07-29 11:12:43`
 
 ---
 
