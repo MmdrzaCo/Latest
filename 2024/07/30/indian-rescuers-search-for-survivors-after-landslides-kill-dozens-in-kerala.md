@@ -1,6 +1,6 @@
 # Indian rescuers search for survivors after landslides kill dozens in Kerala
 
-Published :`2024-07-30 11:13:25`
+Published :`2024-07-30 11:37:03`
 
 ---
 

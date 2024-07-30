@@ -1,6 +1,6 @@
 # Man accused of starting California’s Park Fire is charged with arson
 
-Published :`2024-07-30 11:13:25`
+Published :`2024-07-30 11:37:04`
 
 ---
 

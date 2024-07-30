@@ -1,6 +1,6 @@
 # ‘What I saw made me ashamed’: Head of Secret Service will address security failures in hearing on Trump assassination attempt
 
-Published :`2024-07-30 11:13:25`
+Published :`2024-07-30 11:37:04`
 
 ---
 
