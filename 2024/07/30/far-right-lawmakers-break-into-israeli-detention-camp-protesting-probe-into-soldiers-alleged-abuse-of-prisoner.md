@@ -1,24 +1,30 @@
 # Far-right lawmakers break into Israeli detention camp, protesting probe into soldiers’ alleged abuse of prisoner
 
-Published :`2024-07-30 14:13:55`
+Published :`2024-07-30 14:35:33`
 
 ---
 
-Far-right lawmakers and protesters breached the perimeter of a controversial Israeli detention facility for Palestinians on Monday, after the Israeli military confirmed it was investigating soldiers over the alleged abuse of a prisoner.
+A major political rift has broken out in Israel over the detention of nine Israeli soldiers, who are being investigated over the alleged abuse of a Palestinian inmate at a controversial desert detention facility.
 
-Footage posted to social media showed chaotic scenes at the Sde Teiman base in Israel’s Negev desert, where far-right Knesset member Zvi Sukkot was filmed slipping through a fence and entering the facility as crowds gathered outside, in protest against the probe. Another video showed people crowding the perimeter of the base as guards held them back.
+Far-right lawmakers and protesters breached the perimeter of the Sde Teiman base in Israel’s Negev desert on Monday, protesting the investigation of the troops.
 
-Protesters also broke into an Israeli military base in central Israel’s Beit Lid, police said, where they clashed with security forces before being cleared out on Monday night. Several of the soldiers at the center of the abuse investigation were being questioned at the Beit Lid base.
+Footage posted to social media showed chaotic scenes at the base, where far-right Knesset member Zvi Sukkot was filmed slipping through a fence and entering the facility as crowds gathered outside, in protest against the probe. Another video showed people crowding the perimeter of the base as guards held them back.
 
-The scenes were a stark illustration of the complex partisan divisions coursing though Israel at a time when its current government under Prime Minister Benjamin Netanyahu relies on support from far-right parties and as the military is already stretched by both the war against Hamas in Gaza and the growing threat posed by Hezbollah to the north.
+Protesters also broke into an Israeli military base in central Israel’s Beit Lid, police said, where several of the soldiers being investigated for abuse were being questioned. The protesters were cleared out on Monday night after clashing with security forces.
+
+The nine Israel Defense Forces (IDF) soldiers, who were working as guards at the base, are being investigated over the alleged “suspected substantial abuse” of a Palestinian prisoner who was held at the shadowy facility, where detainees from Gaza have allegedly been held under extreme conditions.
+
+The Physicians for Human Rights Israel (PHRI) group told CNN that the alleged victim – a man in his thirties – was brought to one of Israel’s public hospitals earlier this month after being held at Sde Teiman.
+
+The nine IDF troops being investigated had a court hearing for the extension of their arrest scheduled for Tuesday.
+
+Crowds first gathered at Sde Teiman after the IDF said its Military Police Criminal Investigation Division (MPCID) was formally looking into the alleged abuse.
 
 An Israeli military official told CNN that Israel Defense Forces (IDF) leadership view the break-ins as severely harmful to the country’s security and pose a distraction as the military weighs its options in Lebanon, as fears of further escalation following Saturday’s deadly attack on Majdal Shams mount.
 
-Defense Minister Yoav Gallant said on X the incident “plays into our enemies’ hands during war time.”
+The scenes were a stark illustration of the complex partisan divisions coursing though Israel at a time when its current government under Prime Minister Benjamin Netanyahu relies on support from far-right parties and as the military is already stretched by both the war against Hamas in Gaza and the growing threat posed by Hezbollah to the north.
 
-Netanyahu called for immediate calm at Sde Teiman and condemned the break-in at the base in a statement on Monday.
-
-Crowds first gathered at Sde Teiman after the IDF said its Military Police Criminal Investigation Division (MPCID) was formally looking into the “suspected substantial abuse of a detainee” at the shadowy base, where prisoners from Gaza have allegedly been held under extreme conditions.
+Defense Minister Yoav Gallant said on X the incident “plays into our enemies’ hands during war time.” And Netanyahu called for immediate calm at Sde Teiman and condemned the break-in at the base in a statement on Monday.
 
 In a CNN investigation released in May, Israeli whistleblowers as well as Palestinian former detainees and eyewitnesses described widespread abuse at Sde Teiman, including blindfolding, extreme physical restraint and prolonged handcuffing leading to severe injuries.
 

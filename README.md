@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-30 14:14:02`
+#### Latest Update : `2024-07-30 14:35:35`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Far-right lawmakers break into Israeli detention camp, protesting probe into soldiers’ alleged abuse of prisoner](https://new-news.github.io/Latest/2024/07/30/far-right-lawmakers-break-into-israeli-detention-camp-protesting-probe-into-soldiers-alleged-abuse-of-prisoner 'Far-right lawmakers break into Israeli detention camp, protesting probe into soldiers’ alleged abuse of prisoner')
+
+- [In Harris, business leaders tired of Biden see a potential friend](https://new-news.github.io/Latest/2024/07/30/in-harris-business-leaders-tired-of-biden-see-a-potential-friend 'In Harris, business leaders tired of Biden see a potential friend')
 
 - [The number of available jobs in the US is shrinking](https://new-news.github.io/Latest/2024/07/30/the-number-of-available-jobs-in-the-us-is-shrinking 'The number of available jobs in the US is shrinking')
 
@@ -44,8 +48,6 @@
 
 - [Minnesota Spice: Gov. Tim Walz, a Harris VP contender, delights Democrats with MAGA mockery](https://new-news.github.io/Latest/2024/07/30/minnesota-spice-gov-tim-walz-a-harris-vp-contender-delights-democrats-with-maga-mockery 'Minnesota Spice: Gov. Tim Walz, a Harris VP contender, delights Democrats with MAGA mockery')
 
-- [In Harris, business leaders tired of Biden see a potential friend](https://new-news.github.io/Latest/2024/07/30/in-harris-business-leaders-tired-of-biden-see-a-potential-friend 'In Harris, business leaders tired of Biden see a potential friend')
-
 - [Record heat is set to drive the cost of fruits and vegetables higher](https://new-news.github.io/Latest/2024/07/30/record-heat is-set-to drive-the-cost-of-fruits-and-vegetables-higher 'Record heat is set to drive the cost of fruits and vegetables higher')
 
 - [Ozempic predecessor suggests potential for GLP-1 drugs in Alzheimer’s in early trial](https://new-news.github.io/Latest/2024/07/30/ozempic-predecessor-suggests-potential-for-glp-1-drugs-in-alzheimers-in-early-trial 'Ozempic predecessor suggests potential for GLP-1 drugs in Alzheimer’s in early trial')
@@ -73,8 +75,6 @@
 - [Security forces protecting Haitian leader provide ‘cover’ fire after he leaves interview with CNN](https://new-news.github.io/Latest/2024/07/30/security-forces-protecting-haitian-leader-provide-cover-fire-after-he-leaves-interview-with-cnn 'Security forces protecting Haitian leader provide ‘cover’ fire after he leaves interview with CNN')
 
 - [‘What I saw made me ashamed’: Head of Secret Service will address security failures in hearing on Trump assassination attempt](https://new-news.github.io/Latest/2024/07/30/what-i-saw-made-me-ashamed-head-of-secret-service-will-address-security-failures-in-hearing-on-trump-assassination-attempt '‘What I saw made me ashamed’: Head of Secret Service will address security failures in hearing on Trump assassination attempt')
-
-- [Far-right lawmakers break into Israeli detention camp, protesting probe into soldiers’ alleged abuse of prisoner](https://new-news.github.io/Latest/2024/07/30/far-right-lawmakers-break-into-israeli-detention-camp-protesting-probe-into-soldiers-alleged-abuse-of-prisoner 'Far-right lawmakers break into Israeli detention camp, protesting probe into soldiers’ alleged abuse of prisoner')
 
 - [Dozens of Russian mercenaries killed in rebel ambush in Mali, in their worst known loss in Africa](https://new-news.github.io/Latest/2024/07/30/dozens-of-russian-mercenaries-killed-in-rebel-ambush-in-mali-in-their-worst known loss-in-africa 'Dozens of Russian mercenaries killed in rebel ambush in Mali, in their worst known loss in Africa')
 

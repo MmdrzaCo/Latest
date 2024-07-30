@@ -1,6 +1,6 @@
 # Dr. Sanjay Gupta On Call: What are your questions about the Covid-19 summer wave?
 
-Published :`2024-07-30 14:13:58`
+Published :`2024-07-30 14:35:34`
 
 ---
 

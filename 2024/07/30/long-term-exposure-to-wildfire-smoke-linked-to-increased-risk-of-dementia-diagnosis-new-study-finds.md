@@ -1,6 +1,6 @@
 # Long-term exposure to wildfire smoke linked to increased risk of dementia diagnosis, new study finds
 
-Published :`2024-07-30 14:14:00`
+Published :`2024-07-30 14:35:34`
 
 ---
 

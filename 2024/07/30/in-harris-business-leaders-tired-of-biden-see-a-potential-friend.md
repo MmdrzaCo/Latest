@@ -1,6 +1,6 @@
 # In Harris, business leaders tired of Biden see a potential friend
 
-Published :`2024-07-30 14:13:54`
+Published :`2024-07-30 14:35:33`
 
 ---
 
@@ -56,7 +56,7 @@ In a letter from the alliance, shared first with CNN, progressive groups includi
 
 One of the organizers, PCCC co-founder Adam Green, told CNN in a phone interview that publicly supporting Khan “should be a lay-up” for Harris – and suggested there could be a backlash if she doesn’t.
 
-“There is a high degree of default trust in Kamala Harris that she will build on – not subtract from – the economic legacy of populism of the Biden-Harris administration,” Green said. “But that could be punctured very easily if she signaled that Lina Khan – one of the administration’s shining stars – could even potentially be fired.”
+“There is a high degree of default trust in Kamala Harris that she will build on – not subtract from – the legacy of economic populism of the Biden-Harris administration,” Green said. “But that could be punctured very easily if she signaled that Lina Khan – one of the administration’s shining stars – could even potentially be fired.”
 
 Sonnenfeld, the Yale professor who has been dubbed the “CEO whisperer,” predicted Khan will not get that public endorsement.
 
