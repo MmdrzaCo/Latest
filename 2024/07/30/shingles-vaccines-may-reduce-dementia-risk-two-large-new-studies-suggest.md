@@ -1,6 +1,6 @@
 # Shingles vaccines may reduce dementia risk, two large new studies suggest
 
-Published :`2024-07-30 19:12:58`
+Published :`2024-07-30 19:36:54`
 
 ---
 

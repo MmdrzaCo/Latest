@@ -1,16 +1,18 @@
 # El Chapo’s son pleads not guilty to narcotics, money laundering and firearms charges
 
-Published :`2024-07-30 19:12:59`
+Published :`2024-07-30 19:36:53`
 
 ---
 
-Joaquín Guzmán López, the son of the former Sinaloa cartel boss Joaquín “El Chapo” Guzmán, pleaded not guilty in federal court to narcotics, money laundering and firearms charges in Chicago Tuesday, just days after he was taken into American custody in a stunning arrest full of international betrayal and intrigue.
+Joaquín Guzmán López, the son of the former Sinaloa cartel boss Joaquín “El Chapo” Guzmán, pleaded not guilty Tuesday in federal court in Chicago to narcotics, money laundering and firearms charges, just days after he was taken into American custody in a stunning arrest full of international betrayal and intrigue.
 
-Guzmán Lopez, known as one of the “Chapitos,” or sons of El Chapo, is facing the death penalty, his attorney, Jeffrey Lichtman, acknowledged when speaking to reporters after court.
+Guzmán López, known as one of the “Chapitos,” or sons of El Chapo, is facing the possibility of the death penalty, his attorney, Jeffrey Lichtman, acknowledged when speaking to reporters after court.
 
-Guzmán Lopez, wearing an orange jumpsuit and ankle chains, informed the court that he is receiving care for thyroid and high blood pressure problems.
+Lichtman has been cleared to represent both Guzmán López and his brother, Ovidio Guzmán López, who also is facing federal charges. The brothers both have status hearings set for September 30.
 
-Guzmán López was indicted by a federal grand jury in Illinois on narcotics, money laundering and firearms charges, according to a statement last year from the US Justice Department.
+Guzmán López, wearing an orange jumpsuit and ankle chains, informed the court he is receiving care for thyroid and high blood pressure problems.
+
+Guzmán López was indicted on the charges by a federal grand jury in Illinois, according to a statement last year from the US Justice Department.
 
 The court appearance comes after Guzmán López, 38, and Ismael “El Mayo” Zambada, the cartel’s alleged co-founder, were arrested Thursday by US authorities in El Paso, Texas. They face several charges for allegedly leading the criminal operations of what is considered to be one of the world’s most powerful and deadly drug trafficking operations.
 
@@ -18,7 +20,7 @@ Zambada, 76, pleaded not guilty to all charges at his first federal court appear
 
 US law enforcement officials told CNN the arrest came after Guzmán López duped Zambada and orchestrated their arrest. Zambada thought the two were flying to northern Mexico to look at real estate, but instead, their small private plane landed north of the border near El Paso, where US authorities were waiting on the tarmac, officials said.
 
-However, Zambada’s attorney described the incident not as trickery but as a violent kidnapping, he said in a phone conversation and a statement sent to CNN on Sunday.
+However, Zambada’s attorney, in a phone conversation and a statement sent to CNN on Sunday, described the incident not as trickery but as a violent kidnapping.
 
 “Joaquín Guzmán López forcibly kidnapped my client. He was ambushed, thrown to the ground, and handcuffed by six men in military uniforms and Joaquín. His legs were tied, and a black bag was placed over his head,” attorney Frank Pérez said in a statement.
 
@@ -36,7 +38,7 @@ The cartel, one of the world’s most powerful narcotics trafficking organizatio
 
 A law enforcement source familiar with the situation told CNN US officials were hesitant to brief Mexican counterparts in advance due to fears the operation could have been compromised. Details on the operation were also highly restricted within the US government until Zambada and Guzmán López were taken into custody, the source said.
 
-### A short history of the cartel and its leadership
+### A look at the cartel and its leadership
 
 The Sinaloa cartel was founded in the late 1980s and led by El Chapo, who twice escaped from Mexican prisons before being detained by Mexican authorities in 2016.
 
