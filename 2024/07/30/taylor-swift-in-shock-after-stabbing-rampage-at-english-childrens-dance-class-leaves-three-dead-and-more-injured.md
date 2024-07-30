@@ -1,6 +1,6 @@
 # Taylor Swift ‘in shock’ after stabbing rampage at English children’s dance class leaves three dead and more injured
 
-Published :`2024-07-30 16:40:54`
+Published :`2024-07-30 17:13:15`
 
 ---
 

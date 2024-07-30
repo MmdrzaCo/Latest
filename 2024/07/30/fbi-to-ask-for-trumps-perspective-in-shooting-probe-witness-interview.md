@@ -1,6 +1,6 @@
 # FBI to ask for Trump’s ‘perspective’ in shooting probe witness interview
 
-Published :`2024-07-30 16:40:54`
+Published :`2024-07-30 17:13:16`
 
 ---
 
