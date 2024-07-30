@@ -1,6 +1,6 @@
 # North Carolina Gov. Roy Cooper removes himself from Harris VP consideration
 
-Published :`2024-07-30 16:19:42`
+Published :`2024-07-30 16:40:54`
 
 ---
 
