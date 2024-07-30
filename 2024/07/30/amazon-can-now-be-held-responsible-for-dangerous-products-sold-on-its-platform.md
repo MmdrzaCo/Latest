@@ -1,6 +1,6 @@
 # Amazon can now be held responsible for dangerous products sold on its platform
 
-Published :`2024-07-30 22:12:55`
+Published :`2024-07-30 22:35:35`
 
 ---
 

@@ -1,6 +1,6 @@
 # Angelina Jolie’s son Pax ‘stable’ following bike accident
 
-Published :`2024-07-30 22:12:55`
+Published :`2024-07-30 22:35:35`
 
 ---
 
