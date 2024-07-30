@@ -1,6 +1,6 @@
 # Harris sees opening in Vance pick as she considers her own choice for vice president
 
-Published :`2024-07-30 06:41:00`
+Published :`2024-07-30 07:14:13`
 
 ---
 

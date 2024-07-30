@@ -1,6 +1,6 @@
 # Olympics commentator dropped over sexist comments about women’s swim team
 
-Published :`2024-07-30 06:40:57`
+Published :`2024-07-30 07:14:09`
 
 ---
 
