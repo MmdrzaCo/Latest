@@ -1,6 +1,6 @@
 # Alma Powell, wife of late Secretary of State Colin Powell, dies at 86
 
-Published :`2024-07-30 03:19:13`
+Published :`2024-07-30 03:38:38`
 
 ---
 

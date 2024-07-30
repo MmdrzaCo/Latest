@@ -1,6 +1,6 @@
 # Dozens of Russian mercenaries killed in rebel ambush in Mali, in their worst known loss in Africa
 
-Published :`2024-07-30 03:19:11`
+Published :`2024-07-30 03:38:36`
 
 ---
 
@@ -38,7 +38,7 @@ The commander, Sergei Shevchenko, was among those killed in battle, according to
 
 Also among the dead, according to several Russian Telegram channels, was one of Russia’s most popular military bloggers, Nikita Fedyanin, whose Grey Zone channel has more than half-a-million subscribers.
 
-Fedyanin’s death cannot be independently verified, but a photograph from the scene closely resembled him. A long-time Wagner analyst told CNN that the Grey Zone channel has stopped being updated. “I think the story is true; he probably did die.”
+Fedyanin’s death cannot be independently verified, but a photograph from the scene closely resembled him. Long-time Wagner analyst Denis Korotkov told CNN that the Grey Zone channel has stopped being updated. “I think the story is true; he probably did die.”
 
 A former commander of the ambushed contingent said on Telegram that more than 80 men were killed and more than 15 had been captured. The commander – call-sign Rusich – said on Telegram he was trying to convey a message to the Russian Defense Ministry. “I am ready to provide myself and all those people who are ready to follow me absolutely free of charge, in order to save the guys.”
 
