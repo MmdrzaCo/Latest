@@ -1,10 +1,16 @@
 # Venezuela is wracked with protests and election uncertainty. Here’s what to know
 
-Published :`2024-07-30 15:36:09`
+Published :`2024-07-30 16:19:37`
 
 ---
 
 Venezuelans across the country took to the streets on Monday to protest a disputed election, clashing with police as uncertainty swirls around the results amid allegations of election fraud.
+
+At least six people died during the protests against the presidential election results announced by the electoral commission, according to non-governmental organization Foro Penal in a post on social media. CNN has not yet been able to verify the death toll but has reached out to the Venezuelan police.
+
+Venezuelan Attorney General Tarek William Saab said 749 people had been detained in Monday’s protests. Saab rejected the notion that the demonstrations were peaceful, claiming that they resulted in the injuries of 48 military and police officers.
+
+Meanwhile, Venezuela’s Defense Minister Vladimir Padrino López called the protests an attempted coup d’état and said that the armed forces reaffirmed their “absolute loyalty and unconditional support” to President Nicolás Maduro.
 
 The election on Sunday was the most consequential one in years, with Venezuela’s future on the line.
 
@@ -81,6 +87,18 @@ Many regional and world leaders have cast doubt on the results, including the Un
 “We have serious concerns that the result announced does not reflect the will or the votes of the Venezuelan people. It’s critical that every vote be counted fairly and transparently, that election officials immediately share information with the opposition and independent observers without delay,” US Secretary of State Antony Blinken told reporters on Monday.
 
 The foreign ministers and offices of several European nations, including the United Kingdom and Spain, voiced similar concerns.
+
+The electoral observation department of the Organization of American States (OAS) said the CNE’s election results cannot be recognized due to a lack of transparency and evidence.
+
+In a 23-page report, OAS said CNE failed to provide details of the ballots processed when it declared President Maduro the winner.
+
+It also said that other factors make it impossible to grant “democratic recognition” to the official results. These include CNE’s resistance to national and international observation, a reluctance to allow witnesses from the opposition to enter voting centers, and a “contradiction between the announced percentages and the citizen verification exercises,” among other things.
+
+The report accused the Maduro government of political persecution of opposition leaders, noting in particular Machado’s disqualification as a candidate.
+
+“The regime of Nicolás Maduro has once again betrayed the Venezuelan people, declaring that it respects the popular will while doing everything possible to manipulate and ignore that will,” the report concluded.
+
+OAS said it based its report on primary and secondary sources, including direct conversations with key figures in the process, findings collected by national observation initiatives and civil society organizations, and public communications from political and institutional actors.
 
 Other Latin American countries, including Argentina, Chile, Costa Rica, Peru, Panama, the Dominican Republic and Uruguay refused to recognize the results and had their diplomatic staff in country expelled Monday.
 

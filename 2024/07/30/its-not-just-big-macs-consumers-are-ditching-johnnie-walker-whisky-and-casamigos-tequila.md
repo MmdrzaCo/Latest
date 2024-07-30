@@ -1,6 +1,6 @@
 # It’s not just Big Macs. Consumers are ditching Johnnie Walker whisky and Casamigos tequila
 
-Published :`2024-07-30 15:36:09`
+Published :`2024-07-30 16:19:38`
 
 ---
 

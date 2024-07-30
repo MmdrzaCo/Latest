@@ -1,6 +1,6 @@
 # Google’s Olympics ad went viral for all the wrong reasons
 
-Published :`2024-07-30 15:36:10`
+Published :`2024-07-30 16:19:43`
 
 ---
 

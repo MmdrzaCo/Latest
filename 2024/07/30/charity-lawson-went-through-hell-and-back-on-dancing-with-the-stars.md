@@ -1,6 +1,6 @@
 # Charity Lawson ‘went through hell and back’ on ‘Dancing with the Stars’
 
-Published :`2024-07-30 15:36:09`
+Published :`2024-07-30 16:19:37`
 
 ---
 
@@ -26,7 +26,7 @@ Lawson got emotional and explained why she was speaking out now.
 
 “I have to go through this life as a Black woman and being on a reality TV show,” she said. “It’s like the same things are just not protected.”
 
-CNN has reached out to representativs for “The Bachelorette” and “Dancing with the Stars” for comment.
+CNN has reached out to representatives for “The Bachelorette” and “Dancing with the Stars” for comment.
 
 ---
 
