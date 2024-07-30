@@ -1,6 +1,6 @@
 # Judge declines to appoint monitor for NRA but bars former CEO Wayne LaPierre from working for group
 
-Published :`2024-07-30 04:38:14`
+Published :`2024-07-30 05:15:46`
 
 ---
 

@@ -1,6 +1,6 @@
 # Popular weight-loss and diabetes medications show promise for curbing smoking, study suggests
 
-Published :`2024-07-30 04:38:14`
+Published :`2024-07-30 05:15:46`
 
 ---
 

@@ -1,6 +1,6 @@
 # ‘House of the Dragon’ Season 2, episode 7 recap: Dragonrider hopefuls feel the burn
 
-Published :`2024-07-30 04:38:15`
+Published :`2024-07-30 05:15:49`
 
 ---
 

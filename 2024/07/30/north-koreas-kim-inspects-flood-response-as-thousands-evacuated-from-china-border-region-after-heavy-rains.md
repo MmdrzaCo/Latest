@@ -1,12 +1,12 @@
 # North Korea’s Kim ‘inspects’ flood response as thousands evacuated from China border region after heavy rains
 
-Published :`2024-07-30 04:38:15`
+Published :`2024-07-30 05:15:49`
 
 ---
 
 Some 5,000 people were rescued from flood-hit areas along North Korea’s border with China over the weekend in efforts supervised by leader Kim Jong Un, the country’s state media reported Monday.
 
-The North Korean army launched emergency operations in North Pyongan province as the region reeled from flooding in the wake of heavy rains that left 5,000 people “isolated” and at risk, according to state media KCNA.
+The North Korean army launched emergency operations in North Phyongan province as the region reeled from flooding in the wake of heavy rains that left 5,000 people “isolated” and at risk, according to state media KCNA.
 
 Water levels at the Amnok River, or Yalu River in Chinese, which forms part of the border between the North Korea and China, had “far exceeded the danger line” due to record rains Saturday, KCNA reported, noting Kim’s assessment that flooding was “very serious” in Sinuiju City, which faces the Chinese city of Dandong.
 
@@ -24,7 +24,7 @@ At least 15 people died following a rain-triggered landslide in central China’
 
 China’s northeast – a key food-growing region which traditionally had been less effected by frequent flooding – is also grappling with heavy rains.
 
-In China’s Liaoning province, across the border from North Korea’s North Pyongan, more than 45,000 people were evacuated from their homes as of Sunday morning as heavy rains hit the region, according to Xinhua.
+In China’s Liaoning province, across the border from North Korea’s North Phyongan, more than 45,000 people were evacuated from their homes as of Sunday morning as heavy rains hit the region, according to Xinhua.
 
 Hundreds of chemical enterprises and mining companies across the province also suspended operations over the weekend and relocated to avoid flood risks, Xinhua said.
 
