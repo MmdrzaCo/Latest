@@ -1,20 +1,32 @@
 # North Carolina Gov. Roy Cooper removes himself from Harris VP consideration
 
-Published :`2024-07-30 01:08:27`
+Published :`2024-07-30 02:21:50`
 
 ---
 
-North Carolina Gov. Roy Cooper has taken himself out of consideration to be Vice President Kamala Harris’ running mate, according to two sources familiar with the discussions, in a sign that the accelerated search has entered a new phase.
+Roy Cooper on Monday said it isn’t the right time for him to join a national ticket, as two sources familiar with the discussions told CNN the North Carolina governor had removed himself from consideration as Kamala Harris’ running mate in a sign that the accelerated search has entered a new phase.
 
-A decision could come within a week, two people familiar with the matter said, with Harris’ goal to make an announcement before August 7. She intends to have private conversations with top contenders, sources said, but it was unclear whether those discussions have started.
+Harris’ decision on a running mate could come within a week, two people familiar with the matter said, with Harris’ goal to make an announcement before August 7. She intends to have private conversations with top contenders, sources said, but it was unclear whether those discussions have started.
 
-Cooper, whose friendship with Harris dates back to their time serving as the attorneys general of their respective states, was also the oldest candidate under consideration. His age, 67, was seen by some Democrats to be at odds with Harris’ push for a vigorous and younger ticket, the sources said.
+“I strongly support Vice President Harris’ campaign for President. I know she’s going to win and I was honored to be considered for this role. This just wasn’t the right time for North Carolina and for me to potentially be on a national ticket,” Cooper said in a statement posted to his personal account on X. “As l’ve said from the beginning, she has an outstanding list of people from which to choose, and we’ll all work to make sure she wins.”
 
-There also was concern among some Democrats about elevating Mark Robinson, the state’s Republican lieutenant governor whom the state constitution says would perform the governor’s duties when the governor is absent from the state.
+Cooper was approached by the Harris campaign about being vetted, and he declined, a source familiar told CNN.
 
-Polling and extensive research is underway for other top contenders, sources said, including Pennsylvania Gov. Josh Shapiro and Arizona Sen. Mark Kelly. Minnesota Gov. Tim Walz, Kentucky Gov. Andy Beshear and Transportation Secretary Pete Buttigieg are also seen as prospective running mates.
+The governor, whose friendship with Harris dates back to their time serving as the attorneys general of their respective states, was also the oldest candidate under consideration. His age, 67, was seen by some Democrats to be at odds with Harris’ push for a vigorous and younger ticket, the sources said.
+
+There also was concern among some Democrats about elevating Mark Robinson, North Carolina’s Republican lieutenant governor whom the state constitution says would perform the governor’s duties when the governor is absent from the state.
+
+﻿Other Democrats in the state and Washington, DC, told CNN that Cooper may instead look at the 2026 Senate race for the seat currently held by Republican Thom Tillis.
+
+Polling and extensive research is underway for other top Democratic running mate contenders, sources said, including Pennsylvania Gov. Josh Shapiro and Arizona Sen. Mark Kelly. Minnesota Gov. Tim Walz, Kentucky Gov. Andy Beshear and Transportation Secretary Pete Buttigieg are also seen as prospective running mates.
 
 CNN has reached out to a representative for Cooper. The Harris campaign declined to comment.
+
+On a “White Dudes for Harris” Zoom call to rally support for the vice president Monday night, Cooper praised Harris’ record, calling her a “strong woman” that the nation needs.
+
+“Kamala Harris is a strong woman. She’s going to run this country in a way that she cares about the pocketbook issues. … She’s going to work to clean our environment. She’s going to work to make sure that people have health care and quality education. That’s the kind of person that we need,” he said on the call.
+
+Cooper did not mention taking himself out of consideration to be Harris’ potential running mate.
 
 Cooper, who was viewed as one of the top contenders for the role, leads a state that is a crucial battleground in 2024. He was narrowly elected for the first time in 2016 by just over 10,000 votes. He won reelection in 2020 and is term-limited out of running for a third time. He endorsed Harris earlier this month, saying she “has what it takes to defeat Donald Trump and lead our country thoughtfully and with integrity.”
 

@@ -1,6 +1,6 @@
 # ‘Deadpool & Wolverine’ fuels an already hot summer box office, opens at $96 million
 
-Published :`2024-07-30 01:08:34`
+Published :`2024-07-30 02:21:54`
 
 ---
 

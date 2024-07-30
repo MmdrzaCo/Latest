@@ -1,34 +1,44 @@
 # Protests erupt in Venezuela as questions grow over strongman Maduro’s victory
 
-Published :`2024-07-30 01:08:28`
+Published :`2024-07-30 02:21:50`
 
 ---
 
 Protests broke out in several Venezuelan cities on Monday after authoritarian leader Nicolás Maduro was formally declared a winner by the county’s electoral authority in a presidential race marred by accusations of electoral fraud.
 
-In the capital of Caracas, security forces deployed tear gas to disperse a large crowd of protesters, while crowds of people were seen walking down a main road banging pots and pans as anger rose over Maduro’s victory on Sunday. PROVEA, a Venezuelan human rights organization, said pro-Maduro armed groups shot at peaceful demonstrators in Avenue Urdaneta.
+In the capital Caracas, security forces deployed tear gas to disperse a large crowd of protesters, while crowds of people were seen walking down a main road banging pots and pans as anger rose over Maduro’s victory on Sunday. PROVEA, a Venezuelan human rights organization, said pro-Maduro armed groups shot at peaceful demonstrators in Avenue Urdaneta.
 
 Protests were also reported in other cities, including Maracay, where opposition activist Esthefania Natera told CNN that people were on the streets “to yell and demand to tell the truth because we know the real results.” In the coastal state of Falcón, demonstrators toppled a statue of Maduro, video on social media showed.
 
-The next 24 hours will be key in seeing how Maduro responds to the allegations against him. Analysts say there could be a new wave of unrest in the country if there are widespread protests against the regime. Street demonstrations in previous years were crushed by the country’s military, which has long supported Maduro and his predecessor, the late Hugo Chavez.
+Analysts say there could be a new wave of unrest in the country if there are widespread protests against the regime. Street demonstrations in previous years were crushed by the country’s military, which has long supported Maduro and his predecessor, the late Hugo Chavez.
 
-Maduro smiled as he entered the National Electoral Council (CNE) before a Monday ceremony at which he was declared the winner, receiving cheers and congratulations from many in the audience. The CNE, which is stacked with Maduro allies, has yet to issue final vote tallies from Sunday’s election.
+On Monday night, Maduro said his government “knows how to confront this situation and defeat those who are violent,” claiming without evidence that the majority of the protestors were hate-filled criminals – and that their plan was hatched in the United States.
+
+Earlier that day, Maduro was formally declared winner at a ceremony by the National Electoral Council (CNE), which is stacked with Maduro allies, and which hasn’t yet issued final vote tallies from Sunday’s election.
 
 “Venezuela has the best electoral system in the world!” CNE president Elvis Amoroso announced before proceeding with the formal announcement.
 
-But the vote was riddled with claims of irregularities. It included opposition witnesses being denied access to the National Electoral Council (CNE) headquarters as votes were counted and the electoral authority allegedly prevented more votes from being processed. The government has also been accused of rigging votes in the past, which it denied.
-
-The US on Monday joined Venezuelan civil society groups and the opposition by calling on Venezuela’s government to “immediately” release specific data on the presidential election, citing concerns about the credibility of Maduro’s victory.
+But the vote was riddled with claims of irregularities. The opposition said its witnesses were denied access to the National Electoral Council (CNE) headquarters as votes were being counted, and alleged that the electoral authority had prevented more votes from being processed. The government has also been accused of rigging votes in the past, which it denied.
 
 Maduro’s government controls almost all state institutions, including the CNE, which was accused in 2017 of manipulating turnout figures by a software company that provided the voting technology. The CNE previously denied the assertion.
 
-The opposition coalition, headed by Maria Corina Machado, earlier rejected Maduro’s win, saying the opposition’s records show that opposition candidate Edmundo Gonzalez received 70% of the votes against Maduro’s 30%. “We won, and everyone knows it,” Machado said. The coalition plans on making a statement later on Monday.
+The opposition coalition, headed by Maria Corina Machado, rejected Maduro’s win, with Machado and  opposition candidate Edmundo Gonzalez claiming their campaign had gathered enough vote tallies to prove Gonzalez had won. On Monday, they said they had obtained more than 73% of the tally sheets showing more than 6 million votes for Gonzalez and only 2.7 million for Maduro.
 
-Machado is part of a unified opposition movement that overcame their divisions to form a coalition known as the Democratic Unitary Platform. Its energized campaign, which enjoyed strong polling figures prior to Sunday’s vote, was seen as the biggest challenge to Maduro’s rule.
+“I speak to you from a place of tranquility and truth. I want to tell you, responsibly, that we will respect the will expressed yesterday,” Gonzalez said on Monday from his campaign headquarters in Caracas.
+
+Machado said “all the tallies were verified, totalized, scanned, digitalized, and then uploaded into a strong web portal,” adding that “several global leaders are checking the portal.”
+
+Both called for more nationwide demonstrations on Tuesday.
+
+In response, Jorge Rodriguez, the deputy of the National Assembly of Venezuela (a body loyal to Maduro), said the latest CNE results, with 80% of the tallies already counted, showed Maduro in the lead with 51.2% of the votes, followed by Edmundo with 44.2%.
+
+Machado and Gonzalez are part of a unified opposition movement that overcame their divisions to form a coalition known as the Democratic Unitary Platform. Its energized campaign, which enjoyed strong polling figures prior to Sunday’s vote, was seen as the biggest challenge to Maduro’s rule.
 
 ### Calls for transparency
 
 The United States is among regional leaders, including Peru and Chile, that have raised questions about the validity of the result.
+
+The US on Monday joined Venezuelan civil society groups and the opposition by calling on Venezuela’s government to “immediately” release specific data on the presidential election, citing concerns about the credibility of Maduro’s victory.
 
 Brazil, an important regional player, was softer in tone but said it was awaiting “the publication by the National Electoral Council of data broken down by polling station, an essential step for the transparency, credibility, and legitimacy of the election results,” according to a statement by the foreign ministry.
 
