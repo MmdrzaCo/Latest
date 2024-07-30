@@ -1,14 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-30 07:14:19`
+#### Latest Update : `2024-07-30 07:36:37`
 
 ## Latest News Grabbing 
 
 ---
 
-- [Exclusive: The inside story of John Roberts and Trump’s immunity win at the Supreme Court](https://new-news.github.io/Latest/2024/07/30/exclusive-the-inside-story-of-john-roberts-and-trumps-immunity-win-at-the-supreme-court 'Exclusive: The inside story of John Roberts and Trump’s immunity win at the Supreme Court')
-
 - [Landslides in India’s Kerala kill dozens, leave hundreds stranded](https://new-news.github.io/Latest/2024/07/30/landslides-in-indias-kerala-kill-dozens-leave-hundreds-stranded 'Landslides in India’s Kerala kill dozens, leave hundreds stranded')
+
+- [Exclusive: The inside story of John Roberts and Trump’s immunity win at the Supreme Court](https://new-news.github.io/Latest/2024/07/30/exclusive-the-inside-story-of-john-roberts-and-trumps-immunity-win-at-the-supreme-court 'Exclusive: The inside story of John Roberts and Trump’s immunity win at the Supreme Court')
 
 - [Venezuela is wracked with protests and election uncertainty. Here’s what to know](https://new-news.github.io/Latest/2024/07/30/venezuela-is-wracked-with-protests-and-election-uncertainty-heres-what-to-know 'Venezuela is wracked with protests and election uncertainty. Here’s what to know')
 
