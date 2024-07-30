@@ -1,6 +1,6 @@
 # Israel targets Hezbollah commander in Beirut strike after deadly Golan Heights attack
 
-Published :`2024-07-30 20:14:45`
+Published :`2024-07-30 20:35:53`
 
 ---
 
@@ -78,7 +78,7 @@ Previously, months of tit-for-tat attacks between Israel and Hezbollah had large
 
 On Monday, Lebanon’s foreign minister told CNN that an Israeli attack in the southern suburbs of Beirut, or the international airport, “would surely lead to war.” Hezbollah chief Hassan Nasrallah has repeatedly said that any Israeli strike on the Lebanese capital would prompt a Hezbollah attack on Tel Aviv.
 
-This is a developing story and will be updated.
+This story has been updated with additional information.
 
 ---
 

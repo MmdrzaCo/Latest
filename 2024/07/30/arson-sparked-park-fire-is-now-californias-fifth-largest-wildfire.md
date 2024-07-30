@@ -1,6 +1,6 @@
 # Arson-sparked Park Fire is now California’s fifth-largest wildfire
 
-Published :`2024-07-30 20:14:45`
+Published :`2024-07-30 20:35:52`
 
 ---
 
@@ -44,7 +44,7 @@ Shortly before the incident, Stout was seen drinking at a nearby swimming hole 
 
 When Stout was arrested early the next morning, almost 11 hours after the fire started, alcohol was found in his system above the legal limit, Ramsey said, but noted investigators had no evidence proving he was intoxicated at the time of the fire.
 
-CNN has reached out to Stout’s attorney for comment on the allegation he was drunk at the time of the incident and regarding Ramsey’s statement that he has partially admitted responsibility.
+CNN reached out to Stout’s attorney, Nicole Diamond, for comment on the allegation he was drunk at the time of the incident and to ask about Ramsey’s statement that he has partially admitted responsibility. She declined to comment.
 
 ---
 

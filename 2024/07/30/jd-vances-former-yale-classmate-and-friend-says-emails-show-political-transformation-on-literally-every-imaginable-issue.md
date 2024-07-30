@@ -1,6 +1,6 @@
 # JD Vance’s former Yale classmate and friend says emails show political transformation on ‘literally every imaginable issue’
 
-Published :`2024-07-30 20:14:46`
+Published :`2024-07-30 20:35:57`
 
 ---
 

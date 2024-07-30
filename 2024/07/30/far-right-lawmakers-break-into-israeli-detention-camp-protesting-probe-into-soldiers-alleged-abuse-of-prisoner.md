@@ -1,6 +1,6 @@
 # Far-right lawmakers break into Israeli detention camp, protesting probe into soldiers’ alleged abuse of prisoner
 
-Published :`2024-07-30 20:14:46`
+Published :`2024-07-30 20:35:52`
 
 ---
 
@@ -27,6 +27,22 @@ The scenes were a stark illustration of the complex partisan divisions coursing 
 Defense Minister Yoav Gallant said on X the incident “plays into our enemies’ hands during war time.” And Netanyahu called for immediate calm at Sde Teiman and condemned the break-in at the base in a statement on Monday.
 
 In a CNN investigation released in May, Israeli whistleblowers as well as Palestinian former detainees and eyewitnesses described widespread abuse at Sde Teiman, including blindfolding, extreme physical restraint and prolonged handcuffing leading to severe injuries.
+
+### Abuse alleged against nine IDF troops
+
+The Physicians for Human Rights Israel (PHRI) group, which has collated instances of alleged abuse at the base, told CNN that the alleged abuse victim arrived at an Israeli hospital around three weeks ago in life-threatening condition.
+
+He had injuries to his upper body and his rectum, according to the group.
+
+PHRI said it had raised concern about similar allegations at the base in the past, but that this incident came to light and prompted an investigation because the alleged victim was taken to a public hospital away from the detention center.
+
+CNN has reached out to the IDF for comment on the PHRI’s allegations.
+
+The announcement of the investigation angered figures on Israel’s far-right, including members of Netanyahu’s governing coalition.
+
+Justice Minister Yariv Levin said Monday he was “shocked” to see IDF troops being detained for questioning “in a way that is suitable for arresting dangerous criminals,” and said they were doing a “holy job” at the base.
+
+And far-right Knesset member Simcha Rotman called the troops “heroes,” attacking Israel’s “justice and enforcement systems” for pursuing them.
 
 ### Israeli leaders condemn break-ins
 

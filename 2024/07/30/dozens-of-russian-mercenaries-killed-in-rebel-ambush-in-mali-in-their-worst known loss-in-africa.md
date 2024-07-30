@@ -1,6 +1,6 @@
 # Dozens of Russian mercenaries killed in rebel ambush in Mali, in their worst known loss in Africa
 
-Published :`2024-07-30 20:14:46`
+Published :`2024-07-30 20:35:59`
 
 ---
 
