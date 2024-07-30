@@ -1,6 +1,6 @@
 # Trump’s remarks at Bitcoin event were delayed due to security concern, Secret Service says
 
-Published :`2024-07-30 21:36:15`
+Published :`2024-07-30 22:12:56`
 
 ---
 
