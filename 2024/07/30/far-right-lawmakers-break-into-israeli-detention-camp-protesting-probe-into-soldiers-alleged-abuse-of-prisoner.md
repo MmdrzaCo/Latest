@@ -1,6 +1,6 @@
 # Far-right lawmakers break into Israeli detention camp, protesting probe into soldiers’ alleged abuse of prisoner
 
-Published :`2024-07-30 08:19:14`
+Published :`2024-07-30 08:38:10`
 
 ---
 
