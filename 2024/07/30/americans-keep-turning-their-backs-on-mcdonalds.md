@@ -1,6 +1,6 @@
 # Americans keep turning their backs on McDonald’s
 
-Published :`2024-07-30 09:16:07`
+Published :`2024-07-30 09:36:55`
 
 ---
 

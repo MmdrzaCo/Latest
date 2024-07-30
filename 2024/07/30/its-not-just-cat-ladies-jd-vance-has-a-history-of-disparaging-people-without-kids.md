@@ -1,6 +1,6 @@
 # It’s not just ‘cat ladies’: JD Vance has a history of disparaging people without kids
 
-Published :`2024-07-30 09:16:06`
+Published :`2024-07-30 09:36:54`
 
 ---
 
