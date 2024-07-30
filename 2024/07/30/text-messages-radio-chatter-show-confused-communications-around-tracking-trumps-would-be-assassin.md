@@ -1,6 +1,6 @@
 # Text messages, radio chatter show confused communications around tracking Trump’s would-be assassin
 
-Published :`2024-07-30 04:18:01`
+Published :`2024-07-30 04:38:14`
 
 ---
 

@@ -1,6 +1,6 @@
 # California’s Park Fire is now bigger than Phoenix while in Canada a blaze is scorching one of the largest national parks
 
-Published :`2024-07-30 04:18:06`
+Published :`2024-07-30 04:38:17`
 
 ---
 
