@@ -1,6 +1,6 @@
 # ‘What I saw made me ashamed’: Head of Secret Service will address security failures in hearing on Trump assassination attempt
 
-Published :`2024-07-30 03:38:37`
+Published :`2024-07-30 04:18:01`
 
 ---
 
@@ -21,6 +21,16 @@ Cheatle resigned last week after refusing to provide clear answers to members of
 The Secret Service has also elevated security for protectees, according to Rowe’s excerpts, and are reinforcing details and conducting threat assessments to see what other adjustments are necessary.
 
 “In addition, substantial federal, state, and local security assets will be deployed in a coordinated effort to safeguard upcoming National Special Security Events, and we will make sure our protection of the Democratic National Convention, like our recent protection of the Republican National Convention, is strong and effective,” Rowe will say, according to the released excerpts.
+
+Text messages released and radio chatter detailed Monday show that law enforcement officers lost sight of Trump’s would-be assassin, Thomas Matthew Crooks, and further illustrate the confused communications around tracking him at the rally.
+
+According to documents released by Sen. Chuck Grassley’s office, law enforcement officers knew of and raised the shooter’s presence at the rally more than 90 minutes before he climbed onto a roof and fired eight rounds at Trump.
+
+Grassley also released the Beaver County ESU’s after-action report of the shooting and Butler Emergency Services Unit’s plan that detailed the responsibilities of federal and local law enforcement during the rally. It’s unclear what the full extent of the security planning was that day, and these documents only provide a glimpse into how local law enforcement saw their roles that day.
+
+The Secret Service has not released its operational plan of the rally.
+
+This story has been updated with additional details.
 
 ---
 

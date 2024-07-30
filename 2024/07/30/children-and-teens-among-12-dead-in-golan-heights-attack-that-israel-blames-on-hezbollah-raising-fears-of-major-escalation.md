@@ -1,6 +1,6 @@
 # Children and teens among 12 dead in Golan Heights attack that Israel blames on Hezbollah, raising fears of major escalation
 
-Published :`2024-07-30 03:38:40`
+Published :`2024-07-30 04:18:06`
 
 ---
 

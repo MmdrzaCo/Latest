@@ -1,14 +1,16 @@
 # Security forces protecting Haitian leader provide ‘cover’ fire after he leaves interview with CNN
 
-Published :`2024-07-30 03:38:36`
+Published :`2024-07-30 04:18:01`
 
 ---
 
 Security forces protecting Haiti’s leader provided covering fire as he left a hospital in Port-au-Prince after an interview with CNN, in a stark illustration of the violence that continues to plague the gang-ravaged nation.
 
-CNN had been interviewing interim Prime Minister Garry Conille at a hospital destroyed by gangs when gunshots were heard in a nearby neighborhood. Conille initially proceeded with the interview.
+CNN had been interviewing interim Prime Minister Garry Conille at a hospital destroyed by gangs when repeated and long volleys of gunfire could be heard in a nearby neighborhood. Conille initially proceeded with the interview and did not remark on the gunfire — which is not an unusual thing to hear in Port-au-Prince.
 
-According to a statement from the Haitian National Police and the Multinational Security Support (MSS), a Kenyan-led security force, troops fired their weapons as the prime minister was leaving to “provide cover.”
+After the interview, officials and the CNN team were driven away in cars, with a few more shots ringing out at they pulled onto the main road.
+
+According to a statement from the Haitian National Police and the Multinational Security Support (MSS), a Kenyan-led security force, those final shots were troops firing their weapons as the prime minister was leaving to “provide cover.”
 
 Afterward, the national police and MSS Force “followed up where the shots had been fired from the neighborhood and pacified the area,” it said.
 
@@ -20,7 +22,11 @@ The interview took place in the city’s ruined General Hospital, once a major p
 
 It was reclaimed from gang control in early summer by Haitian National Police, and then again from resurgent gang members by the joint HNP/MSS forces. Though still devastated, the hospital is seen as an early symbol of the re-establishment of state control in a city where gangs control an estimated 80% of the land. The area surrounding the hospital remains a dangerous contested area and is largely abandoned.
 
-Haiti’s crisis forced former Prime Minister Ariel Henry to resign in March – pitching the country’s political establishment into weeks of negotiations as they sought to muster a transitional government.
+CNN traveled with Conille to the hospital in an official convoy of a dozen vehicles, with heavy security presence — including dozens of armed Haitian Police, Kenyan police, the Haitian police chief and Kenyan force commander, and a dedicated security force for the interim prime minister.
+
+### Years of insecurity
+
+Haiti’s crisis had forced former Prime Minister Ariel Henry to resign in March – pitching the country’s political establishment into weeks of negotiations as they sought to muster a transitional government.
 
 In May, Conille was appointed prime minister during the government’s transition period, with the aim to eventually lead Haiti to new elections.
 
