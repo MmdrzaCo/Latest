@@ -1,6 +1,6 @@
 # Ancient monastery in war-ravaged Gaza placed on UNESCO’s danger list
 
-Published :`2024-07-30 02:21:51`
+Published :`2024-07-30 02:47:17`
 
 ---
 
