@@ -1,6 +1,6 @@
 # A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know
 
-Published :`2024-07-30 15:16:14`
+Published :`2024-07-30 15:36:09`
 
 ---
 
@@ -14,11 +14,21 @@ Here is what we know about the attack.
 
 ### What happened?
 
-Police said Monday two girls, aged 6 and 7, were killed and six of the nine that were injured were in critical condition. Officers said the following day that another child, a 9-year-old girl, had died as a result of her injuries. Police later named the girls who died as Alice Dasilva Aguiar, 9, Bebe King, 6, and 7-year-old Elsie Dot Stancombe.
+Police said Monday two girls, aged 6 and 7, were killed and six of the nine that were injured were in critical condition. Officers said the following day that another child, a 9-year-old girl, had died as a result of her injuries.
 
 Two adults were also critically injured, police said, adding that they suffered their injures because they “were bravely trying to protect the children who were being attacked.”
 
 Merseyside Police said the attack took place at a Taylor Swift event at a dance school in Southport on Monday morning, and the force said it received a call for help just before midday. Emergency services, including 13 ambulances and other specialized resources, were sent to the scene and a “major incident” was declared.
+
+### Who are the victims?
+
+Police named the girls who died in the attack as Alice Dasilva Aguiar, 9, Bebe King, 6, and 7-year-old Elsie Dot Stancombe.
+
+Photographs of the three victims that were shared by their families show Alice wearing a princess-like white dress, while Elsie is pictured smiling into the camera in what appears to be a school uniform. Bebe is shown sporting two ponytails, looking delighted while pointing to her t-shirt that shows the picture of Elphaba and Galinda, the two witches from the “Wicked” musical.
+
+Police also shared a tribute from the family of Bebe King who said: “No words can describe the devastation that has hit our family as try to deal with the loss of our little girl Bebe.”
+
+The parents of Dasilver Aguiar called the nine-year-old “our princess” and said: “Keep smiling and dancing like you love to do our Princess, like we said before to you, you’re always our princess and no one would change that.”
 
 ### Suspect arrested – but no motive known yet
 
@@ -42,9 +52,9 @@ And 16 children aged between 5 and 6 were murdered in a school shooting in the S
 
 Many in the area and across the country were left in disbelief after learning about what happened. Southport is a small seaside resort and a popular summer destination for families.
 
-Local business owner Colin Parry was one of the people who called the police, and said the incident in Southport was like a “scene in a horror movie,” according to PA Media.
+Starmer and other officials visited the site of the attack on Tuesday, paying tributes to the victims and thanking emergency responders who attended the scene.
 
-“It’s like something from America, not like sunny Southport,” Parry said.
+Starmer laid a wreath of cream and yellow-colored flowers at the scene, alongside floral tributes left there by the local community.
 
 Taylor Swift, whose music was the theme of the dance class that was targeted by the attack, said Tuesday she was “completely in shock.”
 

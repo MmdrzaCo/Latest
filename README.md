@@ -1,16 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-30 15:16:15`
+#### Latest Update : `2024-07-30 15:36:12`
 
 ## Latest News Grabbing 
 
 ---
 
+- [A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know](https://new-news.github.io/Latest/2024/07/30/a-third-girl-has-died-in-the-uk-after-one-of-the-worst-attacks-on-children-in-decades-heres-what-to-know 'A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know')
+
 - [Self-managed abortions have become more common in the US post-Dobbs, study shows](https://new-news.github.io/Latest/2024/07/30/self-managed-abortions-have-become-more-common-in-the-us-post-dobbs-study-shows 'Self-managed abortions have become more common in the US post-Dobbs, study shows')
 
 - [Most young people who die by suicide in the US do not have previous mental health diagnoses, study suggests](https://new-news.github.io/Latest/2024/07/30/most-young-people-who-die-by-suicide-in-the-us-do-not-have-previous-mental-health-diagnoses-study-suggests 'Most young people who die by suicide in the US do not have previous mental health diagnoses, study suggests')
-
-- [A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know](https://new-news.github.io/Latest/2024/07/30/a-third-girl-has-died-in-the-uk-after-one-of-the-worst-attacks-on-children-in-decades-heres-what-to-know 'A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know')
 
 - [Indian rescuers search for survivors after landslides kill dozens in Kerala](https://new-news.github.io/Latest/2024/07/30/indian-rescuers-search-for-survivors-after-landslides-kill-dozens-in-kerala 'Indian rescuers search for survivors after landslides kill dozens in Kerala')
 
