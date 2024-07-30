@@ -1,6 +1,6 @@
 # Protests erupt in Venezuela as questions grow over strongman Maduro’s victory
 
-Published :`2024-07-30 12:29:11`
+Published :`2024-07-30 12:55:44`
 
 ---
 
@@ -9,6 +9,8 @@ Protests broke out in several Venezuelan cities on Monday after authoritarian le
 In the capital Caracas, security forces deployed tear gas to disperse a large crowd of protesters, while crowds of people were seen walking down a main road banging pots and pans as anger rose over Maduro’s victory on Sunday. PROVEA, a Venezuelan human rights organization, said pro-Maduro armed groups shot at peaceful demonstrators in Avenue Urdaneta.
 
 Protests were also reported in other cities, including Maracay, where opposition activist Esthefania Natera told CNN that people were on the streets “to yell and demand to tell the truth because we know the real results.” In the coastal state of Falcón, demonstrators toppled a statue of Maduro, video on social media showed.
+
+Venezuelan authorities have announced that flights from Panama and the Dominican Republic will be suspended from Wednesday 8 p.m.
 
 Analysts say there could be a new wave of unrest in the country if there are widespread protests against the regime. Street demonstrations in previous years were crushed by the country’s military, which has long supported Maduro and his predecessor, the late Hugo Chavez.
 
@@ -46,7 +48,9 @@ Venezuela’s government, in turn, said it was expelling diplomatic staff from A
 
 Only a very limited number of election observers were allowed to monitor the vote. These included The Carter Center and the United Nations, which also called on the country’s election commission (CNE) to publish polling station-level results.
 
-“The Carter Center has a big responsibility on their shoulders,” Laura Cristina Dib, the Venezuela Program director at the Washington Office on Latin America (WOLA), told CNN, explaining that it is the only international technical observation mission that can issue a public report on the results. It is unclear when it will be issued.
+“The Carter Center has a big responsibility on their shoulders,” Laura Cristina Dib, the Venezuela Program director at the Washington Office on Latin America (WOLA), told CNN, explaining that it is the only international technical observation mission that can issue a public report on the results.
+
+A preliminary report from the Carter Center was scheduled to release on Tuesday morning, however the organization canceled its publication and is pulling all its staff from the country, according to a person with knowledge of the center’s plans. It is unclear when the report will be issued.
 
 Senior Biden administration officials said Venezuelan election authorities must release the “detailed precinct-level results” from the election. One senior administration official noted that this data is required under Venezuela law and should be immediately available. Another said that if the election results are credible, “then this should be a very simple act and one that they would be able to fulfill quite easily.”
 

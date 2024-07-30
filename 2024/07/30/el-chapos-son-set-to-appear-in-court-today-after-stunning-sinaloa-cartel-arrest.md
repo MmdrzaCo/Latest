@@ -1,6 +1,6 @@
 # El Chapo’s son set to appear in court today after stunning Sinaloa cartel arrest
 
-Published :`2024-07-30 12:29:10`
+Published :`2024-07-30 12:55:44`
 
 ---
 

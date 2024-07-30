@@ -1,6 +1,6 @@
 # In Venezuela, voters caught in Maduro’s dangerous dance are seeking answers
 
-Published :`2024-07-30 12:29:11`
+Published :`2024-07-30 12:55:44`
 
 ---
 
@@ -39,6 +39,8 @@ The United States, the UN and several other countries and institutions have call
 The United Nations and the Carter Center, who were the only two independent election observers allowed inside the country, have also asked for a timely publication of the results.
 
 “Electoral authorities should undertake their work independently and without interference to guarantee the free expression of the will of the electorate,” UN Secretary-General Spokesperson Stephane Dujarric said on Monday.
+
+A preliminary report from the Carter Center was scheduled to release on Tuesday morning, but the organization canceled its publication and is pulling all its staff from the country, according to a person with knowledge of the center’s plans. It is unclear when the report will be issued.
 
 Other Latin American countries, including Argentina, Chile, Costa Rica, Peru, Panama, the Dominican Republic and Uruguay refused to recognize the results and had their diplomatic staff in country expelled Monday.
 

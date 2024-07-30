@@ -1,6 +1,6 @@
 # Venezuela is wracked with protests and election uncertainty. Here’s what to know
 
-Published :`2024-07-30 12:29:10`
+Published :`2024-07-30 12:55:44`
 
 ---
 
@@ -43,6 +43,8 @@ Opposition leaders decried alleged irregularities on Sunday as the votes were be
 The opposition said its witnesses were denied access to the National Electoral Council (CNE) headquarters as votes were being counted; their presence was supposed to ensure transparency and fairness.
 
 Only a very limited number of election observers were allowed to monitor the vote. These included The Carter Center, which called on the CNE to publish polling station-level results, saying that information was “critical to our assessment.”
+
+A preliminary report from the Carter Center was scheduled to release on Tuesday morning, but the organization canceled its publication and is pulling all its staff from the country, according to a person with knowledge of the center’s plans. It is unclear when the report will be issued.
 
 The United Nations was also present, with a spokesperson saying afterward that UN Secretary-General António Guterres called for “complete transparency” and for the electoral body to “undertake their work independently and without interference to guarantee the free expression of the will of the electorate.”
 
