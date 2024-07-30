@@ -1,6 +1,6 @@
 # 3 members of Nelons, Hall of Fame gospel group, among 7 killed in Wyoming plane crash
 
-Published :`2024-07-30 10:16:43`
+Published :`2024-07-30 10:38:49`
 
 ---
 

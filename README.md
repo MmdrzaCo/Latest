@@ -1,14 +1,16 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-30 10:16:43`
+#### Latest Update : `2024-07-30 10:38:49`
 
 ## Latest News Grabbing 
 
 ---
 
-- [El Chapo’s son set to appear in court today after stunning Sinaloa cartel arrest](https://new-news.github.io/Latest/2024/07/30/el-chapos-son-set-to-appear-in-court-today-after-stunning-sinaloa-cartel-arrest 'El Chapo’s son set to appear in court today after stunning Sinaloa cartel arrest')
+- [Indian rescuers search for survivors after landslides kill dozens in Kerala](https://new-news.github.io/Latest/2024/07/30/indian-rescuers-search-for-survivors-after-landslides-kill-dozens-in-kerala 'Indian rescuers search for survivors after landslides kill dozens in Kerala')
 
 - [Taylor Swift ‘in shock’ after stabbing rampage at English children’s dance class leaves two dead and more injured](https://new-news.github.io/Latest/2024/07/30/taylor-swift-in-shock-after-stabbing-rampage-at-english-childrens-dance-class-leaves-two-dead-and-more-injured 'Taylor Swift ‘in shock’ after stabbing rampage at English children’s dance class leaves two dead and more injured')
+
+- [El Chapo’s son set to appear in court today after stunning Sinaloa cartel arrest](https://new-news.github.io/Latest/2024/07/30/el-chapos-son-set-to-appear-in-court-today-after-stunning-sinaloa-cartel-arrest 'El Chapo’s son set to appear in court today after stunning Sinaloa cartel arrest')
 
 - [Lululemon pulls new leggings line that gives customers ‘long butt’](https://new-news.github.io/Latest/2024/07/30/lululemon-pulls-new-leggings-line-that-gives-customers-long-butt 'Lululemon pulls new leggings line that gives customers ‘long butt’')
 
@@ -23,8 +25,6 @@
 - [Kamala Harris has energized Democratic voters. But can she expand the map?](https://new-news.github.io/Latest/2024/07/30/kamala-harris-has-energized-democratic-voters-but-can-she-expand-the-map 'Kamala Harris has energized Democratic voters. But can she expand the map?')
 
 - [‘We failed Sonya,’ Illinois sheriff says about fatal police shooting of Sonya Massey](https://new-news.github.io/Latest/2024/07/30/we-failed-sonya-illinois-sheriff-says-about-fatal-police-shooting-of-sonya-massey '‘We failed Sonya,’ Illinois sheriff says about fatal police shooting of Sonya Massey')
-
-- [Indian rescuers search for survivors after landslides kill dozens in Kerala](https://new-news.github.io/Latest/2024/07/30/indian-rescuers-search-for-survivors-after-landslides-kill-dozens-in-kerala 'Indian rescuers search for survivors after landslides kill dozens in Kerala')
 
 - [Man accused of starting California’s Park Fire is charged with arson](https://new-news.github.io/Latest/2024/07/30/man-accused-of-starting-californias-park-fire-is-charged-with-arson 'Man accused of starting California’s Park Fire is charged with arson')
 

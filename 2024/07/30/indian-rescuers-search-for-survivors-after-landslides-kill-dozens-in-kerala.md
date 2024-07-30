@@ -1,16 +1,20 @@
 # Indian rescuers search for survivors after landslides kill dozens in Kerala
 
-Published :`2024-07-30 10:16:41`
+Published :`2024-07-30 10:38:40`
 
 ---
 
-A massive rescue operation is underway in the southern Indian state of Kerala after major landslides in the northeastern district of Wayanad killed at least 57 people and injured hundreds more, officials said Tuesday.
+A massive rescue operation is underway in the southern Indian state of Kerala after major landslides in the northeastern district of Wayanad killed at least 73 people and injured hundreds more, officials said Tuesday.
 
 At least two landslides hit Wayanad in the early hours of Tuesday morning, impacting about one thousand people, A K Saseendran, the state’s minister for forest and wildlife, told CNN.
 
 “We don’t know if people have been washed away in the river but we are doing our best to rescue people. We are leaving no stone unturned,” Saseendran said.
 
-Rescuers at the site of the landslides, which was covered in mud and toppled trees, carried away bodies in tarps and helped residents move to safety as rain poured down.
+Saseendran said at least 73 bodies have been recovered and dozens more are feared missing. “We don’t have an exact figure, but we are speaking to families both for getting an estimate of who is missing and for identifying bodies,” he said.
+
+The weather has improved slightly allowing rescue efforts to speed up, Saseendran said, adding that a temporary bridge has been constructed to facilitate evacuations, with the army, navy and air force all participating in the emergency response.
+
+Earlier, emergency responders at the site of the landslides – which was covered in mud and toppled trees – carried away bodies in tarps and helped residents move to safety as rain poured down.
 
 The army was dispatched to help rescue 250 people who were stranded in a village after a bridge collapsed, a commissioner for the state’s disaster management authority told CNN.
 
@@ -18,13 +22,13 @@ The national and state disaster rescue forces and the Kerala fire services are a
 
 At least 250 people have been rescued so far, a local minister told Press Trust of India.
 
-Heavy rain made conditions treacherous for rescuers as they tried to determine the full scope of the disaster, while trees and debris obscured access to roads.
+Heavy rain had made conditions treacherous for rescuers as they tried to determine the full scope of the disaster, while trees and debris obscured access to roads.
 
 “Helicopters have also been brought there, but the weather is bad,” said Veena George, the state health minister. “There are many challenges there because there is no electricity.”
 
-The medical superintendent for Dr. Moopen Medical Hospital in the village of Mepaddi told CNN the hospital is running out of ventilators.
+The medical superintendent for Dr. Moopen Medical Hospital in the village of Mepaddi told CNN the adverse weather conditions had meant hospitals were receiving the injured “one by one” and that the hospital is running out of ventilators.
 
-So far 73 patients have been brought in, said Dr. Manoj Narayana. Eight patients of those patients were dead when they arrived, and a further eight are in the intensive care unit, two in critical condition.
+So far 73 patients have been brought in, said Narayana. Eight patients of those patients were dead when they arrived, and a further eight are in the intensive care unit, two in critical condition.
 
 “The injuries they are coming with include fractures, abrasions, lacerations, and quite a number of them have mud in their lungs,” Narayana said.
 
