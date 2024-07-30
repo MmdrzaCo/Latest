@@ -1,6 +1,6 @@
 # Exclusive: The inside story of John Roberts and Trump’s immunity win at the Supreme Court
 
-Published :`2024-07-30 17:35:33`
+Published :`2024-07-30 18:19:53`
 
 ---
 
@@ -16,7 +16,7 @@ In past decades, when the justices took up major tests of presidential power, th
 
 It was understandable for outsiders, and even some justices inside, to believe that middle ground might be found on some issues in the immunity dispute and that Roberts would work against any resounding victory for Trump.
 
-The chief justice’s institutionalist tendency had been cemented over the past two decades. He often talked it up, famously admonishing Trump in 2018 that jurists shed their political affiliation once they take the robe, “We do not have Obama judges or Trump judges, Bush judges or Clinton judges. What we have it an extraordinary group of dedicated judges doing their level best to do equal right to those appearing before them.”
+The chief justice’s institutionalist tendency had been cemented over the past two decades. He often talked it up, famously admonishing Trump in 2018 that jurists shed their political affiliation once they take the robe, “We do not have Obama judges or Trump judges, Bush judges or Clinton judges. What we have is an extraordinary group of dedicated judges doing their level best to do equal right to those appearing before them.”
 
 The chief justice, now 69 and about to begin his 20th term, appears to have abandoned his usual institutional concerns.
 

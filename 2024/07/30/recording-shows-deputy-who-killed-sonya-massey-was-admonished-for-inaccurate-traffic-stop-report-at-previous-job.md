@@ -1,6 +1,6 @@
 # Recording shows deputy who killed Sonya Massey was admonished for inaccurate traffic stop report at previous job
 
-Published :`2024-07-30 17:35:33`
+Published :`2024-07-30 18:19:53`
 
 ---
 

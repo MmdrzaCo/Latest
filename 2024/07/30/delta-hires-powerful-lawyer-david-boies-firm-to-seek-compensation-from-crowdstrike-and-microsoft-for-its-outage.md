@@ -1,6 +1,6 @@
 # Delta hires powerful lawyer David Boies’ firm to seek compensation from CrowdStrike and Microsoft for its outage
 
-Published :`2024-07-30 17:35:33`
+Published :`2024-07-30 18:19:53`
 
 ---
 
@@ -12,7 +12,9 @@ The hiring of the firm of Boies Schiller Flexner, first reported by CNBC, was c
 
 Delta’s costs could total between $325 million to $475 million, according to a note published Tuesday by Savanthi Syth, airline analyst for Raymond James.
 
-Delta had no comment about questions about damages it would be seeking. Microsoft also had no comment and CrowdStrike did not respond to a request for statement.
+Delta had no comment about questions about damages it would be seeking. Microsoft also had no comment.
+
+“We are aware of the reporting, but have no knowledge of a lawsuit and have no further comment,” a CrowdStrike spokesperson told CNN.
 
 The software update of Microsoft Windows systems sent out by CrowdStrike to its customers late on July 18 caused widespread computer outages at businesses around the globe. Although many businesses recovered within hours, Delta faced problems for days, particularly struggling to get its crucial crew-tracking software to work again.
 
