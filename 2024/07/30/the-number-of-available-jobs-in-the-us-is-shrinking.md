@@ -1,6 +1,6 @@
 # The number of available jobs in the US is shrinking
 
-Published :`2024-07-30 22:35:35`
+Published :`2024-07-30 23:13:36`
 
 ---
 

@@ -1,6 +1,6 @@
 # Israel says its Beirut strike killed Hezbollah’s top military commander, who it blames for Golan Heights attack
 
-Published :`2024-07-30 22:35:35`
+Published :`2024-07-30 23:13:34`
 
 ---
 
@@ -25,6 +25,12 @@ The US State Department has a $5 million reward for information on him. In Septe
 According to a senior Israeli official, Israel wanted to send “a very strong message” with Tuesday’s strike, but hopes to avoid further escalation.
 
 “We don’t want this to escalate into a wider war and ultimately whether this escalates or not very much depends on how Hezbollah reacts now,” the senior Israeli official told CNN.
+
+Lebanon’s caretaker Prime Minister Najib Mikati condemned the Israeli attack, saying it was a clear violation of international law. The attack that killed and wounded dozens of Lebanese citizens “is a criminal act,” Mikati told NNA.
+
+Hezbollah MP Ali Ammar told the Lebanese news channel NBN “the enemy knows that the resistance will not be quiet about an assault like this. As our people have become accustomed, this blood will not have been shed in vain.”
+
+Mikati called upon the international community “to assume its responsibility to pressure Israel to stop its aggression and its threats and to implement international resolutions.”
 
 The Iranian Embassy in Lebanon denounced the Israeli strike on Beirut, calling it “cowardly and sinful Israeli aggression” that “claimed the lives of a number of martyrs and wounded,” in a post on X. The Iran-backed Houthis and Hamas also condemned the strike and declared solidarity with Lebanon.
 
@@ -74,7 +80,9 @@ Israeli officials said Tuesday its military “will get to any entity responsibl
 
 The officials also said Israel holds Lebanon responsible for “the strikes conducted from within its territory” and for the group Hezbollah.
 
-Previously, months of tit-for-tat attacks between Israel and Hezbollah had largely been confined to areas near the border between Lebanon and Israel.
+Israel is not looking for war, “but we are well-prepared for it,” IDF chief spokesperson Admiral Daniel Hagari said in a press conference on Tuesday.
+
+Previously, months of tit-for-tat attacks between Israel and Hezbollah had largely been confined to areas near the border between Lebanon and Israel. “On October 8, Hezbollah terror organization launched a war against Israel, and by doing so joined the Hamas terror organization. We’re fighting with determination,” Hagari said.
 
 On Monday, Lebanon’s foreign minister told CNN that an Israeli attack in the southern suburbs of Beirut, or the international airport, “would surely lead to war.” Hezbollah chief Hassan Nasrallah has repeatedly said that any Israeli strike on the Lebanese capital would prompt a Hezbollah attack on Tel Aviv.
 

@@ -1,6 +1,6 @@
 # Lululemon pulls new leggings line that gives customers ‘long butt’
 
-Published :`2024-07-30 22:35:36`
+Published :`2024-07-30 23:13:36`
 
 ---
 

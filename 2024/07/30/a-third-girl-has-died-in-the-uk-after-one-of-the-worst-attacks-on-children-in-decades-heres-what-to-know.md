@@ -1,6 +1,6 @@
 # A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know
 
-Published :`2024-07-30 22:35:36`
+Published :`2024-07-30 23:13:34`
 
 ---
 
@@ -59,6 +59,22 @@ Starmer laid a wreath of cream and yellow-colored flowers at the scene, alongsid
 Taylor Swift, whose music was the theme of the dance class that was targeted by the attack, said Tuesday she was “completely in shock.”
 
 “The horror of yesterday’s attack in Southport is washing over me continuously, and I’m just completely in shock. The loss of life and innocence, and the horrendous trauma inflicted on everyone who was there, the families, and first responders. These were just little kids at a dance class. I am at a complete loss for how to ever convey my sympathies to these families,” Swift wrote on Instagram on Tuesday.
+
+### Protesters clash with police
+
+Southport police said Tuesday that a protest by a large group of people had turned violent after items were thrown toward a local mosque, leading to the injury of an officer and police vehicles being set on fire.
+
+Police said the protesters are believed to be supporters of the far-right English Defence League who took to the streets in anger due to reports speculating that the 17-year-old attacker is Muslim.
+
+“There has been much speculation and hypothesis around the status of a 17-year-old male who is currently in police custody, and some individuals are using this to bring violence and disorder to our streets,” Assistant Chief Constable Alex Goss said in the statement.
+
+“We have already said that the person arrested was born in the UK, and speculation helps nobody at this time.”
+
+Officers were deployed to the scene and faced “criminal behavior and violence with bottles and wheelie bins being thrown at them.”
+
+“As a result, an officer has suffered a suspected broken nose, and police vehicles have been damaged and set alight,” the statement said.
+
+“Yesterday, our officers and other members of the emergency services were faced with one of the most difficult situations they will ever face. Tonight, they find themselves being attacked as they endeavor to prevent disorder,” the Assistant Chief Constable said.
 
 ---
 
