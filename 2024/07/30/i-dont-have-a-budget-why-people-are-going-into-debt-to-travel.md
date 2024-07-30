@@ -1,6 +1,6 @@
 # ‘I don’t have a budget’: Why people are going into debt to travel
 
-Published :`2024-07-30 12:55:47`
+Published :`2024-07-30 13:18:38`
 
 ---
 
