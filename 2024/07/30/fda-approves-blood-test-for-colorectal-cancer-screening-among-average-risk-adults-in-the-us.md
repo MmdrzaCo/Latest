@@ -1,6 +1,6 @@
 # FDA approves blood test for colorectal cancer screening among average-risk adults in the US
 
-Published :`2024-07-30 02:47:17`
+Published :`2024-07-30 03:19:13`
 
 ---
 

@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-30 02:47:19`
+#### Latest Update : `2024-07-30 03:19:21`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Former BBC News presenter Huw Edwards charged with making indecent images of children](https://new-news.github.io/Latest/2024/07/30/former-bbc-news-presenter-huw-edwards-charged-with-making-indecent-images-of-children 'Former BBC News presenter Huw Edwards charged with making indecent images of children')
 
 - [Two children killed and nine injured in knife attack at dance class in northern England](https://new-news.github.io/Latest/2024/07/30/two-children-killed-and-nine-injured-in-knife-attack-at-dance-class-in-northern-england 'Two children killed and nine injured in knife attack at dance class in northern England')
 
@@ -71,8 +73,6 @@
 - [More than half of American renters who want to buy a home fear they’ll never afford one](https://new-news.github.io/Latest/2024/07/30/more-than-half-of-american-renters-who-want-to-buy-a-home-fear-theyll-never-afford-one 'More than half of American renters who want to buy a home fear they’ll never afford one')
 
 - [Far-right lawmakers break into Israeli detention camp, protesting probe into soldiers’ alleged abuse of prisoner](https://new-news.github.io/Latest/2024/07/30/far-right-lawmakers-break-into-israeli-detention-camp-protesting-probe-into-soldiers-alleged-abuse-of-prisoner 'Far-right lawmakers break into Israeli detention camp, protesting probe into soldiers’ alleged abuse of prisoner')
-
-- [Former BBC News presenter Huw Edwards charged with making indecent images of children](https://new-news.github.io/Latest/2024/07/30/former-bbc-news-presenter-huw-edwards-charged-with-making-indecent-images-of-children 'Former BBC News presenter Huw Edwards charged with making indecent images of children')
 
 - [See where abortions are banned and legal — and where it’s still in limbo](https://new-news.github.io/Latest/2024/07/30/see-where-abortions-are-banned-and-legal-—-and-where-its-still-in-limbo 'See where abortions are banned and legal — and where it’s still in limbo')
 
