@@ -1,6 +1,6 @@
 # A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know
 
-Published :`2024-07-30 14:35:33`
+Published :`2024-07-30 15:16:14`
 
 ---
 
@@ -14,7 +14,7 @@ Here is what we know about the attack.
 
 ### What happened?
 
-The police said Monday that two girls, aged 6 and 7, were killed and six of the nine that were injured were in critical condition. A day later, the police said another child, a 9-year-old girl, died as a result of her injuries early Tuesday morning.
+Police said Monday two girls, aged 6 and 7, were killed and six of the nine that were injured were in critical condition. Officers said the following day that another child, a 9-year-old girl, had died as a result of her injuries. Police later named the girls who died as Alice Dasilva Aguiar, 9, Bebe King, 6, and 7-year-old Elsie Dot Stancombe.
 
 Two adults were also critically injured, police said, adding that they suffered their injures because they “were bravely trying to protect the children who were being attacked.”
 

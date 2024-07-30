@@ -1,16 +1,16 @@
 # Indian rescuers search for survivors after landslides kill dozens in Kerala
 
-Published :`2024-07-30 14:35:33`
+Published :`2024-07-30 15:16:14`
 
 ---
 
-A massive rescue operation is underway in the southern Indian state of Kerala after major landslides in the northeastern district of Wayanad killed at least 73 people and injured hundreds more, officials said Tuesday.
+A massive rescue operation is underway in the southern Indian state of Kerala after major landslides in the northeastern district of Wayanad killed at least 93 people and injured 128 others, the state’s chief minister Pinarayi Vijayan said Tuesday.
 
 At least two landslides hit Wayanad in the early hours of Tuesday morning, impacting about one thousand people, A K Saseendran, the state’s minister for forest and wildlife, told CNN.
 
 “We don’t know if people have been washed away in the river but we are doing our best to rescue people. We are leaving no stone unturned,” Saseendran said.
 
-Saseendran said at least 73 bodies have been recovered and dozens more are feared missing. “We don’t have an exact figure, but we are speaking to families both for getting an estimate of who is missing and for identifying bodies,” he said.
+Many of the victims had drowned, Vijayan said, adding the casualty toll was not final as “things could change in the coming hours.”
 
 The weather has improved slightly allowing rescue efforts to speed up, Saseendran said, adding that a temporary bridge has been constructed to facilitate evacuations, with the army, navy and air force all participating in the emergency response.
 

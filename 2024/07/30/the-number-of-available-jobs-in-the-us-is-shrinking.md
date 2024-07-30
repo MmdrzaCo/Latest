@@ -1,14 +1,20 @@
 # The number of available jobs in the US is shrinking
 
-Published :`2024-07-30 14:35:33`
+Published :`2024-07-30 15:16:14`
 
 ---
 
-Companies in the US had fewer open jobs in June than they did the month before, another sign that the once-scalding-hot labor market is settling into a steady state.
+Job opportunities are slowly disappearing, and workers are increasingly sticking with the one they already have.
 
-Employers posted an estimated 8.18 million jobs in June, according to the Bureau of Labor Statistics’ latest Job Openings and Labor Turnover Survey (JOLTS) report released Tuesday. Last month’s tally was higher than economists expected but marked a slight step back from the upwardly revised tally of 8.23 million openings in May and represents the second-lowest monthly total seen so far this year.
+That’s according to the latest Labor Department data on job openings, which edged back slightly in June. The monthly Job Openings and Labor Turnover Survey also showed that hiring activity sank, layoffs were muted and the number of people quitting their jobs hit a three-year low, according to data released Tuesday.
 
-Economists were expecting job openings to shrink to 8 million, according to Fact Set consensus estimates.
+It’s yet another sign that the once-scalding-hot labor market is settling into a steadier state.
+
+In June, employers posted an estimated 8.18 million jobs, a total that was higher than what economists expected but marking a slight step back from the upwardly revised tally of 8.23 million openings in May. It’s the second-lowest monthly total seen so far this year.
+
+Economists were expecting job openings to shrink to 8 million, according to FactSet consensus estimates.
+
+The hiring activity last month was some of the weakest seen in years: The 5.34 million estimated hires and the hires rate (number of hires as a percentage of employment) were the lowest since April 2020, when the jobs market collapsed at the start of the pandemic.
 
 This story is developing and will be updated.
 

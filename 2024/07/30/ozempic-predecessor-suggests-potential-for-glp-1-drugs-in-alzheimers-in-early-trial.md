@@ -1,6 +1,6 @@
 # Ozempic predecessor suggests potential for GLP-1 drugs in Alzheimer’s in early trial
 
-Published :`2024-07-30 14:35:33`
+Published :`2024-07-30 15:16:14`
 
 ---
 
