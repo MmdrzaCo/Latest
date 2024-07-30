@@ -1,6 +1,6 @@
 # US to revamp military forces in Japan in ‘historic’ move as regional tensions mount
 
-Published :`2024-07-30 06:21:28`
+Published :`2024-07-30 06:41:01`
 
 ---
 
