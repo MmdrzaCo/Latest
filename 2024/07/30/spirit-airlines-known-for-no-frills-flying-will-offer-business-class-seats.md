@@ -1,10 +1,10 @@
 # Spirit Airlines, known for no-frills flying, will offer business-class seats
 
-Published :`2024-07-30 20:35:53`
+Published :`2024-07-30 21:15:17`
 
 ---
 
-Spirit AIrlines, the ultra-low cost carrier known for charging bargain-hunting passengers for anything and everything, is introducing business class seating.
+Spirit Airlines, the ultra-low cost carrier known for charging bargain-hunting passengers for anything and everything, is introducing business class seating.
 
 The airline said it will allow customers to pay extra for what it’s calling “a big front seat,” with two pairs of wider seats at the front of the cabin taking up the space formerly occupied by three seats on each side of the aisle. The seats will also offer additional legroom. Farther back in the plane Spirit will also allow passengers to pay more for seats in rows where the middle seat will not be sold.
 

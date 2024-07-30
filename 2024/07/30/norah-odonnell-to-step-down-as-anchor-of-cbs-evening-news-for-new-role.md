@@ -1,6 +1,6 @@
 # Norah O’Donnell to step down as anchor of ‘CBS Evening News’ for new role
 
-Published :`2024-07-30 20:35:52`
+Published :`2024-07-30 21:15:17`
 
 ---
 
@@ -14,11 +14,15 @@ In a note to staff Tuesday, O’Donnell said that while she has cherished her ti
 
 O’Donnell added that she has made a “long-term commitment” to stay with CBS News and will “continue to do the same storytelling and big interviews that have been our hallmark.”
 
-The move comes as CBS parent company Paramount Global announced plans to merge with Skydance Media and a major leadership change. Earlier this month, CBS News President Ingrid Ciprián-Matthews abruptly announced that she will step down from her role as the company prepares for the merger. While O’Donnell’s new role is not directly tied to Skydance’s takeover, the changing media landscape weighed on her decision, she said.
+The move comes during a period of drastic change for CBS. Earlier this month, CBS parent company Paramount Global announced plans to merge with Skydance Media and a major leadership change. Just days later, CBS News President Ingrid Ciprián-Matthews abruptly announced that she would be stepping down from her role leading the news division ahead of the high-stakes presidential election.
+
+While O’Donnell’s decision to step away from the anchor chair is not directly tied to Skydance’s takeover, the changing media landscape weighed on her decision, she said.
 
 “I don’t need to tell you what a transformative time our business is facing. I see this as an opportunity,” O”Donnell wrote, thanking Wendy McMahon, the chief executive of CBS News, Stations and CBS Media Ventures, for allowing her “to extend the reach of the work we do to new audiences in new ways.”
 
-McMahon, in her own memo to staff, said that CBS remains committed to CBS Evening News. O’Donnell, she said, “will have the time and the support to deliver even more of the exceptional stories she is known for across our shows and streams, across CBS Network and Paramount+. She will have the real estate and flexibility to leverage big bookings on numerous platforms, including primetime specials, 60 Minutes, CBS News Sunday Morning, and more.”
+McMahon, in her own memo to staff, said that the network remains committed to CBS Evening News and would continue its mission.
+
+“In her new role, Norah will have the time and the support to deliver even more of the exceptional stories she is known for across our shows and streams, across CBS Network and Paramount+,” McMahon wrote. “She will have the real estate and flexibility to leverage big bookings on numerous platforms, including primetime specials, 60 Minutes, CBS News Sunday Morning, and more.”
 
 The decision to step away from the anchor chair was her own, O’Donnell wrote, although she has survived previous attempts by network brass to replace her. Two years ago, CNN reported that then-CBS News President Neeraj Khemlani had tried to recruit former NBC Nightly News anchor Brian Williams for the role, which he turned down at the time.
 

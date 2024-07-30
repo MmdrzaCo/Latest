@@ -1,6 +1,6 @@
 # Takeaways from the Senate hearing on the Trump assassination attempt and Secret Service failure
 
-Published :`2024-07-30 20:35:53`
+Published :`2024-07-30 21:15:17`
 
 ---
 

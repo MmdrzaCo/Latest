@@ -1,6 +1,6 @@
 # Israel targets Hezbollah commander in Beirut strike after deadly Golan Heights attack
 
-Published :`2024-07-30 20:35:53`
+Published :`2024-07-30 21:15:17`
 
 ---
 
@@ -26,7 +26,7 @@ According to a senior Israeli official, Israel wanted to send “a very strong m
 
 “We don’t want this to escalate into a wider war and ultimately whether this escalates or not very much depends on how Hezbollah reacts now,” the senior Israeli official told CNN.
 
-The Iranian Embassy in Lebanon denounced the Israeli strike on Beirut, calling it “cowardly and sinful Israeli aggression” that “claimed the lives of a number of martyrs and wounded,” in a post on X.
+The Iranian Embassy in Lebanon denounced the Israeli strike on Beirut, calling it “cowardly and sinful Israeli aggression” that “claimed the lives of a number of martyrs and wounded,” in a post on X. The Iran-backed Houthis and Hamas also condemned the strike and declared solidarity with Lebanon.
 
 ### Scenes of chaos
 

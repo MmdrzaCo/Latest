@@ -1,6 +1,6 @@
 # United Airlines says flight attendant in Terrell Davis incident is no longer employed and NFL legend’s ‘no fly’ ban is lifted
 
-Published :`2024-07-30 20:35:52`
+Published :`2024-07-30 21:15:16`
 
 ---
 
@@ -12,7 +12,7 @@ United said the letter was sent to Davis the day after the incident, and that th
 
 Additionally, the airline said the flight attendant involved in the controversy is no longer an employee. It was not immediately clear if the flight attendant’s employment status is a result of the incident involving Davis. CNN has asked United for more details.
 
-Davis’ attorney Parker Stinar told CNN in a statement Tuesday United’s claim that the “apparently withdrawn” ban had been communicated to Davis’ lawyers “is blatantly false,” and only following his social media post did Davis become aware of the ban being rescinded.
+Davis’ attorney Parker Stinar said in a statement Tuesday United’s claim that the “apparently withdrawn” ban had been communicated to Davis’ lawyers “is blatantly false,” and only following his social media post did Davis become aware of the ban being rescinded.
 
 “Engaging in tactics in an attempt to discredit the timeline of events is worrisome, to say the least,” Stiner said.
 
