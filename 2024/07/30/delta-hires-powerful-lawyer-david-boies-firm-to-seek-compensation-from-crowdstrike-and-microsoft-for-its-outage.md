@@ -1,6 +1,6 @@
 # Delta hires powerful lawyer David Boies’ firm to seek compensation from CrowdStrike and Microsoft for its outage
 
-Published :`2024-07-30 23:13:35`
+Published :`2024-07-30 23:36:40`
 
 ---
 

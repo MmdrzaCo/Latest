@@ -1,6 +1,6 @@
 # Judge permanently blocks part of Florida’s ‘Stop WOKE Act’
 
-Published :`2024-07-30 23:13:37`
+Published :`2024-07-30 23:36:44`
 
 ---
 

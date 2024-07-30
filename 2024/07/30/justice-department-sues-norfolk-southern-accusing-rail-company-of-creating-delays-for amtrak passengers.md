@@ -1,6 +1,6 @@
 # Justice Department sues Norfolk Southern, accusing rail company of creating delays for Amtrak passengers
 
-Published :`2024-07-30 23:13:35`
+Published :`2024-07-30 23:36:39`
 
 ---
 

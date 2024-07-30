@@ -1,6 +1,6 @@
 # Angelina Jolie’s son Pax ‘stable’ following bike accident
 
-Published :`2024-07-30 23:13:35`
+Published :`2024-07-30 23:36:37`
 
 ---
 
@@ -15,6 +15,8 @@ The victim was in stable condition when he was transported to a local hospital, 
 Cuellar could not identify the victim or detail his injuries, citing privacy laws.
 
 Cuellar said no citations were issued and a traffic incident report was filed. Police found no evident of DUI or any crime.
+
+CNN has reached out to a representative for Jolie for comment.
 
 Pax is one of six children Jolie shares with former husband Brad Pitt. They are also parents to Maddox, 22; Zahara, 19; Shiloh, 18 and 16-year-old twins Knox and Vivienne.
 

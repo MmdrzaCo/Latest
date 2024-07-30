@@ -1,6 +1,6 @@
 # Minnesota Spice: Gov. Tim Walz, a Harris VP contender, delights Democrats with MAGA mockery
 
-Published :`2024-07-30 23:13:36`
+Published :`2024-07-30 23:36:42`
 
 ---
 
