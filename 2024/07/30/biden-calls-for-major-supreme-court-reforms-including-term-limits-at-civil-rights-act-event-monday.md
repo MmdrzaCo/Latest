@@ -1,6 +1,6 @@
 # Biden calls for major Supreme Court reforms, including term limits, at Civil Rights Act event Monday
 
-Published :`2024-07-30 11:37:05`
+Published :`2024-07-30 12:29:11`
 
 ---
 

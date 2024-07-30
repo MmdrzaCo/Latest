@@ -1,6 +1,6 @@
 # Indian rescuers search for survivors after landslides kill dozens in Kerala
 
-Published :`2024-07-30 11:37:03`
+Published :`2024-07-30 12:29:10`
 
 ---
 
@@ -28,9 +28,9 @@ Heavy rain had made conditions treacherous for rescuers as they tried to determi
 
 The medical superintendent for Dr. Moopen Medical Hospital in the village of Mepaddi told CNN the adverse weather conditions had meant hospitals were receiving the injured “one by one” and that the hospital is running out of ventilators.
 
-So far 73 patients have been brought in, said Narayana. Eight patients of those patients were dead when they arrived, and a further eight are in the intensive care unit, two in critical condition.
+So far 73 patients have been brought in, said Narayanan. Eight patients of those patients were dead when they arrived, and a further eight are in the intensive care unit, two in critical condition.
 
-“The injuries they are coming with include fractures, abrasions, lacerations, and quite a number of them have mud in their lungs,” Narayana said.
+“The injuries they are coming with include fractures, abrasions, lacerations, and quite a number of them have mud in their lungs,” Narayanan said.
 
 CNN Weather reported widespread rainfall totals of 6 inches across Kerala, with some areas seeing almost 10 inches of rain. Kerala’s summers tend to be very wet, and these rainfall totals are standard for this time of year.
 
