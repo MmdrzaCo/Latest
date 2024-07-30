@@ -1,20 +1,16 @@
 # El Chapo’s son pleads not guilty to narcotics, money laundering and firearms charges
 
-Published :`2024-07-30 17:13:14`
+Published :`2024-07-30 17:35:33`
 
 ---
 
-[Breaking news update, published at 1:03 p.m. ET]
-
 Joaquín Guzmán López, the son of the former Sinaloa cartel boss Joaquín “El Chapo” Guzmán, pleaded not guilty in federal court to narcotics, money laundering and firearms charges in Chicago Tuesday, just days after he was taken into American custody in a stunning arrest full of international betrayal and intrigue.
 
-[Original story, published at 6:01 a.m. ET]
+Guzmán Lopez, known as one of the “Chapitos,” or sons of El Chapo, is facing the death penalty, his attorney, Jeffrey Lichtman, acknowledged when speaking to reporters after court.
 
-Joaquín Guzmán López, the son of the former Sinaloa cartel boss Joaquín “El Chapo” Guzmán, is set to appear in federal court in Chicago Tuesday, just days after he was taken into American custody in a stunning arrest full of international betrayal and intrigue.
+Guzmán Lopez, wearing an orange jumpsuit and ankle chains, informed the court that he is receiving care for thyroid and high blood pressure problems.
 
-Guzmán López – known as one of the “Chapitos,” or sons of El Chapo – was previously indicted by a federal grand jury in Illinois on narcotics, money laundering and firearms charges, according to a statement last year from the US Justice Department.
-
-“I’m looking forward to seeing Joaquín and working on the case with him,” his attorney, Jeffrey Lichtman, told CNN Saturday.
+Guzmán López was indicted by a federal grand jury in Illinois on narcotics, money laundering and firearms charges, according to a statement last year from the US Justice Department.
 
 The court appearance comes after Guzmán López, 38, and Ismael “El Mayo” Zambada, the cartel’s alleged co-founder, were arrested Thursday by US authorities in El Paso, Texas. They face several charges for allegedly leading the criminal operations of what is considered to be one of the world’s most powerful and deadly drug trafficking operations.
 

@@ -1,6 +1,6 @@
 # Earthquake shakes Los Angeles, with epicenter near Barstow
 
-Published :`2024-07-30 17:13:16`
+Published :`2024-07-30 17:35:34`
 
 ---
 

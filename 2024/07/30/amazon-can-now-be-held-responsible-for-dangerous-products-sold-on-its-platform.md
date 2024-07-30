@@ -1,6 +1,6 @@
 # Amazon can now be held responsible for dangerous products sold on its platform
 
-Published :`2024-07-30 17:13:14`
+Published :`2024-07-30 17:35:33`
 
 ---
 
@@ -30,7 +30,7 @@ During the proceedings, the administrative law judge ruled that Amazon acted as 
 
 CPSC also argued that Amazon’s actions after the lawsuit – sending messages to initial buyers about “potential” safety issues and providing Amazon credit instead of a refund encouraging a return or destruction of the product – wasn’t enough. The judge agreed, CPSC said.
 
-Amazon claims in a statement when it was notified about the potential safety issues, it “swiftly notified customers, instructed them to stop using the products, and refunded them.”
+Amazon said in a statement that, when notified about the potential safety issues, it “swiftly notified customers, instructed them to stop using the products, and refunded them.”
 
 ﻿CNN’s Chris Isidore contributed to this report.
 

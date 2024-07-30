@@ -1,6 +1,6 @@
 # Johnson and Jeffries announce members to serve on bipartisan task force to investigate Trump assassination attempt
 
-Published :`2024-07-30 17:13:17`
+Published :`2024-07-30 17:35:35`
 
 ---
 
