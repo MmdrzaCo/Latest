@@ -1,6 +1,6 @@
 # Heat is testing the limits of human survivability. Here’s how it kills
 
-Published :`2024-07-30 09:36:57`
+Published :`2024-07-30 10:16:42`
 
 ---
 
