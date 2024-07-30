@@ -1,6 +1,6 @@
 # El Chapo’s son pleads not guilty to narcotics, money laundering and firearms charges
 
-Published :`2024-07-30 18:39:36`
+Published :`2024-07-30 19:12:59`
 
 ---
 

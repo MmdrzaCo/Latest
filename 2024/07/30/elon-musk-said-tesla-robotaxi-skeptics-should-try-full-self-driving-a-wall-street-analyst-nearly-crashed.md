@@ -1,6 +1,6 @@
 # Elon Musk said Tesla robotaxi skeptics should try ‘full self driving.’ A Wall Street analyst nearly crashed
 
-Published :`2024-07-30 18:39:36`
+Published :`2024-07-30 19:12:58`
 
 ---
 
@@ -12,7 +12,7 @@ Tesla’s FSD driver-assist feature is sold as an $8,000 option. It can navigate
 
 “I would encourage anyone to understand the system better to simply try it out, let the car drive you around,” he said on an investors call earlier this month after reporting disappointing second quarter financial results. “Once people use it, the they tend to continue using it. So it’s vastly compelling.”
 
-But there were problems when Truist’s Stein recently tried a special “demo mode” only available to Tesla employees during demonstration drives, he wrote in a note. He wrote it made a number of illegal maneuers while in FSD mode, including switching lanes on a portion of highway with solid white lines indicating lane changes were prohibited.
+But there were problems when Truist’s Stein recently tried a special “demo mode” only available to Tesla employees during demonstration drives, he wrote in a note. He wrote it made a number of illegal maneuvers while in FSD mode, including switching lanes on a portion of highway with solid white lines indicating lane changes were prohibited.
 
 In addition “the Model Y accelerated through an intersection as the car in front of us had only partly completed a right-turn. My quick intervention was absolutely required to avoid an otherwise certain accident,” he wrote. “Another intervention was required when a police officer used hand motions to signal to us to pull to the side of the road to allow a funeral procession to pass.”
 
