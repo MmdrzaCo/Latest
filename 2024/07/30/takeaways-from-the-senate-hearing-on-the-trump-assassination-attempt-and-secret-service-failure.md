@@ -1,6 +1,6 @@
 # Takeaways from the Senate hearing on the Trump assassination attempt and Secret Service failure
 
-Published :`2024-07-30 19:36:53`
+Published :`2024-07-30 20:14:45`
 
 ---
 
@@ -10,7 +10,9 @@ But at the joint hearing of the Judiciary and Homeland Security committees, Rowe
 
 Rowe testified that Secret Service agents on Trump’s security detail, as well as snipers on duty, were not told that the shooter, Thomas Matthew Crooks, was positioned on a nearby roof with a rifle and only learned of his presence after he started shooting.
 
-The hearing was the fourth such one held on Capitol Hill since the assassination attempt, and though it grew testy at times, especially during some exchanges with Republican senators, lawmakers appeared largely satisfied with the information provided by Rowe and Deputy FBI Director Paul Abbate during their more than three hours of testimony.
+Federal investigators are looking into a YouTube account possibly connected to Crooks in which the user espoused political violence as well as antisemitic and anti-immigration themes, a source familiar with the investigation tells CNN. Deputy FBI Director Paul Abbate described the account but did not reveal the platform at the hearing.
+
+The hearing was the fourth such one held on Capitol Hill since the assassination attempt, and though it grew testy at times, especially during some exchanges with Republican senators, lawmakers appeared largely satisfied with the information provided by Rowe and Abbate during their more than three hours of testimony.
 
 Overall, it stood in stark contrast with a House hearing held last week in which lawmakers grilled then-Secret Service Director Kimberly Cheatle over what went wrong earlier this month, with several members demanding she resign over the lapses. A day later, she did just that.
 
@@ -92,7 +94,7 @@ At another point during Tuesday’s hearing, Republican Sen. Ted Cruz repeatedly
 
 ### Crooks’ online presence
 
-Investigators have uncovered a social media account with posts espousing political violence that may be connected to the would-be Donald Trump assassin, Abbate said.
+Investigators have uncovered a social media account with posts espousing political violence that may be connected to the would-be Trump assassin, Abbate said.
 
 Officials have repeatedly said that they have struggled to understand what the 20-year-old shooter’s motive was, and that they are combing his online presence for more information.
 
@@ -100,9 +102,13 @@ Officials have repeatedly said that they have struggled to understand what the 2
 
 On that account, “there were over 700 comments,” Abbate said, which, “if ultimately attributable to the shooter, appear to reflect antisemitic and anti-immigration themes, to espouse political violence, and are described as extreme in nature.”
 
+CNN has learned the account is on the YouTube platform.
+
 A separate account on the platform Gab – which was made years earlier – appears to have “differing points of view,” Abbate added.  Gab CEO Andrew Tobra revealed last week that the would-be assassin may have had an account on the site, which is an alternative social media network popular with conservatives, the alt-right and some extremists. Tobra claimed that the account in question was “pro-Biden.”
 
 The Gab account has also not been conclusively connected to Crooks.
+
+This story has been updated with additional developments.
 
 ---
 

@@ -1,6 +1,6 @@
 # ‘Catastrophic flooding’ forces water rescues in Vermont after 1-in-1,000-year rainfall event
 
-Published :`2024-07-30 19:36:55`
+Published :`2024-07-30 20:14:45`
 
 ---
 
@@ -33,6 +33,28 @@ This is the third devastating flood event to hit Vermont in just over a year.
 More than 100 people were rescued and at least one person died in early July after the remnants of Hurricane Beryl doused the state.
 
 Northeast Vermont and other portions of the state are also still recovering from more extensive flooding just over a year ago. Last year’s flooding caused numerous road and bridge washouts, land and mudslides resulting in significant property damage and loss.
+
+### ‘This community has been hurt’
+
+The owners of Papa Tirozzi’s Bakery, Pizza and Fish Shack believed they already saw the worst of Mother Nature when their restaurant’s driveway was destroyed from the remnants of Beryl earlier this month.
+
+On Tuesday they learned they were wrong.
+
+“(Our driveway) was annihilated,” Nancy Tirozzi told CNN Tuesday. “But now, it’s 20 times worse.”
+
+Nancy and her husband, Anthony, rushed to their restaurant in St. Johnsbury, about two hours east of Burlington, as soon as they got an emergency weather warning around 4 a.m.
+
+“We had no idea anything like this was gonna happen,” Nancy said, adding the floodwaters were up to 5 feet deep outside the restaurant when they arrived. Once they had receded, the couple turned toward working tirelessly to try to clean up the mess.
+
+“I can’t stop crying,” Nancy said. “It’s bad, it’s really, really, bad. This community has been hurt.”
+
+The property itself was too damaged to repair themselves, so the couple focused their energy on the inside of the building, sweeping out water and mud and ripping out the molding on the floor.
+
+They hope they can clean up enough to reopen in the next few days, but their hurried work might be for nought.
+
+“When you’re not open, you can’t make money,” Nancy said. “But at this point, you can’t get to us. Our street is closed down,” she added.
+
+Nancy’s belief in her tight-knit community is what is pulling her through this moment of despair. That, and the thought of supplying them again soon with food that brings them together.
 
 The Associated Press and CNN’s Robert Shackelford, Amy Simonson and Lauren Rapp contributed to this report.
 

@@ -1,6 +1,6 @@
 # Israel targets Hezbollah commander in Beirut strike after deadly Golan Heights attack
 
-Published :`2024-07-30 19:36:53`
+Published :`2024-07-30 20:14:45`
 
 ---
 
@@ -8,17 +8,21 @@ Israel says it launched a strike in Beirut, Lebanon, targeting a Hezbollah comma
 
 At least one person was killed and several others injured in the strike, according to Lebanese state news agency NNA. The injured, including some with serious wounds, have been taken to nearby hospitals.
 
-Israel’s Defense Minister Yoav Gallant said “Hezbollah crossed the red line” in a social media post minutes after the Israeli military claimed responsibility for the retaliatory strike on Tuesday. The Iran-backed group has denied being behind the Golan Heights strike.
+Israel’s Defense Minister Yoav Gallant said “Hezbollah crossed the red line” in a social media post minutes after the Israeli military claimed responsibility for the retaliatory strike on Tuesday. The Iran-backed group has denied being behind the Golan Heights strike three days earlier.
 
 Meanwhile, Israel’s national security minister Itamar Ben-Gvir said in a separate post on his official X account that “every dog shall have his day.”
 
-The sequence of attacks mark the most significant Israeli escalation since tensions between Israel and the Iranian-backed militant group flared after October 7.
+The sequence of attacks mark the most significant Israeli escalation since tensions between Israel and Hezbollah flared after October 7.
 
 The Israel Defense Forces (IDF) said it had “carried out a targeted strike in Beirut, on the commander responsible for the murder of the children in Majdal Shams and the killing of numerous additional Israeli civilians.” It did not provide details about how the strike was carried out.
 
-An Israeli official identified the target of the strike as Fu’ad Shukr, also known as al-Hajj Mohsin. Shukr is a senior adviser to Hezbollah chief Hassan Nasrallah, according to the US government website. He serves in the highest military rank of the militant group.
+An Israeli official identified the target as Fu’ad Shukr, also known as al-Hajj Mohsin. Shukr is a senior adviser to Hezbollah chief Hassan Nasrallah and serves in the group’s “highest military body, the Jihad Council,” according to the US government website.
 
-Israel wanted to send “a very strong message” with tonight’s strike, according to a senior Israeli official, but hopes to avoid further escalation.
+The US State Department has a $5 million reward for information on him. In September 2019, the State Department designated him a “Specially Designated Global Terrorist pursuant to Executive Order 13224,” more than four years after the US Treasury Department imposed sanctions on Shukr and two other Hezbollah leaders.
+
+A senior Lebanese government official told CNN that Shukr survived the Israeli strike that targeted him.
+
+According to a senior Israeli official, Israel wanted to send “a very strong message” with Tuesday’s strike, but hopes to avoid further escalation.
 
 “We don’t want this to escalate into a wider war and ultimately whether this escalates or not very much depends on how Hezbollah reacts now,” the senior Israeli official told CNN.
 
@@ -34,7 +38,7 @@ Video from Reuters showed the aftermath of the strike in southern Beirut. Emerge
 
 In a video obtained by CNN, huge plumes of smoke can be seen billowing from the area of the strike.
 
-A CNN journalist on the ground saw scenes of chaos on the street as ambulances and fire trucks rushed to the targeted building. The journalist also saw paramedics carrying an injured person on a stretcher.
+A CNN journalist on the ground saw scenes of chaos as ambulances and fire trucks rushed to the targeted building. The journalist also saw paramedics carrying an injured person on a stretcher.
 
 At least five stories of a section of the targeted building were destroyed in the strike, CNN analysis of images and videos showed.
 
@@ -42,7 +46,7 @@ Aftermath photos and videos analyzed by CNN showed that the strike was directed 
 
 A CNN journalist on scene reported there was almost no apparent damage to the surrounding buildings. The windows appear to be largely intact. The shops in the areas also appear untouched by the strike. Lebanese soldiers have cordoned off part of the area around the building.
 
-The targeted building was is next to the Bahman Hospital. There were no immediate photos or videos showing damage to the hospital, and it was unclear whether it was damaged. CNN has been unable to reach the hospital for comment.
+The targeted building is next to the Bahman Hospital. There were no immediate photos or videos showing damage to the hospital, and it was unclear whether it had been damaged. CNN has been unable to reach the hospital for comment.
 
 Israel vowed earlier this week that Hezbollah would “pay the price” for a rocket attack on a soccer field that killed 12 children and injured 44 people in the town of Majdal Shams near the Syrian and Lebanese borders.
 
@@ -68,7 +72,7 @@ Israeli officials said Tuesday its military “will get to any entity responsibl
 
 “As long as the aggression stops and the terrorist threats posed against our citizens are removed, life can go back to normal in [both] Israel and Lebanon,” the Israeli officials said.
 
-The officials also say Israel holds Lebanon responsible for “the strikes conducted from within its territory” and for the group Hezbollah.
+The officials also said Israel holds Lebanon responsible for “the strikes conducted from within its territory” and for the group Hezbollah.
 
 Previously, months of tit-for-tat attacks between Israel and Hezbollah had largely been confined to areas near the border between Lebanon and Israel.
 
