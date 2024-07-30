@@ -1,6 +1,6 @@
 # In Harris, business leaders tired of Biden see a potential friend
 
-Published :`2024-07-30 10:38:40`
+Published :`2024-07-30 11:13:25`
 
 ---
 
@@ -30,15 +30,19 @@ Of course, some of Khan’s critics have a stake in the outcome of this battle.
 
 Hoffman sits on the board of Microsoft, a company that the FTC has tried and failed to prevent from buying “Call of Duty” video game maker Activision Blizzard for $69 billion. The FTC is also investigating a recent Microsoft deal with artificial intelligence startup Inflection.
 
-Another Democratic donor, billionaire Barry Diller, told CNBC on Friday that he would lobby Harris to replace Khan, saying the FTC chair is against “almost anything” business wants to do.
+Another Democratic donor, billionaire Barry Diller, told CNBC on Friday that he would lobby Harris to replace Khan, saying the FTC chair is “a dope” who is against “almost anything” business wants to do.
 
 Diller, the chairman of conglomerate IAC, also has a stake in what happens to Khan.
 
-CNN has learned that there are multiple ongoing investigations into subsidiaries of IAC, the company that owns dozens of media brands including Angi, People and Care.com.
+CNN has learned that the FTC has multiple ongoing investigations into subsidiaries of IAC, the company that owns dozens of media brands including Angi, People and Care.com.
 
 It’s not clear which IAC subsidiaries are being actively investigated by the FTC.
 
 In a statement to CNN, IAC said the company “doesn’t comment on the status of investigations.”
+
+Diller told CNN in a statement on Tuesday that he “misspoke” about Khan in the CNBC interview.
+
+“I said ‘she’s a dope.’ She isn’t. She’s smart but I believe overreaches in disrupting sensible business combinations,” Diller said.
 
 An FTC spokesperson declined to comment on news of the investigations, which haven’t been previously reported.
 

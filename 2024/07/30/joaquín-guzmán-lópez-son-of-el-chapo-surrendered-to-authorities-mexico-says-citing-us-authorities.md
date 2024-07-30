@@ -1,6 +1,6 @@
 # Joaquín Guzmán López, son of ‘El Chapo,’ surrendered to authorities, Mexico says, citing US authorities
 
-Published :`2024-07-30 10:38:43`
+Published :`2024-07-30 11:13:25`
 
 ---
 
