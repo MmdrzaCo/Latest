@@ -1,6 +1,6 @@
 # Police search for suspect and motive after man killed in Philadelphia mosque parking lot while walking to prayer service
 
-Published :`2024-07-31 16:40:11`
+Published :`2024-07-31 17:15:23`
 
 ---
 
@@ -30,7 +30,7 @@ At least 17 shots were fired from a large caliber semi-automatic weapon, Small s
 
 “I counted nine very loud rapid thuds one after the other. It made me hang up, go outside, and see what’s going on,” witness Ori Beckerman told CNN affiliate WPVI.
 
-Ashraf Abdelrazek told CNN affiliate KYW that he was inside the mosque when the shooting happened. Abdulrazek ran to the management office to ask someone to call 911 after a mosque employee alerted him about the shooting, he said.
+Ashraf Abdelrazek told CNN affiliate KYW that he was inside the mosque when the shooting happened. Abdelrazek ran to the management office to ask someone to call 911 after a mosque employee alerted him about the shooting, he said.
 
 “Maybe I’ll be the one instead of him, when I came to pray, maybe I’ll lose my life like him like that,” Abdelrazek said. “I just see like someone lose his life in one second.”
 
