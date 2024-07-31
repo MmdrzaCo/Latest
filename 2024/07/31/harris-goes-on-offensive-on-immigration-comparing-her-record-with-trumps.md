@@ -1,6 +1,6 @@
 # Harris goes on offensive on immigration, comparing her record with Trump’s
 
-Published :`2024-07-31 18:19:36`
+Published :`2024-07-31 18:40:16`
 
 ---
 

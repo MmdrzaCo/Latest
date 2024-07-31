@@ -1,6 +1,6 @@
 # What we know about the assassination of Hamas political leader Ismail Haniyeh
 
-Published :`2024-07-31 18:19:33`
+Published :`2024-07-31 18:40:15`
 
 ---
 
