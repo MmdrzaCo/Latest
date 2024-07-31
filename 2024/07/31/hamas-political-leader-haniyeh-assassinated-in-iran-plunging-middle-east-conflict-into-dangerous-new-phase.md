@@ -1,6 +1,6 @@
 # Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase
 
-Published :`2024-07-31 13:35:37`
+Published :`2024-07-31 14:13:39`
 
 ---
 
@@ -58,9 +58,13 @@ Israel’s war against Hamas in Gaza has brought that longstanding shadow war wi
 
 The White House said it has seen the reports of Haniyeh’s death but declined to immediately comment further, according to a spokesperson. While traveling in the Philippines, US Secretary of Defense Lloyd Austin said he does not think war in the Middle East is inevitable, but if Israel were to be attacked the United States would help defend it.
 
+US Secretary of State Antony Blinken later said the US was “not aware of or involved in” the killing. In an interview with CNA in Singapore, the top US diplomat reiterated that he would not speculate on the impact of Haniyeh’s assassination.
+
 The Islamic Revolutionary Guard Corps, an elite wing of the Iranian military, said Haniyeh’s death was under investigation and results will be announced later Wednesday, according to Iranian state media.
 
 And Palestinian Authority President Mahmoud Abbas condemned Haniyeh’s killing calling it “a cowardly act and a dangerous development,” according to the WAFA news agency on Wednesday. “His Excellency called on the masses and forces of our people to unite, be patient and steadfast in the face of the Israeli occupation,” WAFA reported.
+
+Haniyeh will be buried in Doha on Friday, Hamas said in a statement. A funeral procession will be held in Tehran Thursday before his body is moved to Qatar, it added.
 
 ### A Hamas member for decades
 
@@ -68,7 +72,11 @@ Haniyeh, 62, was born in a refugee camp near Gaza City, and joined Hamas in the 
 
 As Hamas grew in power, Haniyeh rose through the ranks – being appointed part of a secret “collective leadership” in 2004. By 2017 he had become chief of the group – and was named a “specially designated global terrorist” by the US soon after.
 
-Over the years, he has participated in peace talks with former US President Jimmy Carter, and met with other world leaders including the Emir of Qatar, Sheikh Hamad bin Khalifa Al-Thani, and Chinese diplomat Wang Kejian earlier this year.
+Some Palestinians expressed shock and sadness at his death on Wednesday. “Ismail Haniyeh is the son of Gaza. He represents my entire people,” Ahmad Al Nims told a journalist working with CNN in Deir el-Balah, in the central Gaza Strip.
+
+Another Gazan, Abu Yasser Hassoun, said the assassination had “struck” Palestinians “like a thunderbolt.” Palestinian analyst Mustafa Ibrahim told CNN that despite some disagreements, Haniyeh held a “special place among the Palestinians.”
+
+Over the years, Haniyeh has participated in peace talks with former US President Jimmy Carter, and met with other world leaders including the Emir of Qatar, Sheikh Hamad bin Khalifa Al-Thani, and Chinese diplomat Wang Kejian earlier this year.
 
 In April, Israeli air strikes killed three of Haniyeh’s sons and four of his grandchildren, according to Hamas.
 

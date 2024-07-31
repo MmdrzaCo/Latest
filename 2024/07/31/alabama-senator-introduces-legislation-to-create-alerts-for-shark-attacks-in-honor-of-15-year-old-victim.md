@@ -1,6 +1,6 @@
 # Alabama senator introduces legislation to create alerts for shark attacks in honor of 15-year-old victim
 
-Published :`2024-07-31 13:35:38`
+Published :`2024-07-31 14:13:41`
 
 ---
 
