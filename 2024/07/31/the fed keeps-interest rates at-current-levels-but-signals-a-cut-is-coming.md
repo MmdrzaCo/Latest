@@ -1,6 +1,6 @@
 # The Fed keeps interest rates at current levels, but signals a cut is coming
 
-Published :`2024-07-31 18:40:14`
+Published :`2024-07-31 19:12:51`
 
 ---
 
@@ -10,7 +10,7 @@ As expected, central bank officials chose not to cut rates, which would have pa
 
 However, the Fed gave an important clue Wednesday that it will likely cut its benchmark lending rate in the coming months: Fed officials are now wary of risks surrounding America’s labor market, which has long been a pillar of strength for the economy, according to their latest policy statement.
 
-Officials wrote that inflation is now “somewhat” elevated — the first time inflation has been described in such a way since the Fed began to lift rates in March 2022.
+Officials wrote that inflation is now “somewhat” elevated — the first time inflation has been described in such a way since the Fed began to lift rates in March 2022. At last month’s meeting, the Fed’s statement said, “Inflation has eased over the past year but remains elevated.” The latest statement implies that the central bank believes inflation is even less of a risk compared to its last meeting.
 
 This shift in how the Fed is viewing the economy means the central bank could begin paring back interest rates as soon as its next policy meeting, in September, easing pressure on US households and businesses burdened by tough borrowing costs.
 

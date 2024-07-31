@@ -1,6 +1,6 @@
 # ChatGPT is getting chattier with ‘advanced voice mode’
 
-Published :`2024-07-31 18:40:18`
+Published :`2024-07-31 19:12:55`
 
 ---
 

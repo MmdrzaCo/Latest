@@ -1,6 +1,6 @@
 # Arson-sparked Park Fire is now California’s fifth-largest wildfire
 
-Published :`2024-07-31 18:40:16`
+Published :`2024-07-31 19:12:52`
 
 ---
 

@@ -1,6 +1,6 @@
 # Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase
 
-Published :`2024-07-31 18:40:14`
+Published :`2024-07-31 19:12:51`
 
 ---
 

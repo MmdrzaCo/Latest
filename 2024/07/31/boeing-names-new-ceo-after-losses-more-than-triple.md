@@ -1,6 +1,6 @@
 # Boeing names new CEO after losses more than triple
 
-Published :`2024-07-31 18:40:15`
+Published :`2024-07-31 19:12:51`
 
 ---
 

@@ -1,6 +1,6 @@
 # Venezuela is wracked with protests and election uncertainty. Here’s what to know
 
-Published :`2024-07-31 18:40:16`
+Published :`2024-07-31 19:12:51`
 
 ---
 
@@ -8,7 +8,7 @@ Criticism is mounting against Venezuela’s authoritarian leader Nicolás Maduro
 
 Venezuela’s opposition and multiple Latin American leaders have refused to recognize Maduro’s victory in the July 28 vote, which was announced by the country’s electoral authority - a body stacked with the president’s allies.
 
-At least 11 people have been killed in the protests, according to non-governmental organization Foro Penal, and Venezuelan authorities say nearly 750 people have been arrested.
+At least 11 people have been killed in the protests, according to non-governmental organization Foro Penal, and Venezuelan authorities say that more than 1,000 people have been detained. The Attorney General Tarek William Saab said Wednesday that 77 law enforcement officers had been injured in clashes with protesters and that a National Guard sergeant had been killed on Tuesday.
 
 CNN has not yet been able to verify the death toll and has reached out to the Venezuelan police.
 

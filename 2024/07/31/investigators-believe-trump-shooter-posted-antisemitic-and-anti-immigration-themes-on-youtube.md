@@ -1,6 +1,6 @@
 # Investigators believe Trump shooter posted antisemitic and anti-immigration themes on YouTube
 
-Published :`2024-07-31 18:40:18`
+Published :`2024-07-31 19:12:55`
 
 ---
 

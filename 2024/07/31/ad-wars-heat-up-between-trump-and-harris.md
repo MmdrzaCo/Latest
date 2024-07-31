@@ -1,6 +1,6 @@
 # Ad wars heat up between Trump and Harris
 
-Published :`2024-07-31 18:40:18`
+Published :`2024-07-31 19:12:54`
 
 ---
 
