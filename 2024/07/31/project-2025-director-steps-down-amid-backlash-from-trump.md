@@ -1,6 +1,6 @@
 # Project 2025 director steps down amid backlash from Trump
 
-Published :`2024-07-31 20:15:51`
+Published :`2024-07-31 20:36:29`
 
 ---
 

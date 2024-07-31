@@ -1,6 +1,6 @@
 # Shirley Chung of ‘Top Chef’ has stage 4 tongue cancer
 
-Published :`2024-07-31 20:15:47`
+Published :`2024-07-31 20:36:24`
 
 ---
 
