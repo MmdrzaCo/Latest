@@ -1,6 +1,6 @@
 # Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase
 
-Published :`2024-07-31 20:36:24`
+Published :`2024-07-31 21:15:18`
 
 ---
 
@@ -10,7 +10,7 @@ Haniyeh’s death is, both strategically and symbolically, a dramatic blow to Ha
 
 He is the second leader of an Iran-backed group reported to have been assassinated in the last day, following the killing of Hezbollah’s most senior military commander in Lebanon.
 
-In a statement, Hamas accused Israel of targeting Haniyeh and his bodyguard in a “strike” on the building in which he was staying in Tehran, where he had participated in Tuesday’s inauguration of the new Iranian president. Hamas officials said Haniyeh’s death would “not pass in vain” and described the killing as a “grave escalation,” while Iran’s Supreme Leader said it is “our duty to ask for the blood of our dear guest.”
+In a statement, Hamas accused Israel of targeting Haniyeh and his bodyguard in a “strike” on the building in which he was staying in Tehran, where he had participated in Tuesday’s inauguration of the new Iranian president. Hamas officials said Haniyeh’s death would “not pass in vain” and described the killing as a “grave escalation,” while Iran’s Supreme Leader Ayatollah Ali Khamenei said it was Iran’s “duty” to avenge Haniyeh’s death since he was killed inside Iran. According to the New York Times, which cited information provided by three Iranian officials, Khamenei issued an order for Iran to “strike Israel directly” following the killing.
 
 At a news conference in Tehran later Wednesday, Hamas spokesperson and deputy head Khalil Al-Hayya said Haniyeh was hit directly by a rocket in the room where he was staying, and said Israel would “pay the price” for the “heinous crime.”
 

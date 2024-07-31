@@ -1,6 +1,6 @@
 # White House says reports of Hamas leader’s assassination in Iran ‘don’t help with the temperature going down’
 
-Published :`2024-07-31 20:36:23`
+Published :`2024-07-31 21:15:18`
 
 ---
 
@@ -29,6 +29,8 @@ Blinken has been working the phones in an effort to keep ceasefire talks on trac
 “Political assassinations [and] continued targeting of civilians in Gaza while talks continue leads us to ask, how can mediation succeed when one party assassinates the negotiator on the other side?,” Qatar’s prime minister, a principal mediator, wrote on X after news of Haniyeh’s death.
 
 The Qatari post amounted to a direct accusation of Israel, while US officials have shied away from confirming the suspected Israeli operation against Haniyeh.
+
+When Blinken spoke with his Qatari counterpart, he asked Prime Minister Mohammed bin Abdulrahman Al-Thani to convey messages to both Iran and Hezbollah to de-escalate and not retaliate, according to a source familiar with the conversation. The prime minister agreed to relay the message, the source said. A spokesman for the State Department declined to comment.
 
 No parties have declared an end to the ceasefire talks but Haniyeh’s death has significantly chilled the prospects of an imminent agreement.
 

@@ -1,6 +1,6 @@
 # Kathie Lee Gifford hospitalized after fracturing her pelvis
 
-Published :`2024-07-31 20:36:25`
+Published :`2024-07-31 21:15:19`
 
 ---
 
