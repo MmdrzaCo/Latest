@@ -1,6 +1,6 @@
 # Spirit Airlines, known for no-frills flying, will offer business-class seats
 
-Published :`2024-07-31 01:43:16`
+Published :`2024-07-31 02:14:48`
 
 ---
 
@@ -28,7 +28,7 @@ Last week Southwest Airlines, the nation’s older lower fare carrier, announced
 
 Southwest used to be the most profitable US airline, rarely reporting a money-losing quarter and going nearly half a century without reporting an annual loss until the pandemic hit. But it has struggled financially as well in recent years and is facing an activist investor who is pushing for a change in management to improve its profitability.
 
-Correction: An earlier version of the story did not make clear what was different about the new class of tickets in the large seats seats at the front of Spirit planes or that the large seats had been available in the past.
+Correction: An earlier version of the story did not make clear what was different about the new class of tickets in the large seats at the front of Spirit planes or that the large seats had been available in the past.
 
 – CNN’s Erika Tulfo contributed to this report
 

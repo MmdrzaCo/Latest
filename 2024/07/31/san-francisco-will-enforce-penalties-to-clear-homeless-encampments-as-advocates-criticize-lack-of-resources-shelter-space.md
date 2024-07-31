@@ -1,6 +1,6 @@
 # San Francisco will enforce penalties to clear homeless encampments as advocates criticize lack of resources, shelter space
 
-Published :`2024-07-31 01:43:16`
+Published :`2024-07-31 02:14:48`
 
 ---
 
@@ -31,6 +31,10 @@ Newsom’s order directs, but does not mandate, state agencies and departments 
 The department provides “advance notice of clearance and works with local service providers to support those experiencing homelessness at the encampment, and stores personal property collected at the site” for at least 60 days, Newsom’s office said.
 
 ### Homeless people refusing services is a ‘political trope,’ advocacy group says
+
+San Francisco’s mayor, London Breed, is running for re-election and tackling homelessness has become a key issue. A shelter waiting list, operated by the city’s Department of Homelessness and Supportive Housing, showed 138 people were in line for shelter Tuesday evening.
+
+The city government’s most recent count showed 4,354 homeless people were unsheltered in San Francisco on a night in January.
 
 Breed’s office said “a majority of the times” city staff encounter people in encampments and offer shelter, they refuse, and over the last year, refusals happened in 67% of encounters.
 

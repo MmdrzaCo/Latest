@@ -1,6 +1,6 @@
 # ‘We failed Sonya,’ Illinois sheriff says about fatal police shooting of Sonya Massey
 
-Published :`2024-07-31 01:43:19`
+Published :`2024-07-31 02:14:48`
 
 ---
 
@@ -24,7 +24,21 @@ The sheriff’s office has commented on the incident previously, including on th
 
 Monday night’s meeting was facilitated by the US Justice Department’s community relations service, which is charged with responding to and preventing community tensions and hate crimes on the basis of race and sexual orientation, among other factors.
 
-Last week the Justice Department said it was “assessing the circumstances” surrounding the fatal shooting.
+On Tuesday, civil rights attorney Ben Crump and the Rev. Al Sharpton held a news conference with Massey’s family, including her two children, her parents, uncles and aunts, cousins and friends.
+
+Sharpton referenced the George Floyd Justice in Policing Act, which he helped draft, at the news conference, saying “it dealt with a law enforcement officer being able to go from district to district getting new job assignments. This officer worked in six different jurisdictions inside of four years. Six, which would have been illegal under the George Floyd Justice in Policing Act.”
+
+Massey’s killing has thrust the act back in the national spotlight, with renewed calls for passage of the failed legislation targeting racial bias and use of force, CNN previously reported.
+
+“We want to see the officer prosecuted, but we also want to see the laws change,” Sharpton added. He called for Illinois to create a law in Massey’s name that would prevent  officers from repeatedly switching precincts. “A bad cop is a bad cop,” he said.
+
+Sharpton then pointed at Massey’s son, 17-year-old Malachi Hill Massey and daughter, 15-year-old Jeanette Summer Massey, saying: “This young lady and this young man will have to grow up long after these cameras are gone, long after people are gone.”
+
+The community will be starting a fund to raise money for the children, Sharpton said.
+
+Massey is one of a number of Black women who have been killed by police in their own homes in recent years, including Breonna Taylor and Atatiana Jefferson. In a news conference last week, attorney Crump connected her death to other cases of police violence against Black people across the US.
+
+Last week, the Justice Department said it was “assessing the circumstances” surrounding the fatal shooting.
 
 “We are here to bring parties together to seek mutual understanding, to problem-solve in a way that empowers those local voices, those local ideas,” Justin Lock, the service’s chief, said during the session, in which members of the community were encouraged to express their thoughts and feelings surrounding Massey’s death.
 
@@ -32,7 +46,9 @@ Milhiser, the state’s attorney, also was among the speakers at the listening s
 
 “My No. 1 goal as state’s attorney is to keep our community safe, prioritize community public safety,” Milhiser said. “And we do that by prosecuting cases in Sangamon County without fear or favor and holding accountable those who break the law.”
 
-Massey is one of a number of Black women who have been killed by police in their own homes in recent years, including Breonna Taylor and Atatiana Jefferson. In a news conference last week, civil rights attorney Ben Crump, who represents Massey’s family, connected her death to other cases of police violence against Black people across the US.
+At Tuesday’s news conference, Massey’s uncle – Raymond Massey – said his niece was utterly devoted to her children, her faith and her accomplishments. “To hear them say they’re having nightmares and not being able to sleep just breaks my heart,” he said.
+
+Her son, Malachi, then followed: “My mother – she means everything to me. I love her with my whole heart.”
 
 ### What body-camera footage shows
 
