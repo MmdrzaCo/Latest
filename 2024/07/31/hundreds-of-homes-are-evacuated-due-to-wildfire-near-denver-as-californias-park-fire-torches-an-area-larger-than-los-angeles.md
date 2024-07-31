@@ -1,6 +1,6 @@
 # Hundreds of homes are evacuated due to wildfire near Denver as California’s Park Fire torches an area larger than Los Angeles
 
-Published :`2024-07-31 17:15:23`
+Published :`2024-07-31 17:36:50`
 
 ---
 

@@ -1,6 +1,6 @@
 # Trump and Harris bash each other over outdated health insurance positions
 
-Published :`2024-07-31 17:15:23`
+Published :`2024-07-31 17:36:50`
 
 ---
 
