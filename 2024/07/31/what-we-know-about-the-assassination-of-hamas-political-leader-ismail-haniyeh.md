@@ -1,6 +1,6 @@
 # What we know about the assassination of Hamas political leader Ismail Haniyeh
 
-Published :`2024-07-31 12:30:15`
+Published :`2024-07-31 12:56:28`
 
 ---
 
@@ -46,7 +46,7 @@ A source with knowledge of the negotiations told CNN Wednesday that Haniyeh’s 
 
 “How can mediation succeed when one party assassinates the negotiator on other side?” Qatar’s Prime Minister Mohammed bin Abdulrahman Al-Thani, a mediator on the talks, posted on X on Wednesday. Qatar’s capital, Doha, also hosts the main Hamas political bureau. “Peace needs serious partners & a global stance against the disregard for human life,” Al-Thani wrote.
 
-Haniyeh’s death “will have significant influence on those negotiations,” said CNN Political and Foreign Policy Analyst Barak Ravid on Wednesday.
+Haniyeh’s death “will have significant influence on those negotiations,” CNN Political and Foreign Policy Analyst Barak Ravid said on Wednesday.
 
 ### What has the world said?
 

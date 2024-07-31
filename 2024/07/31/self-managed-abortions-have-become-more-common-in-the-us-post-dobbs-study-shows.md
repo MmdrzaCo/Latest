@@ -1,6 +1,6 @@
 # Self-managed abortions have become more common in the US post-Dobbs, study shows
 
-Published :`2024-07-31 12:30:25`
+Published :`2024-07-31 12:56:32`
 
 ---
 

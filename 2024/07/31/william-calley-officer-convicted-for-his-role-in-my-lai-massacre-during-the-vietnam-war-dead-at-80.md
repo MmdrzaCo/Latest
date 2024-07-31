@@ -1,6 +1,6 @@
 # William Calley, officer convicted for his role in My Lai massacre during the Vietnam War, dead at 80
 
-Published :`2024-07-31 12:30:19`
+Published :`2024-07-31 12:56:30`
 
 ---
 
@@ -102,7 +102,7 @@ In 2009, Calley – who had long shunned reporters – publicly apologized for h
 
 “There is not a day that goes by that I do not feel remorse for what happened that day in My Lai,” Calley said, according to the Columbus Ledger-Enquirer. “I feel remorse for the Vietnamese who were killed, for their families, for the American soldiers involved and their families. I am very sorry.”
 
-In response to the tragedy at My Lai – and in an effort to prevent such war crimes from happening again – Borsh said the US military began embedding military legal experts into active-duty units.
+In response to the tragedy at My Lai – and in an effort to prevent such war crimes from happening again – Borch said the US military began embedding military legal experts into active-duty units.
 
 “Every single military operation that’s ever planned or ever carried out now, military lawyers are involved in making sure that what’s done is legal,” he said. “And that’s all a result of a recognition that we can’t have another My Lai.”
 

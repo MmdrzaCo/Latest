@@ -1,6 +1,6 @@
 # Garland on special counsel appointment ruling: ‘Do I look like someone who would make that basic mistake about the law?’
 
-Published :`2024-07-31 12:30:18`
+Published :`2024-07-31 12:56:30`
 
 ---
 

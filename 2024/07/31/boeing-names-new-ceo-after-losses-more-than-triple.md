@@ -1,6 +1,6 @@
 # Boeing names new CEO after losses more than triple
 
-Published :`2024-07-31 12:30:15`
+Published :`2024-07-31 12:56:28`
 
 ---
 
@@ -20,7 +20,23 @@ Ortberg started work in the aviation industry in 1983 as an engineer at Texas In
 
 Rockwell Collins provides avionics, the electrical systems used on aircraft, and information technology used in the aerospace industry. It was purchased by United Technologies in 2018 and now operates as Collins Aerospace. Ortberg stayed with the company for three years as it was integrated into United Technologies, and then he retired.
 
-He will have his hands full fixing the problems at Boeing, which has not posted a profitable year since 2019. Since then, its core operating losses totaled $33.3 billion, including the loss announced Wednesday. Boeing will have difficulty returning to profitability until it can convince regulators that it has fixed problems with the safety and quality of its jets.
+### Serious problems to solve
+
+Ortberg will have his hands full fixing the problems at Boeing, which has not posted a profitable year since 2019. Since then, its core operating losses totaled $33.3 billion, including the loss announced Wednesday. Boeing will have difficulty returning to profitability until it can convince regulators that it has fixed problems with the safety and quality of its jets.
+
+The company has admitted that two 737 Max crashes in October of 2018 and March of 2019 that killed a total of 346 people were the result of a design flaw. The crashes and the time it took to fix the design flaw resulted in a 20-month grounding of the plane that cost the company more than $20 billion.
+
+It recently agreed to plead guilty to charges that its employees defrauded the Federal Aviation Administration during the original certification process for the 737 Max. As part of the guilty plea, Boeing agreed to operate under the supervision of a court-appointed monitor.
+
+The company has come under renewed scrutiny since a 737 Max plane’s door plug blew off shortly after takeoff in January. More than a dozen whistleblowers have told Congressional investigators about bad practices at Boeing, including the use of parts that did not mean standards. Many said Boeing retaliated against employees who complained about safety practices.
+
+The company has agreed to an FAA demand to curb production of the 737 Max until the regulator is satisfied it has fixed its safety and quality issues. But that will keep the losses building at Boeing as it can’t make money at its current level of production.
+
+Boeing’s problems go beyond the 737 Max issues. The company also has problems with its defense business, which resulted in $913 million in losses on its defense, space and security unit, nearly double the $527 million it lost there a year earlier.
+
+Its Starliner space ship made its first crewed flight in the quarter but developed problems after docking at the International Space Station, leaving its two astronauts stuck at the ISS with no date yet known for its return.
+
+Boeing also reported it had additional losses in its program to deliver two new 747 jets that will be used as the new Air Force One planes by the president. That contract has already cost Boeing more than $2 billion going into the quarter. It said Wednesday that increased engineering costs for that contract and for the Starliner contributed to Boeing’s increased losses.
 
 – This is a developing story, it will be updated.
 

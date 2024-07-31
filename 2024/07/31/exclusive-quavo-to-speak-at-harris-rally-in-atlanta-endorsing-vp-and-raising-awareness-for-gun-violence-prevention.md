@@ -1,6 +1,6 @@
 # Exclusive: Quavo to speak at Harris rally in Atlanta, endorsing VP and raising awareness for gun violence prevention
 
-Published :`2024-07-31 12:30:20`
+Published :`2024-07-31 12:56:30`
 
 ---
 
