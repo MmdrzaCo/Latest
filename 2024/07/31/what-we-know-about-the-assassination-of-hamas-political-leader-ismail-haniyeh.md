@@ -1,10 +1,10 @@
 # What we know about the assassination of Hamas political leader Ismail Haniyeh
 
-Published :`2024-07-31 14:13:39`
+Published :`2024-07-31 14:35:45`
 
 ---
 
-The assassination of Hamas political leader Ismail Haniyeh in the Iranian capital Tehran has rocked the Middle East – threatening to further destabilize the region and jeopardize ceasefire negotiations between Israel and Hamas over the war in Gaza.
+The assassination of Hamas political leader Ismail Haniyeh in the Iranian capital Tehran has rocked the Middle East, threatening to further destabilize the region and jeopardize ceasefire negotiations between Israel and Hamas over the war in Gaza.
 
 The attack on Haniyeh came in the early hours of Wednesday morning, with Hamas pointing the finger at Israel – which has so far declined to comment.
 
@@ -47,6 +47,12 @@ A source with knowledge of the negotiations told CNN Wednesday that Haniyeh’s 
 “How can mediation succeed when one party assassinates the negotiator on other side?” Qatar’s Prime Minister Mohammed bin Abdulrahman Al-Thani, a mediator on the talks, posted on X on Wednesday. Qatar’s capital, Doha, also hosts the main Hamas political bureau. “Peace needs serious partners & a global stance against the disregard for human life,” Al-Thani wrote.
 
 Haniyeh’s death “will have significant influence on those negotiations,” CNN Political and Foreign Policy Analyst Barak Ravid said on Wednesday.
+
+In a statement after the strike, the Hostages and Missing Families Forum urged the Israeli government “to decisively advance negotiations,” to secure the release of the hostages who have been held in Gaza since the October 7 attack on Israel.
+
+“While military operations over the past 10 months have achieved significant security gains, true achievement can only be realized with the release of all 115 hostages still in captivity,” it said.
+
+“The deal proposed by the Israeli government and supported by President Biden represents the only viable path to secure their freedom, allowing the living to begin rehabilitation and the murdered to receive proper burial.”
 
 ### What has the world said?
 

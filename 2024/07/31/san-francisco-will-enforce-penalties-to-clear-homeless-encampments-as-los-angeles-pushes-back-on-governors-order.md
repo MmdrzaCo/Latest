@@ -1,6 +1,6 @@
 # San Francisco will enforce penalties to clear homeless encampments as Los Angeles pushes back on governor’s order
 
-Published :`2024-07-31 14:13:39`
+Published :`2024-07-31 14:35:44`
 
 ---
 
@@ -14,13 +14,13 @@ In San Francisco, Mayor London Breed will proceed with her administration’s pl
 
 But officials in Los Angeles have made clear they won’t be heeding the governor’s encouragement to follow suit.
 
-The Los Angeles County Board of Supervisors voted unanimously Tuesday in support of a motion affirming its jails won’t be used to hold homeless people arrested when encampments are broken up, The Los Angeles Times reported. County officials have said the approach is already in effect.
+The Los Angeles County Board of Supervisors voted unanimously Tuesday in favor of a motion affirming its jails won’t be used to hold homeless people arrested when encampments are broken up. County officials have said the approach is already in effect.
 
-“We’re not going to go to a race to the bottom,” County Supervisor Hilda Solis said, according to the Times. “We’re not going to turn our backs. We’re not going to use our jails to somehow incarcerate and criminalize people who are on the street.”
+“We’re not going to go to a race to the bottom,” County Supervisor Hilda Solis said, according to The Los Angeles Times. “We’re not going to turn our backs. We’re not going to use our jails to somehow incarcerate and criminalize people who are on the street.”
 
 Supervisor Lindsey Horvath noted someone who is endangering public safety or committing other crimes at an encampment could still be arrested and jailed, the Los Angeles Times reported.
 
-“We aren’t saying that if there’s violent crime happening at a homeless encampment that that is not an arrestable offense,” Horvath said. “We aren’t saying anything like that at all. In fact, what we’re being clear about is that we are not criminalizing poverty or homelessness.”
+“We aren’t saying that if there’s violent crime happening at a homeless encampment that that is not an arrestable offense,” Horvath said, according to the Times. “We aren’t saying anything like that at all. In fact, what we’re being clear about is that we are not criminalizing poverty or homelessness.”
 
 Late last month, the results of the Los Angeles Homeless Services Authority’s point-in-time count – conducted in January – showed the homeless population in Los Angeles had dropped for the first time in six years. It showed overall homelessness and in particular unsheltered homelessness was down in both Los Angeles County and the city. According to the count, homelessness was down 2.2% in the Los Angeles and 0.27% in the county. There were still 45,253 homeless people counted in the city and 75,312 people unhoused in the county, the authority reported.
 

@@ -1,6 +1,6 @@
 # The methodology behind The Breakthrough polling project
 
-Published :`2024-07-31 14:13:42`
+Published :`2024-07-31 14:35:46`
 
 ---
 
