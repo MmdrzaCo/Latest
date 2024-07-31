@@ -1,6 +1,6 @@
 # White House says reports of Hamas leader’s assassination in Iran ‘don’t help with the temperature going down’
 
-Published :`2024-07-31 19:35:53`
+Published :`2024-07-31 20:15:45`
 
 ---
 
@@ -10,9 +10,21 @@ The White House on Wednesday said reports of the assassination of a Hamas politi
 
 While repeatedly declining to comment directly on the strike in Tehran, Kirby eventually acknowledged: “All of this adds to the complicated nature of what we’re trying to get done. And what we’re trying to get done is a ceasefire deal.”
 
-In the wake of the announcement of Ismail Haniyeh’s death, Secretary of State Antony Blinken spoke with counterparts from two key allies, Qatar and Jordan. In both conversations, according to the State Department, the officials emphasized the need for a ceasefire in Gaza.
+But Haniyeh’s killing removes perhaps the most significant Hamas negotiator from the table at a critical time when US officials have said that a long-sought ceasefire deal is as close as it’s ever been, and as a resolution to the end of the war looms over Biden’s legacy as a one-term president.
 
-But Haniyeh’s killing removes perhaps the most significant Hamas negotiator from the table at a critical time when US officials have said that a long-sought ceasefire deal is as close as it’s ever been.
+The Biden administration has largely avoided commenting on reports around Haniyeh’s death, but Secretary of State Antony Blinken told reporters traveling with him in Singapore the US was “not aware of or involved in” the killing of the Hamas leader.
+
+Former senior State Department official Aaron David Miller expects the administration is “seething” over the killing of Haniyeh.
+
+“Blinken says the US was unaware of the strike on Haniyeh,” Miller told CNN, “but you know the administration must be seething about the timing, location and target of the strike.”
+
+A former senior administration official agreed there is anger inside the administration.
+
+It was “completely unnecessary,” the former official said. “There was no military logic to this operation.”
+
+“Whether we end up in a regional war, the future seems pretty clear,” Miller added. “Seemingly never-ending, grinding wars of attrition between Israel and Iran and its proxies with few, if any, off ramps and prospects for enduring de-escalation.”
+
+Blinken has been working the phones in an effort to keep ceasefire talks on track, speaking with counterparts from two key allies, Qatar and Jordan. In both conversations, according to the State Department, the officials emphasized the need for a ceasefire in Gaza.
 
 “Political assassinations [and] continued targeting of civilians in Gaza while talks continue leads us to ask, how can mediation succeed when one party assassinates the negotiator on the other side?,” Qatar’s prime minister, a principal mediator, wrote on X after news of Haniyeh’s death.
 
@@ -38,13 +50,13 @@ While Netanyahu’s statement was at odds with a proposal outlined by President 
 
 The recent events could lead to further strain in Biden and Netanyahu’s decadeslong relationship. The president has said that Israel has already reached goals it had outlined after October 7, called the country’s actions in Gaza “over the top” and suggested that Netanyahu seeks to prolong the war only for the sake of his own political survival.
 
-Iran vowed to retaliate for the assassination on its soil.
+Iran vowed to retaliate for the assassination on its soil. “You killed our dear guest in our house and now have paved the way for your harsh punishment,” Iran’s Supreme Leader Ayatollah Ali Khamenei said, referring to Israel in a statement. “We consider it our duty to ask for the blood of our dear guest.”
 
-“You killed our dear guest in our house and now have paved the way for your harsh punishment,” Iran’s Supreme Leader Ayatollah Ali Khamenei said, referring to Israel in a statement. “We consider it our duty to ask for the blood of our dear guest.”
-
-Iran’s foreign ministry blamed the United States directly “as a supporter and accomplice of the Zionist regime in the continuation of the occupation and genocide of the Palestinians, in committing this heinous act of terrorism.”
+And its foreign ministry blamed the United States “as a supporter and accomplice of the Zionist regime in the continuation of the occupation and genocide of the Palestinians, in committing this heinous act of terrorism.”
 
 Asked about the supreme leader’s response to the killing during Wednesday’s press briefing, Kirby responded: ”We have and will maintain a level of readiness to preserve our national security interest in the region.”
+
+This story has been updated with additional reporting.
 
 CNN’s Abeer Salman, Jennifer Handler and Niamh Kennedy contributed.
 

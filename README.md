@@ -1,10 +1,12 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-31 19:35:57`
+#### Latest Update : `2024-07-31 20:15:53`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Delta CEO lashes out at CrowdStrike: This cost us $500 million and they offered us nothing](https://new-news.github.io/Latest/2024/07/31/delta-ceo-lashes-out-at-crowdstrike-this-cost-us-500-million-and-they-offered-us-nothing 'Delta CEO lashes out at CrowdStrike: This cost us $500 million and they offered us nothing')
 
 - [Donald Trump falsely suggests Kamala Harris ‘happened to turn Black’](https://new-news.github.io/Latest/2024/07/31/donald-trump-falsely-suggests-kamala-harris-happened-to-turn-black 'Donald Trump falsely suggests Kamala Harris ‘happened to turn Black’')
 
@@ -69,8 +71,6 @@
 - [A potential tropical threat is taking shape near the Caribbean as hurricane season reignites](https://new-news.github.io/Latest/2024/07/31/a-potential-tropical-threat-is-taking-shape-near-the-caribbean-as-hurricane-season-reignites 'A potential tropical threat is taking shape near the Caribbean as hurricane season reignites')
 
 - [Shirley Chung of ‘Top Chef’ has stage 4 tongue cancer](https://new-news.github.io/Latest/2024/07/31/shirley-chung-of-top-chef-has-stage-4-tongue-cancer 'Shirley Chung of ‘Top Chef’ has stage 4 tongue cancer')
-
-- [Delta CEO lashes out at CrowdStrike: This cost us $500 million and they offered us nothing](https://new-news.github.io/Latest/2024/07/31/delta-ceo-lashes-out-at-crowdstrike-this-cost-us-500-million-and-they-offered-us-nothing 'Delta CEO lashes out at CrowdStrike: This cost us $500 million and they offered us nothing')
 
 - [Kathie Lee Gifford hospitalized after fracturing her pelvis](https://new-news.github.io/Latest/2024/07/31/kathie-lee-gifford-hospitalized-after-fracturing-her-pelvis 'Kathie Lee Gifford hospitalized after fracturing her pelvis')
 

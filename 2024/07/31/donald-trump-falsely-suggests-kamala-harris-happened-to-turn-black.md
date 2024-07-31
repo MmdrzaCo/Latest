@@ -1,6 +1,6 @@
 # Donald Trump falsely suggests Kamala Harris ‘happened to turn Black’
 
-Published :`2024-07-31 19:35:53`
+Published :`2024-07-31 20:15:45`
 
 ---
 
@@ -32,11 +32,39 @@ Scott asked if Trump found it acceptable that some Republicans on Capitol Hill h
 
 “I really don’t know. Could be. Could be,” he said.
 
-The former president also repeatedly criticized the organization for the event’s set-up, which he said made it difficult to hear other panelists and delayed the start of the event. A spokesperson for NABJ told CNN that technology issues had delayed the start.
+White House press secretary Karine Jean-Pierre issued a fiery rejoinder to Trump following his remarks at the convention, calling them “repulsive” and “insulting.”
+
+“As a person of color – as a Black woman, who is in this position that is standing before you at this podium, behind this lectern – what he just said, what you just read out to me, is repulsive. It’s insulting, and, you know, no one has any right to tell someone who they are, how they identify,” Jean-Pierre told reporters during a news briefing Wednesday. “That is no one’s right. It is someone’s own decision.”
+
+In Chicago on Wednesday, Trump also repeatedly criticized the NABJ for the event’s set-up, which he said made it difficult to hear other panelists and delayed the start of the event. A spokesperson for NABJ told CNN that technology issues had delayed the start of the panel discussion.
 
 Trump in his remarks called himself “the best president for the Black population since Abraham Lincoln,” a comment that drew audible groans from the journalists in attendance. He ignored a follow-up question about whether he was better than Lyndon B. Johnson, who signed the Civil Rights Act of 1964 and the Voting Rights Act of 1965 into law.
 
 “I have been the best president for the Black population since Abraham Lincoln,” he said. “For you to start off a question-and-answer period, especially when you’re 35 minutes late because you couldn’t get your equipment to work, I think it’s a disgrace. I really do, I think it’s a disgrace.”
+
+### Capitol rioters
+
+Asked by Scott Wednesday if he would pardon January 6 rioters who violently attacked police officers at the US Capitol in 2021, Trump said, “Absolutely, I would.”
+
+“If they’re innocent, I would pardon them,” he said.
+
+Scott responded that they had been convicted.
+
+“Well, they were convicted by a very tough system,” Trump said.
+
+The former president criticized Capitol police officers for shooting and killing rioter Ashli Babbitt, who was attempting to crawl through a broken window leading to the Speaker’s Lobby outside the US House chamber. And he complained that “nothing happened” to those who caused property damage during Black Lives Matter protests in the summer of 2020.
+
+“Nothing happens to those people, but you went after the J6 people with a vengeance,” Trump said.
+
+### Vance pick
+
+Trump did not answer directly when asked by Fox News’ Faulkner whether his running mate, Ohio Sen. JD Vance, would be “ready on Day One to be president.
+
+“Historically, the vice president, in terms of the election, does not have any impact – I mean, virtually no impact,” Trump said.
+
+“You have two or three days where there’s a lot of commotion,” he said, pointing to Harris’ consideration of a running mate, “and then that dies down, and it’s all about the presidential pick. Virtually never has it mattered.”
+
+“You can have a vice president who’s outstanding in every way, and I think JD is … but you’re not voting that way. You’re voting for the president,” Trump said.
 
 This story has been updated with additional information.
 
