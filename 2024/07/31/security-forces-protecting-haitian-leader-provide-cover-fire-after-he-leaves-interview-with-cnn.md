@@ -1,6 +1,6 @@
 # Security forces protecting Haitian leader provide ‘cover’ fire after he leaves interview with CNN
 
-Published :`2024-07-31 04:14:42`
+Published :`2024-07-31 04:36:32`
 
 ---
 
