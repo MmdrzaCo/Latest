@@ -1,6 +1,6 @@
 # Biden to call on Congress and agencies to take action aimed at curbing flow of fentanyl
 
-Published :`2024-07-31 11:36:57`
+Published :`2024-07-31 12:30:16`
 
 ---
 
