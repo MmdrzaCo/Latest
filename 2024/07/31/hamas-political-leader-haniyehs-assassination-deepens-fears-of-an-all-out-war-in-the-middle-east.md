@@ -1,6 +1,6 @@
 # Hamas political leader Haniyeh’s assassination deepens fears of an all-out war in the Middle East
 
-Published :`2024-07-31 06:35:34`
+Published :`2024-07-31 07:12:37`
 
 ---
 

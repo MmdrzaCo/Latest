@@ -1,6 +1,6 @@
 # A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know
 
-Published :`2024-07-31 06:35:37`
+Published :`2024-07-31 07:12:37`
 
 ---
 
@@ -62,9 +62,11 @@ Taylor Swift, whose music was the theme of the dance class that was targeted by 
 
 ### Protesters clash with police
 
-Southport police said Tuesday that a protest by a large group of people had turned violent after items were thrown toward a local mosque, leading to the injury of an officer and police vehicles being set on fire.
+Merseyside Police said Tuesday that far-right protesters clashed with police in Southport, throwing bricks at a local mosque, setting cars and police vehicles alight and hurling bottles at police.
 
-Police said the protesters are believed to be supporters of the far-right English Defence League who took to the streets in anger due to reports speculating that the 17-year-old attacker is Muslim.
+Prime Minister Starmer said the group had “hijacked” the peaceful vigil “with violence and thuggery” and those involved “will feel the full force of the law.”
+
+Police said the protesters are believed to be supporters of the far-right English Defence League, who took to the streets over unconfirmed reports speculating that the attacker was Muslim.
 
 “There has been much speculation and hypothesis around the status of a 17-year-old male who is currently in police custody, and some individuals are using this to bring violence and disorder to our streets,” Assistant Chief Constable Alex Goss said in the statement.
 
@@ -72,9 +74,13 @@ Police said the protesters are believed to be supporters of the far-right Englis
 
 Officers were deployed to the scene and faced “criminal behavior and violence with bottles and wheelie bins being thrown at them.”
 
-“As a result, an officer has suffered a suspected broken nose, and police vehicles have been damaged and set alight,” the statement said.
+“Yesterday, our officers and other members of the emergency services were faced with one of the most difficult situations they will ever face. Tonight, they find themselves being attacked as they endeavor to prevent disorder,” Goss said.
 
-“Yesterday, our officers and other members of the emergency services were faced with one of the most difficult situations they will ever face. Tonight, they find themselves being attacked as they endeavor to prevent disorder,” the Assistant Chief Constable said.
+The North West Ambulance Service said it treated 39 police officers injured in the violence, 27 of whom were taken to hospital.
+
+Officers “sustained serious injuries including fractures, lacerations, a suspected broken nose and concussion,” Merseyside Police said. “Other officers have suffered varying degrees of injury including head injuries, serious facial injuries, and one was knocked unconscious.”
+
+Three police dogs were also injured, it added.
 
 ---
 
