@@ -1,6 +1,6 @@
 # Boeing names new CEO after losses more than triple
 
-Published :`2024-07-31 14:35:44`
+Published :`2024-07-31 15:15:55`
 
 ---
 
@@ -23,6 +23,8 @@ Rockwell Collins provides avionics, the electrical systems used on aircraft, and
 Even one of Boeing’s harshest critics found hope in the appointment of Ortberg.
 
 “The arrival of a new CEO at Boeing could not have happened at a more crucial and necessary time for the safety of the traveling public around the world,” said Robert Clifford, attorney for the families of 737 Max crash victims. He said that under Muilenberg, Calhoun, and Boeing’s “do nothing” board, the company has been in a “nosedive.”
+
+“While this man is an industry insider, he comes from outside Boeing and, on the face of it, has a well-regarded reputation in the industry,” Clifford added. “Maybe he can bring the company back to the stature it once held before it criminally and preventively killed 346 people.”
 
 ### Serious problems to solve
 

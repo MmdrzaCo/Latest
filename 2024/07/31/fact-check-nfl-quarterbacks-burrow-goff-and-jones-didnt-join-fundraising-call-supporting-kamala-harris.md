@@ -1,6 +1,6 @@
 # Fact check: NFL quarterbacks Burrow, Goff and Jones didn’t join fundraising call supporting Kamala Harris
 
-Published :`2024-07-31 14:35:45`
+Published :`2024-07-31 15:15:55`
 
 ---
 

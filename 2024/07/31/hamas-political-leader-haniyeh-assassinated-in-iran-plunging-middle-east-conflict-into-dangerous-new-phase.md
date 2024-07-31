@@ -1,6 +1,6 @@
 # Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase
 
-Published :`2024-07-31 14:35:44`
+Published :`2024-07-31 15:15:55`
 
 ---
 
@@ -12,6 +12,8 @@ He is the second leader of an Iran-backed group reported to have been assassinat
 
 In a statement, Hamas accused Israel of targeting Haniyeh and his bodyguard in a “strike” on the building in which he was staying in Tehran, where he had participated in Tuesday’s inauguration of the new Iranian president. Hamas officials said Haniyeh’s death would “not pass in vain” and described the killing as a “grave escalation,” while Iran’s Supreme Leader said it is “our duty to ask for the blood of our dear guest.”
 
+At a news conference in Tehran later Wednesday, Hamas spokesperson and deputy head Khalil Al-Hayya said Haniyeh was hit directly by a rocket in the room where he was staying, and said Israel would “pay the price” for the “heinous crime.”
+
 Iranian state run media IRNA said the strike happened at around 2 a.m. local time (6:30 p.m. ET on Tuesday), involving an “airborne guided projectile.” Iran’s new president, Masoud Pezeshkian, was sworn in on Tuesday and Hamas released pictures the same day of Haniyeh meeting Iranian officials in Tehran. State-affiliated Fars said Haniyeh was staying in a residence in north Tehran.
 
 Israel’s military said it does not respond to reports in foreign media, though senior officials have previously vowed to eliminate Hamas and its leadership in response to the group’s October 7 attack on Israel. It later said it was “conducting a situational assessment.”
@@ -21,6 +23,8 @@ In contrast, Israel did confirm it carried out a strike in Beirut, Lebanon, on T
 Israel’s war against Hamas in Gaza, launched following the attacks led by the militant group on October 7, has sparked increasingly intense, near-daily ripples of conflict throughout the region. This week’s dual strikes, which came within several hours of each other, seemingly escalates that discord on multiple fronts, and will prompt renewed fears of an all-out war breaking out in the Middle East.
 
 It may also dash any remaining hopes of a ceasefire and hostage deal in Gaza being reached in the near future, amid a catastrophic humanitarian crisis in the enclave. Haniyeh had played a leading role representing Hamas in months-long truce negotiations, which have repeatedly appeared to reach the cusp of a breakthrough, only to collapse at the last moment.
+
+In a statement after the strike, the Hostages and Missing Families Forum – which is campaigning to free the hostages still held in Gaza – said that “while (Israel’s) military operations over the past 10 months have achieved significant security gains, true achievement can only be realized with the release of all 115 hostages still in captivity.” It urged the Israeli government “to decisively advance negotiations.”
 
 ### Killing will ‘complicate’ ceasefire talks
 

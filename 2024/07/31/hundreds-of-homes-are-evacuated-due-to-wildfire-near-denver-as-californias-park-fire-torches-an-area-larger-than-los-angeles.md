@@ -1,12 +1,16 @@
 # Hundreds of homes are evacuated due to wildfire near Denver as California’s Park Fire torches an area larger than Los Angeles
 
-Published :`2024-07-31 14:35:44`
+Published :`2024-07-31 15:15:55`
 
 ---
 
 While California battles the fifth-largest wildfire in state history, a new inferno in Colorado has forced the evacuation of about 600 homes near Denver. Here’s the latest on a barrage of blazes burning in several western states:
 
-• Colorado’s Quarry Fire spreads rapidly: Emergency crews raced to evacuate homes southwest of Denver overnight as the Quarry Fire, previously known as the Wildland Fire, threatened several subdivisions, according to the Jefferson County Sheriff’s Office. The blaze grew from 50 to 100 acres early Wednesday morning, the sheriff’s office posted on X.
+• Colorado’s Quarry Fire spreads rapidly: Emergency crews raced to evacuate homes southwest of Denver overnight as the Quarry Fire, previously known as the Wildland Fire, threatened several subdivisions, according to the Jefferson County Sheriff’s Office. The blaze grew from 50 to 100 acres early Wednesday morning, the sheriff’s office posted on X. Hours later, the inferno was still 0% contained.
+
+• Firefighters struggle with limited resources and “a rattlesnake problem”: The Quarry Fire will be tough to fight due to the terrain and the number of other wildfires searing parts of Colorado, local officials said. “We don’t know if we’re going to get any air support today or not,” Jefferson County Sheriff’s Office spokesperson Mark Techmeyer said Wednesday. Colorado is already grappling with the Alexander Mountain Fire north of Denver, which has burned more than 5,000 acres and was 0% contained as of Tuesday. The nearby Stone Canyon Fire in Boulder County has singed 1,320 acres and was also 0% contained as of Tuesday night.
+
+While no injuries have been reported from the Quarry Fire, firefighters face new hazards with the blaze. The terrain is mountainous, steep and “really hard to navigate on foot,” Techmeyer said. On top of that, “We have a rattlesnake problem to deal with.”
 
 • California’s Park Fire is bigger than the size of Los Angeles: The weeklong inferno, which started July 24 in Northern California, is now the fifth-largest wildfire in state history. It has swallowed more than 389,000 acres, or 607 square miles, according to Cal Fire. More than 5,700 personnel are battling the blaze, using more than 500 fire engines and 40 helicopters. “This region, both Butte and Tehama (counties) … has had four of the largest 10 fires known in history,” Cal Fire Incident Commander Billy See said. As of Wednesday morning, the Park Fire had destroyed at least 227 structures and was 18% contained.
 
