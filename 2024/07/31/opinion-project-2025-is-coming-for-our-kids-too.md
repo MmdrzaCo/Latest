@@ -1,6 +1,6 @@
 # Opinion: Project 2025 is coming for our kids, too
 
-Published :`2024-07-31 10:12:32`
+Published :`2024-07-31 10:36:45`
 
 ---
 

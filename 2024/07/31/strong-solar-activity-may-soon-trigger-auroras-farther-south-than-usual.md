@@ -1,6 +1,6 @@
 # Strong solar activity may soon trigger auroras farther south than usual
 
-Published :`2024-07-31 10:12:35`
+Published :`2024-07-31 10:36:51`
 
 ---
 

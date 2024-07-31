@@ -1,6 +1,6 @@
 # What we know about the assassination of Hamas political leader Ismail Haniyeh
 
-Published :`2024-07-31 10:12:32`
+Published :`2024-07-31 10:36:44`
 
 ---
 
@@ -28,7 +28,9 @@ When asked for comment, Israel’s military said it “doesn’t respond to repo
 
 ### Who was Haniyeh?
 
-The 62-year-old had been part of Hamas for decades, becoming political chief of the group in 2017. The following year, he was named a “specially designated global terrorist” by the United States.
+Haniyeh, 62, was born in a refugee camp near Gaza City, and joined Hamas in the late 1980s during the First Intifada, or uprising. As Hamas grew in power, Haniyeh rose through the ranks – being appointed part of a secret “collective leadership” in 2004.
+
+He became political chief of Hamas in 2017. The following year, he was named a “specially designated global terrorist” by the United States.
 
 Despite that designation – and unlike Hamas’ military leadership – Haniyeh travelled globally, meeting with world figures as the political head of the organization.
 
@@ -36,7 +38,13 @@ During the war with Israel in Gaza he has taken a central role in hostage and ce
 
 Earlier this spring, he said Hamas was willing to strike a deal – but it would require Israel withdrawing from Gaza and a guarantee to cease fighting in the enclave permanently, demands that Israel has called “unacceptable.”
 
+### How does this impact ceasefire talks?
+
 Haniyeh was in touch with mediators in Qatar and Egypt as recently as early July. Those talks now hang in the balance, despite some hope earlier this month that they were nearing a framework agreement.
+
+A source with knowledge of the negotiations told CNN Wednesday that Haniyeh’s death could “complicate mediation talks.” The source said Haniyeh was “instrumental” in getting certain breakthroughs in negotiations and – along with the Hamas military leader in Gaza, Yahya Sinwar – was a “key decision maker.”
+
+“How can mediation succeed when one party assassinates the negotiator on other side?” Qatar’s Prime Minister Mohammed bin Abdulrahman Al-Thani, a mediator on the talks, posted on X on Wednesday. Qatar’s capital, Doha, also hosts the main Hamas political bureau. “Peace needs serious partners & a global stance against the disregard for human life,” Al-Thani wrote.
 
 Haniyeh’s death “will have significant influence on those negotiations,” said CNN Political and Foreign Policy Analyst Barak Ravid on Wednesday.
 
