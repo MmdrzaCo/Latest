@@ -1,6 +1,6 @@
 # Let them eat lobster! France spent over $500,000 on a state dinner for King Charles
 
-Published :`2024-07-31 17:36:50`
+Published :`2024-07-31 18:19:33`
 
 ---
 

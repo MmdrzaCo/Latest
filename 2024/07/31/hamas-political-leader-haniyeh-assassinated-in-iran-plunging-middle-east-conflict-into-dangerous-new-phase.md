@@ -1,6 +1,6 @@
 # Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase
 
-Published :`2024-07-31 17:36:50`
+Published :`2024-07-31 18:19:33`
 
 ---
 
@@ -18,11 +18,17 @@ Iranian state run media IRNA said the strike happened at around 2 a.m. local tim
 
 Israel’s military said it does not respond to reports in foreign media, though senior officials have previously vowed to eliminate Hamas and its leadership in response to the group’s October 7 attack on Israel. It later said it was “conducting a situational assessment.”
 
-In contrast, Israel did confirm it carried out a strike in Beirut, Lebanon, on Tuesday that killed Hezbollah commander Fu’ad Shukr, whom it blamed for a deadly attack in the Israeli-occupied Golan Heights over the weekend. Shukr’s assassination was the most serious Israeli escalation in its confrontation with the powerful Lebanese militant group since it restarted in earnest last October.
+In contrast, Israel did confirm it carried out a strike in Beirut, Lebanon, on Tuesday that killed Hezbollah commander Fu’ad Shukr, whom it blamed for a deadly attack in the Israeli-occupied Golan Heights over the weekend. Hezbollah later confirmed Shukr’s death. His assassination was the most serious Israeli escalation in its confrontation with the powerful Lebanese militant group since it restarted in earnest last October.
 
-Israel’s war against Hamas in Gaza, launched following the attacks led by the militant group on October 7, has sparked increasingly intense, near-daily ripples of conflict throughout the region. This week’s dual strikes, which came within several hours of each other, seemingly escalates that discord on multiple fronts, and will prompt renewed fears of an all-out war breaking out in the Middle East.
+Israel’s war against Hamas in Gaza, launched following the attacks led by the militant group on October 7, has sparked increasingly intense, near-daily ripples of conflict throughout the region. This week’s dual strikes, which came within several hours of each other, seemingly escalate that discord on multiple fronts, and will prompt renewed fears of an all-out war breaking out in the Middle East.
 
-It may also dash any remaining hopes of a ceasefire and hostage deal in Gaza being reached in the near future, amid a catastrophic humanitarian crisis in the enclave. Haniyeh had played a leading role representing Hamas in months-long truce negotiations, which have repeatedly appeared to reach the cusp of a breakthrough, only to collapse at the last moment.
+In a televised address Wednesday evening, Prime Minister Benjamin Netanyahu said Israel had delivered “crushing blows” to its enemies in the last few days, but did not mention the death of Haniyeh.
+
+“We’ll settle the score with anyone who harms us, anyone who massacres our children, anyone who murders our citizens,” Netanyahu said.
+
+In a bellicose speech, he said he did not “give in” to earlier calls to end the war in Gaza “and I am not giving in today.” He conceded “these are challenging days,” but stressed Israel is “ready for any scenario.”
+
+This week’s strikes may also dash any remaining hopes of a ceasefire and hostage deal in Gaza being reached in the near future, amid a catastrophic humanitarian crisis in the enclave. Haniyeh had played a leading role representing Hamas in months-long truce negotiations, which have repeatedly appeared to reach the cusp of a breakthrough, only to collapse at the last moment.
 
 In a statement after the strike, the Hostages and Missing Families Forum – which is campaigning to free the hostages still held in Gaza – said that “while (Israel’s) military operations over the past 10 months have achieved significant security gains, true achievement can only be realized with the release of all 115 hostages still in captivity.” It urged the Israeli government “to decisively advance negotiations.”
 

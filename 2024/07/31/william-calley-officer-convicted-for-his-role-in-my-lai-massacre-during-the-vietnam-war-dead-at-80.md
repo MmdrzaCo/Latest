@@ -1,6 +1,6 @@
 # William Calley, officer convicted for his role in My Lai massacre during the Vietnam War, dead at 80
 
-Published :`2024-07-31 17:36:53`
+Published :`2024-07-31 18:19:36`
 
 ---
 

@@ -1,6 +1,6 @@
 # Bill Ackman won’t raise anything close to what he planned for his hedge fund IPO
 
-Published :`2024-07-31 17:36:56`
+Published :`2024-07-31 18:19:38`
 
 ---
 

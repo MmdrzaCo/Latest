@@ -1,6 +1,6 @@
 # How did Neanderthals disappear? New DNA analysis sheds light on the mystery
 
-Published :`2024-07-31 17:36:51`
+Published :`2024-07-31 18:19:33`
 
 ---
 
