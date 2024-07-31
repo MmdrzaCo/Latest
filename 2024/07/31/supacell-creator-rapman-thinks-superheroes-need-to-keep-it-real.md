@@ -1,6 +1,6 @@
 # ‘Supacell’ creator Rapman thinks superheroes need to keep it real
 
-Published :`2024-07-31 04:36:32`
+Published :`2024-07-31 05:12:58`
 
 ---
 

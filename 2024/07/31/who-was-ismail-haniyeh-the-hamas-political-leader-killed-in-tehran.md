@@ -1,0 +1,58 @@
+# Who was Ismail Haniyeh, the Hamas political leader killed in Tehran?
+
+Published :`2024-07-31 05:12:52`
+
+---
+
+Ismail Haniyeh has been part of Hamas for decades, in recent years running the militant group’s political operations from exile, and emerging as one of its most visible leaders during the war with Israel in Gaza.
+
+Hamas and Iranian state media said Wednesday that the 62-year-old had been killed in the Iranian capital Tehran. Hamas claimed Haniyeh was killed in an Israeli “raid” on his residence, while the Israeli military declined to comment when contacted by CNN.
+
+Haniyeh’s death strikes a significant blow to Hamas at a time when tensions are flaring across the Middle East over the devastating war in Gaza, and raises fraught questions about the future of negotiations between Israel and Hamas.
+
+As Hamas’s political leader, he was a key interlocutor with international mediators during stalled hostage and ceasefire talks between Israel and Hamas, following the group’s October 7 attack on Israel.
+
+Haniyeh was born in a refugee camp near Gaza City, and joined Hamas in the late 1980s during the First Intifada, or uprising.
+
+His parents were refugees expelled from Askalan, which later became known as the Israeli city Ashkelon.
+
+He was imprisoned several times in Israel for his participation in the uprising, before being deported and returning to Gaza – where he steadily climbed Hamas ranks in the following decade.
+
+Haniyeh was appointed part of a secret “collective leadership” in 2004 after the deaths of Hamas’ previous two leaders, Sheikh Ahmed Yassin and Abdel Aziz Rantisi, who were killed in Israeli strikes just weeks apart.
+
+By 2017 he had become political chief of the group, and was named a “specially designated global terrorist” by the United States soon after.
+
+This decision came during a period of tension between Washington and the Palestinians due to the decision to recognize Jerusalem as the capital of Israel, a decision made by the then-US President Donald Trump.
+
+Despite that designation – and unlike Hamas’ military leadership – Haniyeh travelled globally, meeting with world figures as the political head of the organization. He was photographed meeting Iranian President Masoud Pezeshkian in Tehran on Tuesday.
+
+### Ceasefire and hostage release talks
+
+Hamas’ surprise attack on October 7 saw at least 1,500 Hamas fighters pour across the border into Israel, in an assault that killed at least 1,200, and some 200 others taken hostage.
+
+Israeli strikes in Gaza have since killed more than 39,000 Palestinians, according to the Ministry of Health there, and sparked a humanitarian catastrophe in the densely crowded strip.
+
+In the months since, Haniyeh had been a key figure participating in international negotiations over the conflict, including the release of hostages still in Gaza.
+
+He had shown willingness to reach an agreement if Israel withdrew from Gaza – saying in May that the group was “still keen” to strike a deal with mediators, but that any proposal would have to cease fighting in the enclave permanently.
+
+At the time, he said their demands aimed to stop “the aggression against our people, which is a fundamental and logical position that lays the foundation for a more stable future.”
+
+In response, Israel has called those demands “unacceptable,” with Prime Minister Benjamin Netanyahu vowing to keep fighting until Hamas was destroyed – leaving negotiations at a standstill as both sides traded blame.
+
+As recently as early July, Haniyeh was in touch with mediators in Qatar and Egypt to discuss ideas on ending the war, sparking some hope that the two sides could be on the brink of a framework agreement.
+
+Given his role in negotiations, Haniyeh’s death “will have significant influence on those negotiations,” said CNN Political and Foreign Policy Analyst Barak Ravid on Wednesday.
+
+Throughout the war, he has also continued meeting with other world leaders and officials – including Chinese diplomat Wang Kejian, who met Haniyeh in Qatar in March, during which they discussed the war in Gaza.
+
+Haniyeh has also felt the personal toll of the war in Gaza. In April, Israeli police arrested one of his sisters on charges of communicating with members of the movement. Nine days later, Israeli airstrikes killed three of his sons and four of his grandchildren.
+
+Afterward, Haniyeh insisted their deaths would not affect ongoing ceasefire and hostage talks.
+
+“Whoever thinks that by targeting my kids during the negotiation talks and before a deal is agreed upon that it will force Hamas to back down on its demands, is delusional,” he said.
+
+At the time, Haniyeh was based in Qatar, which is not a signatory of the Rome Statute allowing jurisdiction by the International Criminal Court.
+
+---
+

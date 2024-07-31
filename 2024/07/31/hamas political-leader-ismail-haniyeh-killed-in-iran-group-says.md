@@ -1,28 +1,36 @@
 # Hamas political leader Ismail Haniyeh killed in Iran, group says
 
-Published :`2024-07-31 04:36:26`
+Published :`2024-07-31 05:12:53`
 
 ---
 
-Hamas political leader Ismail Haniyeh has been killed in the Iranian capital Tehran, Iranian state media Press TV reported Wednesday, citing the Islamic Revolutionary Guard Corps (IRGC).
+Hamas political leader Ismail Haniyeh has been killed in the Iranian capital Tehran, according to Iran’s Revolutionary Guards Corps and Hamas on Wednesday.
 
-Hamas issued a statement shortly after the announcement saying Haniyeh was killed in what it said was an Israeli “raid” on his residence in Tehran after he participated in the inauguration of the new Iranian president.
+His killing represents a significant blow to the militant group, eliminating a key figure who headed up its political operations while living overseas.
 
-In response to the claim, the Israeli military said it “doesn’t respond to reports in the foreign media.”
+In a statement, Hamas accused Israel of targeting Haniyeh in a “raid” on his residence in Tehran, following his participation in the inauguration of the new Iranian president.
 
-It is not clear precisely when Haniyeh was killed. The new Iranian president was sworn in on Tuesday and Hamas released pictures the same day of Haniyeh meeting Iranian officials in Tehran.
+The Israeli military said it doesn’t respond to reports in foreign media, though senior officials have previously vowed to eliminate Hamas and its leadership in response to the group’s October 7 attack on Israel.
 
-The timing comes at an especially fraught time for the Middle East, with escalating confrontations between Israel and Hezbollah threatening to expand into a wider regional war and as Hamas continues to battle Israel’s military in Gaza.
+It is not clear precisely when Haniyeh, a key interlocutor with Egyptian and Qatari mediators on the ongoing hostage and ceasefire talks in Gaza, was killed. The new Iranian president was sworn in on Tuesday and Hamas released pictures the same day of Haniyeh meeting Iranian officials in Tehran.
 
-His killing would be a blow to Hamas, eliminating a key figure who headed up the group’s political operations while living overseas and a key interlocutor with Egyptian and Qatari mediators on the ongoing hostage and ceasefire talks in Gaza.
+The killing comes at an especially fraught time for the Middle East, with escalating confrontations between Israel and Hezbollah threatening to expand into a wider regional war and as Hamas continues to battle Israel’s military in Gaza amid an unfolding and catastrophic humanitarian crisis.
 
-And it comes as Israel’s relentless bombardment of Gaza has turned much of the coastal enclave into a wasteland and caused a catastrophic humanitarian crisis.
+Musa Abu Marzouk, a member of Hamas’ Political Bureau, said Haniyeh’s death would “not pass in vain,” while another Hamas official said the group is “ready to pay various prices.”
+
+News of Haniyeh’s death came a day after Israel said it killed Hezbollah’s most senior military official, Fu’ad Shukr, in a drone strike in the southern suburbs of Beirut, a populous neighborhood that is also the Iran-backed group’s stronghold. The strike was the most serious Israeli escalation since confrontations between Hezbollah and Israel began on October 8.
 
 The White House said it has seen the reports of Haniyeh’s death but declined to immediately comment further, according to a spokesperson.
 
 Haniyeh would be the second Hamas senior leader to be killed since the beginning of Israel’s war in Gaza. In January, the group said its deputy head of the political bureau Saleh Al Arouri was killed in an Israeli airstrike in the Lebanese capital Beirut. Arouri was considered one of the founding members of the Hamas’s military wing, the Izz ad-Din al-Qassam Brigades.
 
 However, the group has been able to weather the death of other key leaders before, including slaying of its co-founders Sheikh Ahmed Yassin and Abdel Aziz Rantisi who were killed weeks apart in 2004.
+
+CNN Political and Foreign Policy Analyst Barak Ravid said the Israeli government sees Haniyeh as one of those responsible for Hamas’ October 7 attacks and while he is not militarily significant, his death “will have significant influence” on the ongoing hostage and ceasefire negotiations.
+
+“This assassination is, in a way, just a matter of when, not a matter of if,” Ravid said.
+
+### Who is Ismail Haniyeh?
 
 Haniyeh, 62, was born in a refugee camp near Gaza City, and joined Hamas in the late 1980s during the First Intifada, or uprising.
 
