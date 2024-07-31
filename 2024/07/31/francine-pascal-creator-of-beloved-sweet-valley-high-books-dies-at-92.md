@@ -1,6 +1,6 @@
 # Francine Pascal, creator of beloved ‘Sweet Valley High’ books, dies at 92
 
-Published :`2024-07-31 03:36:51`
+Published :`2024-07-31 04:14:40`
 
 ---
 

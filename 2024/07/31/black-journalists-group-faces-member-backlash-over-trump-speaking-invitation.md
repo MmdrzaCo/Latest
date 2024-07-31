@@ -1,6 +1,6 @@
 # Black journalists group faces member backlash over Trump speaking invitation
 
-Published :`2024-07-31 03:36:51`
+Published :`2024-07-31 04:14:40`
 
 ---
 

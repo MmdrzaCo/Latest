@@ -1,6 +1,6 @@
 # ‘Catastrophic flooding’ forces water rescues in Vermont after 1-in-1,000-year rainfall event
 
-Published :`2024-07-31 03:36:52`
+Published :`2024-07-31 04:14:40`
 
 ---
 
@@ -8,7 +8,7 @@ Emergency responders sprang into action early Tuesday to rescue residents in flo
 
 Ten swift-water rescue teams completed about two dozen rescues in Caledonia and Essex counties, some of the hardest-hit areas, where flash flood emergencies warning of “catastrophic flooding” were issued and the storm unleashed inches of rainfall in just a few hours.
 
-Nearly 7 inches of rain fell in St. Johnsbury, Vermont, in just 6 hours, an amount considered a 1-in-1,000 year event – one so extreme, it usually only happens once every thousand years in normal conditions. More than 8 inches have fallen so far there in what is one of the highest calendar day totals in state history, the National Weather Service in Vermont said.
+Nearly 8 inches of rain fell in St. Johnsbury, Vermont, in just 6 hours, an amount considered a 1-in-1,000 year event – one so extreme, it usually only happens once every thousand years in normal conditions. A total of 8.41 inches fell there in what is one of the highest calendar day totals in state history, the National Weather Service in Vermont said.
 
 Extreme rainfall is becoming more common as fossil fuel pollution pushes temperatures higher and bolsters the atmosphere’s ability to store more water vapor. Scientists are very confident that climate change is increasing rainfall rates – how hard the rain is falling – and the amount of rain a storm can produce.
 

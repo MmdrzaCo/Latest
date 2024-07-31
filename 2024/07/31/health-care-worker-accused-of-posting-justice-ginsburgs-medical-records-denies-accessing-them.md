@@ -1,6 +1,6 @@
 # Health care worker accused of posting Justice Ginsburg’s medical records denies accessing them
 
-Published :`2024-07-31 03:36:52`
+Published :`2024-07-31 04:14:41`
 
 ---
 
