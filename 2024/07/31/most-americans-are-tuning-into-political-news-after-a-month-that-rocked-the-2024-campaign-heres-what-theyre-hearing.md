@@ -1,6 +1,6 @@
 # Most Americans are tuning into political news after a month that rocked the 2024 campaign. Here’s what they’re hearing
 
-Published :`2024-07-31 09:36:06`
+Published :`2024-07-31 10:12:34`
 
 ---
 

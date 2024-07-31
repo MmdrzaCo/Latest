@@ -1,6 +1,6 @@
 # Most young people who die by suicide in the US do not have previous mental health diagnoses, study suggests
 
-Published :`2024-07-31 09:36:08`
+Published :`2024-07-31 10:12:36`
 
 ---
 

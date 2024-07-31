@@ -1,6 +1,6 @@
 # Police search for suspect and motive after man killed in Philadelphia mosque parking lot while walking to prayer service
 
-Published :`2024-07-31 09:36:05`
+Published :`2024-07-31 10:12:32`
 
 ---
 

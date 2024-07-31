@@ -1,6 +1,6 @@
 # Kari Lake will win GOP Senate primary in Arizona, CNN projects, to take on Ruben Gallego in pivotal contest
 
-Published :`2024-07-31 09:36:05`
+Published :`2024-07-31 10:12:32`
 
 ---
 
