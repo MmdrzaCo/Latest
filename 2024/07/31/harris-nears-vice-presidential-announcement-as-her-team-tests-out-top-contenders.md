@@ -1,10 +1,10 @@
 # Harris nears vice presidential announcement as her team tests out top contenders
 
-Published :`2024-07-31 02:14:48`
+Published :`2024-07-31 02:35:52`
 
 ---
 
-(CNN) — Kamala Harris is in the thick of choosing a vice presidential running mate, with her campaign eying an announcement in the coming days that would be immediately followed by a joint tour of a series of battleground states beginning Tuesday.
+(CNN) — Kamala Harris is in the thick of choosing a vice presidential running mate, with her campaign eying an announcement in the coming days that would be immediately followed by a joint tour of a series of battleground states beginning next Tuesday.
 
 Harris, abruptly thrust into the role of presidential candidate fewer than 10 days ago, has been studying notebooks filled with information about each of the top vice presidential contenders, has had preliminary conversations with some of those candidates, and has been asking close advisers involved in the process who would make the strongest governing partner for her at the White House, sources familiar with the process said
 

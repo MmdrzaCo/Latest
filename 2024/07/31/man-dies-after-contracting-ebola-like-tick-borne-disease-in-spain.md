@@ -1,6 +1,6 @@
 # Man dies after contracting Ebola-like tick-borne disease in Spain
 
-Published :`2024-07-31 02:14:50`
+Published :`2024-07-31 02:35:57`
 
 ---
 
