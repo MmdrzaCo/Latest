@@ -1,6 +1,6 @@
 # Tiffany Haddish defends Zimbabwe grocery store TikTok video after backlash
 
-Published :`2024-07-31 08:35:55`
+Published :`2024-07-31 09:17:31`
 
 ---
 

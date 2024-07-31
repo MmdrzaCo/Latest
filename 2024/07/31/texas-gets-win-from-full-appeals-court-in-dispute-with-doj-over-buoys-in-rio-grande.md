@@ -1,6 +1,6 @@
 # Texas gets win from full appeals court in dispute with DOJ over buoys in Rio Grande
 
-Published :`2024-07-31 08:35:54`
+Published :`2024-07-31 09:17:27`
 
 ---
 
