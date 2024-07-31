@@ -1,6 +1,6 @@
 # Harris recalibrates policy stances as she adjusts to role atop Democratic ticket
 
-Published :`2024-07-31 19:12:54`
+Published :`2024-07-31 19:35:56`
 
 ---
 

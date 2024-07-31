@@ -1,6 +1,6 @@
 # The internet is in love with South Korea’s record-breaking Olympic shooter
 
-Published :`2024-07-31 19:12:52`
+Published :`2024-07-31 19:35:55`
 
 ---
 

@@ -1,6 +1,6 @@
 # Boeing timeline: Inside the air giant’s turbulent journey in recent years
 
-Published :`2024-07-31 19:12:51`
+Published :`2024-07-31 19:35:54`
 
 ---
 

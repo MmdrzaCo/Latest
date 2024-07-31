@@ -1,6 +1,6 @@
 # IHOP, Denny’s join value menu wars to win back price-conscious consumers
 
-Published :`2024-07-31 19:12:51`
+Published :`2024-07-31 19:35:54`
 
 ---
 
