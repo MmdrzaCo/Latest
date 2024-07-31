@@ -1,6 +1,6 @@
 # ‘Wild west of election work’: How certification fights are already cropping up in battleground states
 
-Published :`2024-07-31 06:17:59`
+Published :`2024-07-31 06:35:43`
 
 ---
 
