@@ -1,6 +1,6 @@
 # R. Kelly petitions US Supreme Court to overturn sex crimes convictions based on statute of limitations
 
-Published :`2024-07-31 03:16:33`
+Published :`2024-07-31 03:36:51`
 
 ---
 
@@ -22,7 +22,7 @@ With that appeal rejected, Bonjean has now escalated her claim directly to the S
 
 Bonjean represented Bill Cosby in his successful appeal in 2021, which was also based on a legal technicality. Bonjean is also currently representing Harvey Weinstein in his Los Angeles appeal. The former Hollywood producer’s New York conviction was overturned earlier this year on a legal technicality relating to witnesses who were admitted in the case.
 
-CNN has reached out to Bonjean for comment on the new petition to the high court.
+When contacted by CNN for comment on the petition to appeal, Bonjean said via email: “Laws are generally applied prospectively. The 2003 amendment that expanded the statute of limitations was not intended to apply to Mr. Kelly’s alleged conduct from the 1990s. Statutes should be strictly construed and prosecutors should not be permitted to ignore the intent of Congress – even when the defendant is R. Kelly.”
 
 ---
 
