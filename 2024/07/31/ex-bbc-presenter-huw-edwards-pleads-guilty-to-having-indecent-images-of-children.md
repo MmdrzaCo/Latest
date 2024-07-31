@@ -1,6 +1,6 @@
 # Ex-BBC presenter Huw Edwards pleads guilty to having indecent images of children
 
-Published :`2024-07-31 13:19:42`
+Published :`2024-07-31 13:35:37`
 
 ---
 
@@ -19,6 +19,8 @@ The court heard that Edwards told a man on WhatsApp not to send him underage ima
 No more illegal images were sent after that message, the court heard, but the pair were said to continue exchanging legal pornographic images until April 2022.
 
 Speaking in Edwards’ defense, his barrister Philip Evans said, “there’s no suggestion in this case that Mr Edwards has… in the traditional sense of the word, created any image of any sort.”
+
+Edwards on Wednesday pleaded guilty to the offense of “making indecent images of children.” According to guidance from the UK’s Crown Prosecution Service (CPS), the term “making” can have a wide legal definition, including downloading an image from a website or being sent an image via social media, even if unsolicited or part of a group.
 
 “Mr. Edwards did not keep any images, did not send any to anyone else and did not and has not sought similar images from anywhere else,” Evans said.
 

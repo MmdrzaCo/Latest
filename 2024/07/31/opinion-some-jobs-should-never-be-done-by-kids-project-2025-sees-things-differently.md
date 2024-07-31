@@ -1,6 +1,6 @@
 # Opinion: Some jobs should never be done by kids. Project 2025 sees things differently
 
-Published :`2024-07-31 13:19:42`
+Published :`2024-07-31 13:35:37`
 
 ---
 

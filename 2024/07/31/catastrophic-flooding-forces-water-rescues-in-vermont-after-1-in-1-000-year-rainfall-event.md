@@ -1,6 +1,6 @@
 # ‘Catastrophic flooding’ forces water rescues in Vermont after 1-in-1,000-year rainfall event
 
-Published :`2024-07-31 13:19:42`
+Published :`2024-07-31 13:35:37`
 
 ---
 

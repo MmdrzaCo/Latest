@@ -1,18 +1,20 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-31 13:19:45`
+#### Latest Update : `2024-07-31 13:35:39`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Ex-BBC presenter Huw Edwards pleads guilty to having indecent images of children](https://new-news.github.io/Latest/2024/07/31/ex-bbc-presenter-huw-edwards-pleads-guilty-to-having-indecent-images-of-children 'Ex-BBC presenter Huw Edwards pleads guilty to having indecent images of children')
+
+- [First on CNN: Cyberattack hits blood-donation nonprofit OneBlood](https://new-news.github.io/Latest/2024/07/31/first-on-cnn-cyberattack-hits-blood-donation-nonprofit-oneblood 'First on CNN: Cyberattack hits blood-donation nonprofit OneBlood')
 
 - [How did Neanderthals disappear? New DNA analysis sheds light on the mystery](https://new-news.github.io/Latest/2024/07/31/how-did-neanderthals-disappear-new-dna-analysis-sheds-light-on-the-mystery 'How did Neanderthals disappear? New DNA analysis sheds light on the mystery')
 
 - [San Francisco will enforce penalties to clear homeless encampments as Los Angeles pushes back on governor’s order](https://new-news.github.io/Latest/2024/07/31/san-francisco-will-enforce-penalties-to-clear-homeless-encampments-as-los-angeles-pushes-back-on-governors-order 'San Francisco will enforce penalties to clear homeless encampments as Los Angeles pushes back on governor’s order')
 
 - [Russia launches one of war’s biggest drone attacks on Ukraine overnight](https://new-news.github.io/Latest/2024/07/31/russia-launches-one-of-wars-biggest-drone-attacks-on-ukraine-overnight 'Russia launches one of war’s biggest drone attacks on Ukraine overnight')
-
-- [First on CNN: Cyberattack hits blood-donation nonprofit OneBlood](https://new-news.github.io/Latest/2024/07/31/first-on-cnn-cyberattack-hits-blood-donation-nonprofit-oneblood 'First on CNN: Cyberattack hits blood-donation nonprofit OneBlood')
 
 - [Harris coalition takes shape with ‘new energy’ from fraying Biden alliance](https://new-news.github.io/Latest/2024/07/31/harris-coalition-takes-shape-with-new-energy-from-fraying-biden-alliance 'Harris coalition takes shape with ‘new energy’ from fraying Biden alliance')
 
@@ -25,8 +27,6 @@
 - [What we know about the assassination of Hamas political leader Ismail Haniyeh](https://new-news.github.io/Latest/2024/07/31/what-we-know-about-the-assassination-of-hamas-political-leader-ismail-haniyeh 'What we know about the assassination of Hamas political leader Ismail Haniyeh')
 
 - [Iran has no good options after two deadly strikes on senior allies](https://new-news.github.io/Latest/2024/07/31/iran-has-no-good-options-after-two-deadly-strikes-on-senior-allies 'Iran has no good options after two deadly strikes on senior allies')
-
-- [Ex-BBC presenter Huw Edwards pleads guilty to having indecent images of children](https://new-news.github.io/Latest/2024/07/31/ex-bbc-presenter-huw-edwards-pleads-guilty-to-having-indecent-images-of-children 'Ex-BBC presenter Huw Edwards pleads guilty to having indecent images of children')
 
 - [Who was Ismail Haniyeh, the Hamas political leader killed in Tehran?](https://new-news.github.io/Latest/2024/07/31/who-was-ismail-haniyeh-the-hamas-political-leader-killed-in-tehran 'Who was Ismail Haniyeh, the Hamas political leader killed in Tehran?')
 

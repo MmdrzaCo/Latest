@@ -1,6 +1,6 @@
 # San Francisco will enforce penalties to clear homeless encampments as Los Angeles pushes back on governor’s order
 
-Published :`2024-07-31 13:19:41`
+Published :`2024-07-31 13:35:37`
 
 ---
 
