@@ -1,6 +1,6 @@
 # Investigation finds at least 973 Native American children died in US government boarding schools
 
-Published :`2024-07-31 09:17:29`
+Published :`2024-07-31 09:36:07`
 
 ---
 

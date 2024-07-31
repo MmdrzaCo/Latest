@@ -1,6 +1,6 @@
 # El Chapo’s son denies making deal with US prior to arrest, pleads not guilty in court
 
-Published :`2024-07-31 09:17:28`
+Published :`2024-07-31 09:36:06`
 
 ---
 
