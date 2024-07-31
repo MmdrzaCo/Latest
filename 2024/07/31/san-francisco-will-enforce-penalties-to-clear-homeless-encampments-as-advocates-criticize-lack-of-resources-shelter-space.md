@@ -1,6 +1,6 @@
 # San Francisco will enforce penalties to clear homeless encampments as advocates criticize lack of resources, shelter space
 
-Published :`2024-07-31 05:12:54`
+Published :`2024-07-31 05:35:45`
 
 ---
 
