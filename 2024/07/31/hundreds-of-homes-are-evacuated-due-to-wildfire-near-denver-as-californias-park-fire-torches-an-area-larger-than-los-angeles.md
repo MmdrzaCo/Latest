@@ -1,6 +1,6 @@
 # Hundreds of homes are evacuated due to wildfire near Denver as California’s Park Fire torches an area larger than Los Angeles
 
-Published :`2024-07-31 15:36:42`
+Published :`2024-07-31 16:18:38`
 
 ---
 
@@ -8,7 +8,9 @@ While California battles the fifth-largest wildfire in state history, a new infe
 
 • Colorado’s Quarry Fire spreads rapidly: Emergency crews raced to evacuate homes southwest of Denver overnight as the Quarry Fire, previously known as the Wildland Fire, threatened several subdivisions, according to the Jefferson County Sheriff’s Office. The blaze grew from 50 to 100 acres early Wednesday morning, the sheriff’s office posted on X. Hours later, the inferno was still 0% contained.
 
-• Firefighters struggle with limited resources and “a rattlesnake problem”: The Quarry Fire will be tough to fight due to the terrain and the number of other wildfires searing parts of Colorado, local officials said. “We don’t know if we’re going to get any air support today or not,” Jefferson County Sheriff’s Office spokesperson Mark Techmeyer said Wednesday. Colorado is already grappling with the Alexander Mountain Fire north of Denver, which has burned more than 5,000 acres and was 0% contained as of Tuesday. The nearby Stone Canyon Fire in Boulder County has singed 1,320 acres and was also 0% contained as of Tuesday night.
+• Firefighters struggle with limited resources and “a rattlesnake problem”: The Quarry Fire will be tough to fight due to the terrain and the number of other wildfires searing parts of Colorado, local officials said. “We don’t know if we’re going to get any air support today or not,” Jefferson County Sheriff’s Office spokesperson Mark Techmeyer said Wednesday.
+
+Colorado is already grappling with the Alexander Mountain Fire north of Denver, which has burned more than 5,000 acres and was 0% contained as of Tuesday. The nearby Stone Canyon Fire in Boulder County has singed 1,320 acres and was also 0% contained as of Tuesday night.
 
 While no injuries have been reported from the Quarry Fire, firefighters face new hazards with the blaze. The terrain is mountainous, steep and “really hard to navigate on foot,” Techmeyer said. On top of that, “We have a rattlesnake problem to deal with.”
 

@@ -1,6 +1,6 @@
 # San Francisco will enforce penalties to clear homeless encampments as Los Angeles pushes back on governor’s order
 
-Published :`2024-07-31 15:36:42`
+Published :`2024-07-31 16:18:38`
 
 ---
 
@@ -16,19 +16,17 @@ But officials in Los Angeles have made clear they won’t be heeding the governo
 
 The Los Angeles County Board of Supervisors voted unanimously Tuesday in favor of a motion affirming its jails won’t be used to hold homeless people arrested when encampments are broken up. County officials have said the approach is already in effect.
 
-“We’re not going to go to a race to the bottom,” County Supervisor Hilda Solis said, according to The Los Angeles Times. “We’re not going to turn our backs. We’re not going to use our jails to somehow incarcerate and criminalize people who are on the street.”
+Speakers at the county board meeting lauded the decision to follow its “care first, jails last” approach, which emphasizes providing people in need with supportive services that can help prevent them from cycling in and out of jail.
 
-Supervisor Lindsey Horvath noted someone who is endangering public safety or committing other crimes at an encampment could still be arrested and jailed, the Los Angeles Times reported.
+“I believe we must continue working closely with city partners to solve homelessness regionally instead of shuffling people experiencing homelessness around or calling on law enforcement partners to cite them. Those strategies are ineffective because they don’t treat the root cause of homelessness,” L.A. County Supervisor Kathryn Barger said in a statement Tuesday.
 
-“We aren’t saying that if there’s violent crime happening at a homeless encampment that that is not an arrestable offense,” Horvath said, according to the Times. “We aren’t saying anything like that at all. In fact, what we’re being clear about is that we are not criminalizing poverty or homelessness.”
-
-Late last month, the results of the Los Angeles Homeless Services Authority’s point-in-time count – conducted in January – showed the homeless population in Los Angeles had dropped for the first time in six years. It showed overall homelessness and in particular unsheltered homelessness was down in both Los Angeles County and the city. According to the count, homelessness was down 2.2% in the Los Angeles and 0.27% in the county. There were still 45,253 homeless people counted in the city and 75,312 people unhoused in the county, the authority reported.
+Late last month, the results of the Los Angeles Homeless Services Authority’s point-in-time count – conducted in January – showed the homeless population in Los Angeles had dropped for the first time in six years. It showed overall homelessness and in particular unsheltered homelessness was down in both Los Angeles County and the city. According to the count, homelessness was down 2.2% in Los Angeles and 0.27% in the county. There were still 45,253 homeless people counted in the city and 75,312 people unhoused in the county, the authority reported.
 
 Los Angeles Mayor Karen Bass last week said that the city would focus on “a comprehensive approach that leads with housing and services, not criminalization.”
 
 “Strategies that just move people along from one neighborhood to the next or give citations instead of housing do not work,” she said.
 
-The differing approaches from two of California’s largest cities comes after the Supreme Court in June ruled in favor of the city of Grants Pass, Oregon, which ticketed homeless people for sleeping outside, rejecting arguments that doing so violated the Constitution’s ban on “cruel and unusual” punishment.
+The differing approaches from two of California’s largest cities come after the Supreme Court in June ruled in favor of the city of Grants Pass, Oregon, which ticketed homeless people for sleeping outside, rejecting arguments that doing so violated the Constitution’s ban on “cruel and unusual” punishment.
 
 “There are simply no more excuses. It’s time for everyone to do their part,” Newsom said last week, directing state agencies to “adopt humane and dignified policies” and “move urgently to address dangerous encampments while supporting and assisting the individuals living in them.”
 

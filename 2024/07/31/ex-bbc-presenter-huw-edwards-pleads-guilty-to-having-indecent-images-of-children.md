@@ -1,6 +1,6 @@
 # Ex-BBC presenter Huw Edwards pleads guilty to having indecent images of children
 
-Published :`2024-07-31 15:36:42`
+Published :`2024-07-31 16:18:38`
 
 ---
 
@@ -23,6 +23,10 @@ Speaking in Edwards’ defense, his barrister Philip Evans said, “there’s no
 Edwards on Wednesday pleaded guilty to the offense of “making indecent images of children.” According to guidance from the UK’s Crown Prosecution Service (CPS), the term “making” can have a wide legal definition, including downloading an image from a website or being sent an image via social media, even if unsolicited or part of a group.
 
 “Mr. Edwards did not keep any images, did not send any to anyone else and did not and has not sought similar images from anywhere else,” Evans said.
+
+In a statement later Wednesday, the BBC said it was aware Edwards had been arrested in November 2023 - five months before he left the corporation - on suspicion of “serious offences,” however no charges had been brought against him at that point. The statement continued that Edwards would have been immediately dismissed by the BBC if he had been charged at any point during his employment.
+
+The corporation added it was “shocked” to hear the details that had emerged in court on Wednesday.
 
 On Monday, London’s Metropolitan Police said it had charged Edwards last month. He was arrested in November last year, police revealed.
 

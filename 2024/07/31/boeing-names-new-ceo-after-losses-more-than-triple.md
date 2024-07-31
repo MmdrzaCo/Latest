@@ -1,6 +1,6 @@
 # Boeing names new CEO after losses more than triple
 
-Published :`2024-07-31 15:36:42`
+Published :`2024-07-31 16:18:38`
 
 ---
 
@@ -37,6 +37,18 @@ It recently agreed to plead guilty to charges that its employees defrauded the F
 The company has come under renewed scrutiny after a 737 Max plane’s door plug blew off shortly after takeoff in January. More than a dozen whistleblowers have told Congressional investigators about bad practices at Boeing, including the use of parts that did not meet standards. Many said Boeing retaliated against employees who complained about safety practices.
 
 The company has agreed to an FAA demand to curb production of the 737 Max until the regulator is satisfied it has fixed its safety and quality issues. But that will keep the losses building at Boeing as it can’t make money at its current level of production.
+
+The most immediate problem for Ortberg is a potential strike in September by about 36,000 hourly workers at its commercial airplane plants in Washington state. Calhoun told investors that the company knows the Machinists union, which represents those workers, will have a “big ask” on wages, but that the company is willing to reward its workers and is doing everything it can to avoid a strike.
+
+Ortberg’s selection was also generally praised by Boeing analysts.
+
+“One person cannot turn around a company, but Kelly should be able to cast a wider net for talent than a Boeing insider could,” said Ron Epstein, aerospace analyst for Bank of America.
+
+“Demand for commercial aircraft remains strong, and in a duopoly, Boing should be a beneficiary, in our view,” Epstein added. “We do note that Ortberg is walking into a Boeing with a potential production strike in September, a defense business that is limping along, and commercial business that has lost the trust of regulators and the public. Boeing overall has a long road ahead if the underperformance in this quarter is an indicator of what’s to come.”
+
+Boeing has changed a number of top executives so far this year and Calhoun said he doesn’t think further changes in leadership are likely under Ortberg.
+
+“He knows full well that we’re in a recovery mode,” Calhoun told investors. “I don’t think this is intended to be a large personnel overhaul.”
 
 Boeing’s problems go beyond the 737 Max issues. The company also has problems with its defense business, which resulted in $913 million in losses on its defense, space and security unit, nearly double the $527 million it lost there a year earlier.
 

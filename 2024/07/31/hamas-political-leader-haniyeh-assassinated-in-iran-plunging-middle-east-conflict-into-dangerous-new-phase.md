@@ -1,6 +1,6 @@
 # Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase
 
-Published :`2024-07-31 15:36:42`
+Published :`2024-07-31 16:18:38`
 
 ---
 
@@ -62,7 +62,7 @@ Israel’s war against Hamas in Gaza has brought that longstanding shadow war wi
 
 The White House said it has seen the reports of Haniyeh’s death but declined to immediately comment further, according to a spokesperson. While traveling in the Philippines, US Secretary of Defense Lloyd Austin said he does not think war in the Middle East is inevitable, but if Israel were to be attacked the United States would help defend it.
 
-US Secretary of State Antony Blinken later said the US was “not aware of or involved in” the killing. In an interview with CNA in Singapore, the top US diplomat reiterated that he would not speculate on the impact of Haniyeh’s assassination.
+US Secretary of State Antony Blinken later said the US was “not aware of or involved in” the killing. In calls with both the Jordanian and Qatari foreign ministers, Blinken said it was important to continue the ceasefire talks and to prevent “further escalation of the conflict,” according to State Department readouts.
 
 The Islamic Revolutionary Guard Corps, an elite wing of the Iranian military, said Haniyeh’s death was under investigation and results will be announced later Wednesday, according to Iranian state media.
 
