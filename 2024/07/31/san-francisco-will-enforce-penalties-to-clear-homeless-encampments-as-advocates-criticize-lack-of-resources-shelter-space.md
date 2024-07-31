@@ -1,6 +1,6 @@
 # San Francisco will enforce penalties to clear homeless encampments as advocates criticize lack of resources, shelter space
 
-Published :`2024-07-31 07:36:41`
+Published :`2024-07-31 08:18:01`
 
 ---
 
@@ -53,8 +53,6 @@ Researchers at Boston and Cornell universities, in a policy brief last year, sa
 “Such strategies often worsen homelessness. For example, fines and fees make it harder to access employment and social services; in some cases criminal charges impact people’s eligibility for existing social services and housing programs,” the researchers said.
 
 “Property confiscation during encampment clearance may come at the expense of documents that are essential for obtaining housing, employment, insurance, like birth certificates and identification,” they added, noting a link between criminal arrests and cycles of homelessness.
-
-CNN’s Ray Sanchez contributed to this report.
 
 ---
 

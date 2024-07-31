@@ -1,6 +1,6 @@
 # Hamas political leader Haniyeh’s assassination deepens fears of an all-out war in the Middle East
 
-Published :`2024-07-31 07:36:40`
+Published :`2024-07-31 08:18:01`
 
 ---
 
@@ -8,13 +8,15 @@ Hamas political leader Ismail Haniyeh has been killed in the Iranian capital Teh
 
 Haniyeh is the second leader of an Iran-backed militant group reported to have been assassinated in recent days. His death represents a significant blow to Hamas, eliminating its most public figure who headed up the group’s political operations while living overseas.
 
-In a statement, Hamas accused Israel of targeting Haniyeh and his bodyguard in a “strike” on his residence in Tehran, following his participation in Tuesday’s inauguration of the new Iranian president.
+In a statement, Hamas accused Israel of targeting Haniyeh and his bodyguard in a “strike” on where he was staying in Tehran, following his participation in Tuesday’s inauguration of the new Iranian president.
 
 Israel’s military said it does not respond to reports in foreign media, though senior officials have previously vowed to eliminate Hamas and its leadership in response to the group’s October 7 attack on Israel. It later said it was “conducting a situational assessment.”
 
 In contrast, Israel did confirm it carried out a strike in Beirut, Lebanon, on Tuesday that killed Hezbollah’s most senior military commander, who it blamed for a deadly attack in the Israeli-occupied Golan Heights. The assassination of Fu’ad Shukr was the most serious Israeli escalation since confrontations between Hezbollah and Israel began on October 8.
 
 It is not clear precisely when Haniyeh, a key interlocutor with Egyptian and Qatari mediators on the ongoing hostage and ceasefire talks in Gaza, was killed. The new Iranian president Masoud Pezeshkian was sworn in on Tuesday and Hamas released pictures the same day of Haniyeh meeting Iranian officials in Tehran.
+
+State run media IRNA said the strike happened at around 2 a.m. local time involving an “airborne guided projectile.” State-affiliated Fars said he was staying in one of the special residences for veterans in north Tehran.
 
 The killing comes at an especially fraught time for the Middle East, with escalating confrontations between Israel and Hezbollah threatening to expand into a wider regional war and as Hamas continues to battle Israel’s military in Gaza amid an unfolding and catastrophic humanitarian crisis.
 
