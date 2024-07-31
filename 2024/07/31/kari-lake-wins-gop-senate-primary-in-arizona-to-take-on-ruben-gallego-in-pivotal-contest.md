@@ -1,6 +1,6 @@
 # Kari Lake wins GOP Senate primary in Arizona to take on Ruben Gallego in pivotal contest
 
-Published :`2024-07-31 10:36:44`
+Published :`2024-07-31 11:12:30`
 
 ---
 

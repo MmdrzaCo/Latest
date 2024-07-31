@@ -1,10 +1,10 @@
 # Who was Ismail Haniyeh, the Hamas political leader killed in Tehran?
 
-Published :`2024-07-31 10:36:45`
+Published :`2024-07-31 11:12:29`
 
 ---
 
-Ismail Haniyeh has been part of Hamas for decades, in recent years running the militant group’s political operations from exile, and emerging as one of its most visible leaders during the war with Israel in Gaza.
+Ismail Haniyeh, political leader of Hamas since 2017, has been the most visible leader of the group in Israel-Gaza war, and was key to the ceasefire and hostage release negotiations.
 
 Hamas and Iranian state media said Wednesday that the 62-year-old had been killed in the Iranian capital Tehran. Hamas claimed Haniyeh was killed in an Israeli “strike” on his residence, while the Israeli military declined to comment when contacted by CNN.
 
@@ -12,21 +12,23 @@ Haniyeh’s death strikes a significant blow to Hamas at a time when tensions ar
 
 As Hamas’s political leader, he was a key interlocutor with international mediators during stalled hostage and ceasefire talks between Israel and Hamas, following the group’s October 7 attack on Israel.
 
-Haniyeh was born in a refugee camp near Gaza City, and joined Hamas in the late 1980s during the First Intifada, or uprising.
+Haniyeh was born in a refugee camp near Gaza City, and joined Hamas in the late 1980s during the First Intifada, or uprising against Israel’s occupation in Gaza and the West Bank.
 
 His parents were refugees expelled from Askalan, which later became known as the Israeli city Ashkelon.
 
 He was imprisoned several times in Israel for his participation in the uprising, before being deported and returning to Gaza – where he steadily climbed Hamas ranks in the following decade.
 
-Haniyeh was appointed part of a secret “collective leadership” in 2004 after the deaths of Hamas’ previous two leaders, Sheikh Ahmed Yassin and Abdel Aziz Rantisi, who were killed in Israeli strikes just weeks apart.
+Haniyeh was appointed part of a secret “collective leadership” in 2004 after the deaths of Hamas’ founders Sheikh Ahmed Yassin and Abdel Aziz Rantisi, who were killed in Israeli strikes just weeks apart.
 
-After Hamas won elections to the Palestinian Legislative Council in 2006, Haniyeh became prime minister of the Palestinian Authority (PA) government, but it was short lived. He was dismissed after a year in office by PA President Mahmoud Abbas and remains the only PA Prime Minister to have taken office after securing a mandate in popular elections.
+After Hamas won elections to the Palestinian Legislative Council in 2006, Haniyeh became prime minister of the Palestinian Authority (PA) government, but it was short lived. He was dismissed after a year in office by PA President Mahmoud Abbas and remains the only PA prime minister to have taken office after securing a mandate in popular elections.
+
+A year later, Hamas seized Gaza after a short-lived, but bloody conflict with the ruling party of the Palestinian Authority, Fatah. Israel imposed a land, sea and air blockade on the territory shortly after that, alongside Egypt.
 
 Though regarded as Hamas’s leader in Gaza for many years, Haniyeh did not become the group’s overall political leader until 2017, when he took over from Khaled Meshaal who had led Hamas in exile since 2004.
 
 A year later, Haniyeh was named a “specially designated global terrorist” by the United States – which came during a period of tension between Washington and the Palestinians due to the decision to recognize Jerusalem as the capital of Israel, a decision made by the then-US President Donald Trump.
 
-Despite that designation – and unlike Hamas’ military leadership – Haniyeh travelled globally, meeting with world figures as the political head of the organization. He was photographed meeting Iranian President Masoud Pezeshkian in Tehran on Tuesday.
+Despite that designation – and unlike Hamas’ military leadership – Haniyeh travelled globally, meeting with world figures as the political head of the organization. He was photographed meeting Iran’s news President Masoud Pezeshkian in Tehran on Tuesday.
 
 ### Ceasefire and hostage release talks
 
