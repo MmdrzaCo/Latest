@@ -1,6 +1,6 @@
 # Ex-BBC presenter Huw Edwards pleads guilty to having indecent images of children
 
-Published :`2024-07-31 16:18:38`
+Published :`2024-07-31 16:40:11`
 
 ---
 

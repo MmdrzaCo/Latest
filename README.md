@@ -1,10 +1,14 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-31 16:18:43`
+#### Latest Update : `2024-07-31 16:40:13`
 
 ## Latest News Grabbing 
 
 ---
+
+- [Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase](https://new-news.github.io/Latest/2024/07/31/hamas-political-leader-haniyeh-assassinated-in-iran-plunging-middle-east-conflict-into-dangerous-new-phase 'Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase')
+
+- [Iran has no good options after two deadly strikes on senior allies](https://new-news.github.io/Latest/2024/07/31/iran-has-no-good-options-after-two-deadly-strikes-on-senior-allies 'Iran has no good options after two deadly strikes on senior allies')
 
 - [Hundreds of homes are evacuated due to wildfire near Denver as California’s Park Fire torches an area larger than Los Angeles](https://new-news.github.io/Latest/2024/07/31/hundreds-of-homes-are-evacuated-due-to-wildfire-near-denver-as-californias-park-fire-torches-an-area-larger-than-los-angeles 'Hundreds of homes are evacuated due to wildfire near Denver as California’s Park Fire torches an area larger than Los Angeles')
 
@@ -22,8 +26,6 @@
 
 - [San Francisco will enforce penalties to clear homeless encampments as Los Angeles pushes back on governor’s order](https://new-news.github.io/Latest/2024/07/31/san-francisco-will-enforce-penalties-to-clear-homeless-encampments-as-los-angeles-pushes-back-on-governors-order 'San Francisco will enforce penalties to clear homeless encampments as Los Angeles pushes back on governor’s order')
 
-- [Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase](https://new-news.github.io/Latest/2024/07/31/hamas-political-leader-haniyeh-assassinated-in-iran-plunging-middle-east-conflict-into-dangerous-new-phase 'Hamas political leader Haniyeh assassinated in Iran, plunging Middle East conflict into dangerous new phase')
-
 - [What we know about the assassination of Hamas political leader Ismail Haniyeh](https://new-news.github.io/Latest/2024/07/31/what-we-know-about-the-assassination-of-hamas-political-leader-ismail-haniyeh 'What we know about the assassination of Hamas political leader Ismail Haniyeh')
 
 - [Let them eat lobster! France spent over $500,000 on a state dinner for King Charles](https://new-news.github.io/Latest/2024/07/31/let-them-eat-lobster-france-spent-over-500-000-on-a-state-dinner-for-king-charles 'Let them eat lobster! France spent over $500,000 on a state dinner for King Charles')
@@ -37,8 +39,6 @@
 - [Delta CEO lashes out at CrowdStrike: This cost us $500 million and they offered us nothing](https://new-news.github.io/Latest/2024/07/31/delta-ceo-lashes-out-at-crowdstrike-this-cost-us-500-million-and-they-offered-us-nothing 'Delta CEO lashes out at CrowdStrike: This cost us $500 million and they offered us nothing')
 
 - [Kathie Lee Gifford hospitalized after fracturing her pelvis](https://new-news.github.io/Latest/2024/07/31/kathie-lee-gifford-hospitalized-after-fracturing-her-pelvis 'Kathie Lee Gifford hospitalized after fracturing her pelvis')
-
-- [Iran has no good options after two deadly strikes on senior allies](https://new-news.github.io/Latest/2024/07/31/iran-has-no-good-options-after-two-deadly-strikes-on-senior-allies 'Iran has no good options after two deadly strikes on senior allies')
 
 - [Russia launches one of war’s biggest drone attacks on Ukraine](https://new-news.github.io/Latest/2024/07/31/russia-launches-one-of-wars-biggest-drone-attacks-on-ukraine 'Russia launches one of war’s biggest drone attacks on Ukraine')
 
