@@ -1,6 +1,6 @@
 # A major change is coming to Taco Bell drive-thrus
 
-Published :`2024-07-31 15:15:55`
+Published :`2024-07-31 15:36:42`
 
 ---
 

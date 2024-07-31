@@ -1,6 +1,6 @@
 # Senate passes legislation aimed at protecting minors online
 
-Published :`2024-07-31 15:15:57`
+Published :`2024-07-31 15:36:45`
 
 ---
 

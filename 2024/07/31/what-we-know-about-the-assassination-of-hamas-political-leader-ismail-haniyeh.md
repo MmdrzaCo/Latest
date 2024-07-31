@@ -1,6 +1,6 @@
 # What we know about the assassination of Hamas political leader Ismail Haniyeh
 
-Published :`2024-07-31 15:15:55`
+Published :`2024-07-31 15:36:42`
 
 ---
 
@@ -16,9 +16,11 @@ Here’s what we know so far.
 
 Haniyeh had been in Tehran for the inauguration of Iranian President Masoud Pezeshkian, and was staying in a residence for veterans in the north of the city, state-affiliated news outlet Fars reported.
 
-At around 2 a.m. local time, an “airborne guided projectile” targeted where Haniyeh was staying, according to Iranian state-run outlet IRNA which said his bodyguard was also killed.
+Haniyeh was hit directly by a rocket in the room in which he was staying, Hamas spokesperson and deputy head Khalil Al-Hayya said at a news conference in Tehran. He said Israel would “pay the price” for the “heinous crime.”
 
-IRNA said further investigations are underway to determine the details of the operation and the position from where the projectile was fired.
+Earlier, Iranian state media IRNA reported that an “airborne guided projectile” had targeted the building at around 2 a.m. local time.
+
+IRNA said Haniyeh’s bodyguard was also killed, and that further investigations are underway to determine the details of the operation and the position from where the projectile was fired.
 
 Shortly afterward, Hamas decried what it called a “Zionist strike” and a “grave escalation” in its decades long conflict with Israel.
 
