@@ -1,12 +1,14 @@
 # Police search for suspect and motive after man killed in Philadelphia mosque parking lot while walking to prayer service
 
-Published :`2024-07-31 21:15:18`
+Published :`2024-07-31 21:36:05`
 
 ---
 
 Authorities are searching for a suspect who they say fatally shot a 43-year-old man in an “execution-type homicide” in the parking lot of a Philadelphia mosque as he was walking to a prayer service Tuesday.
 
-Investigators believe the victim was the “intended target” of the shooting, but a motive wasn’t immediately clear, city police Chief Inspector Scott Small said. Police have been speaking with at least one witness to the shooting, he said.
+Philadelphia police on Wednesday identified the victim as Raheem Jefferson and told CNN the investigation is “very active” and in its early stages, adding no arrests have been made in connection with the attack.
+
+Investigators believe Jefferson was the “intended target” of the shooting, but a motive wasn’t immediately clear, city police Chief Inspector Scott Small said Tuesday. Police have been speaking with at least one witness to the shooting, he said.
 
 Philadelphia police responded to several 911 calls reporting gunshots just before 5 p.m., Small said. Officers found the victim unresponsive in the parking lot of Al-Aqsa Islamic Society with gunshot wounds, including at least one to his head and more than one to his torso, Small said.
 
@@ -43,6 +45,8 @@ US Sen. Bob Casey of Pennsylvania said his office is “tracking the shooting.�
 “Everyone should be able to practice their faith in a safe environment. I have reached out to local law enforcement to offer support and hope they can investigate this tragic death quickly,” Casey posted on social media.
 
 State Rep. Chris Rabb, who represents part of Philadelphia County, also extended his “deepest condolences” on the mosque’s Facebook page.
+
+CNN’s Sarah Dewberry contributed to this report.
 
 ---
 

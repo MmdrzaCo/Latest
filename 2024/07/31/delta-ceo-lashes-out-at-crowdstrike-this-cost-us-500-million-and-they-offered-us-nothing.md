@@ -1,6 +1,6 @@
 # Delta CEO lashes out at CrowdStrike: This cost us $500 million and they offered us nothing
 
-Published :`2024-07-31 21:15:18`
+Published :`2024-07-31 21:36:05`
 
 ---
 

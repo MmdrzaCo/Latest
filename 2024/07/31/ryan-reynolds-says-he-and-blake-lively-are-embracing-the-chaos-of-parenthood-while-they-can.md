@@ -1,6 +1,6 @@
 # Ryan Reynolds says he and Blake Lively are embracing the ‘chaos’ of parenthood while they can
 
-Published :`2024-07-31 21:15:18`
+Published :`2024-07-31 21:36:05`
 
 ---
 
