@@ -1,18 +1,18 @@
 # Harris nears vice presidential announcement as her team tests out top contenders
 
-Published :`2024-07-31 02:35:52`
+Published :`2024-07-31 03:16:33`
 
 ---
 
 (CNN) — Kamala Harris is in the thick of choosing a vice presidential running mate, with her campaign eying an announcement in the coming days that would be immediately followed by a joint tour of a series of battleground states beginning next Tuesday.
 
-Harris, abruptly thrust into the role of presidential candidate fewer than 10 days ago, has been studying notebooks filled with information about each of the top vice presidential contenders, has had preliminary conversations with some of those candidates, and has been asking close advisers involved in the process who would make the strongest governing partner for her at the White House, sources familiar with the process said
+Harris, abruptly thrust into the role of presidential candidate fewer than 10 days ago, has been studying notebooks filled with information about each of the top vice presidential contenders, has had preliminary conversations with some of those candidates, and has been asking close advisers involved in the process who would make the strongest governing partner for her at the White House, sources familiar with the process said.
 
 Harris has not yet conducted formal interviews with the top contenders, one source familiar told CNN. That process is expected to begin this week.
 
 Meanwhile, her team – working on an extraordinarily condensed timeline in the aftermath of President Joe Biden abruptly abandoning his reelection campaign just a little over three months out from Election Day – has been swiftly researching and testing out the top candidates, including by studying videos of those being vetted.
 
-Among the top contenders include Pennsylvania Gov. Josh Shapiro, Arizona Sen. Mark Kelly and Minnesota Gov. Tim Walz. North Carolina Gov. Roy Cooper has taken himself out of the running and declined the campaign’s request to be vetted, CNN reported Monday. Transportation Secretary Pete Buttigieg and Kentucky Gov. Andy Beshear are also still in conversation, but people close to the process believe they are not top contenders.
+The top contenders include Pennsylvania Gov. Josh Shapiro, Arizona Sen. Mark Kelly and Minnesota Gov. Tim Walz. North Carolina Gov. Roy Cooper has taken himself out of the running and declined the campaign’s request to be vetted, CNN reported Monday. Transportation Secretary Pete Buttigieg and Kentucky Gov. Andy Beshear are also still in conversation, but people close to the process believe they are not top contenders.
 
 The vice president’s choice will be revealed by Tuesday, when she and her running mate will kick off the battleground state blitz beginning with their first joint rally in Philadelphia, according to a campaign official. The pair will then travel to western Wisconsin, Michigan, North Carolina, Georgia, Arizona and Nevada.
 
