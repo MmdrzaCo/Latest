@@ -1,6 +1,6 @@
 # Kamala Harris has energized Democratic voters. But can she expand the map?
 
-Published :`2024-07-31 00:57:04`
+Published :`2024-07-31 01:43:16`
 
 ---
 
@@ -8,11 +8,11 @@ During the first whirlwind week of her second presidential campaign, Kamala Harr
 
 But the challenge over the next 98 days will be whether she can harness that energy to power electoral victories in both traditional party strongholds and the newer battlegrounds that had appeared to be slipping away under President Joe Biden.
 
-The next test of Harris’ appeal will take place Tuesday in Georgia, where her campaign is hosting an Atlanta rally. The vice president will be joined by Democratic Sens. Raphael Warnock and Jon Ossoff, two-time Democratic gubernatorial candidate Stacey Abrams and other guests. Rappers Megan Thee Stallion and Quavo are set to appear.
+The latest test of Harris’ appeal took place Tuesday in Georgia, where she held a rally in Atlanta with nearly 10,000 attendees, according to her campaign. The vice president was joined by Democratic Sens. Raphael Warnock and Jon Ossoff, two-time Democratic gubernatorial nominee Stacey Abrams and rappers Megan Thee Stallion and Quavo.
+
+“I am very clear: The path to the White House runs right though this state,” Harris told the crowd.
 
 That Harris would make a high-profile visit to Georgia early in her White House bid indicates the renewed push the campaign is making in a state that’s now back in play for Democrats.
-
-“The groundswell of support around the vice president is real and it is meaningful,” Dan Kanninen, Harris’ battleground state director, told reporters Monday. “Our task now is to translate that enthusiasm into action.”
 
 Any Democratic path to victory almost certainly runs through the so-called “Blue Wall” states of Michigan, Wisconsin and Pennsylvania, where polls showed a tied race between former President Donald Trump and his then-Democratic opponent, Biden, for months. But, with Harris now the party’s presumptive nominee, keeping Sun Belt states like Georgia – as well as Arizona, Nevada and North Carolina – competitive could give Democrats much needed breathing room.
 

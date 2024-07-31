@@ -1,6 +1,6 @@
 # To prevent supercharged flu virus, CDC pushes seasonal flu vaccines to farmworkers at risk of coinfection with bird flu
 
-Published :`2024-07-31 00:57:05`
+Published :`2024-07-31 01:43:17`
 
 ---
 
