@@ -1,12 +1,12 @@
 # Who was Ismail Haniyeh, the Hamas political leader killed in Tehran?
 
-Published :`2024-07-31 05:35:45`
+Published :`2024-07-31 06:17:50`
 
 ---
 
 Ismail Haniyeh has been part of Hamas for decades, in recent years running the militant group’s political operations from exile, and emerging as one of its most visible leaders during the war with Israel in Gaza.
 
-Hamas and Iranian state media said Wednesday that the 62-year-old had been killed in the Iranian capital Tehran. Hamas claimed Haniyeh was killed in an Israeli “raid” on his residence, while the Israeli military declined to comment when contacted by CNN.
+Hamas and Iranian state media said Wednesday that the 62-year-old had been killed in the Iranian capital Tehran. Hamas claimed Haniyeh was killed in an Israeli “strike” on his residence, while the Israeli military declined to comment when contacted by CNN.
 
 Haniyeh’s death strikes a significant blow to Hamas at a time when tensions are flaring across the Middle East over the devastating war in Gaza, and raises fraught questions about the future of negotiations between Israel and Hamas.
 

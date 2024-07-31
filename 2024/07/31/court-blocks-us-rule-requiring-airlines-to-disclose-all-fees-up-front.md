@@ -1,6 +1,6 @@
 # Court blocks US rule requiring airlines to disclose all fees up front
 
-Published :`2024-07-31 05:35:48`
+Published :`2024-07-31 06:17:59`
 
 ---
 
