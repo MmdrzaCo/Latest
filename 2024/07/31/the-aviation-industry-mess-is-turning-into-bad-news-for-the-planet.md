@@ -1,6 +1,6 @@
 # The aviation industry mess is turning into bad news for the planet
 
-Published :`2024-07-31 11:12:33`
+Published :`2024-07-31 11:37:02`
 
 ---
 

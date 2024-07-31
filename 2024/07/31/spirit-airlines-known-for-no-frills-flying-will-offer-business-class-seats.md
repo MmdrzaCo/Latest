@@ -1,6 +1,6 @@
 # Spirit Airlines, known for no-frills flying, will offer business-class seats
 
-Published :`2024-07-31 11:12:30`
+Published :`2024-07-31 11:36:57`
 
 ---
 
