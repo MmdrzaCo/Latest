@@ -1,6 +1,6 @@
 # New News Grabber 
 
-#### Latest Update : `2024-07-31 08:18:11`
+#### Latest Update : `2024-07-31 08:35:55`
 
 ## Latest News Grabbing 
 
@@ -8,13 +8,13 @@
 
 - [What we know about the assassination of Hamas political leader Ismail Haniyeh](https://new-news.github.io/Latest/2024/07/31/what-we-know-about-the-assassination-of-hamas-political-leader-ismail-haniyeh 'What we know about the assassination of Hamas political leader Ismail Haniyeh')
 
+- [Who was Ismail Haniyeh, the Hamas political leader killed in Tehran?](https://new-news.github.io/Latest/2024/07/31/who-was-ismail-haniyeh-the-hamas-political-leader-killed-in-tehran 'Who was Ismail Haniyeh, the Hamas political leader killed in Tehran?')
+
 - [Hamas political leader Haniyeh’s assassination deepens fears of an all-out war in the Middle East](https://new-news.github.io/Latest/2024/07/31/hamas-political-leader-haniyehs-assassination-deepens-fears-of-an-all-out-war-in-the-middle-east 'Hamas political leader Haniyeh’s assassination deepens fears of an all-out war in the Middle East')
 
 - [San Francisco will enforce penalties to clear homeless encampments as advocates criticize lack of resources, shelter space](https://new-news.github.io/Latest/2024/07/31/san-francisco-will-enforce-penalties-to-clear-homeless-encampments-as-advocates-criticize-lack-of-resources-shelter-space 'San Francisco will enforce penalties to clear homeless encampments as advocates criticize lack of resources, shelter space')
 
 - [Police search for suspect and motive after man killed in Philadelphia mosque parking lot while walking to prayer service](https://new-news.github.io/Latest/2024/07/31/police-search-for-suspect-and-motive-after-man-killed-in-philadelphia-mosque-parking-lot-while-walking-to-prayer-service 'Police search for suspect and motive after man killed in Philadelphia mosque parking lot while walking to prayer service')
-
-- [Who was Ismail Haniyeh, the Hamas political leader killed in Tehran?](https://new-news.github.io/Latest/2024/07/31/who-was-ismail-haniyeh-the-hamas-political-leader-killed-in-tehran 'Who was Ismail Haniyeh, the Hamas political leader killed in Tehran?')
 
 - [A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know](https://new-news.github.io/Latest/2024/07/31/a-third-girl-has-died-in-the-uk-after-one-of-the-worst-attacks-on-children-in-decades-heres-what-to-know 'A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know')
 

@@ -1,6 +1,6 @@
 # ‘The destruction is massive’: Khan Younis residents return to rubble after Israeli military withdraws
 
-Published :`2024-07-31 08:18:09`
+Published :`2024-07-31 08:35:55`
 
 ---
 

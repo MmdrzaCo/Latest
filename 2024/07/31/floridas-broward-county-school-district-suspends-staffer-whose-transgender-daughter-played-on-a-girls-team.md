@@ -1,6 +1,6 @@
 # Florida’s Broward County school district suspends staffer whose transgender daughter played on a girls’ team
 
-Published :`2024-07-31 08:18:01`
+Published :`2024-07-31 08:35:54`
 
 ---
 
