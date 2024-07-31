@@ -1,6 +1,6 @@
 # Police search for suspect and motive after man killed in Philadelphia mosque parking lot while walking to prayer service
 
-Published :`2024-07-31 07:12:37`
+Published :`2024-07-31 07:36:40`
 
 ---
 
@@ -14,7 +14,7 @@ Philadelphia police responded to several 911 calls reporting gunshots just befor
 
 The man was pronounced dead at Temple University Hospital at 5:13 p.m., police said in a release.
 
-The suspect, described as a male wearing dark-colored clothes, was seen fleeing on fled foot and getting into a dark-colored sedan, Small said.
+The suspect, described as a male wearing dark-colored clothes, was seen fleeing on foot and getting into a dark-colored sedan, Small said.
 
 The incident was captured on numerous private surveillance cameras, according to police, with at least one camera capturing the entire incident, the chief inspector said.
 
@@ -32,7 +32,7 @@ At least 17 shots were fired from a large caliber semi-automatic weapon, Small s
 
 Ashraf Abdelrazek told CNN affiliate KYW that he was inside the mosque when the shooting happened. Abdulrazek ran to the management office to ask someone to call 911 after a mosque employee alerted him about the shooting, he said.
 
-“Maybe I’ll be the one instead of him, when I came to pray, maybe I’ll lose my life like him like that,” Abdelrazek said. “I just see like someone lose his life in one second.”
+“Maybe I’ll be the one instead of him, when I came to pray, maybe I’ll lose my life like him like that,” Abdelrazek said. “I just see like someone lose his life in one second.”
 
 Authorities are urging the public to contact them with any tips about the incident and are offering a $20,000 reward for information that leads to an arrest and conviction.
 
