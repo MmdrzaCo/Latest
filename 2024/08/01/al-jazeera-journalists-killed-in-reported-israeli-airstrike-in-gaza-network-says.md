@@ -1,6 +1,6 @@
 # Al Jazeera journalists killed in reported Israeli airstrike in Gaza, network says
 
-Published :`2024-08-01 18:57:54`
+Published :`2024-08-01 19:11:44`
 
 ---
 
@@ -16,9 +16,23 @@ The teenager had been riding his orange bicycle to deliver food for an elderly r
 
 Al Jazeera condemned what it claimed was the “targeted assassination” of its journalists by Israeli forces, claiming the attack was “part of a systematic targeting campaign against the network’s journalists and their families since October 2023.”
 
-CNN has asked the Israel Defense Forces for comment.
+In a statement to CNN Thursday, the Israel Defense Forces (IDF) and Israeli Security Agency alleged Al-Ghoul was a member of Hamas’ military wing and had “participated” in the attack on Israel on October 7.
 
-The network’s managing editor, Mohamed Moawad, said in a post on X that Al-Ghoul was “renowned for his professionalism and dedication, bringing the world’s attention to the suffering and atrocities committed in Gaza… Without Ismail, the world would not have seen the devastating images of these massacres.”
+The IDF alleged that “as part of his role in the military wing, Al-Ghoul instructed other operatives on how to record operations and was actively involved in recording and publicizing attacks against IDF troops. His activities in the field were a vital part of Hamas’ military activity.”
+
+The IDF did not allege that Al-Ghoul had a direct combat role in its statement to CNN, nor did it address the killing of his colleague Rami al Rifi in the same strike.
+
+The Al Jazeera bureau chief for Israel and Palestine, Walid Al Omari, said Thursday the claim Al-Ghoul was a member of Hamas’ military wing was “completely false.”
+
+Al Omari said that Israeli forces “had previously arrested (Al-Ghoul) in Al-Shifa Hospital in Gaza when they invaded it in mid-March. They detained him for twelve hours, then released him unconditionally.”
+
+“If their claim were true, would they have released him? It is clear that the occupation authorities are trying to justify their crime by claiming that he was one of the elite and participated in the October 7 attack.”
+
+The IDF has said previously that they had no record of detaining Al-Ghoul.
+
+### ‘Without Ismail, the world would not have seen’
+
+Al Jazeera’s managing editor, Mohamed Moawad, said in a post on X that Al-Ghoul was “renowned for his professionalism and dedication, bringing the world’s attention to the suffering and atrocities committed in Gaza… Without Ismail, the world would not have seen the devastating images of these massacres.”
 
 More than nine months of Israel’s bombing campaign has shredded the besieged enclave, erased entire neighborhoods and deepened a humanitarian crisis. Palestinian reporters have become the eyes and ears of those suffering under the shadow of war. Both Israel and Egypt, which control Gaza’s borders, have so far refused to give international journalists unfettered access to the strip, saying that they cannot guarantee their safety.
 

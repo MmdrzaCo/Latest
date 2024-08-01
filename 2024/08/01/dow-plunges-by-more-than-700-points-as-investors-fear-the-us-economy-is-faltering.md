@@ -1,6 +1,6 @@
 # Dow plunges by more than 700 points as investors fear the US economy is faltering
 
-Published :`2024-08-01 18:57:54`
+Published :`2024-08-01 19:11:45`
 
 ---
 

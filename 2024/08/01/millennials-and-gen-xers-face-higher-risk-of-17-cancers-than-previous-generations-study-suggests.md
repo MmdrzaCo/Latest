@@ -1,6 +1,6 @@
 # Millennials and Gen Xers face higher risk of 17 cancers than previous generations, study suggests
 
-Published :`2024-08-01 18:57:55`
+Published :`2024-08-01 19:11:47`
 
 ---
 
